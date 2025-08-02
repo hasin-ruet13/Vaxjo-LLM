@@ -1,0 +1,666 @@
+Title: Rational Vaccinology: Harnessing Nanoscale Chemical
+Design for Cancer Immunotherapy
+
+Cancer immunotherapy trains
+the immune system to seek and destroy
+cancer cells with high specificity, in stark contrast to traditional
+approaches that aim to “cut, poison, and burn” tumors.1 Indeed, conventional methods, including surgery,
+chemotherapy, and radiation, are fraught with drawbacks. Serious side
+effects often arise from insufficient tumor targeting, and in addition,
+the dynamic nature of tumor development often inhibits efficacy.2 For example, drug resistance and off-target effects
+limit the action of chemotherapeutics,3 and localized treatments (e.g., in situ lesion
+treatment, surgical resection, and radiation) cannot generally be
+used to control tumor metastasis.4 Thus,
+cancer immunotherapies represent an important paradigm shift in cancer
+treatment because these methods mobilize the immune system to seek
+and destroy existing cancer cells at both primary and distal sites
+and, in some cases, induce strong, protective immune responses to
+prevent future tumorigenesis.5
+
+The
+concept of deploying the patient’s own immune system
+to fight cancer dates back to at least the 19th century and has relied
+on the administration of “non-self” biomaterials to
+activate immune cells to attack tumors. In the 1890s, Dr. William
+Coley reported instances of cancer remission following intratumoral
+injections of deactivated bacterial mixtures, known as “Coley’s
+toxins”.6 Coley’s toxins
+consisted of a mixture of proteins, carbohydrates, nucleic acids,
+and lipids from different bacteria. These mixtures stimulated the
+innate immune system and were “designed” to give patients
+severe fevers and simultaneously shrink their tumors. Over the following
+century of research, it was determined that the tumors were not eliminated
+by the “toxins” but rather killed by immune cells that
+they had activated. Indeed, a fundamental principle of modern cancer
+immunotherapy involves activating antigen-presenting cells (APCs),
+including dendritic cells (DCs), macrophages, and B cells, and training
+them to attack tumors through innate and adaptive immune responses.
+The innate immune system is formed during prenatal development7 and immediately responds to pathogen invasion,
+whereas the adaptive immune system develops during early childhood
+as the body continues to encounter novel pathogens8 and respond to specific antigens. Nevertheless, while the
+relationship between innate and adaptive immunity is complex,9,10 both rely on the activation of APCs.
+
+The delivery of both
+adjuvant, which stimulates the immune system,
+and antigen, which enables a targeted immune response, to APCs is
+necessary for maximal immune activation (Figure 1).11 Adjuvants
+include pathogen-associated molecular patterns (PAMPs), characteristic
+molecular features recognized as foreign; and damage-associated molecular
+patterns (DAMPs), molecular features released from cells that are
+stressed or damaged.12 These adjuvants
+bind to pattern recognition receptors (PRRs) within APCs.13,14 Upon activation, APCs secrete proinflammatory cytokines and interferons
+to mount an innate immune response. APCs are also involved in the
+initiation of an adaptive immune response: they take in antigens (usually
+foreign proteins) and process them into shorter peptides. Antigen
+peptides with specific immunogenic sequences (e.g., tumor-associated
+or tumor-specific), are then presented on the surface of the APCs
+by the major histocompatibility complex (MHC) as an MHC-peptide complex.15,16 After APC maturation, the MHC–peptide complex then binds
+to a T cell, B cell, or other receptors (Figure 1, Signal 1).17 APC maturation, caused by adjuvant-activating PRRs, also leads to
+the upregulation of costimulatory markers that bind to the corresponding
+costimulation receptors on T cells (Figure 1, Signal 2).18 In addition, as the immune response is triggered, APCs secrete various
+cytokines that bind to cytokine receptors on T cells (Figure 1, Signal 3).19 In this way, mature APCs train cytotoxic T cells (also
+known as killer T cells) to rapidly multiply and destroy cancer cells
+that express the same antigens. Maximal T cell activation and proliferation
+require the engagement of a combination of these three signals initiated
+by APCs, suggesting the importance of delivering both adjuvants and
+antigens to these cells.20
+
+General mechanism of
+immune response induced by an immunostimulatory
+spherical nucleic acid (SNA). Antigens and adjuvants delivered by
+an SNA vaccine are taken up by antigen-presenting cells (APCs), and
+APCs undergo maturation. The mature APC produces three signals to
+activate naïve T cells against cancer cells. Signal 1: Antigens
+presented by major histocompatibility complexes (MHCs) on the APC
+surface bind to the T cell receptor (TCR). Signal 2: Costimulatory
+molecules bind to T cells. Signal 3: Cytokines are released from APCs
+and bind to T cells. These activated T cells undergo proliferation
+and attach to cancer cells to achieve tumor killing. Note that this
+type of SNA has been used as a model system to introduce and comprehensively
+develop the concept of rational vaccinology.
+
+The choice of both adjuvant and antigen is important for vaccine
+design, in general, and cancer vaccine design, in particular. With
+respect to adjuvant selection, the most commonly employed DAMPs are
+aluminum salts (alum).21 Some of the most
+widely used PAMPs are unmethylated DNA strands containing multiple
+cytosine-guanine repeats (CpG)22 and bacterial
+polysaccharides.23 The most common antigens
+are immunogenic peptides (vide supra), although tumor-associated
+carbohydrate antigens (TACAs) are becoming increasingly utilized in
+the design of cancer vaccines24 as aberrant
+glycosylation is a hallmark of many cancers.25
+
+Vaccine development has evolved significantly from when antigen
+and adjuvant materials were simply mixed and coadministered as a bolus
+injection. In the case of cancer vaccines, their composition has changed
+over time as immunologists have gained mechanistic insights into the
+immune cascade and have identified new targets and ligands that activate
+immune cells against cancer. Among the various formulations, antigenic
+protein and adjuvant nucleic acid systems are a widely explored combination,26−28 and the identification and isolation of the most immunogenic portions
+of these have allowed for the development of vaccines with higher
+drug-to-carrier ratios that elicit fewer nonspecific immune responses
+than those containing larger proteins and nucleic acids.29,30 Due to advances in solid-phase chemical synthesis,31,32 peptides and oligonucleotides can now be precisely synthesized in
+large quantities. In addition, overall vaccine efficacy can be enhanced
+when nanomaterials are used to deliver immunotherapeutic agents.33,34 The incorporation of adjuvants and antigens into a nanoparticle
+platform protects them from premature biodegradation and increases
+adjuvant/antigen codelivery to particular immune cells, thus reducing
+systemic toxicity and enhancing the targeted immune response.26 The application of chemical design and nanoscience
+principles to cancer immunotherapy has led to the rapid clinical development
+of many nanoscale vaccines.33,35
+
+Indeed, scientific
+and technological advances that span multiple
+disciplines have paved the way for the development of next-generation
+nanoscale cancer vaccines. Nanoscale structural, chemical, and compositional
+design allows researchers to systematically synthesize cancer immunotherapeutics
+that impart high protective immunity with limited off-target effects;
+this systematic development process is termed “rational vaccinology”.36 A wide range of nanoparticles have been used
+as carriers for antigens and adjuvants,37 and the effects of nanoparticle size, shape, and charge on biodistribution
+and cellular uptake have been investigated.38,39 These studies have illuminated the fact that the precise spatiotemporal
+control of the codelivery of antigens and adjuvants is critical to
+successfully mobilizing the immune system against a desired target.40 With new immunotherapeutic agents being continuously
+developed, it is crucial for biologists and immunologists to engage
+with chemists, materials scientists, and engineers in the collaborative,
+coordinated development of universal methods to engineer potent immunotherapies.
+The relative importance of each new parameter in a library of general
+synthetic design rules can be evaluated by engineers and data scientists
+using analytical high-throughput screening techniques and machine
+learning tools. In this Outlook, we present recent advances in vaccine
+design via rational vaccinology and discuss how transdisciplinary
+research is necessary to prepare novel vaccines in this context, primarily
+demonstrated by spherical nucleic acids (SNAs) as a model system.
+
+Innate immunity is categorized by the rapid response of certain
+classes of immune cells upon the detection of danger signals.41 These responses are triggered by the activation
+of PRRs,42,43 which include toll-like receptors (TLRs),
+C-type lectins (CLRs), retinoic acid inducible gene-I (RIG-I), nucleotide-binding
+oligomerization domain (NOD)-like receptors (NLRs), and cytosolic
+nucleic acid receptors.44 Among the various
+PRRs, TLRs were the first to be identified, and their importance in
+innate immune response was recognized by the 2011 Nobel Prize in Physiology
+and Medicine.45 As such, TLRs are one of
+the most widely studied and utilized PRRs for innate immune activation.46 Adjuvants function as danger signals to induce
+an innate immune response. Upon activation of TLRs by adjuvants, APCs
+express costimulatory markers (Signal 2) and secrete cytokines (Signal
+3) that are required for T cell activation (see Figure 1). Many TLRs are located in the endosome
+(TLR3, TLR7/8, and TLR9) and are activated by nucleic acid (double-stranded
+RNA, single-stranded RNA, and single-stranded DNA, respectively) or
+small molecule adjuvants. Endosomal TLR activation triggers strong
+immune responses,47 and since many nanoparticles
+enter cells via endocytosis, delivering immunogenic
+nucleic acids using nanoparticles has become a popular and successful
+strategy.37,48
+
+It has been shown that systems in
+which nucleic acid adjuvants
+are delivered to cells by nanoparticles significantly outperform those
+where the fully soluble, linear nucleic acids are administered.49 Nanoparticles deliver multiple copies of nucleic
+acids to the endosomes at once, due to their multivalent structure.50 This results in a high accumulation of nucleic
+acids in the endosome, thus promoting receptor clustering and inducing
+strong immune signaling.51 The innate immune
+response is affected by the structure, conjugation chemistry, and
+ligand composition of a nanovaccine (Figure 2A), and here, we primarily use spherical
+nucleic acid nanostructures as a model system to illustrate this point
+with other systems also being briefly discussed.
+
+Examples of nanovaccine
+design parameters. (A) Innate immune responses,
+dictated by adjuvant processing, can be tuned by nanovaccine structure
+(encapsulated or surface-presented), ligand anchoring chemistry, and
+composition and identity of the pattern recognition receptor (PRR)
+ligand(s). (B) Adaptive immune responses, dictated by antigen processing,
+can be tuned by nanovaccine structure (encapsulated or surface-presented),
+chemistry linking the antigen to the nanovaccine, and the composition
+and identity of the antigen(s). SNAs are used as a model vaccine to
+illustrate these dependencies.
+
+When designing nanoconstructs
+for the delivery of adjuvants to stimulate TLRs and an innate immune
+response, a key consideration is the way in which the TLR agonists
+are presented within the nanoscale structure (Figure 2, top left). Nucleic acid adjuvants can be
+encapsulated in the core of nanoparticles to prevent their premature
+degradation by nucleases, but nuclease stability can also be improved
+when oligonucleotide TLR agonists are densely functionalized on the
+surface of nanoparticles in a radial orientation in the SNA form.52,53 When oligonucleotides are presented on the surface of liposomal
+SNAs (LSNAs, SNAs with liposomal cores), a significantly enhanced
+immune response is observed compared to when the oligonucleotides
+are encapsulated inside the LSNA (on a per oligonucleotide basis).49,54 This effect can be attributed to two factors: (i) SNAs are rapidly
+taken up by APCs through receptor-mediated endocytosis, and (ii) the
+presentation of oligonucleotides on the surface of SNAs provides better
+accessibility of the adjuvants to the TLRs inside the endosomes.48
+
+In addition, the conjugation density of
+the surface-presented adjuvant on the nanoparticle impacts immunostimulation.
+For example, SNAs with higher CpG loading densities show stronger
+immunostimulatory activities.55 Moreover,
+smaller SNAs, which have higher surface curvatures and higher loading
+densities per unit area, induce stronger specific immune responses
+and minimize unintended cytokine production.56 Higher loading densities induce stronger multivalent binding to
+the receptors, and the surface curvature of the construct core can
+affect the endosomal organization, which in turn affects the downstream
+immune response.57 Likewise, when various
+hydrophilic and hydrophobic linkers were used to graft TLR7/8 small-molecule
+ligands onto a polymer scaffold, it was revealed that increasing the
+conjugation density improved immunogenicity.58−60 The immune
+responses have also been toggled by size and architecture (coil vs
+micelle vs submicron particle) with the same conjugate components.61 Together, these studies indicate that the structural
+location and density of the adjuvant, as well as the size and shape
+of the overall nanoconstruct, impact the magnitude of the innate immune
+response.
+
+It is also possible to form nanostructures composed
+solely of adjuvant.
+For example, CpG DNA has been used to synthesize structures called
+“nanoflowers”, providing a versatile platform for delivering
+immunotherapeutic agents. These CpG nanoflowers were formed via rolling circle replication (RCR), which can be utilized
+to produce multiple copies of a single circular CpG DNA template.62 The size of the poly-CpG nanostructure can be
+controlled by tuning the RCR reaction time63 or by incorporating positively charged, PEG-grafted polypeptides
+that condense the negatively charged nanostructures based on electrostatic
+interactions.64 ,65 Other self-assembled multivalent
+CpG DNA nanostructures, such as DNA origami,66 tetrahedrons,67 dendrimers,68 polypods,69 and centipedes,70 can be taken up by cells to significantly impact
+cytokine secretion; however, more meticulous designs and complex syntheses
+may be required to successfully incorporate additional payloads (e.g.,
+antigens) without disrupting the structural features that make them
+useful.
+
+The chemical properties
+of TLR agonist-based nanoconstructs, especially those that affect
+stability, impact immunostimulation and are thus another critical
+design parameter. DNA is typically hydrophilic, but when it is conjugated
+to a lipophilic moiety at a terminus, an amphiphilic bioconjugate
+results, which can be inserted into the bilayer membrane of a liposome
+(Figure 2, middle left).
+For example, a range of lipophilic moieties can be conjugated to DNA
+for synthesizing classes of LSNAs with different stabilities. In initial
+efforts, LSNAs were synthesized using tocopherol-functionalized DNA.71 Then, cholesterol-functionalized DNA was used
+as a building block because it is easier to synthesize and purify.
+Later, a diacyl lipid was conjugated to DNA to further improve the
+anchoring stability of the strand within the LSNA core.72 More stable SNA structures facilitated multivalent
+binding to receptors and thus induced a faster and stronger immune
+response. LSNAs formed with diacyl lipid-functionalized CpG DNA exhibited
+enhanced serum stability, higher cellular uptake, and stronger immunostimulation
+compared to LSNAs synthesized with cholesterol-modified CpG DNA.72 In this case, higher serum stability is also
+likely to lead to more extensive serum protein corona formation, which
+can enhance receptor-specific endocytosis.73,74 In addition, liposomal core stability also affects overall SNA stability,
+where more stable core formulations (i.e., lipids of higher phase
+transition temperature) lead to more robust immunostimulation and
+higher antitumor efficacy.75 Taken together,
+these results suggest that the conjugation chemistry used to attach
+CpG DNA adjuvants to liposomes, as well as the lipid chemistry, can
+be used to modulate immunostimulation. These works represent a small
+sampling of the ways in which chemistry can be employed to modulate
+the stability of adjuvant incorporation into nanoconstructs, and many
+other schemes exist that could be explored to further probe the relationship
+between nanoconstruct chemistry and immune activation.
+
+Nanoconstruct design
+allows for multiple classes of adjuvants to be codelivered to APCs
+on a single structure and, moreover, for the ratio of the individual
+adjuvants on the structures to be tuned (Figure 2, bottom left). These features are important
+because different CpG DNA sequences, even if they both target TLR9,
+likely do not activate the innate immune system in the same way.76,77 For example, synergistic immune activation was achieved with SNAs
+by employing a combination of class A and class B CpG DNA, which stimulates
+different components of the innate immune system. Enhanced activation
+was achieved when both classes of CpG were combined on the same SNA
+with controlled stoichiometry.78 Such “sequence
+multiplicity” promotes the activation of both early and late
+endosomal TLR9 during intracellular trafficking, unlike the single-component
+class A or B CpG SNA structures, which only briefly activate TLR9
+in one of the stages. By analyzing the intracellular trafficking kinetics
+of each SNA component, the sequence stoichiometry was modulated to
+achieve potent activation. In this example, the proportion of each
+class of CpG on the SNAs correlated with the amount of time for which
+they remained in each activating organelle (i.e., early or late endosomes).
+
+It can also be advantageous to codeliver multiple PRR ligands to
+enable parallel signaling, especially if these ligands coactivate
+pathways that require different adaptor proteins without interference.
+Although both TLR3 and TLR9 can trigger the production of nuclear
+factor kappa-B (NF-κB) and inflammatory cytokines, TLR3 activation
+signals interferon regulatory transcription factor 3 (IRF3), which
+produces interferon (IFN)-β, while TLR9 activation signals IRF7,
+which leads to the secretion of IFN-α; IFN-α and IFN-β
+are necessary for the maintenance of memory T cells (long-lived, antigen-specific
+T cells).79 Interestingly, IFN-α
+has also been shown to upregulate TLR3 expression.80 The coadministration of CpG DNA that activates TLR9 and
+polyinosinic–polycytidylic acid [poly(I:C)], a synthetic double-stranded
+RNA analogue that activates TLR3, has been shown to lead to synergistic
+immune activation in a variety of cell lines and animal models.81−85 Targeted codelivery is enhanced, and immune activation is prolonged
+and strengthened when nanoscale vaccines containing two components
+are delivered compared to that when single-component nanomaterials
+are used.86−88
+
+In summary, the structural arrangement, conjugation
+chemistry,
+and composition of PRR agonists in nanovaccine constructs like SNAs
+play important roles in stimulating the innate immune system. Immune
+responses induced by nanovaccines can be modulated by understanding
+how structural arrangement affects agonist binding to PRRs, how stability
+affects PRR binding efficiency, and how composition, especially of
+multiple components, enables synergistic activation. With such knowledge
+in hand, future directions involve rationally designing and exploring
+structures and conjugation chemistries in the context of multiadjuvant
+systems.
+
+Antigens are biomolecules that can be used to train
+the adaptive
+immune system to target and eliminate cancer cells, making them critically
+important for antitumor activity and vaccine function. Typically,
+antigens are peptides or proteins, and they fall into two categories
+in the context of tumor immunotherapy: (i) antigens that are highly
+overexpressed on tumor cells but that are also expressed to a lesser
+degree on healthy cells (tumor-associated antigens) or (ii) antigens
+that are expressed only on specific tumor cells (tumor-specific or
+neoantigens).89 In order for the adaptive
+immune response to be triggered, antigens must be delivered to activated
+APCs in high concentrations. Once engulfed by an APC, the antigen
+gets processed and presented on either the MHC-I, activating cytotoxic
+CD8+ T cells, or MHC-II, which activates helper CD4+ T and B cells
+(Signal 1) (Figures 1 and 3A).90 T cell
+activation has historically been of particular interest because of
+its central role in the adaptive immune response,91,92 although there are a variety of other immune cells and processes
+in play (e.g., B cell activation).93 Regardless
+of identity, peptide and protein antigens are often poorly immunogenic
+when administered on their own because they are rapidly degraded by
+proteases and cleared from the body.94 In
+addition, both antigen presentation and costimulatory molecule expression
+are required for T cell activation (Figure 3A), and the timing and duration of these
+processes play important roles in promoting T cell activation and
+avoiding T cell anergy (where T cells become inactivated following
+prior stimulation).95 Thus, nanoscale delivery
+systems have been explored for the inclusion of antigens.96,97
+
+Synchronizing
+the kinetics of antigen and adjuvant processing improves
+the antitumor immune response. (A) Schematic illustration of the intracellular
+trafficking of a nanoscale vaccine following cellular uptake that
+is required for the presentation of signaling molecules (ER = endoplasmic
+reticulum). (B) The nanoscale architecture of vaccine components affects
+the kinetics of signaling molecule presentation. The antitumor immune
+response correlates with kinetics, as illustrated by the corresponding
+(C) tumor growth curve and (D) survival analysis, with synchronized
+signaling molecule presentations leading to the most effective antitumor
+response (modified from ref (36)).
+
+Researchers have primarily focused
+on developing nanoscale cancer
+vaccines that incorporate MHC-I antigens to elicit CD8+ T cell responses,
+which underpin the adaptive cellular immune response.98 However, the development of vaccines that elicit both cellular
+and humoral responses could also be bolstered. Multiple examples of
+nanovaccines targeting helper CD4+ T cell and B cell activation, central
+to humoral responses, exist. However, fewer CD4+ T cell- and B cell-based
+peptide epitopes have been discovered as compared to CD8+ T cell-based
+epitopes, presenting an important current challenge for biologists
+and immunologists. The treatment efficiency of B cell-based vaccines
+relies on their ability to elicit the expression of neutralizing antibodies
+against peptide epitopes.99 These epitopes
+might not be recognizable by CD8+ T cells to induce robust, specific
+antitumor immune responses because they are typically processed and
+presented via the MHC-II pathway. However, there
+is evidence indicating that introducing both T and B cell epitopes
+in vaccines can elicit highly focused antibody responses against tumor-specific
+antigens.100 Thus, inducing both CD8+ and
+CD4+ T cell responses by incorporating multiple tumor-associated peptide
+antigens in SNA structures could have great potential to stimulate
+both cellular and humoral antitumor immune responses.
+
+The structure,
+chemistry, and composition of the antigens should
+be carefully considered when designing nanovaccines that trigger a
+robust adaptive immune response (Figure 2B).
+
+The
+physical arrangement
+of antigens within nanoscale vaccines (Figure 2, top right) strongly influences antigen
+delivery and overall vaccine immunogenicity and performance. For instance,
+a recently developed antiviral SNA encapsulating antigen [the receptor
+binding domain (RBD) of the full spike protein] against SARS-CoV-2
+was found to robustly activate naïve B cells in human
+peripheral blood mononuclear cells compared to the simple mixture
+due to the novel multivalent three-dimensional architecture of the
+SNA and the ability to optimally present both adjuvant and antigen.101 Another strategy involves presenting the antigen
+on the nanovaccine surface. This structural arrangement has been found
+to be highly immunogenic because the multivalent display of peptide
+epitopes on a nanoparticle surface mimics the multivalent display
+of protein antigens on viral surfaces.102 In the case of the SNA model system, the structural arrangement
+of antigens was found to have a profound impact on vaccine performance.36,103 A series of LSNAs were synthesized, containing the same number of
+CpG DNA and peptide antigens per construct but with the peptide in
+different structural arrangements (Figure 3). In these vaccines, the antigen was either
+encapsulated in the liposome core (SNA-E), anchored onto the surface
+in the same manner as the CpG DNA (SNA-A), or presented on the outermost
+surface through conjugation to a complementary DNA sequence that was
+hybridized to the surface-bound CpG DNA (SNA-H) (Figure 3B). The kinetics of antigen
+presentation and immunostimulation by adjuvant (as measured by costimulatory
+marker expression) were elucidated, and it was found that both signals
+were best synchronized when SNA-H was used. Of these three structures,
+SNA-H elicited the most potent antitumor immune response (Figure 3C) and drastically
+extended animal survival (Figure 3D).
+
+This study illustrates a key aspect of rational
+vaccinology—that it is the structural arrangement of the vaccine
+components, not the identities of the components alone, that dictates
+overall vaccine efficacy. Rational vaccinology suggests that adjuvant
+nucleic acid sequences or therapeutic antigen peptides that have failed
+out of clinical trials may demonstrate increased potency when incorporated
+into a nanoscale vaccine structure. This was found to be true in the
+case of SNAs, where prostate-specific membrane antigen, which failed
+to achieve clinically desirable efficacy on its own, was found to
+achieve substantially improved immunogenicity when incorporated into
+SNA form.104 In a unique example of antigen-only
+vaccine design, strong immune responses were observed when ovalbumin
+(OVA) peptide antigens were assembled into nanofibers with surfaces
+that displayed the epitope.105
+
+An
+alternative strategy to surface presentation is to physically
+encapsulate antigens in liposomes because chemical conjugation is
+not required, and the hollow core can be utilized;106 however, the encapsulation efficiency and nanoparticle
+stability may limit the overall efficacy of structures prepared using
+this approach. It can be difficult to control how much cargo is encapsulated
+and how quickly it is released from the nanoparticle core.107 Strategies that involve tailoring the chemistry
+of the core structures (liposome108 or
+multilamellar vesicles109) to tune their
+stability and antigen release have been devised to overcome these
+issues. In the latter example, OVA was used as a prototypical antigen
+and encapsulated in multilamellar vesicles, where an inter-bilayer
+cross-linker was used to stabilize the construct until exposure to
+lipases in the endolysosome.
+
+It is
+important to note
+that, when peptide structure is altered, peptide presentation and
+immunogenicity may be impacted;110 how
+the antigens are chemically conjugated to the nanovaccine, and their
+chemical form when they are released, can significantly affect downstream
+processing. Thus, the design and synthesis of the antigenic components
+on nanoscale vaccines should be carefully considered (Figure 2, middle right). For instance,
+the chemical conjugation method utilized to link the peptide antigens
+to the complementary DNA sequences hybridized to the surface-bound
+DNA in SNA-H (see Figure 3B) has a dramatic impact on antigen processing and downstream
+T cell response, in terms of both activation and proliferation.111 In this system, the use of a “traceless”
+linker resulted in the cleavage and release of the peptide antigen
+from the SNA scaffold in an unmodified form (i.e., with no added chemical
+moieties), while a “cleavable but nontraceless” linker
+resulted in the release of a peptide with a pendant group and a “noncleavable”
+linker control did not foster cleavage and release. The use of the
+traceless linker led to up to an 8-fold improvement in T cell proliferation
+compared to when SNAs with the other two types of linkers were used.
+Higher levels of cytokine and T cell activation were also observed
+with the traceless SNA formulations. Furthermore, these traceless
+linkers were designed with different cleavage rates to fine-tune the
+antigen release rates and therefore control antigen presentation kinetics.112
+
+In another study, the processing and
+presentation of OVA peptides chemically conjugated to polymeric nanoparticles
+revealed that the use of reducible linkages led to higher antigen
+presentation and enhanced vaccine performance relative to when nonreducible
+linkages were used. These results suggest that the use of nonreducible
+linkages may interfere with antigen presentation and downstream activation.113
+
+A potent nanoscale vaccine also was prepared
+that was composed
+of high-density lipoprotein-mimicking nanodiscs conjugated to antigen
+peptides through a reducible linker.114 Specifically, the OVA-derived peptide epitope SIINFEKL was covalently
+conjugated to the nanodiscs through a disulfide linker as well as
+electrostatically complexed with CpG DNA adjuvant. Improved codelivery
+of adjuvant and antigen to lymph nodes and sustained antigen presentation
+on dendritic cells was observed compared to their soluble counterparts.
+Similarly, experiments involving polymeric nanoparticles containing
+OVA protein functionalized via disulfide groups and
+electrostatically complexed CpG DNA show that OVA conjugation to the
+nanoparticle significantly increases antigen presentation relative
+to simple vaccine mixtures.115
+
+The composition and identity
+of antigens within nanoscale vaccines can be tailored to elicit the
+antigen-specific immune response that induces tumor killing (Figure 2, bottom right).
+Furthermore, multiple classes of peptide antigens can be delivered via the same nanoparticle to enhance the antitumor immune
+response.116 Cancer vaccines that target
+multiple tumor antigens have the potential to more efficiently target
+the tumor cells by the simultaneous recognition of multiple antigens.
+For this reason, it may be beneficial to deliver a combination of
+different antigens in a single construct.117 In a recent example, mesoporous silica microrod vaccines combined
+with poly(ethylenimine) were synthesized to contain peptide antigen
+pools from melanoma and colorectal carcinoma.110 The resulting structures elicited broad immune responses
+and decreased tumor escape.
+
+Alternatively, proteins isolated
+from tumor cells, called lysates, can be utilized as the antigen source
+in nanoscale vaccines. The use of lysates can address the shortcomings
+of some peptide-based vaccines, including immune evasion caused by
+tumor mutation and low antigen presentation on the tumor cell surface.118−120 The immune system was potently activated against tumors when protein
+lysates from melanoma cells were encapsulated in porous polymeric
+scaffolds together with TLR agonists and chemokines (a cytokine subclass)
+to recruit APCs to the infection site.121 However, it is important to note that the manner in which lysates
+are isolated and prepared can have a dramatic impact on immunogenicity
+and vaccine potency.122 This feature may
+be attributed to the types of danger signals produced by tumor cells
+when subjected to different processing methods123 as well as the production of different antigens based on
+processing methods.124 Indeed, it was discovered
+that, for liposomal SNAs with encapsulated tumor cell lysates, lysates
+that were oxidized via exposure to hypochlorous acid
+were significantly more immunogenic than lysates that had not been
+oxidized.125 This enhanced immunogenicity
+is thought to be due to chemical and structural changes to the lysate
+antigen that occur upon oxidation, changing how it is recognized and
+processed within immune system pathways.126
+
+These examples highlight that the structural arrangements,
+conjugation
+and modification chemistry, and composition of antigens in nanoconstructs
+play important roles in stimulating the adaptive immune system. When
+these parameters are changed, so too are antigen processing and presentation
+kinetics and efficiency. Future directions involve the design of novel
+structural arrangements or combinations of multiple arrangements that
+allow one to tune the antigen presentation kinetics or prolong antigen
+presentation time. New chemical modifications of antigens for more
+efficient antigen processing may also be desirable. In addition, other
+molecular compositions that support immune function, beyond adjuvants
+and antigens, should be considered for integration into future nanoscale
+vaccines. Indeed, checkpoint inhibitor therapy has become a standard
+combination therapy for a broad spectrum of cancer types.127−129 In checkpoint inhibitor therapy, monoclonal antibodies are administered
+to block regulatory checkpoint receptors that prevent tumoricidal
+immune function, and such types of antibodies can be incorporated
+into SNAs via the protein corona.74 Cytokines have also been incorporated in vaccine designs
+as potential adjuvants. For example, the cytokine interleukin 2 (IL-2)
+was explored in a combination therapy due to its ability to regulate
+T cell and natural killer cell responses.130 Furthermore, chemokines, such as granulocyte-macrophage colony-stimulating
+factor, that draw immune cells to tumor sites have also been investigated
+as vaccine components due to their ability to regulate dendritic cell
+development and subsequent T cell activation through the management
+of costimulatory factors. However, it remains a challenge to determine
+the ideal dose for optimal immune activation, and this issue has hindered
+clinical translation.131 These aspects
+may benefit from high-throughput screening techniques.
+
+As presented
+above, there are many design parameters related to
+the chemistry and structures of nanomedicines that can affect immune
+response and efficacy. With such a vast design space, it is challenging
+to directly evaluate combinations of effects by picking and choosing
+parameters from across different nanoparticle systems.132 However, researchers can take advantage of
+high-throughput screening techniques to probe the combinatorial design
+space, and this is one area where it is important for chemists and
+materials scientists to interface with computational chemists and
+data scientists. Self-assembled monolayers for matrix-assisted laser
+desorption/ionization (SAMDI) mass spectrometry is a useful tool in
+this context.133,134 SAMDI uses a high-throughput
+mass spectrometry plate that is coated with a self-assembled monolayer
+presenting a moiety to selectively capture analytes and then quantify
+the analyte concentration. In a pilot study, high-throughput screening
+with SAMDI was used to test the design space of a library of 960 SNAs
+where 11 independently controlled properties of the nanoparticle core,
+antigen, and adjuvant were varied, and their effects on immune activation
+were studied.135 After treating cells with
+SNAs, SAMDI was used to measure cytokine production and secreted alkaline
+phosphatase present in the cell culture supernatant, indicating the
+level of immune activation (Figure 4A).136 The data were analyzed
+using statistical models to identify leading effectors and nonlinear
+mixed effects between different parameters. It was found that conjugation
+chemistry has an exceptionally strong effect on immune activation—this
+and other findings from this study were used to establish design rules
+for achieving maximally potent SNAs.135 Given the vast multidimensional space, these data only represent
+a small subset of the samples that can be produced. However, the data
+can be used for supervised machine learning via structure–activity
+relationship analysis to predict the performance of untested variants
+with high statistical confidence (Figure 4B).135 With new
+antigens being identified and new material structures being designed,
+such a process will facilitate a rapid understanding of the structure–activity
+relationships of nanomedicines without the need to test the entire
+library of possible designs. Indeed, when the data from these libraries
+were used to train the model, it was found that only a small subset
+of structures (16%) was needed to accurately make predictions. The
+results of these studies can be used to identify the properties (or
+nonobvious or nonlinear combinations of properties) that are most
+important for maximizing immune activation in high throughput, guiding
+future studies toward the properties that have the greatest impact
+on performance.
+
+Scalable rational vaccinology enabled by high-throughput
+screening
+and data science. (A) Schematic illustration of the high-throughput
+screening of nanoscale vaccines by SAMDI. (B) High-throughput screening
+data can be processed using supervised machine learning and can predict
+quantitative structure–activity relationships with high accuracy
+(modified from ref (135)).
+
+Although some vaccine design parameters
+(e.g., size and concentration)
+can be regarded as continuous variables in the context of data science
+and machine learning, most of the design parameters presented herein
+(e.g., structure, chemistry, and composition) are non-numerical and
+therefore discrete in nature. It may be challenging to use traditional
+supervised machine learning to predict the design space because these
+discrete parameters are difficult to directly incorporate into regression
+models. Therefore, deep learning techniques may be needed to obtain
+the quantitative structure–activity relationship for new nanoscale
+vaccine designs and predict their potential effects on efficacy. These
+findings and models should also be combined with clinical pharmacology
+to predict clinical performance and perform clinical trials most efficiently,
+bringing clinicians into the fold. An in vitro–in vivo performance correlation is important, but a valid in vitro–clinical performance correlation is arguably more important.
+Therefore, it is crucial to establish a set of quantitatively stable
+design rules for nanoscale vaccines, perhaps by also incorporating
+patient conditions as parameters to produce personalized nanomedicines
+that could work most effectively for an individual. It is important
+to note that data mining techniques to search for similar sequences
+and predict their therapeutic efficacy in nanoscale vaccine designs
+have the potential to substantially improve vaccine development.
+
+In summary, the importance of rational
+vaccinology in SNA vaccine
+development, and cancer vaccine development more broadly, is clear:
+besides the identity of individual vaccine components, how and when
+they are presented in the delivery system are also critically important
+for immunotherapeutic efficacy. Even if the components are carefully
+discovered for specific targets, the incorrect structural arrangement
+of these components may lead to inferior performance. Therefore, experts
+from a range of disciplines are needed to fully realize the potential
+of rational vaccinology-based approaches to immunotherapy. Biologists
+and immunologists are needed to elucidate the signaling pathways and
+identify new immunotherapeutic agents. Chemists can design and synthesize
+chemical modifications of immunotherapeutic agents and develop novel
+conjugation chemistries. Materials scientists can design nanomaterials
+with properties that are more favorable for immunotherapeutic efficacy.
+Engineers can identify novel structural and compositional design spaces
+for incorporating various immunotherapeutic agents into the nanoscale
+vaccine systems. Finally, data scientists can analyze the design space
+and identify key parameters for rational vaccine designs and guide
+researchers in other fields. Researchers with backgrounds that are
+traditionally unrelated to immunotherapy can widely contribute their
+expertise toward advances in rational vaccinology at the nanoscale.
+This collaborative approach to rational vaccinology recently culminated
+in human clinical trials in which CpG adjuvant-carrying TLR9-agonistic
+SNAs were administered to patients alone and in combination with immune
+checkpoint inhibitors (NCT03086278; NCT03684785).137,138 This SNA drug shrunk tumor targets in 37% of patients with a confirmed
+overall response rate of 33% at the highest selected Phase 2 dose
+for Merkel cell carcinoma (MCC).49
+
+Moving forward, chemists and other researchers should continue
+to use rational vaccinology to elucidate the fundamental principles
+necessary for the development of cancer vaccines that are both highly
+immunogenic and highly tolerable. This effort will be enabled by the
+advanced understanding of how structure impacts function [e.g., targeting
+(or multitargeting) to and retention in specific cell types or subcellular
+spaces, temporal control, stability and component release, delivery
+of large materials, prodrug behavior, and toxicity] and how the arrangement
+of vaccine components can be tuned at the nanoscale to afford various
+maximal immune responses. With design rules established and key design
+parameters identified, scientists can significantly broaden the impact
+of immunotherapies by taking advantage of tools from chemistry, biology,
+materials science, engineering, and data science to find the formulations
+of the most potent immunotherapeutics. This knowledge, along with
+the toolkit developed to date in the context of SNAs and other materials,
+will allow for the rapid design, synthesis, testing, and deployment
+of nanovaccines against diverse cancer types and the application of
+the lessons learned to the treatment of novel bacterial and viral
+pathogens and autoimmune and other diseases. Indeed, of the infinite
+number of nanostructures that can be prepared, we can use the prototypical
+SNA system as a guide, and chemical knowledge described herein can
+be used to build other structures if a similar structure-focused protocol
+is adopted. In fact, if one follows this supposition to a logical
+end point, one concludes that the ultimate vaccine structures will
+be modular, nanoscale in size, and molecularly pure where the position
+and connectivity of every atom has been optimized for signaling control
+and therapeutic efficacy. This is where molecularly precise entities
+like peptide-functionalized dendrimers may play a significant role.139,140

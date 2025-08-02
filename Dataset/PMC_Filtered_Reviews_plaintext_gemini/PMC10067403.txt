@@ -1,0 +1,372 @@
+Title: Critical evaluation on roles of macrophagic myofasciitis and aluminum adjuvants in HPV vaccine–induced adverse events
+
+aluminum
+
+autoimmune/autoinflammatory syndrome induced by adjuvants
+
+central nervous system
+
+diphtheria, pertussis, tetanus
+
+hepatitis B virus
+
+Haemophilus influenzae type b
+
+human papillomavirus
+
+inducible nitric oxide synthase
+
+Ministry of Health, Labor, and Welfare
+
+macrophagic myofasciitis
+
+3‐O‐desacyl‐4'‐monophosphoryl lipid A
+
+multiple sclerosis
+
+phosphate‐buffered saline
+
+systemic lupus erythematosus
+
+tetanus toxoid
+
+World Health Organization, Global Advisory Committee on Vaccine Safety
+
+Cervical cancer is the fourth leading cause of cancer‐related deaths in Japan, resulting in 3000 deaths annually. As sexually transmitted infections of the human papillomavirus (HPV) cause cervical cancer, vaccination against oncogenic HPV has been demonstrated to reduce cancer risk.
+1
+ Currentlly, there are three HPV vaccines available: bivalent Cervarix®, quadrivalent Gardasil®, and Gardasil®9/Silgard®9, a nine‐valent vaccine against nine HPV types, which can prevent 90% of cervical cancer cases (Table 1).
+2
+
+TABLE 1: Three HPV vaccines and their characteristics
+Trade name | Cervarix | Gardasil | Gardasil9/Silgard9
+--------------------------------------------------
+Generic name | Recombinant adsorbed bivalent HPV virus‐like particle vaccine | Recombinant adsorbed quadrivalent HPV virus‐like particle vaccine | Recombinant adsorbed nine‐valent HPV virus‐like particle vaccine
+HPV type | 16, 18 | 6, 11, 16, 18 | 6, 11, 16, 18, 31, 33, 45, 52, 58
+Adjuvant | AS04: Al hydroxide (crystalline) and MPL | Al hydroxyphosphate sulfate (non‐crystalline, amorphous)
+Al amount/injection × total number of doses | 0.5 mg × 2 (9‐14 y of age) 0.5 mg × 3 (15 y of age and older) | 0.225 mg × 2 (9‐14 y of age) 0.225 mg × 3 (15 y of age and older)
+Vaccines containing the same adjuvant | Al hydroxide | Bimmugen (HBV) adsorbed influenza virus vaccine (H5N1) | PedvaxHIB a (Hib) Comvax a (Hib and HBV) Heptavax‐II, Ricombivax HB a (HBV) VAQTA a (HAV)
+MPL | Fendrix a (HBV) Shingrix (VZV)
+Protein expression system | Insect cell (Trichoplusia ni) | Yeast (Saccharomyces cerevisiae)
+Manufacturer | GlaxoSmithKline Biologicals | Merck Sharp and Dohme
+
+Three HPV vaccines and their characteristics
+
+0.225 mg × 2 (9‐14 y of age)
+
+0.225 mg × 3 (15 y of age and older)
+
+PedvaxHIB
+a
+ (Hib)
+
+Comvax
+a
+ (Hib and HBV)
+
+Heptavax‐II, Ricombivax HB
+a
+ (HBV)
+
+VAQTA
+a
+ (HAV)
+
+Fendrix
+a
+ (HBV)
+
+Shingrix (VZV)
+
+Abbreviations: Al, aluminum; HAV, hepatitis A virus; HBV, hepatitis B virus; Hib; Haemophilus influenzae type b; HPV, human papillomavirus; MPL, 3‐O‐desacyl‐4′‐monophosphoryl lipid A; VZV, varicella‐zoster virus.
+
+These vaccines are not available in Japan.
+
+In Japan, the Ministry of Health, Labor, and Welfare (MHLW) launched the HPV vaccination campaign using Cervarix and Gardasil for females 12‐16 years of age in April 2013.
+3
+, 
+4
+ In June 2013, however, the MHLW suspended the proactive recommendations for HPV vaccination due to public concerns about potential adverse events following the HPV vaccinations.
+5
+ Since then, the HPV vaccination rate in Japan has remained below 1% of the eligible population.
+6
+ In April 2022, the MHLW resumed the proactive recommendation of HPV vaccination after 9 years of suspension.
+
+The public concerns about HPV vaccinations were based on the alleged cases of HPV‐vaccinated females who had developed neuropsychological symptoms or “diverse symptoms,” such as chronic pain, movement disorders, and cognitive impairment. The concerns have been reinforced by the media coverage of the past
+7
+ and ongoing HPV vaccine lawsuits, in which the plaintiffs submitted the document. The document
+8
+ listed several publications (see Table 2) on the pathogenicity of HPV vaccines that have been used as scientific evidence to support the causative roles of HPV vaccines for plaintiffs' “diverse symptoms.”
+9
+, 
+10
+, 
+11
+, 
+12
+, 
+13
+, 
+14
+, 
+15
+, 
+16
+, 
+17
+, 
+18
+
+TABLE 2: Scientific evaluation of hypotheses/alleged pathogenic findings in HPV vaccines
+Hypothesis | References | Lawsuit ref no.
+a | Alleged findings | Scientific evaluation
+--------------------------------------------------
+I. Molecular mimicry between HPV and human proteins | Kanduc, J Exp Ther Oncol, 2009, 9 Kanduc, Int J Med Sci, 2009 10 | 46, 47 | Molecular mimicry between HPV and host proteins by database analyses | Flawed methodology yields “partial” molecular mimicry between HPV and host proteins 19
+II. Al‐adjuvant–induced MMF and CNS damage | Gherardi, Authier et al., Brain, 2001 11 | 54 | MMF | MMF pathology induces/triggers clinical symptoms | MMF is vaccination scar, not cause of clinical symptoms
+Authier et al., Brain, 2001 12 | 55 | MMF pathology induces/triggers CNS inflammation | MMF pathology is the result, not cause of inflammatory diseases seen in MMF cases
+Couette, Authier et al., J Inorg Biochem, 2009 13 | 56 | Cognitive dysfunction in MMF cases | Inappropriate controls; discrepancy between studies
+Shaw and Petrik, J Inorg Biochem, 2009 14 | 58 | CNS damage | Al hydroxide induces motor neuron degeneration in mice | No increase in neuronal death or astrogliosis
+Agmon‐Levein, Shoenfeld et al., J Autoimmun, 2014 15 | 59 | Al hydroxide induces autoimmune and CNS damage | Flaws in methods; no autoimmunity by adjuvant alone
+III. Gardasil‐induced CNS disease in mice b | Aratani, Nakajima et al., Sci Rep, 2016, 16 Inbar, Shoenfeld et al., Immunol Res, 2017 17 | 60, 61 | Gardasil induces immune‐mediated CNS disease in experimental mice | Flaws in the methods, results, and discussion 19
+
+Scientific evaluation of hypotheses/alleged pathogenic findings in HPV vaccines
+
+Abbreviations: Al, aluminum; CNS, central nervous system; HPV, human papillomavirus; MMF, macrophagic myofasciitis.
+
+Reference number in the document
+8
+ of HPV vaccine lawsuits.
+
+Aratani's paper was retracted by the journal Sci Rep.
+16
+ Inbar's paper was initially accepted but retracted by the journal Vaccine.
+18
+
+The manuscripts that the attorneys' group has used as evidence in the document can be categorized into the following three findings/hypotheses (Table 2). Hypothesis I: Molecular mimicry between HPV L1 protein contained in vaccines and human proteins results in the production of cross‐reactive antibodies that attack host organs. Hypothesis II: Aluminum (Al) adjuvants contained in HPV vaccines cause two pathologies: (1) an immune‐mediated disease called macrophagic myofasciitis (MMF) and (2) damage in the central nervous system (CNS). Hypothesis III: Gardasil injection induces CNS damage in experimental mice. As experts in HPV pathogenesis and neuroimmunology, we have scientifically evaluated four manuscripts based on hypotheses I and III, previously.
+19
+ Briefly, we refuted the two manuscripts
+9
+, 
+10
+ based on hypothesis I, as they had flaws in the methods; the authors used only the portions of the entire epitope sequences to compare the similarities between epitope sequences of HPV and human proteins. In these manuscripts, the authors used the term, molecular mimicry, inappropriately; it should be called “partial” molecular mimicry, which will not confer the production of cross‐reactive antibodies. We also refuted the two manuscripts based on hypothesis III, as they had flaws in the methods, results, and discussion.
+16
+, 
+17
+, 
+18
+
+In the current manuscript, we evaluate five manuscripts based on hypothesis II. First, in Section 2, we compare and contrast two Al adjuvants contained in HPV vaccines and list other vaccines containing the same Al adjuvants. Next, in Section 3, we discuss whether MMF is a systemic disease caused by Al‐hydroxide adjuvants. We summarize two pieces of experimental evidence refuting MMF hypothesis and critically evaluate the MMF manuscripts used in the lawsuits. We conclude that MMF is a physiological reaction or the result of bystander activation following vaccination, not the cause of a systemic disease. Then, in Section 4, we refute two manuscripts on Al‐adjuvant–induced CNS damage in experimental animals, as the manuscripts had flaws in the methods, results, and discussion. Although anti‐vaccine activists and vaccine‐related lawsuits have used hypothesis II as their theoretical basis, our evaluation would help readers understand the validity of the findings described in manuscripts based on hypothesis II.
+
+Vaccines are classified into live‐attenuated, inactivated, and subunit vaccines; subunit vaccines contain only portions of pathogens as antigens.
+20
+ Inactivated and subunit vaccines often contain adjuvants to enhance immunogenicity.
+21
+, 
+22
+ Major adjuvants included in vaccines clinically available in humans are Al salts. Al salts can be divided into two types coined commercially as “Al‐hydroxide” and “Al‐phosphate,” which are chemically crystalline Al‐oxyhydroxide and amorphous Al‐hydroxyphosphate, respectively.
+23
+ The Al‐hydroxide adjuvants are prepared by mixing a solution of Al salts with sodium hydroxide. The Al‐phosphate adjuvants are prepared by mixing Al salts with a basic solution of trisodium phosphate, or by mixing Al salts with a phosphate solution, followed by precipitation with sodium hydroxide. Al salts used in the preparation of both Al‐hydroxide and Al‐phosphate adjuvants are usually Al‐chloride or Al‐potassium sulfate.
+24
+
+HPV vaccines contain different types of adjuvants (Table 1). Cervarix contains AS04 [Al‐hydroxide and monophosphoryl lipid A (MPL)]; Gardasil and Gardasil9 contain Al‐hydroxyphosphate sulfate that is prepared with Al‐potassium sulfate and is chemically similar to Al‐phosphate.
+25
+ In Japan, Al‐containing adjuvants have been commonly used as components of vaccines (Table 3). For example, Al‐hydroxide is a component of hepatitis B virus (HBV) (Bimmugen®) and influenza virus vaccines; Al‐hydroxyphosphate sulfate is a component of HBV vaccines (Heptavax‐II®). “Diverse symptoms” have not been reported in any vaccines other than HPV vaccines in Japan.
+
+TABLE 3: Adjuvant‐containing vaccines in Japan (from 2008 to present)
+Disease/pathogen | Vaccine | Trade name | Adjuvant | Al amount (/injection) × doses | Manufacturer | Years used
+--------------------------------------------------
+Diphtheria | Diphtheria toxoid | Diphtheria toxoid “BIKEN F" | Al chloride hexahydrate | 0.1 mg × 1 | BIKEN | C/U
+Tetanus | Tetanus toxoid | Tetanus toxoid “BIKEN F" | Al potassium sulfate hydrate | 0.08 mg × 2 | BIKEN | C/U
+Adsorbed tetanus toxoid kit “TAKEDA” | Al salt (details N/D) | 0.1 mg × 2 | TAKEDA | C/U
+Adsorbed tetanus toxoid | “Daiichisankyo” | Al chloride | 0.895 mg × 2 | Daiichi Sankyo | 2020 D/C
+“KMB” | Al chloride | <1.5 mg × 2 | KM biologics | 2020 D/C
+“SEIKEN” | Al chloride hexahydrate | 1.12 mg × 2 | DENKA | C/U
+Diphtheria, tetanus | Diphtheria toxoid, tetanus toxoid | DTBIK | Al chloride hexahydrate | 0.1 mg × 2 | BIKEN | C/U
+Adsorbed diphtheria‐tetanus combined toxoid | “Daiichisankyo” | Al chloride | 0.9 mg × 2 | Daiichi Sankyo | 2020 D/C
+“KMB” | Al chloride | < 1.5 mg × 2 | KM biologics | 2020 D/C
+“SEIKEN” | Al chloride hexahydrate | 1.12 mg × 2 | DENKA | 2010 D/C
+“TAKEDA” | Al salt (details N/D) | 0.25 mg × 2 | TAKEDA | 2020 D/C
+Diphtheria, tetanus, pertussis | Diphtheria toxoid, tetanus toxoid, pertussis antigens | TRIBIK | Al chloride hexahydrate | 0.08 mg × 3 | BIKEN | C/U
+DPT “KMB” | Al chloride | < 1.5 mg × 3 | KM biologics | 2014 D/C
+Adsorbed diphtheria‐purified pertussis‐tetanus combined vaccine | “Daiichisankyo” | Al chloride | 0.9 mg × 3 | Daiichi Sankyo/Kitasato | 2014 D/C
+“TAKEDA” | Al salt (details N/D) | 0.1 mg × 3 | TAKEDA | 2014 D/C
+(−) | Al salt (details N/D) | N/D | DENKA | 2009 D/C
+Diphtheria, tetanus, pertussis, polio | Diphtheria toxoid, tetanus toxoid, pertussis antigens, inactivated poliovirus (Sabin strain) | Quattrovac | Al chloride hexahydrate | 0.1 mg × 3 | KM biologics | C/U
+TETRABIK | Al chloride hexahydrate and Al hydroxide gel | 0.1 mg × 3 | BIKEN | C/U
+Diphtheria toxoid, tetanus toxoid, pertussis antigens, inactivated poliovirus (Salk strain) | Squarekids | Al chloride | 0.9 mg × 3 | Daiichi Sankyo | 2021 D/C
+Hepatitis B | Hepatitis B surface antigens | Bimmugen | Al hydroxide | 0.22 mg × 3 | KM biologics | C/U
+Heptavax‐II | Al hydroxyphosphate sulfate | 0.25 mg × 3 | MSD | C/U
+Streptococcus pneumoniae | Pneumococcal polysaccharide | Prevnar13 (PCV13, 13‐valent) | Al phosphate | 0.125 mg × 3 | Pfizer | C/U
+Prevnar (PCV7, seven‐valent) | Al phosphate | 0.125 mg × 3 | Pfizer | C/U
+Influenza virus | Influenza HA (H5N1) | Adsorbed influenza vaccine (H5N1) | “BIKEN “ | Al hydroxide gel | 0.15 mg × 2 | BIKEN | C/U
+“SEIKEN” | Al hydroxide gel | 0.15 mg × 2 | DENKA | C/U
+“KMB” | Al hydroxide gel | 0.15 mg × 2 | KM biologics | C/U
+“Daiichisankyo” | Al hydroxide gel | 0.15 mg × 2 | Daiichi Sankyo | C/U
+Influenza HA (A/H1N1) | Arepanrix | AS03: squalene, DL‐α‐tocopherol and polysorbate 80 | None | GSK | Used in 2010‐2011
+Celtura | MF59C.1: squalene, polysorbate 80 and sorbitan trioleate | None | Novartis Pharma | Used in 2010‐2011
+Varicella‐zoster virus | Varicella‐zoster virus gE antigens | Shingrix | AS01B: MPL, QS‐21 | None | GSK | C/U
+
+Adjuvant‐containing vaccines in Japan (from 2008 to present)
+
+Prevnar13
+
+(PCV13, 13‐valent)
+
+Prevnar
+
+(PCV7, seven‐valent)
+
+Abbreviations: Al, aluminum; C/U, currently being used as of December 2022; Daiichi Sankyo, Daiichi Sankyo Biotech Co. Ltd.; D/C, production discontinued; DENKA, DENKA Co., Ltd.; gE, glycoprotein E; GSK, GlaxoSmithKline Biologicals; HA, hemagglutinin; MPL, 3‐O‐desacyl‐4′‐monophosphoryl lipid A; MSD, Merck Sharp and Dohme; N/D, not disclosed; QS‐21, acylated 3, 28‐bisdesmodic triterpene glycosides; TAKEDA, Takeda Pharmaceutical Co., Ltd.
+
+In the past two decades, a French research group led by François‐Jérôme Authier and Roman K. Gherardi proposed a new disease entity MMF. In 1998, MMF was first reported as an unusual macrophage infiltration of the subcutaneous tissue, epimysium, perimysium, and perifascicular endomysium with occasional lymphocytes and inconspicuous muscle fiber damage in a retrospective pathology analysis of deltoid‐muscle biopsy samples from 14 patients.
+26
+ As these 14 patients had various clinical symptoms/signs, including myalgia and arthralgia, and muscle weakness, the authors reported MMF as a new type of inflammatory myopathy of unknown origin. The authors linked MMF pathology in the deltoid muscle to systemic clinical signs, proposing the causal relationship with an unknown mechanism. Although this report gave the impression that MMF pathology was observed in all muscles involved in myalgia and weakness, this was not the case. MMF pathology has always been observed only in the deltoid muscle, never in the other muscles. When the biopsies were conducted in any muscles other than the deltoid muscle, MMF pathology was never observed. It should also be noted, in principle, muscle biopsies are carried out only in patients with myopathic symptoms/signs.
+27
+ Thus, all MMF cases should have clinical abnormalities in the muscle; MMF was a retrospective diagnosis of patients having muscle biopsy.
+
+Although vaccinations had not been suspected as a cause of MMF pathology in the first MMF report,
+26
+ subsequent research showed that MMF pathology was observed only in the muscle injected by Al‐hydroxide–adjuvanted vaccines, where Al was detected in macrophages infiltrated in the deltoid muscle. Major clinical symptoms of people with MMF (MMF cases) were diffuse myalgia involving both upper and lower extremities. MMF cases have also been shown to develop systemic symptoms including diffuse joint pain and fatigue,
+11
+ cognitive dysfunction,
+13
+ and CNS diseases that were compatible with Poser's criteria for multiple sclerosis (MS).
+12
+
+It is unknown whether the local histological change induced by Al‐hydroxide in vaccines can cause symptoms systemically or in remote organs. MMF pathology itself did not cause muscle degeneration or dysfunction, as there was no localized unilateral myalgia or weakness in the injected deltoid muscle in any MMF cases. Gherardi and Authier described that, in MMF, myalgia often began in lower limbs and almost never occurred at the site of previous vaccine injection.
+28
+
+The allegation that MMF is a new disease, one of vaccine‐related adverse effects, can undermine confidence in a vaccine and ultimately lead to decreased immunization coverage and increased disease incidence. In 1999, the World Health Organization (WHO) published several concerns as follows
+27
+: (1) There is no information on whether MMF pathology can occur in the normal healthy population after vaccination. (2) A plausible possibility is the existence of a predisposed subset of individuals with impaired ability to clear Al from the deltoid muscle. (3) The increase in the number of MMF cases diagnosed in France may be explained by a change of vaccine administration from the subcutaneous to the intramuscular route. (4) Can MMF be associated only with vaccines containing Al‐hydroxide or also with those containing Al‐phosphate? (5) Deltoid muscle biopsies of MMF cases were performed at the injection site (in general, muscle biopsies are not carried out at the site of the needle tract such as the one caused by electromyography, as the mechanical damage by the needle insertion induces muscle pathology).
+
+To address some of the concerns above, François Verdier's group conducted experiments and demonstrated that the histological change similar to human MMF was induced by Al‐containing vaccines in cynomolgus monkeys (Macaca fasciculata) without causing any clinical signs.
+29
+ The authors aimed to investigate histological changes and the clearance of Al following a single intramuscular injection of diphtheria‐tetanus (DT) vaccines, which were adjuvanted with either Al‐hydroxide or Al‐phosphate. Three months after the vaccine injection, both monkeys injected with Al‐hydroxide or Al‐phosphate DT vaccines had lesions similar to MMF at the injection site of the quadriceps muscle: macrophages aggregated between the muscle fibers, which extended along the fascia accompanied by lymphocyte infiltration. Neither behavioral changes nor any signs of muscle weakness were observed in the vaccinated monkeys. At 6 and 12 months, the MMF‐like changes were observed only in the group injected with the Al‐hydroxide DT vaccine. At 12 months, two of the four monkeys injected with the Al‐hydroxide vaccine had moderate macrophage aggregation. No lesions were observed in the proximal or distal samples of the injected quadriceps (20 mm from the injection site) or in the contralateral muscle. Using the nuclear microprobe analysis to quantify the Al content in the muscle sections, Al was detectable at 3 months in the Al‐phosphate group, and 3 and 6 months in the Al‐hydroxide group; the Al level was under the detection limit for both groups at 12 months. The authors concluded that the MMF‐like change observed in the monkeys was a usual reaction (“vaccine tattoo”) following the intramuscular injection of an Al‐adjuvanted vaccine and that the focal pattern of the change did not support MMF as a disease entity showing a more widespread muscular disease induced by vaccination.
+
+Tetsuo Nakayama's group conducted experiments to show the safety of HPV vaccines.
+30
+ Nakashima's group evaluated six vaccines by injecting them intramuscularly in mice. Among the vaccines, three vaccines, DPT [diphtheria and tetanus toxoids (TT) and acellular pertussis, Kitasato], PCV7 (seven‐valent pneumococcal, Pfizer), and Gardasil, contained Al; Cervarix contained Al and MPL; and Hib (Haemophilus influenzae type b vaccine) and JEV (Japanese encephalitis vaccine) did not contain Al. BALB/c mice received one of the vaccines in the left quadriceps muscle and phosphate‐buffered saline (PBS) in the right quadriceps muscle.
+
+Gardasil and Cervarix induced infiltration of polymorphonuclear cells (PMNs) as early as 3 hours after injection. One month after the vaccine injection, only mice injected with the four Al‐containing vaccines (DPT, PCV7, Gardasil, and Cervarix) had inflammatory cells composed of macrophages in muscle bundle spaces without myocyte degeneration; thus, this muscle pathology was similar to MMF; early PMN infiltration followed by macrophage infiltration at the injection site has been reported in other experimental vaccines.
+31
+ Macrophages in the muscle injected with Gardasil and DPT were positive for inducible nitric oxide synthase (iNOS) and arginase I (Arg1); iNOS and Arg1 have been used as a marker for M1 and M2 macrophages, respectively. On the other hand, macrophages in the Cervarix group were iNOS negative and weakly positive for Arg1, suggesting Cervarix induced a different macrophage subset. Al was detected in the macrophage cytoplasm of the muscle injected with Al‐containing vaccines by lumogallion staining.
+32
+ One year after vaccination, Al‐containing macrophages were detected at the injection site, although the size of the inflammatory area became smaller. Cytokine concentrations in the muscle and sera were examined 3, 6, 24, and 48 hours after the vaccination. Although Cervarix induced higher levels of interleukin (IL)‐1β, IL‐6, and granulocyte colony‐stimulating factor (G‐CSF) on the injected side of the muscle, serum cytokine levels were similar to the other five vaccines; the authors concluded that inflammatory responses were limited to the injection site, not systemic.
+
+In summary, (1) local MMF‐like pathology was induced by not only HPV vaccines but also DPT and PCV7. (2) Gardasil and Cervarix induced different macrophage phenotypes and cytokine productions.
+
+Al‐containing adjuvants are designed to increase antimicrobial antibody production following vaccinations by three potential mechanisms: (1) the depot mechanism, by which adjuvant and adsorbed antigens remain longer at the injection site; (2) phagocytosis of the adjuvant‐adsorbed antigens by antigen‐presenting cells including macrophages/dendritic cells; and (3) stimulation of the innate immune inflammasome pathway.
+21
+ Thus, the accumulation of Al‐phagocytosed macrophages is expected (or even desired) at the vaccination site. In this scenario, microscopic characteristics of MMF can be recognized as a physiological reaction (or scarring = “vaccine tattoo”), but not a pathological reaction, to vaccines containing Al‐hydroxide.
+33
+ It is unknown whether MMF pathology can be detected in all people receiving vaccines as a “vaccine tattoo” (Figure 1),
+34
+ or whether MMF cases have more severe macrophage infiltration than healthy vaccinated individuals without symptoms.
+
+Scientific evaluation of macrophagic myofasciitis (MFF). Some vaccines contain aluminum (Al) hydroxide as an adjuvant, enhancing immune responses to antigens. Following intramuscular vaccination in the deltoid muscle, macrophages phagocytose Al‐adsorbed antigens and present antigens to lymphocytes. (Top) Subsequently, the local inflammation induced by the vaccination is subsided, and macrophages and a few lymphocytes could be seen as scar or a “vaccination tattoo” in the deltoid muscle. (Middle) When autoimmune diseases or microbial infections occur, pro‐inflammatory cytokine levels in sera can be increased, activating pre‐existing infiltrated macrophages in the deltoid muscle in a bystander fashion (“bystander activation”); Al‐containing activated macrophages can be observed as MMF pathology. Here, MMF is the result of systemic inflammation. (Bottom) Authier's group proposed that the vaccination with an Al‐containing vaccine causes pathological inflammation composed of macrophages with Al in the cytoplasm in the deltoid muscle by, as yet, an unknown mechanism. Although MMF pathology is localized at the deltoid, this leads to diffuse myalgia at the upper and lower extremities, and sometimes can cause autoimmune diseases, such as multiple sclerosis by, as yet, an unknown mechanism. Here, MMF is the cause of autoimmune diseases.
+
+On the other hand, an Al‐containing adjuvant has been reported unlikely pathogenic; because of the small amount of Al contained in the vaccine, the in vivo concentration of Al in vaccinated humans did not differ from that in unvaccinated humans.
+35
+ Furthermore, MMF cases have been observed only in France with a few exceptions; MMF cases outside France include congenital myopathy cases
+36
+ and cases unrelated to vaccination.
+37
+, 
+38
+ An analysis conducted in France by researchers independent of Authier's group did not confirm an association between Al‐containing vaccines and muscle pain, chronic fatigue syndrome, or cognitive dysfunction.
+39
+ The WHO Global Advisory Committee on Vaccine Safety (GACVS) states, “From the most recent evidence available, there is no reason to conclude that a health risk exists as a result of administration of Al‐containing vaccines, nor is there any good reason for changing current vaccination practice.”
+40
+ It should be noted that, even if MMF were to exist as a specific disease, MMF has been associated only with vaccines containing Al‐hydroxide (component of Cervarix), but not with vaccines containing Al‐hydroxyphosphate (component of Gardasil).
+41
+
+As we discussed in Sections 3.2 and 3.3, Al‐containing vaccines could induce MMF‐like pathology only at the injection site. Thus, although muscle pathology in systemic muscles involved in myalgia of MMF cases is unknown, it is unlikely MMF pathology. In theory, localized inflammation in the deltoid muscle can be augmented in a bystander fashion (“bystander activation”), when systemic inflammatory diseases or microbial infections induce a large amount of pro‐inflammatory cytokines in sera.
+42
+ Under such systemic inflammatory conditions, MMF pathology could be seen as a result of enhanced “vaccine tattoo,” but not the cause (Figure 1). Bystander activation of macrophages present in the “vaccination tattoo” might explain the higher incidence of immune‐related disorders in MMF cases reported by Authier's group.
+
+Other than the inconclusive pathogenicity of localized MMF in the deltoid muscle, there were several concerns in articles on MMF cases. For example, although Gherardi et al
+11
+ emphasized that all MMF cases received vaccines containing Al‐hydroxide (HBV, hepatitis A virus, and TT), nearly 100% of the 60 million French population have also been vaccinated against TT.
+12
+ The incidences of disease conditions in MMF cases, including MS and cognitive dysfunction, were different among MMF case reports: MS, 0%,
+26
+ 8.7%,
+12
+ and 12%
+11
+; cognitive dysfunction, 0%,
+26
+ 14% (one in seven cases),
+12
+ and 68%.
+13
+ Although Couette et al.
+13
+ compared the levels of cognitive dysfunction between MMF cases (n = 11) versus 11 patients with ankylosing spondylitis (n = 9) or rheumatoid arthritis (n = 2), the pain duration and gender ratio of 11 control patients were not matched with MMF cases. Lastly, although Gherardi et al
+11
+ reported that MMF was experimentally reproduced in rats by injection of Al adjuvant–containing HBV vaccine, this experiment was flawed because (1) pathology was examined during the acute stage, days 7‐28, although MMF cases in humans were chronic: delay from vaccination to biopsy was 3 years (median); (2) the number of rats used was not enough to conclude anything (n = 1 per time point); and (3) the experiment lacked control groups, such as injection of HBV antigen alone with no adjuvant.
+
+The group of Christopher A. Shaw published an article, claiming that Al‐hydroxide injections in experimental mice led to motor deficits and motor neuron degeneration.
+14
+ Here, we evaluated this manuscript as scientifically flawed. In the method section, the authors described that they injected mice with Al‐hydroxide or PBS subcutaneously, and compared the two mouse groups statistically, using ANOVA, instead of Student's t test in all experiments. This is inappropriate; the authors should have conducted the statistical analyses using Student's t test.
+
+Histologically, in the result section, there was no difference in the number of neurons in the cervical and thoracic segments of the spinal cord between the two groups; thus, this data showed no neurotoxicity of Al‐hydroxide. Glial fibrillary acidic protein (GFAP)+ astrocytes were increased in the cervical segment but decreased in the thoracic segments in the Al‐injected group (inconclusive difference in astrogliosis). Although Iba‐1+ microglia were increased in the lumbar segments, no other CNS regions were examined for microgliosis. To examine the damage in neurons, the authors conducted immunohistochemistry using an antibody against phosphorylated tau and showed only one positive neuron in a figure with high magnification of the Al‐injected group without quantification of tau+ neurons. They also did not conduct more appropriate neuropathological methods to visualize neuronal or axonal damage, such as Nissl stain, sliver stain, TUNEL, or neurofilament stain.
+
+Functionally, the authors did not find a difference in motor functions between the two groups by the gold standard method, a rotarod. According to figure legends of the open‐field movement analysis and the water maze analysis, the authors claimed that “there were statistical differences (*** p < 0.001) between the two groups.” However, there was no asterisk (*) in any figures, which made it impossible to know what time point the two groups had the statistical differences in these tests. The two mouse groups had substantial differences in all tests of the open‐field movement scores even at the starting point, suggesting that the two groups had a difference before injection of Al‐hydroxide or PBS. The water maze test used in this article was inappropriate to evaluate learning and memory, as the motor functions of the mice were potentially damaged.
+
+Shaw's group published another article in the Journal of Inorganic Biochemistry in 2017, showing that subcutaneous Al injections activated innate immune genes in the mouse brains.
+43
+ However, readers of the website PubPeer found image alterations in the article; then, the study authors Shaw and Tomljenovic found evidence of Western blot image alterations.
+44
+ Shaw said that “the first author Dan Li had taken original data and can no longer access the original gels.” As the data and results in the article were not reliable, the editor in chief and authors jointly retracted the article. This is the second retraction of the Al‐related articles by Shaw's group. Previously, we have discussed the first retracted article,
+18
+ whose corresponding author was Yehuda Shoenfeld, in detail
+19
+; the journal Vaccine retracted the article at the request of editor in chief after “evaluation by outside experts who confirmed that the methodology is seriously flawed, and the claims that the article makes are unjustified.” Shaw said that the retraction by Vaccine was unjustified and had not been properly explained
+44
+; later, Shaw published the article in the journal Immunologic Research.
+17
+ Furthermore, Shaw's group published two articles, questioning the safety of Al‐adjuvant.
+45
+, 
+46
+ The WHO GACVS reviewed the articles and considered that “these two studies are seriously flawed” methodologically. The GACVS was also concerned that the two articles include “incorrect assumptions about known associations of Al with neurological disease.”
+47
+
+Yehuda Shoenfeld has proposed a syndrome termed “autoimmune/autoinflammatory syndrome induced by adjuvants (ASIA),” in which autoimmune responses are induced by the injection of vaccine adjuvants.
+48
+ Experimentally, Shoenfeld's group reported that administration of HBV vaccine (Engerix‐B) accelerated autoimmune responses in a murine model (NZBWF1 mice) for systemic lupus erythematosus (SLE).
+15
+ This article had several flaws, particularly a high dose of Engerix‐B: 0.4 ml intramuscular injection per mouse; in adult humans, 1.0 ml of Engerix‐B is used for vaccination. In the method section, the authors described that they injected Engerix‐B in NZBWF1 mice, and compared the results with mice receiving PBS (PBS group) or mice receiving 0.2 mg Al‐hydroxide (“alum” group), comparable with the quantity of Al in 0.4 ml of the Engerix‐B. In the result section, however, the term “alum” was used instead of Al‐hydroxide in the “alum” group; alum is Al‐potassium sulfate, whose precipitate is Al‐hydroxyphosphate.
+21
+ Engerix‐B contains Al‐hydroxide; if alum was used in this article, the “alum” group results were not comparable with the Engerix‐B group.
+
+Among eight autoantibody titers examined, the Engerix‐B group had a higher titer only in anti–double‐stranded DNA antibody than the “alum” and PBS groups. The Engerix‐B group had higher levels of urine protein and IgG deposition in the kidney than the other groups. Although the authors also described the presence of HBV antigen in the kidney in the Engerix‐B group, the high autofluorescence of the figures in the PBS group made it impossible to evaluate the presence of HBV antigen in this article. Red blood cell counts were decreased in the Engerix‐B and “alum” groups without information about the experimental time point after injection.
+
+CNS pathology can be accompanied in human SLE (CNS lupus); among murine models of SLE, MRL/lpr mice have been shown to be a useful model of CNS lupus with T‐cell infiltration and IgG deposition in the brain, compared with other SLE model mice (NZMWF1 and NZB mice).
+49
+ Although NZBWF1 mice were not the best model mice of CNS lupus, Shoenfeld's group described that the “alum” group had significantly more anxious behavior than the PBS group, and less depressed behavior than the Engerix‐B group: the PBS group had better memory test results than the other groups. Using immunostaining with antibodies against Iba‐1 and GFAP, the authors showed representative microscopic pictures and described that the PBS group had less activated microglia and astrocytes than the other groups. However, they neither quantified the microglia/astrocytes nor conducted statistical analyses. Furthermore, unlike the authors' description, the figure in the article showed no obvious differences in Iba‐1+ microglia numbers among the groups; the number of GFAP+ astrocytes seemed higher in the PBS group than in the “alum” group. In addition, the authors did not examine T‐cell infiltration or IgG deposition in the brain; they did not conduct appropriate methods to evaluate autoimmune pathology.
+
+Ameratunga et al
+50
+ refuted the existence of ASIA as a disease entity based on the following points: (1) the diagnostic criteria are too broad; ASIA can be diagnosed by the presence of fever, chronic fatigue, and autoimmune disease, even more than 20 years after vaccination; (2) publications on ASIA are exclusively from Shoenfeld's group; (3) in most animal studies, they used inappropriate doses or types of adjuvants, or mice with autoimmune predisposition; (4) no exacerbation of SLE, MS, or diabetes has been observed consistently, following vaccinations; and (5) a nationwide Denmark study
+51
+ demonstrated that allergic rhinitis patients receiving treatment with Al‐containing allergen preparations had a 14% lower incidence of autoimmune diseases, compared with controls. These rhinitis patients received 100‐500 times more Ai injections over 3‐5 years than HBV or HPV vaccinators.
+
+The disease entity of MMF is based on the hypothesis that the clinical symptoms of MMF are induced by injection of a specific adjuvant, that is, Al‐hydroxide. Although there are similarities between symptoms in MMF cases and “diverse symptoms (e.g., chronic pain, movement disorders, cognitive impairment)” following HPV vaccination, the “diverse symptoms” are unlikely induced by adjuvants based on the following two points.
+
+First, one may claim that Al‐hydroxide in Cervarix causes MMF, explaining the “diverse symptoms” and neurological symptoms following HPV vaccination. Although the adjuvant AS04 contained in Cervarix is composed of Al‐hydroxide and MPL, Gardasil contains Al‐hydroxyphosphate sulfate (Table 1).
+21
+, 
+52
+, 
+53
+ Second, another may also argue that Al salts contained in both Cervarix and Gardasil can cause the “diverse symptoms.” As we discussed in Section 2, although most vaccine adjuvants used in Japan were made of Al salts (Table 3), no vaccines other than HPV vaccines have been reported to cause “diverse symptoms” in Japan. Thus, there is no rationale to assume that Cervarix and Gardasil commonly cause clinical “diverse symptoms” by Al salts.
+
+In this manuscript, we scientifically evaluated that all manuscripts on MMF and Al‐adjuvant–induced CNS damage were scientifically flawed. Therefore, we conclud that it is irrational to attribute “diverse symptoms” following HPV vaccination to MMF or Al adjuvants. Hypothesis II, which proposes Al‐adjuvant–induced pathologies, potentially raises concerns about all Al‐containing vaccinations by the general public, leading to decreases in vaccination rates of not only HPV vaccines but also other vaccines. We believe that our evaluation would help readers understand the validity of the findings based on hypothesis II.
+
+Supported by grants from NIH (P30‐GM110703, IT) and JSPS (JP20K07455, IT and JP18H02947, NM).
+
+Approval of the research protocol by an Institutional Reviewer Board: N/A.Informed Consent: N/A.Registry and the Registration No. of the study/trial: N/A.Animal Studies: N/A.
+
+The authors have no conflicts of interest regarding this paper.

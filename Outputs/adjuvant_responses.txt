@@ -1,0 +1,4207 @@
+=== PMC10014862 ===
+No adjuvants mentioned.
+
+=== PMC10048722 ===
+Here is the list of vaccine adjuvants mentioned in the text in JSON format:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Chitosan",
+    "immune_response_mechanism": "Induces the production of cytokines (e.g., TNF-α, IL-1β, IFN-γ, and IL-10) which become a great indicator in the initiation of humoral immunity"
+  },
+  {
+    "adjuvant": "Resiquimod (RC)",
+    "immune_response_mechanism": "Triggers toll-like receptor (TLR) 9 (TLR9) signaling and dendritic cells (DCs)"
+  },
+  {
+    "adjuvant": "Alginate",
+    "immune_response_mechanism": "Preserves antigens in an acidic environment and alters the immunostimulatory characteristics of chitosan and trimethyl chitosan NPs"
+  },
+  {
+    "adjuvant": "β-glucan",
+    "immune_response_mechanism": "Induces trained immunity through various recognition receptors on immune cells"
+  }
+]
+```
+
+=== PMC10059828 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Induces immune response and stimulates antibody production"
+  }
+]
+
+=== PMC10064963 ===
+No adjuvants mentioned.
+
+=== PMC10067403 ===
+Here is the list of vaccine adjuvants extracted from the input text:
+
+```
+[
+  {
+    "adjuvant": "Al hydroxide",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "Al hydroxyphosphate sulfate",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "MPL (3‐O‐desacyl‐4′‐monophosphoryl lipid A)",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "QS‐21",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that AS04, which is mentioned in the text as an adjuvant in Cervarix, is actually composed of Al hydroxide and MPL, so it is not included as a separate entry in the list.
+
+=== PMC10113164 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note: Alum and MPLA are the only adjuvants explicitly mentioned in the text.
+
+=== PMC10185832 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": ""
+  }
+]
+```
+
+However, upon reviewing the text again, it appears that only one adjuvant is explicitly mentioned:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+The other adjuvants mentioned in the text are not explicitly described as adjuvants, but rather as components of vaccines or other immunotherapies.
+
+=== PMC10219147 ===
+No adjuvants mentioned.
+
+=== PMC10228381 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Not explicitly described in the text"
+  },
+  {
+    "adjuvant": "AS01E (3-O-desacylcinomonophosphoryl lipid A)",
+    "immune_response_mechanism": "Not explicitly described in the text"
+  },
+  {
+    "adjuvant": "AS03B (oil-in-water)",
+    "immune_response_mechanism": "Not explicitly described in the text"
+  },
+  {
+    "adjuvant": "VAXFECTIN",
+    "immune_response_mechanism": "Not explicitly described in the text"
+  },
+  {
+    "adjuvant": "ISCOMATRIX",
+    "immune_response_mechanism": "Not explicitly described in the text"
+  },
+  {
+    "adjuvant": "PEG-lipid",
+    "immune_response_mechanism": "Not explicitly described in the text"
+  }
+]
+```
+
+Note that only AS01E, AS03B, VAXFECTIN, ISCOMATRIX, and PEG-lipid are explicitly mentioned as adjuvants in the text. The mechanisms of action for these adjuvants are not explicitly described in the text.
+
+=== PMC10295010 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "Used as an adjuvant in the AN1792 vaccine to activate the immune system"
+  }
+]
+
+=== PMC10303573 ===
+Here is the list of vaccine adjuvants mentioned in the text with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+Note that only one adjuvant, Alum, is explicitly mentioned in the text.
+
+=== PMC10305121 ===
+No adjuvants mentioned.
+
+=== PMC10383774 ===
+Here is the list of vaccine adjuvants mentioned in the text in JSON format:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "Montanide ISA-51",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "GM-CSF",
+    "immune_response_mechanism": "Enhances the immune response"
+  },
+  {
+    "adjuvant": "CpG oligodeoxynucleotides",
+    "immune_response_mechanism": "Enhances cellular immunity"
+  },
+  {
+    "adjuvant": "mHSP110",
+    "immune_response_mechanism": "Enhances immune response"
+  },
+  {
+    "adjuvant": "β-defensin",
+    "immune_response_mechanism": "Enhances immune response"
+  },
+  {
+    "adjuvant": "ATP",
+    "immune_response_mechanism": "Triggers immunological response"
+  },
+  {
+    "adjuvant": "R-DOTAP",
+    "immune_response_mechanism": ""
+  }
+]
+```
+
+Note that some of the adjuvants do not have a specified immune response mechanism mentioned in the text.
+
+=== PMC10385070 ===
+Here is the list of vaccine adjuvants mentioned in the text, along with a brief description of their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPL",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "Triggers the inflammasome in model systems of immunogenicity"
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": "Mediates a local inflammatory response and increases the trafficking of antigens to draining lymph nodes"
+  },
+  {
+    "adjuvant": "AS03",
+    "immune_response_mechanism": "Mediates a local inflammatory response and increases the trafficking of antigens to draining lymph nodes"
+  },
+  {
+    "adjuvant": "CpG 1018",
+    "immune_response_mechanism": "Agonist of Toll-like receptors (TLRs) and helps to shape the immune response towards a Th1-type quality"
+  },
+  {
+    "adjuvant": "Alhydroxiquim-II",
+    "immune_response_mechanism": "Agonist of TLR7/8 and helps to shape the immune response towards a Th1-type quality"
+  },
+  {
+    "adjuvant": "Matrix-M",
+    "immune_response_mechanism": "Pleiotropic modes of action, which tend to augment humoral and cellular immune responses"
+  },
+  {
+    "adjuvant": "Squalene",
+    "immune_response_mechanism": "Mediates a local inflammatory response and increases the trafficking of antigens to draining lymph nodes"
+  },
+  {
+    "adjuvant": "Trehalose dibehenate (TDB)",
+    "immune_response_mechanism": "Ligand of the C-type lectin receptor Mincle"
+  }
+]
+```
+
+=== PMC10458802 ===
+No adjuvants mentioned.
+
+=== PMC10459455 ===
+[
+  {
+    "adjuvant": "Chitosan",
+    "immune_response_mechanism": "Enhances antigen uptake and induces macrophages to secrete inflammatory factors regulating Th1/Th2 balance and tailoring a specific immune response"
+  }
+]
+
+=== PMC10504489 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+
+=== PMC10519952 ===
+No adjuvants mentioned.
+
+=== PMC10538607 ===
+No adjuvants mentioned.
+
+=== PMC10745672 ===
+Here is the list of vaccine adjuvants extracted from the input text in JSON format:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Not explicitly described"
+  }
+]
+```
+
+No adjuvants were explicitly described in the input text.
+
+=== PMC10760363 ===
+Here is the extracted information in the required JSON format:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "ODN-IFA",
+    "immune_response_mechanism": "Not specified"
+  },
+  {
+    "adjuvant": "rGM-CSF",
+    "immune_response_mechanism": "Not specified"
+  }
+]
+```
+
+Note that there is only one adjuvant explicitly mentioned in the text, which is ODN-IFA. The other adjuvants mentioned in the text, such as Alum and MPLA, are not explicitly mentioned as adjuvants in the context of the vaccine studies, but are mentioned as general adjuvants in the text.
+
+=== PMC10764465 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "CpG 1,018",
+    "immune_response_mechanism": "Stimulates innate immunity through TLR9, strongly favors development of the Th1 subset of helper T cells."
+  },
+  {
+    "adjuvant": "CpG 10,101",
+    "immune_response_mechanism": "Dose-dependently increase immune marker activation while simultaneously decreasing HCV RNA levels."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "CpG 1,018",
+    "immune_response_mechanism": "Induces seroprotective titers in all participants with HIV without prior HBV vaccination."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Improves seroresponse."
+  }
+]
+
+Note: Only two adjuvants, Alum and MPLA, have explicit descriptions of their immune response mechanisms. The other adjuvants are mentioned as being investigated or used in various studies, but their immune response mechanisms are not explicitly described.
+
+=== PMC10769466 ===
+Here is the list of vaccine adjuvants extracted from the input text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that only two substances are explicitly described as adjuvants in the input text.
+
+=== PMC10776678 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+=== PMC10790774 ===
+```
+[
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": "Selectively skew antibody effector function both through selective isotype/subclass selection and altered Fc-glycosylation."
+  }
+]
+```
+
+Note that only two adjuvants are explicitly mentioned in the text.
+
+=== PMC10818334 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "Al(OH)3",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "CrPV",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "AddaVax",
+    "immune_response_mechanism": ""
+  }
+]
+```
+
+Note: Only one adjuvant was explicitly described as an adjuvant in the input text. The other adjuvants mentioned, such as Alum, Al(OH)3, MF59, CrPV, and AddaVax, were used as adjuvants in vaccine formulations but were not explicitly described as adjuvants.
+
+=== PMC10819635 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "AS01E",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "Al(OH)3",
+    "immune_response_mechanism": ""
+  }
+]
+```
+
+Note that there is only one adjuvant explicitly mentioned in the text, which is AS01E, used in GSK's RSVpreF3 vaccine. The other adjuvants mentioned, MF59 and Al(OH)3, are used in other vaccine candidates, but not explicitly mentioned as adjuvants in the context of the RSV vaccine development.
+
+=== PMC10899802 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that there is only one adjuvant mentioned by name in the text, aluminum hydroxide (also referred to as "Alum"). The text does not explicitly mention MPLA as an adjuvant, but it does mention that the vaccine currently under development for Lyme disease is "incorporated with a commonly used adjuvant" and that the adjuvant is "aluminum hydroxide (aka, alum)".
+
+=== PMC10968813 ===
+Here is the extracted information in the required format:
+
+```
+[
+  {
+    "adjuvant": "Naltrexone (NTX)",
+    "immune_response_mechanism": "Negates the effects of exogenous opioids through competitive binding with opioid receptors; exhibits strong affinity for µ-opioid receptors in the central nervous system; high affinity, but also partial agonistic activity towards κ receptors in the brain and spinal cord; minor affinity for δ receptors in the spinal cord and peripheral nervous system."
+  },
+  {
+    "adjuvant": "Methylnaltrexone (MNTX)",
+    "immune_response_mechanism": "Peripheral antagonist of opioid receptors; transient blockade of opioid receptors; promotes the release of endogenous opioid peptides through compensatory up-regulation of the OGF–OGFr axis; selective inhibition of growth and proliferation of cancer cells."
+  }
+]
+```
+
+Note that only Naltrexone (NTX) and Methylnaltrexone (MNTX) are explicitly described as vaccine adjuvants in the provided text.
+
+=== PMC10977380 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "IMM-AD04 alum reduces rate of cognitive decline"
+  }
+]
+
+=== PMC10977417 ===
+No adjuvants mentioned.
+
+=== PMC11019575 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "None mentioned"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "None mentioned"
+  }
+]
+```
+
+No adjuvants mentioned.
+
+=== PMC11125608 ===
+No adjuvants mentioned.
+
+=== PMC11125637 ===
+```
+[
+  {
+    "adjuvant": "HSP90",
+    "immune_response_mechanism": "Acts as a molecular chaperone, facilitating protein folding, stabilization, and activation of a wide range of client proteins, and modulates cellular functions such as cytokine secretion, cell maturation, and antigen presentation."
+  }
+]
+```
+
+=== PMC11155708 ===
+```
+[
+  {
+    "adjuvant": "Alum-CpG",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Advax-CpG55.2",
+    "immune_response_mechanism": "Stimulates TLR-9 agonist and stimulates broadly cross-neutralizing antibodies"
+  }
+]
+```
+
+=== PMC11221474 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that there are only two adjuvants explicitly mentioned in the text.
+
+=== PMC11242184 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+However, note that only Alum and MPLA are explicitly mentioned in the text.
+
+=== PMC11315725 ===
+[
+  {
+    "adjuvant": "MPL",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "QS-21xyl",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "QS-21api",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "GPI-0100",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "VSA-1",
+    "immune_response_mechanism": "Potentiates antigen-specific IgG, IgG1, and IgG2a antibody responses."
+  },
+  {
+    "adjuvant": "VSA-2",
+    "immune_response_mechanism": "Potentiates antigen-specific IgG, IgG1, and IgG2a antibody responses."
+  },
+  {
+    "adjuvant": "Matrix-MTM",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": ""
+  }
+]
+
+=== PMC11359700 ===
+Here is the list of vaccine adjuvants extracted from the input text in JSON format:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Creates depots for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Activates TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "GM-CSF",
+    "immune_response_mechanism": "Promotes dendritic cell differentiation and maturation, improving peptide antigen presentation to T cells, and stimulating pro-inflammatory cytokine secretion."
+  },
+  {
+    "adjuvant": "CpG ODNs",
+    "immune_response_mechanism": "Activates dendritic cells and other antigen-presenting cells, leading to the upregulation of costimulatory molecules and pro-inflammatory cytokine secretion."
+  },
+  {
+    "adjuvant": "TLR2/6 agonists",
+    "immune_response_mechanism": "Efficiently taken up by CD1a(+) and CD14(+) dermal DCs, resulting in a higher induction of CD8(+) T-cell responses."
+  }
+]
+```
+
+Note that the text mentions several other adjuvants, including incomplete Freund’s adjuvant (IFA), MF59, and AS04, but does not provide detailed information on their mechanisms of action.
+
+=== PMC11392011 ===
+```
+[
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+=== PMC11392799 ===
+No adjuvants mentioned.
+
+=== PMC11430029 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+
+=== PMC11435826 ===
+No adjuvants mentioned.
+
+=== PMC11437400 ===
+```
+[
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "Not specified"
+  },
+  {
+    "adjuvant": "3-O-deacylated monophosphoryl lipid A",
+    "immune_response_mechanism": "Not specified"
+  },
+  {
+    "adjuvant": "Matrix M-2 (MM)",
+    "immune_response_mechanism": "Not specified"
+  }
+]
+```
+
+=== PMC11481298 ===
+No adjuvants mentioned
+
+=== PMC11494027 ===
+No adjuvants mentioned
+
+=== PMC11532300 ===
+```
+[
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+No adjuvants were explicitly described in the input text.
+
+=== PMC11590659 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Not mentioned in the text"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Not mentioned in the text"
+  }
+]
+```
+
+No adjuvants mentioned.
+
+=== PMC11595984 ===
+No adjuvants mentioned.
+
+=== PMC11598945 ===
+Here are the vaccine adjuvants explicitly described in the text, along with their mechanisms of action:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that there is only two adjuvants explicitly mentioned in the text.
+
+=== PMC11615947 ===
+Here are the vaccine adjuvants explicitly described in the input text, along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Aluminum hydroxide",
+    "immune_response_mechanism": "None specified"
+  }
+]
+```
+
+Note that the text does not explicitly describe the immune response mechanism of aluminum hydroxide, so this field is left empty.
+
+=== PMC11680411 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+
+=== PMC11684802 ===
+No adjuvants mentioned.
+
+=== PMC11719530 ===
+No adjuvants mentioned.
+
+=== PMC11792077 ===
+[
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Robust inducers of anti-heroin antibody titers"
+  }
+]
+
+=== PMC11861685 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+
+=== PMC11876029 ===
+No adjuvants mentioned.
+
+=== PMC11934161 ===
+Here are the vaccine adjuvants extracted from the input text in JSON format:
+
+```
+[
+  {
+    "adjuvant": "Aluminum hydroxide",
+    "immune_response_mechanism": "Enhances the immune response"
+  },
+  {
+    "adjuvant": "QS21",
+    "immune_response_mechanism": "Not specified"
+  }
+]
+```
+
+Note that only two adjuvants were explicitly mentioned in the input text.
+
+=== PMC11988481 ===
+No adjuvants mentioned.
+
+=== PMC12030840 ===
+Here is the list of vaccine adjuvants extracted from the text in JSON format:
+
+```
+[
+  {
+    "adjuvant": "c-di-AMP",
+    "immune_response_mechanism": "Activates STING to promote type-I IFN secretion and innate immunity to infections and cancer."
+  },
+  {
+    "adjuvant": "c-di-GMP",
+    "immune_response_mechanism": "Directly activates STING without cGAS involvement, triggering downstream immune responses."
+  },
+  {
+    "adjuvant": "cGAMP",
+    "immune_response_mechanism": "Sensed by STING, triggers type-I IFN secretion and innate immunity to infections and cancer."
+  },
+  {
+    "adjuvant": "dsDNA",
+    "immune_response_mechanism": "Activates cGAS and subsequently STING, leading to type-I IFN secretion and innate immunity to infections and cancer."
+  },
+  {
+    "adjuvant": "DMXAA",
+    "immune_response_mechanism": "Interacts with STING, triggering type-I IFN secretion and innate immunity to infections and cancer, but may cause acute respiratory distress syndrome."
+  },
+  {
+    "adjuvant": "Astaxanthin (ASTA)",
+    "immune_response_mechanism": "Indirectly activates STING by alleviating lipid peroxidation-derived STING carbonylation, leading to type-I IFN secretion and innate immunity to infections and cancer."
+  },
+  {
+    "adjuvant": "ADU-S100",
+    "immune_response_mechanism": "Binds to both human and murine STING, generating antitumor effects via T-cell response."
+  },
+  {
+    "adjuvant": "MK-1454",
+    "immune_response_mechanism": "Binds to STING, triggering type-I IFN secretion and innate immunity to infections and cancer, but may cause adverse side effects."
+  },
+  {
+    "adjuvant": "diABZI",
+    "immune_response_mechanism": "Directly activates STING, triggering type-I IFN secretion and innate immunity to infections and cancer, but may cause acute respiratory distress syndrome."
+  },
+  {
+    "adjuvant": "CMA",
+    "immune_response_mechanism": "Activates TBK1/IRF3 activity, but does not directly interact with hSTING."
+  },
+  {
+    "
+
+=== PMC12031513 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+Note that there is only one adjuvant mentioned in the text, which is alum. The other substances mentioned, such as ionic liquids, have potential as adjuvants but are not explicitly described as adjuvants in the text.
+
+=== PMC12093340 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+
+=== PMC12094284 ===
+[
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+
+=== PMC12115334 ===
+```
+[
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+No adjuvants mentioned.
+
+=== PMC12123219 ===
+Here is the list of vaccine adjuvants extracted from the input text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+Note that no other vaccine adjuvants were explicitly mentioned in the input text.
+
+=== PMC12133506 ===
+Here are the vaccine adjuvants explicitly described in the input text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+No adjuvants were found other than Alum.
+
+=== PMC12193398 ===
+No adjuvants mentioned.
+
+=== PMC12197412 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+
+=== PMC12203974 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "None mentioned"
+  }
+]
+```
+
+=== PMC4758146 ===
+No adjuvants mentioned.
+
+=== PMC4916179 ===
+No adjuvants mentioned.
+
+=== PMC4922024 ===
+Here is the list of vaccine adjuvants extracted from the text along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Forms antigen depots at the injection site, from where antigen is gradually released to allow prolonged interaction of the antigen with the immune cells and therefore causing the induction of sustained antigen-specific B- and T-cell responses."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome to induce IL-1β and IL-18 production."
+  }
+]
+```
+
+=== PMC4929720 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "QS21",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+
+=== PMC4931635 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "3-acyl lipid A",
+    "immune_response_mechanism": "None specified"
+  },
+  {
+    "adjuvant": "α-Al2O3",
+    "immune_response_mechanism": "None specified"
+  },
+  {
+    "adjuvant": "Monophosphoryl lipid A",
+    "immune_response_mechanism": "None specified"
+  },
+  {
+    "adjuvant": "DOPE",
+    "immune_response_mechanism": "Enhances efficacy of vaccine delivery by endosomal escape through membrane disruption and fusion processes"
+  },
+  {
+    "adjuvant": "Rhodamine 123",
+    "immune_response_mechanism": "None specified"
+  },
+  {
+    "adjuvant": "TPP",
+    "immune_response_mechanism": "Accesses mitochondria through a driving force caused by the Δψm gradient"
+  }
+]
+```
+
+Note that some of the adjuvants mentioned in the text do not have a specified immune response mechanism, as this information was not provided in the text.
+
+=== PMC4933989 ===
+No adjuvants mentioned.
+
+=== PMC5041019 ===
+No adjuvants mentioned.
+
+=== PMC5085676 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that there is only two adjuvants mentioned in the text.
+
+=== PMC5192354 ===
+```
+[
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "PLGA",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+Note: The provided text mentions MPLA (3-O-desacyl-4′-monophosphoryl lipid A) as a molecular adjuvant, but it is not explicitly described as an adjuvant in the context of vaccine adjuvants. However, it is mentioned as an adjuvant in human licensed vaccines.
+
+=== PMC5215580 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+=== PMC5340775 ===
+Here is the list of vaccine adjuvants extracted from the input text along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Not mentioned in the text."
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "Not mentioned in the text."
+  },
+  {
+    "adjuvant": "CpG/DNA",
+    "immune_response_mechanism": "Not mentioned in the text."
+  },
+  {
+    "adjuvant": "Advax™",
+    "immune_response_mechanism": "Not mentioned in the text."
+  },
+  {
+    "adjuvant": "LPS (TLR4 agonist)",
+    "immune_response_mechanism": "Not mentioned in the text."
+  },
+  {
+    "adjuvant": "Iron",
+    "immune_response_mechanism": "Not mentioned in the text."
+  },
+  {
+    "adjuvant": "Nickel",
+    "immune_response_mechanism": "Not mentioned in the text."
+  }
+]
+```
+
+Note that the text does not explicitly describe the immune response mechanisms for MPLA, QS-21, CpG/DNA, Advax, LPS, Iron, or Nickel adjuvants.
+
+=== PMC5354570 ===
+Here is the list of vaccine adjuvants extracted from the text in JSON format:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Not explicitly described"
+  }
+]
+```
+
+Note that the text does not explicitly describe the immune response mechanisms of Alum and MPLA adjuvants.
+
+=== PMC5398647 ===
+No adjuvants mentioned.
+
+=== PMC5408242 ===
+[
+  {
+    "adjuvant": "Aluminum hydroxide",
+    "immune_response_mechanism": "None described"
+  },
+  {
+    "adjuvant": "Monophosphoryl lipid A",
+    "immune_response_mechanism": "None described"
+  },
+  {
+    "adjuvant": "TLR9",
+    "immune_response_mechanism": "None described"
+  },
+  {
+    "adjuvant": "Antimicrobial peptide",
+    "immune_response_mechanism": "None described"
+  },
+  {
+    "adjuvant": "Chitosan",
+    "immune_response_mechanism": "Induces immune activity via NLRP3 inflammasome and promotes IL-1β secretion, and also induces mitochondrial DNA-mediated cGAS-STING pathway activation, resulting in the secretion of IFN type I, which stimulates the maturation of dendritic cells and leads to antigen presentation, followed by a Th1 immune response."
+  }
+]
+
+=== PMC5467010 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "CFA",
+    "immune_response_mechanism": "Not explicitly described, but mentioned as a potential adjuvant for parasite vaccines."
+  },
+  {
+    "adjuvant": "α-GalCer",
+    "immune_response_mechanism": "Stimulates iNKT cells to promote B cell hypermutation, class-switching and immunological memory."
+  },
+  {
+    "adjuvant": "ZPSs",
+    "immune_response_mechanism": "Presented on MHCII complexes, leading to T cell activation and adaptive immune responses."
+  }
+]
+```
+
+Note that while CFA is mentioned as a potential adjuvant, its exact mechanism is not explicitly described in the text.
+
+=== PMC5490820 ===
+No adjuvants mentioned.
+
+=== PMC5512149 ===
+No adjuvants mentioned.
+
+=== PMC5578107 ===
+No adjuvants mentioned.
+
+=== PMC5646730 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "The text does not explicitly describe how Alum works to stimulate or enhance the immune response."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "The text does not explicitly describe how MPLA works to stimulate or enhance the immune response."
+  }
+]
+
+=== PMC5711983 ===
+Here are the vaccine adjuvants explicitly described in the text, along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+Note that only one adjuvant is explicitly mentioned in the text.
+
+=== PMC5713468 ===
+No adjuvants mentioned.
+
+=== PMC5740944 ===
+No adjuvants mentioned.
+
+=== PMC5795461 ===
+Here is the JSON output with the adjuvants explicitly described in the input text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": ""
+  }
+]
+```
+
+No adjuvants were explicitly described in the input text.
+
+=== PMC5806658 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "BCG",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "poly-ICLC",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "GM-CSF",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "IL-12",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "IL-15",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "GM-CSF",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "topically-applied imiquimod",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "TT",
+    "immune_response_mechanism": "Not explicitly described"
+  }
+]
+```
+
+Note: There are no substances explicitly described as vaccine adjuvants in the text. However, some adjuvants like BCG, poly-ICLC, GM-CSF, IL-12, IL-15, GM-CSF, GM-CSF, GM-CSF, and topically-applied imiquimod are mentioned.
+
+=== PMC5827355 ===
+No adjuvants mentioned.
+
+=== PMC5834428 ===
+Here is the extracted information about vaccine adjuvants:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "None mentioned"
+  }
+]
+```
+
+Note that there is only one adjuvant mentioned in the text, which is Alum. However, it is not explicitly described as an adjuvant in the context of vaccine development or immune response enhancement. It is mentioned as a component of an ALVAC-SIV + gp120 vaccine.
+
+=== PMC5850400 ===
+No adjuvants mentioned.
+
+=== PMC5871672 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+
+=== PMC5874648 ===
+No adjuvants mentioned.
+
+=== PMC5893894 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+
+=== PMC5934487 ===
+No adjuvants mentioned.
+
+=== PMC5985299 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+
+=== PMC6024737 ===
+No adjuvants mentioned.
+
+=== PMC6030256 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": "Allows long-lasting antigen retention in draining lymph nodes and enhances antigen uptake by LN-resident DCs, promoting robust humoral responses via follicular DC activation and CD4+ T cell immunity induction."
+  },
+  {
+    "adjuvant": "IC31",
+    "immune_response_mechanism": "Elicits IFN-β release by human DCs via engagement of endosomal TLRs, supporting immunity against intracellular pathogens and cancer."
+  },
+  {
+    "adjuvant": "Poly(I:C)",
+    "immune_response_mechanism": "Acts on TLR3 to promote type I interferon production and enhance antiviral responses."
+  },
+  {
+    "adjuvant": "Flagellin",
+    "immune_response_mechanism": "Acts on TLR5 to promote Th1 responses and enhance antitumor immunity."
+  },
+  {
+    "adjuvant": "Monophosphoryl lipid A",
+    "immune_response_mechanism": "Displays promising effects for vaccine design, inducing IFN-γ-mediated antigen-specific responses when co-delivered with poorly immunogenic tumor antigens."
+  },
+  {
+    "adjuvant": "7-acyl lipid A",
+    "immune_response_mechanism": "Potently induces IFN-γ-mediated antigen-specific responses when co-delivered with poorly immunogenic tumor antigens."
+  },
+  {
+    "adjuvant": "Pam2CSK4",
+    "immune_response_mechanism": "Acts on TLR2/6 to promote Th1 responses and enhance antitumor immunity."
+  },
+  {
+    "adjuvant": "Pam3CSK4",
+    "immune_response_mechanism": "Acts on TLR2/1 to promote Th1 responses and enhance antitumor immunity."
+  },
+  {
+    "adjuvant": "CpG ODN",
+    "immune_response_mechanism": "Binds to TLR9 to induce type I
+
+=== PMC6036114 ===
+No adjuvants mentioned.
+
+=== PMC6060342 ===
+```
+[
+  {
+    "adjuvant": "dmLT",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "LT(R192G/L211A)",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+=== PMC6105696 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Induces IL-4-secreting Th2 cells, which can block the differentiation of pathogenic IFNγ-producing Teff."
+  }
+]
+```
+
+Note that there is only one adjuvant mentioned in the text, which is Aluminum Hydroxide (Alum).
+
+=== PMC6222055 ===
+Here are the vaccine adjuvants mentioned in the input text, along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that only two adjuvants, Alum and MPLA, are explicitly mentioned in the input text.
+
+=== PMC6274812 ===
+Here is the list of vaccine adjuvants mentioned in the text with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+No adjuvants were explicitly mentioned in the provided text, except for Alum.
+
+=== PMC6317792 ===
+No adjuvants mentioned.
+
+=== PMC6356514 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Recruits immune cells and increases antigen uptake, although it does not stimulate a CD8+ T cell response."
+  }
+]
+
+=== PMC6357101 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that there is only two substances explicitly described as adjuvants in the input text.
+
+=== PMC6436086 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that the text mentions "MF59", "AS03", and "virosomes" as adjuvants, but does not provide a clear description of their immune response mechanisms. Therefore, they are not included in the list.
+
+=== PMC6466149 ===
+No adjuvants mentioned.
+
+=== PMC6466432 ===
+Here is the list of vaccine adjuvants extracted from the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that no other substances are explicitly described as vaccine adjuvants in the text.
+
+=== PMC6476043 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Alum alone cannot induce a potent Th1 response unless combined with another adjuvant, such as glucopyranosyl lipid A (a synthetic TLR-4 agonist)."
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": "MF59 can elicit antigen-specific antibodies and cellular-mediated responses."
+  }
+]
+
+=== PMC6524688 ===
+No adjuvants mentioned.
+
+=== PMC6637046 ===
+No adjuvants mentioned.
+
+=== PMC6669641 ===
+Here is the JSON response with the extracted adjuvants:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "Aluminium phosphate or Aluminium hydroxide",
+    "immune_response_mechanism": "Not explicitly described in the text."
+  }
+]
+```
+
+Note: Alum is a common adjuvant used in vaccine formulations, but the text does not explicitly describe its immune response mechanism. However, it is mentioned that reactogenic components of the WCV vaccine, such as lipopolysaccharide, are omitted from the final vaccine formulation using the purification process, which likely involves alum.
+
+Also, the text mentions that "all ACV products also contain other purified pertussis antigens such as FHA, Fim 2&3 and Prn as these antigens are considered to be important in the generation of a protective immune response" but it does not mention any adjuvants. Therefore, the list only includes alum and aluminium phosphate or aluminium hydroxide, which are mentioned as adjuvants in the text.
+
+=== PMC6677153 ===
+No adjuvants mentioned.
+
+=== PMC6678067 ===
+Here is the list of vaccine adjuvants extracted from the input text along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "None mentioned"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "None mentioned"
+  },
+  {
+    "adjuvant": "TDB",
+    "immune_response_mechanism": "Activates MINCLE and enhances Th1/Th17 responses."
+  },
+  {
+    "adjuvant": "Curdlan",
+    "immune_response_mechanism": "Enhances Th1 responses to vaccines."
+  },
+  {
+    "adjuvant": "Advax",
+    "immune_response_mechanism": "Induces activation of CD4 + T cells and enhances antigen-specific B cell activation, BCR affinity maturation, IgG switching and production of high avidity Ab."
+  }
+]
+```
+
+Note: Some adjuvants were not explicitly described in the text, so the "immune_response_mechanism" field is left empty for those.
+
+=== PMC6685390 ===
+Here is the list of vaccine adjuvants explicitly described in the input text along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+Note that the input text does not explicitly describe other vaccine adjuvants.
+
+=== PMC6724148 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "Proposed to be via rapid interferon (IFN)-γ production by resident natural killer (NK) cells and CD8+ T cells in the draining lymph nodes promoting strong cellular Th1 responses."
+  },
+  {
+    "adjuvant": "DDA",
+    "immune_response_mechanism": "Activates the C-type lectin receptor, Mincle, inducing intracellular signaling via Syk, causing CARD9 dependent NF-κB activation and downstream proinflammatory cytokine production."
+  },
+  {
+    "adjuvant": "ODN1a",
+    "immune_response_mechanism": "Thinks to bind TLR9, thereby activating the MyD88 pathway and IL-12 production by APCs."
+  }
+]
+```
+
+=== PMC6789792 ===
+Here is the list of vaccine adjuvants with their immune response mechanisms as described in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": "Induces controlled inflammation and recruitment of antigen-presenting cells that stimulate vaccine-specific CD4+T cells, leading to the induction of specific antibodies targeting broader neutralizing epitopes."
+  },
+  {
+    "adjuvant": "AS03",
+    "immune_response_mechanism": "Induces stronger transcriptional responses through the NFkB pathway leading to higher expression of immune cell-recruiting chemokines and pro-inflammatory cytokines."
+  },
+  {
+    "adjuvant": "AS04",
+    "immune_response_mechanism": "Induces stronger transcriptional responses through the NFkB pathway leading to higher expression of immune cell-recruiting chemokines and pro-inflammatory cytokines."
+  },
+  {
+    "adjuvant": "CAF01",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "IC31",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "GLA-SE",
+    "immune_response_mechanism": ""
+  }
+]
+```
+
+Note: The mechanisms for CAF01, IC31, and GLA-SE are not described in the text, so they are left empty.
+
+=== PMC6831456 ===
+Here is the list of vaccine adjuvants extracted from the input text along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "CpG ODNs",
+    "immune_response_mechanism": "Stimulate TLR9 pathway to induce strong immune response."
+  },
+  {
+    "adjuvant": "LPS",
+    "immune_response_mechanism": "Engage TLR4 pathway to stimulate innate immune response."
+  },
+  {
+    "adjuvant": "Poly I:C",
+    "immune_response_mechanism": "Activate TLR3 pathway to induce strong immune response."
+  },
+  {
+    "adjuvant": "Layered double hydroxide (LDH)",
+    "immune_response_mechanism": "Stimulate TLR9 pathway to induce strong immune response."
+  },
+  {
+    "adjuvant": "Indoximod (IND)",
+    "immune_response_mechanism": "Inhibit indoleamine 2,3-dioxygenase (IDO) pathway to enhance immune response."
+  }
+]
+```
+
+Note: The text does not explicitly describe the immune response mechanism for some adjuvants, so those are left empty.
+
+=== PMC6923730 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "CpG oligodeoxynucleotides",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "Cholera toxin (CT)",
+    "immune_response_mechanism": "Increases the permeability of the mucosal epithelium, enhanced antigen presentation, the consequent promotion of dendritic cell maturation, increased IgA response, and finally, the generation of complex stimulatory and inhibitory effects on T cell proliferation and cytokine production such as IL-4, IL-5, IL-6, and IL-10 that skew the response toward a Th2-type."
+  },
+  {
+    "adjuvant": "Heat-labile enterotoxin of E. coli (LT)",
+    "immune_response_mechanism": "Promotes maturation of dendritic cells, antigen-specific IL-17 positive cells, and production of IL-1α, IL-1β, and IL-23 by dendritic cells."
+  },
+  {
+    "adjuvant": "Pertussis toxin (PTX)",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "Type 3 secretion system (T3SS) and type 6 secretion system (T6SS)",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "Lipooligosaccharide (LOS)",
+    "immune_response_mechanism": "Induces IL-12 and 1L-1β that promote Th1 and Th17 responses, respectively."
+  },
+  {
+    "adjuvant": "Filamentous hemagglutinin (FHA)",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "Pertussis toxin (PTX)-derived oligosaccharide",
+    "immune_response_mechanism": ""
+  }
+]
+```
+
+Note that some of the adjuvants mentioned in the text, such as TLR2, TLR4, TLR5, and TLR9, are not explicitly described as adjuvants, but rather as agon
+
+=== PMC6943637 ===
+[
+  {
+    "adjuvant": "CpG DNA",
+    "immune_response_mechanism": "Engages TLR9 pathway to promote Th1 responses."
+  }
+]
+
+=== PMC6963306 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note: No other adjuvants are explicitly mentioned in the provided text.
+
+=== PMC6963626 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "Escherichia coli heat-labile toxin (LT)",
+    "immune_response_mechanism": "Promotes antigen presentation and APC-T cell interactions"
+  },
+  {
+    "adjuvant": "Cholera toxin (CT)",
+    "immune_response_mechanism": "Activates DCs and promotes Th2 T cells and B cell isotype switching"
+  }
+]
+```
+
+No adjuvants mentioned.
+
+=== PMC7058986 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Induces the production of IL-1, which itself induces trained immunity"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Not explicitly described in the text"
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "Not explicitly described in the text"
+  }
+]
+
+=== PMC7079582 ===
+No adjuvants mentioned.
+
+=== PMC7094556 ===
+No adjuvants mentioned.
+
+=== PMC7150928 ===
+[
+  {
+    "adjuvant": "MCT",
+    "immune_response_mechanism": "Vaccine formulations containing VLPs increased antibody production against TRAP compared to that produced by the antigen alone."
+  },
+  {
+    "adjuvant": "CpG",
+    "immune_response_mechanism": "Vaccine adjuvanted with MCT effectively retarded the development of the tumor. The effect was comparable when CpG DNA was used as the adjuvant, whereas alum was ineffective in slowing down tumor growth."
+  },
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Vaccine adjuvanted with MCT effectively retarded the development of the tumor. The effect was comparable when CpG DNA was used as the adjuvant, whereas alum was ineffective in slowing down tumor growth."
+  }
+]
+
+=== PMC7151053 ===
+No adjuvants mentioned.
+
+=== PMC7157724 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasomes or induces apoptosis, resulting in the release of dangerous signals, which in turn triggers immune response"
+  },
+  {
+    "adjuvant": "MPL",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses"
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "QS21 stimulates caspase-1, causing the release of high-mobility group protein B1 (HMGB1), and then activates the TLR4-MyD88 pathway"
+  }
+]
+
+=== PMC7159032 ===
+No adjuvants mentioned.
+
+=== PMC7194457 ===
+No adjuvants mentioned.
+
+=== PMC7194727 ===
+No adjuvants mentioned.
+
+=== PMC7203076 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that the text mentions "MPLA" as an adjuvant, but it does not provide a detailed description of its immune response mechanism. However, it is mentioned as engaging the TLR4 pathway to promote Th1 responses.
+
+=== PMC7240201 ===
+No adjuvants mentioned.
+
+=== PMC7265684 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note: Only two adjuvants were explicitly mentioned in the text.
+
+=== PMC7325873 ===
+No adjuvants mentioned.
+
+=== PMC7349526 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "Curdlan",
+    "immune_response_mechanism": "binds to dendritic cells through the ligand Dectin-1, leading to a nuclear factor κB-mediated TH17 immune response."
+  }
+]
+
+=== PMC7349596 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "Part of the AS01 adjuvant system, which is a liposome adjuvant containing MPL and QS-21."
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": "Creates a transient immune environment at the injection site, then recruits immune cells to induce antigen-specific immune responses."
+  },
+  {
+    "adjuvant": "AS01",
+    "immune_response_mechanism": "Contains 3-O-desacyl-4’-monophosphoryl lipid A (MPL) and saponin QS-21, part of the AS01 adjuvant system."
+  },
+  {
+    "adjuvant": "AS02",
+    "immune_response_mechanism": "Contains MPL and QS-21, part of the AS02 adjuvant system."
+  },
+  {
+    "adjuvant": "AS03",
+    "immune_response_mechanism": "Contains alpha-tocopherol, squalene, and Tween 80, part of the AS03 adjuvant system."
+  },
+  {
+    "adjuvant": "AS04",
+    "immune_response_mechanism": "Contains MPL, part of the AS04 adjuvant system."
+  }
+]
+```
+
+=== PMC7350246 ===
+No adjuvants mentioned.
+
+=== PMC7350342 ===
+Here is the list of vaccine adjuvants mentioned in the text in JSON format:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+Note that only one substance, Alum, is explicitly described as an adjuvant in the text. The other substances mentioned, such as MPLA, QS-21, and VLPs, are not explicitly described as adjuvants.
+
+=== PMC7356751 ===
+No adjuvants mentioned.
+
+=== PMC7405756 ===
+Here is the JSON format with the extracted vaccine adjuvants and their mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPL",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "AS03",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "AS01B",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "AS04",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "CpG1018",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "Al(OH)3",
+    "immune_response_mechanism": ""
+  }
+]
+```
+
+Note that for some adjuvants, the immune response mechanism is not explicitly described in the text.
+
+=== PMC7409282 ===
+Here is the list of vaccine adjuvants extracted from the input text in the required JSON format:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "Montanide ISA 51",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": ""
+  }
+]
+```
+
+Note: The "immune_response_mechanism" for Montanide ISA 51 and MF59 is empty because it was not explicitly described in the input text.
+
+=== PMC7422826 ===
+No adjuvants mentioned.
+
+=== PMC7431966 ===
+Here is the list of vaccine adjuvants mentioned in the text in the required format:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": ""
+  }
+]
+```
+
+Note: There is only one adjuvant explicitly mentioned in the text, which is "Alum". The mechanism of action is mentioned, but it is not a complete description of the immune response. 
+
+However, according to the provided information, another adjuvant is mentioned in the context of an inactivated vaccine:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": ""
+  }
+]
+```
+
+This adjuvant is used in the context of a formaldehyde-inactivated vaccine, but the exact mechanism of action is not specified.
+
+=== PMC7458800 ===
+No adjuvants mentioned.
+
+=== PMC7465679 ===
+No adjuvants mentioned.
+
+=== PMC7466534 ===
+Here are the vaccine adjuvants explicitly described in the text:
+
+```
+[
+  {
+    "adjuvant": "Matrix-M",
+    "immune_response_mechanism": "Potent inducer of leukocyte migration into the draining lymph nodes (LN) resulting in the increase in T-, B-, NK, and dendritic cells in draining LNs."
+  }
+]
+```
+
+Note that there is only one adjuvant explicitly described in the text, which is Matrix-M.
+
+=== PMC7511675 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+
+=== PMC7555229 ===
+No adjuvants mentioned.
+
+=== PMC7563765 ===
+Here is the extracted information about vaccine adjuvants in the given text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that only two substances are explicitly described as adjuvants in the text: Alum and MPLA.
+
+=== PMC7563944 ===
+Here is the list of vaccine adjuvants with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Cholera toxin B",
+    "immune_response_mechanism": "Drives a more restricted Th2 response."
+  }
+]
+```
+
+Note: AS04, MF59, AS03, and AS04 are mentioned in the text as vaccine adjuvants, but their immune response mechanisms are not explicitly described. Therefore, they are not included in the list.
+
+=== PMC7564472 ===
+[
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "Not explicitly described in the text"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Not explicitly described in the text"
+  }
+]
+
+=== PMC7589362 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "AS03",
+    "immune_response_mechanism": "Recruits immune cells to the site of vaccination"
+  },
+  {
+    "adjuvant": "Montanide ISA 51VG",
+    "immune_response_mechanism": "Increases IgG titers 50-fold against the M-001 protein"
+  },
+  {
+    "adjuvant": "Matrix-M",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "VAX125",
+    "immune_response_mechanism": "Binds and activates cellular host pathways, leading to increased immune activation"
+  },
+  {
+    "adjuvant": "Double-stranded RNA (dsRNA)",
+    "immune_response_mechanism": "Activates inflammatory pathways"
+  }
+]
+```
+
+=== PMC7591944 ===
+No adjuvants mentioned.
+
+=== PMC7595841 ===
+No adjuvants mentioned.
+
+=== PMC7660516 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MF-59",
+    "immune_response_mechanism": "Promotes potent and durable antibody responses when compared to alum."
+  }
+]
+```
+
+No adjuvants mentioned.
+
+=== PMC7663252 ===
+No adjuvants mentioned.
+
+=== PMC7677582 ===
+Here is the list of vaccine adjuvants extracted from the input text in JSON format:
+
+```
+[
+  {
+    "adjuvant": "Aluminum hydroxide",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "Aluminum phosphate",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "AS03",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Alhydrogel",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "Imject Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "Aluminum hydroxide gel",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "Freund's adjuvant",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Ribi adjuvants",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Montanide ISA51",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "CpG ODN 2006",
+    "immune_response_mechanism": "Engages TLR9 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant
+
+=== PMC7688745 ===
+Here is the list of vaccine adjuvants mentioned in the text along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPL (Monophosphoryl-lipid A)",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Microcrystalline Tyrosine (MCT)",
+    "immune_response_mechanism": "Biodegradable, maintains depot formation for sustained immune response."
+  },
+  {
+    "adjuvant": "TLR2/1 agonists (e.g., Pam3Cys, Pam3CSK4)",
+    "immune_response_mechanism": "Downregulates Th2 responses, induces IFN-γ and IL-10 production, promotes Th1 responses."
+  },
+  {
+    "adjuvant": "MALP-2 (Macrophage-activating lipopeptide of 2 kDa)",
+    "immune_response_mechanism": "Targets TLR2/6 receptor, downregulates Th2 responses, induces IFN-γ and IL-10 production."
+  },
+  {
+    "adjuvant": "Flagellin",
+    "immune_response_mechanism": "Fusion proteins with allergens can reduce Th2 responses, promote IFN-γ and IL-10 production, and induce tolerance."
+  },
+  {
+    "adjuvant": "CpG-ODN (Cytosine-phosphate-guanine oligodeoxynucleotides)",
+    "immune_response_mechanism": "Induces Th1 responses, downregulates Th2 responses, promotes IFN-γ and IL-10 production, and induces tolerance."
+  },
+  {
+    "adjuvant": "TLR9 agonists (e.g., CpG-ODN1826)",
+    "immune_response_mechanism": "Induces Th1 responses, downregulates Th2 responses, promotes IFN-γ and IL-10 production, and induces tolerance."
+  }
+]
+```
+
+Note that some of these adjuvants may have multiple mechanisms of action, but I have only listed the most relevant one mentioned in the text.
+
+=== PMC7694192 ===
+No adjuvants mentioned.
+
+=== PMC7712070 ===
+Here is the list of vaccine adjuvants extracted from the input text along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Monophosphoryl lipid A (ASO4)",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "AS04",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "Dipalmitoyl-S glycerin cysteine (P2C)",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "Toll-like receptor 2 (TLR2) ligand",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "Lactobacillus casei",
+    "immune_response_mechanism": "Not explicitly described"
+  }
+]
+```
+
+Note that the immune response mechanisms for some adjuvants (e.g., Monophosphoryl lipid A, AS04, Dipalmitoyl-S glycerin cysteine, Toll-like receptor 2 ligand, and Lactobacillus casei) are not explicitly described in the input text.
+
+=== PMC7723964 ===
+No adjuvants mentioned
+
+=== PMC7755367 ===
+No adjuvants mentioned.
+
+=== PMC7757035 ===
+No adjuvants mentioned.
+
+=== PMC7762175 ===
+No adjuvants mentioned.
+
+=== PMC7779084 ===
+No adjuvants mentioned.
+
+=== PMC7793902 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Not explicitly described in the text."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Not explicitly described in the text."
+  },
+  {
+    "adjuvant": "Aluminum hydroxide (alum)",
+    "immune_response_mechanism": "Not explicitly described in the text, but mentioned in the context of ovalbumin model"
+  }
+]
+```
+
+Note: No adjuvants are explicitly described in the text. However, aluminum hydroxide (alum) is mentioned in the context of the ovalbumin model.
+
+=== PMC7825707 ===
+Here are the vaccine adjuvants extracted from the input text in JSON format:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": "Induces Th2-biased immune responses and releases specific chemokines and cytokines, like CCL2, CCL3 IL-8, and IL-5"
+  },
+  {
+    "adjuvant": "AS03",
+    "immune_response_mechanism": "Induces Th2-biased immune responses"
+  },
+  {
+    "adjuvant": "AF03",
+    "immune_response_mechanism": "Induces Th2-biased immune responses"
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "Activates inflammasome"
+  },
+  {
+    "adjuvant": "TLR4 agonists (MPL/R837, TRAC-478, 1Z105/1V270)",
+    "immune_response_mechanism": "Synergistically increases antigen-specific, long-lasting humoral immune responses, Th1 cell-mediated or Th1/Th2-balanced immunity, and protection against homologous, heterologous, and heterosubtypic viral challenges"
+  },
+  {
+    "adjuvant": "TLR3 agonist (poly I:C)",
+    "immune_response_mechanism": "Activates mucosal and systemic humoral responses"
+  },
+  {
+    "adjuvant": "Flagellin",
+    "immune_response_mechanism": "Activates NLRC4 inflammasome and induces strong M2e-specific humoral and mucosal immune responses"
+  },
+  {
+    "adjuvant": "CpG ODN",
+    "immune_response_mechanism": "Induces Th1-biased responses"
+  },
+  {
+    "adjuvant": "CpG + MPL",
+    "immune_response_mechanism": "Induces various inflammatory cytokines and chemokines, and improves protective efficacy with elevated IgG2a antibodies and Th1-biased immune response"
+  },
+  {
+    "adjuvant": "Nucleic acids (5′pppRNA, d
+
+=== PMC7831080 ===
+Here is the list of vaccine adjuvants extracted from the input text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Primarily generates a Th2 response."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that there are only two adjuvants explicitly mentioned in the text: Alum and MPLA.
+
+=== PMC7837099 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that "MPLA" is not explicitly mentioned in the provided text as an adjuvant. It seems to be a typo or an abbreviation for a different compound. The text does mention the use of "alum" as an adjuvant, but not "MPLA".
+
+=== PMC7857113 ===
+No adjuvants mentioned.
+
+=== PMC7858666 ===
+Here is the list of vaccine adjuvants extracted from the input text along with their mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "Enhances polyfunctional T cell responses."
+  },
+  {
+    "adjuvant": "MPL",
+    "immune_response_mechanism": "Enhances polyfunctional T cell responses."
+  },
+  {
+    "adjuvant": "3M-052/SE",
+    "immune_response_mechanism": "Overcomes hyporesponsiveness to the pneumococcal conjugate vaccine at birth."
+  },
+  {
+    "adjuvant": "AS01",
+    "immune_response_mechanism": "Enhances polyfunctional T cell responses."
+  },
+  {
+    "adjuvant": "CAF01",
+    "immune_response_mechanism": "Enhances germinal center responses."
+  },
+  {
+    "adjuvant": "CpG-1826 and IC31",
+    "immune_response_mechanism": "Induces TFH responses in neonatal mice."
+  },
+  {
+    "adjuvant": "GLA-squalene emulsion (SE)",
+    "immune_response_mechanism": "Induces TFH responses in neonatal mice."
+  }
+]
+```
+
+Note that the text does not explicitly describe the adjuvants "MF59" and "LT-K63" as adjuvants, but they are mentioned as being used in vaccine formulations.
+
+=== PMC7870421 ===
+No adjuvants mentioned.
+
+=== PMC7879001 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+=== PMC7883962 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+
+=== PMC7911620 ===
+[
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "CpG 1018",
+    "immune_response_mechanism": "Recruits MyD88, IL-1R associated kinase (IRAK) and TNF receptor-associated factor 6 (TRAF6) to activate several mitogen-activated kinases and transcription factors, resulting in transcription and secretion of proinflammatory chemokines and cytokines."
+  },
+  {
+    "adjuvant": "Poly-ICLC",
+    "immune_response_mechanism": "Induces TLR3 activation, leading to the induction of cytokines such as IFN-α, TNF-α and IL-12."
+  },
+  {
+    "adjuvant": "MGN1703",
+    "immune_response_mechanism": "Activates the TLR9 signalling pathway, leading to the induction of cytokines such as IFN-α, IFN-γ, TNF-α and IL-6."
+  }
+]
+
+=== PMC7918810 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "AddaVax",
+    "immune_response_mechanism": "MF59-like adjuvant"
+  }
+]
+```
+
+Note that there is only one adjuvant explicitly mentioned in the text, MPLA, and another one mentioned as a comparison, AddaVax, which is not an adjuvant itself but a vaccine formulation.
+
+=== PMC7923097 ===
+No adjuvants mentioned.
+
+=== PMC7930017 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "Aluminum hydroxide",
+    "immune_response_mechanism": "Elicits strong Th1 or Th17 cell-mediated responses"
+  },
+  {
+    "adjuvant": "CpG oligodeoxynucleotides",
+    "immune_response_mechanism": "Elicits strong immune responses"
+  }
+]
+```
+
+=== PMC7959455 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "AlhydrogelTM",
+    "immune_response_mechanism": "Not specified"
+  },
+  {
+    "adjuvant": "AlhydrogelTM",
+    "immune_response_mechanism": "Reduces antigen dose by 75% while retaining equivalent magnitudes of responses"
+  },
+  {
+    "adjuvant": "BECC/Alhydrogel",
+    "immune_response_mechanism": "Reduces antigen dose by 75% while retaining equivalent magnitudes of responses"
+  },
+  {
+    "adjuvant": "Flagellin",
+    "immune_response_mechanism": "Not specified"
+  }
+]
+```
+
+=== PMC7963163 ===
+No adjuvants mentioned.
+
+=== PMC7983051 ===
+No adjuvants mentioned.
+
+=== PMC7997495 ===
+No adjuvants mentioned
+
+=== PMC8001307 ===
+Here is the list of vaccine adjuvants mentioned in the text with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Primarily enhances Th2 humoral responses"
+  },
+  {
+    "adjuvant": "AS04",
+    "immune_response_mechanism": "Combination of alum and monophosphoryl lipid A (MPLA)"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses"
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "Interacts with specific molecular targets, including dendritic cells and T cells"
+  },
+  {
+    "adjuvant": "QS-7",
+    "immune_response_mechanism": "Potentiates a balanced Th1/Th2 response with antigen-specific cytotoxic T lymphocyte (CTL) production"
+  },
+  {
+    "adjuvant": "QS-17",
+    "immune_response_mechanism": "Has adjuvant activity similar to QS-21 but lower toxicity"
+  },
+  {
+    "adjuvant": "QS-18",
+    "immune_response_mechanism": "More toxic than QS-21 due to extra β-d-glucopyranosyl (glc) unit connected to the α-L-rhamnopyranosyl (rha) unit at its 3-O position"
+  },
+  {
+    "adjuvant": "QS-7/18",
+    "immune_response_mechanism": "Have similar adjuvant activity profile but QS-17 and QS-18 are more toxic than QS-21"
+  },
+  {
+    "adjuvant": "GPI-0100",
+    "immune_response_mechanism": "Retains the capacity of stimulating humoral and cellular immunity"
+  },
+  {
+    "adjuvant": "VSA-1",
+    "immune_response_mechanism": "Similar to QS-21 in potentiating a mixed Th1/Th2 immunity and CTL production"
+  },
+  {
+    "adjuvant": "VSA-2",
+    "immune_response_mechanism": "Shows a consistently higher IgG2a/IgG1 ratio than QS-21 and GPI-0100"
+  }
+]
+```
+
+Note that
+
+=== PMC8002393 ===
+Here is the list of vaccine adjuvants mentioned in the text along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note: No adjuvants other than Alum and MPLA were explicitly described in the text. Squalene-based emulsions (e.g., MF59, AS03, AF03) are mentioned, but their adjuvanticity mechanisms are not explicitly described.
+
+=== PMC8007559 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note: No adjuvants are explicitly described in the text.
+
+=== PMC8024446 ===
+No adjuvants mentioned.
+
+=== PMC8033039 ===
+Here is the list of vaccine adjuvants extracted from the text with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "MPL",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": "Mechanism not explicitly described."
+  },
+  {
+    "adjuvant": "1,25-dihydroxyvitamin D3 (VD3)",
+    "immune_response_mechanism": "Suppresses immune responses and promotes tolerogenic effects."
+  },
+  {
+    "adjuvant": "CpG",
+    "immune_response_mechanism": "Stimulates TLR9 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note: Some of the immune response mechanisms are not explicitly described in the text, so they are left blank.
+
+=== PMC8064354 ===
+Here are the vaccine adjuvants explicitly described in the input text, along with their mechanisms of action:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that Alum is the only adjuvant explicitly mentioned in the text, with a mechanism of action related to the activation of the NLRP3 inflammasome and the formation of a depot for slow antigen release. There is no mention of MPLA as an adjuvant in the text, so it is not included in the list.
+
+=== PMC8127526 ===
+Here is the list of vaccine adjuvants mentioned in the text, along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that there is only two adjuvants explicitly mentioned in the text, Alum and MPLA. There are no other adjuvants mentioned.
+
+=== PMC8145166 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Not mentioned"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Not mentioned"
+  }
+]
+
+=== PMC8148096 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note: No adjuvants are explicitly mentioned in the text, but the text does mention that some vaccine designs use "carrier proteins" such as KLH (keyhole limpet hemocyanin) or BSA (bovine serum albumin), which are not typically considered adjuvants. However, these proteins can still play a role in enhancing the immune response.
+
+=== PMC8166496 ===
+No adjuvants mentioned.
+
+=== PMC8185206 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Contributes to an immune danger signal via the induction of phagocytic cell death, enhancing antigen uptake and presentation by professional APCs, and upregulating costimulatory surface molecules expression."
+  }
+]
+
+=== PMC8204314 ===
+No adjuvants mentioned.
+
+=== PMC8210608 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "R848",
+    "immune_response_mechanism": "Agonist of TLR7/8, transforms MDSCs into APCs and polarizes TAMs from M2 to M1."
+  },
+  {
+    "adjuvant": "CpG",
+    "immune_response_mechanism": "Agonist of TLR9, induces antitumor immune responses."
+  }
+]
+```
+
+=== PMC8225176 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Stimulates Th2-biased responses through mechanisms including the depot effect, NLRF3 inflammation activation, stimulation and differentiation of CD4+ T cells, perturbation of dendritic cell membrane, and complement activation."
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": "Significantly enhances antigen-specific antibody production and boosts both Th1 and Th2-biased responses."
+  },
+  {
+    "adjuvant": "AS03",
+    "immune_response_mechanism": "Induces the production of inflammatory cytokines and chemokines in injected muscles and draining lymph nodes, enhances migration of monocytes and dendritic cells into draining lymph nodes, and persists production of neutralizing antibodies and a high frequency of memory B cells."
+  }
+]
+```
+
+=== PMC8225681 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+=== PMC8227888 ===
+[
+  {
+    "adjuvant": "Alhydrogel",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPL",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+
+=== PMC8228432 ===
+```
+[
+  {
+    "adjuvant": "AS01",
+    "immune_response_mechanism": "Activates TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "AS03",
+    "immune_response_mechanism": "Activates TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Forms a depot for slow antigen release and activates NLRP3 inflammasome."
+  },
+  {
+    "adjuvant": "GLA",
+    "immune_response_mechanism": "Enhances granzyme B and IL-6 production in PBMCs from adults >60 years old in response to influenza antigen."
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "Activates TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+=== PMC8230341 ===
+Here is the extracted information on vaccine adjuvants in the provided text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+Note that only one adjuvant, Alum, is explicitly mentioned in the text.
+
+=== PMC8293096 ===
+Here is the list of vaccine adjuvants mentioned in the text, along with a brief description of their immune response mechanism:
+
+```
+[
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "TLR9",
+    "immune_response_mechanism": "Acts on dendritic cells and B cells to enhance GC response"
+  },
+  {
+    "adjuvant": "PorB",
+    "immune_response_mechanism": "Enhances antigen deposition on FDCs"
+  }
+]
+```
+
+Note that there are only three adjuvants explicitly mentioned in the text, and their immune response mechanisms are described as follows.
+
+=== PMC8301306 ===
+No adjuvants mentioned.
+
+=== PMC8310046 ===
+Here is the list of vaccine adjuvants extracted from the input text along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": "Increases recruitment and maturation of DCs"
+  }
+]
+```
+
+Note: There is only one adjuvant explicitly mentioned in the input text. However, there are mentions of adjuvant-like substances and potential adjuvant candidates, such as R848, CpG oligodeoxynucleotides (ODNs), and CAF01, but they are not explicitly described as adjuvants in the same context.
+
+=== PMC8310105 ===
+No adjuvants mentioned.
+
+=== PMC8310376 ===
+Here are the vaccine adjuvants explicitly described in the input text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "Aluminum hydroxide",
+    "immune_response_mechanism": "No immune response mechanism described"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "No immune response mechanism described"
+  }
+]
+```
+
+Note that there are only three adjuvants explicitly described in the input text. The other adjuvants mentioned in the text, such as "lipid nanoparticles" and "aluminum hydroxide", are not explicitly described as adjuvants.
+
+=== PMC8364403 ===
+Here are the vaccine adjuvants extracted from the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that "Matrix-M1" is mentioned as an adjuvant in the text, but it is not explicitly described as such. However, it is mentioned as a component of the Novavax vaccine and is likely to be an adjuvant.
+
+Also, "AS03" is mentioned as an adjuvant in the text, but it is not explicitly described as such. However, it is mentioned as being used with the CoVLP vaccine and is likely to be an adjuvant.
+
+Note that there are no other adjuvants explicitly mentioned in the text.
+
+=== PMC8400983 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Stimulate the immune response by activating NLRP3 inflammasome and forming a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "CAP",
+    "immune_response_mechanism": "Stimulate the immune response by inducing effective mucosal immunity."
+  },
+  {
+    "adjuvant": "TiO2",
+    "immune_response_mechanism": "Inhibit virus adsorption and entry by binding to the surface of the virus and occupying the binding site of the virus and the cell."
+  }
+]
+
+=== PMC8402453 ===
+Here is the list of vaccine adjuvants mentioned in the text, along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "c-di-GMP",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "c-di-AMP",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "cGAMP",
+    "immune_response_mechanism": "Directly binds to STING to induce the production of type I IFN and inflammatory cytokines."
+  }
+]
+```
+
+Note that the immune response mechanisms listed are based on the text provided and may not be exhaustive or entirely accurate.
+
+=== PMC8427162 ===
+Here is the list of vaccine adjuvants mentioned in the text, along with a brief description of their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "AlOH",
+    "immune_response_mechanism": "Not specified"
+  },
+  {
+    "adjuvant": "GSK proprietary Adjuvant System",
+    "immune_response_mechanism": "Not specified"
+  },
+  {
+    "adjuvant": "LPS-Rhodobacter sphaeroides",
+    "immune_response_mechanism": "Inhibits NS1-mediated cytokine release"
+  },
+  {
+    "adjuvant": "Lipopolysaccharide (LPS)",
+    "immune_response_mechanism": "Activates TLR4 pathway to promote Th1 responses"
+  },
+  {
+    "adjuvant": "Poly (I:C) + poly U",
+    "immune_response_mechanism": "Activates TLR3 and TLR7 pathways"
+  }
+]
+```
+
+Note that only four adjuvants are explicitly mentioned in the text, and their mechanisms of action are not always clearly described.
+
+=== PMC8454293 ===
+No adjuvants mentioned.
+
+=== PMC8483762 ===
+No adjuvants mentioned.
+
+=== PMC8486642 ===
+No adjuvants mentioned.
+
+=== PMC8523302 ===
+No adjuvants mentioned.
+
+=== PMC8536969 ===
+No adjuvants mentioned.
+
+=== PMC8553742 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "CpG",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "CpG",
+    "immune_response_mechanism": "Forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "CpG",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "AS03",
+    "immune_response_mechanism": "Promotes Th1 responses."
+  },
+  {
+    "adjuvant": "AS03",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "AS0378",
+    "immune_response_mechanism": "Enhances humoral and cellular immune responses."
+  },
+  {
+    "adjuvant": "HBV nucleocapsid",
+    "immune_response_mechanism": "No mechanism described."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+=== PMC8579696 ===
+No adjuvants mentioned.
+
+=== PMC8582592 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": ""
+  }
+]
+```
+
+No adjuvants mentioned.
+
+=== PMC8589429 ===
+```
+[
+  {
+    "adjuvant": "aluminium phosphate",
+    "immune_response_mechanism": "None mentioned"
+  },
+  {
+    "adjuvant": "aluminium salts (various)",
+    "immune_response_mechanism": "None mentioned"
+  },
+  {
+    "adjuvant": "amorphous aluminium hydroxyphosphate sulfate",
+    "immune_response_mechanism": "None mentioned"
+  },
+  {
+    "adjuvant": "aluminium salts",
+    "immune_response_mechanism": "None mentioned"
+  },
+  {
+    "adjuvant": "liposome emulsions",
+    "immune_response_mechanism": "None mentioned"
+  },
+  {
+    "adjuvant": "inactivated bacteria",
+    "immune_response_mechanism": "None mentioned"
+  },
+  {
+    "adjuvant": "protein toxins",
+    "immune_response_mechanism": "None mentioned"
+  },
+  {
+    "adjuvant": "immune cell receptors activating ligands",
+    "immune_response_mechanism": "None mentioned"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note: The provided text does not explicitly describe the adjuvants used in the vaccines mentioned in the table. However, it does mention that some vaccines may contain adjuvants, and it lists several adjuvants that have been developed.
+
+=== PMC8619927 ===
+No adjuvants mentioned.
+
+=== PMC8622245 ===
+No adjuvants mentioned.
+
+=== PMC8664555 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+
+=== PMC8678218 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Not explicitly described"
+  }
+]
+```
+
+=== PMC8691362 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "AS04 (dMPL)",
+    "immune_response_mechanism": "Not mentioned in the text"
+  },
+  {
+    "adjuvant": "Matrix M2",
+    "immune_response_mechanism": "Not mentioned in the text"
+  },
+  {
+    "adjuvant": "GLA (glucopyranosyl lipid A)",
+    "immune_response_mechanism": "Not mentioned in the text"
+  },
+  {
+    "adjuvant": "QS21 (saponin)",
+    "immune_response_mechanism": "Not mentioned in the text"
+  }
+]
+
+=== PMC8695322 ===
+```
+[
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": "Used as adjuvant with HSV-2 glycoproteins B and D (gB2/gD2)"
+  },
+  {
+    "adjuvant": "MPL",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses"
+  },
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+=== PMC8703677 ===
+No adjuvants mentioned.
+
+=== PMC8712944 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "None mentioned"
+  }
+]
+```
+
+=== PMC8757994 ===
+No adjuvants mentioned.
+
+=== PMC8771143 ===
+No adjuvants mentioned.
+
+=== PMC8778544 ===
+Here is the list of vaccine adjuvants mentioned in the text, along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+Note that there is only one adjuvant mentioned in the text, which is Alum.
+
+=== PMC8795326 ===
+No adjuvants mentioned
+
+=== PMC8828558 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "None mentioned"
+  },
+  {
+    "adjuvant": "ASO4",
+    "immune_response_mechanism": "Improves the magnitude and durability of immune responses"
+  },
+  {
+    "adjuvant": "Aluminum hydroxide",
+    "immune_response_mechanism": "None mentioned"
+  },
+  {
+    "adjuvant": "Toll-like receptor 4 agonists",
+    "immune_response_mechanism": "None mentioned"
+    3-O-desacyl-4′ monophosphoryl lipid A",
+    "immune_response_mechanism": "None mentioned"
+  },
+  {
+    "adjuvant": "Aluminum hydroxyphosphate sulfate",
+    "immune_response_mechanism": "None mentioned"
+  }
+]
+
+=== PMC8853290 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+=== PMC8865753 ===
+No adjuvants mentioned.
+
+=== PMC8954990 ===
+No adjuvants mentioned.
+
+=== PMC8974753 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Cholera toxin (CT)",
+    "immune_response_mechanism": "Co-administered with food proteins through the GI tract to induce sensitization."
+  },
+  {
+    "adjuvant": "Staphylococcal enterotoxin B (SEB)",
+    "immune_response_mechanism": "Co-administered with food proteins through the GI tract to induce sensitization."
+  },
+  {
+    "adjuvant": "CpG",
+    "immune_response_mechanism": "Induces IFN-γ responses from peanut-specific T cells and increases peanut-specific IgG2a."
+  },
+  {
+    "adjuvant": "LPS",
+    "immune_response_mechanism": "Co-administered with peanut to induce allergy and is dependent on MyD88."
+  },
+  {
+    "adjuvant": "Flagellin",
+    "immune_response_mechanism": "Co-administered with peanut to induce allergy."
+  },
+  {
+    "adjuvant": "PAM",
+    "immune_response_mechanism": "Co-administered with peanut to induce allergy."
+  }
+]
+```
+
+=== PMC9017465 ===
+Here is the list of vaccine adjuvants extracted from the input text in JSON format:
+
+```
+[
+  {
+    "adjuvant": "Matrix M",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "AS03",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "CpG 1018",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "CpG 1018",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "QS-21 (ALFQ)",
+    "immune_response_mechanism": "None specified"
+  }
+]
+```
+
+Note that only one adjuvant, QS-21 (ALFQ), is explicitly mentioned as an adjuvant in the input text. The other adjuvants mentioned, such as Matrix M, Alum, AS03, and CpG 1018, are mentioned as adjuvants in the context of specific vaccine candidates, but their exact role or mechanism is not specified.
+
+=== PMC9025045 ===
+No adjuvants mentioned.
+
+=== PMC9124800 ===
+Here is the list of vaccine adjuvants extracted from the input text in JSON format:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+Note that there is only one vaccine adjuvant explicitly described in the input text, which is Alum.
+
+=== PMC9187843 ===
+No adjuvants mentioned
+
+=== PMC9188855 ===
+No adjuvants mentioned.
+
+=== PMC9228553 ===
+Here are the vaccine adjuvants extracted from the input text with their respective immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "CpG",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that the text mentions "DAMPs" (damage-associated molecular patterns) as adjuvants, but it does not specify which DAMPs are used. Therefore, they are not included in the list.
+
+=== PMC9271922 ===
+Here is the list of vaccine adjuvants extracted from the input text:
+
+```
+[
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "CpG ODN",
+    "immune_response_mechanism": "Augments CD8+ T-cell responses and induces both cellular and humoral immune responses."
+  },
+  {
+    "adjuvant": "Resiquimod (R848)",
+    "immune_response_mechanism": "Elicits prominent IFN-α/β and IL-6 responses and robust cytotoxic T-cell and B-cell proliferation."
+  }
+]
+```
+
+Note: The adjuvant "Alum" has an empty "immune_response_mechanism" field, as the text does not provide a clear description of how it works.
+
+=== PMC9282651 ===
+No adjuvants mentioned.
+
+=== PMC9321285 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+
+=== PMC9325128 ===
+Here is the list of vaccine adjuvants extracted from the input text in JSON format:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Not mentioned"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Poly ICLC",
+    "immune_response_mechanism": "Stabilized with carboxymethylcellulose and poly-L-lysine, widely utilized as an adjuvant in therapeutic vaccines against different cancers in more than 50 clinical trials."
+  },
+  {
+    "adjuvant": "CpG ODN",
+    "immune_response_mechanism": "Recognized by TLR9, promoting antigen-specific adaptive immune responses against infectious diseases and cancer."
+  },
+  {
+    "adjuvant": "Riboxxim (RGIC®)",
+    "immune_response_mechanism": "Activated murine and human DC and induces TLR3/RIG-I mediated antitumor immunity, demonstrated great potential in cancer immunotherapy."
+  },
+  {
+    "adjuvant": "Imidazoquinolines",
+    "immune_response_mechanism": "Induces the production of cytokines including interferon-α, tumor necrosis factor-α, and interleukin-1 via TLR7-MyD88-dependent pathway."
+  },
+  {
+    "adjuvant": "5′pppdsRNA",
+    "immune_response_mechanism": "Co-encapsulated with antigen peptides in lipid calcium phosphate nanoparticles, used as a nanovaccine against colorectal cancer and liver metastasis."
+  },
+  {
+    "adjuvant": "Dimethyloxoxanthenyl acetic acid (DMXAA)",
+    "immune_response_mechanism": "Induces the activation of NK cells and tumor-associated macrophages, leading to necrosis in tumors."
+  },
+  {
+    "adjuvant": "Di-ABZI",
+    "immune_response_mechanism": "Elicits comparable binding affinity with human STING but higher potency in STING activation relative to cGAMP, significant and durable tumor regression in CT-26 tumor-bearing mice."
+  }
+]
+```
+
+Note that the "immune_response_mechanism" field is not always explicitly described in the text,
+
+=== PMC9405528 ===
+Here are the vaccine adjuvants mentioned in the text, along with a brief description of their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "R848",
+    "immune_response_mechanism": "TLR7/8 agonist, stimulates innate immune responses and promotes Th1 responses."
+  },
+  {
+    "adjuvant": "CpG",
+    "immune_response_mechanism": "TLR9 agonist, stimulates innate immune responses and promotes Th1 responses."
+  },
+  {
+    "adjuvant": "Dexmedetomidine",
+    "immune_response_mechanism": "not mentioned in the text"
+  },
+  {
+    "adjuvant": "STING agonist",
+    "immune_response_mechanism": "Activates STING signaling pathway, induces type I interferons and proinflammatory cytokines, and promotes innate immune responses."
+  },
+  {
+    "adjuvant": "CpG oligodeoxynucleotides",
+    "immune_response_mechanism": "TLR9 agonist, stimulates innate immune responses and promotes Th1 responses."
+  },
+  {
+    "adjuvant": "R837",
+    "immune_response_mechanism": "not mentioned in the text"
+  }
+]
+```
+
+=== PMC9493399 ===
+Here is the list of adjuvants mentioned in the text, along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Azoximer bromide",
+    "immune_response_mechanism": "Activates melanoma differentiation-associated protein 5 (MDA5) gene expression via effects on toll-like receptor 4 (TLR 4) gene, and direct binding to cellular components of the blood."
+  }
+]
+```
+
+Note that only Azoximer bromide is explicitly described as an adjuvant in the text.
+
+=== PMC9506058 ===
+Here is the list of vaccine adjuvants mentioned in the text with their corresponding immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": ""
+  }
+]
+```
+
+Note: QS-21 adjuvant's immune response mechanism is not explicitly mentioned in the text.
+
+=== PMC9530253 ===
+Here is the extracted information about vaccine adjuvants in the input text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+Note that only one substance, Alum, is explicitly described as an adjuvant in the input text.
+
+=== PMC9654069 ===
+No adjuvants mentioned.
+
+=== PMC9687436 ===
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Not explicitly mentioned"
+  }
+]
+
+=== PMC9697487 ===
+No adjuvants mentioned.
+
+=== PMC9714609 ===
+Here is the list of vaccine adjuvants mentioned in the text with their corresponding immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Montanide",
+    "immune_response_mechanism": "None specified"
+  }
+]
+```
+
+Note that only one adjuvant, Montanide, is explicitly mentioned in the text. The other adjuvants mentioned, such as Alum, MPLA, and QS-21, are not mentioned as adjuvants in the text.
+
+=== PMC9737588 ===
+Here are the vaccine adjuvants mentioned in the text with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Oil in water emulsion (MF59 and AS03)",
+    "immune_response_mechanism": "Elicit a more balanced immune response, possibly by improving antigen uptake, attracting immune cells, and promoting antigen-presenting cell migration."
+  },
+  {
+    "adjuvant": "Toll-like receptors (TLR4 and TLR7)",
+    "immune_response_mechanism": "Induce the production of Interleukin-1, which can activate alveolar macrophages."
+  }
+]
+```
+
+Note that there are no mentions of "Alum" being an adjuvant in the text. It is actually a common aluminum salt used as an adjuvant. The correct information is:
+
+```
+[
+  {
+    "adjuvant": "Aluminum salt",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Oil in water emulsion (MF59 and AS03)",
+    "immune_response_mechanism": "Elicit a more balanced immune response, possibly by improving antigen uptake, attracting immune cells, and promoting antigen-presenting cell migration."
+  },
+  {
+    "adjuvant": "Toll-like receptors (TLR4 and TLR7)",
+    "immune_response_mechanism": "Induce the production of Interleukin-1, which can activate alveolar macrophages."
+  }
+]
+```
+
+=== PMC9772435 ===
+No adjuvants mentioned.
+
+=== PMC9788085 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "R848",
+    "immune_response_mechanism": "Activates dendritic cells and promotes Th1 and Th2 responses."
+  },
+  {
+    "adjuvant": "STING agonist 2, 3-cyclic-GMP-AMP (cGAMP)",
+    "immune_response_mechanism": "Activates STING and promotes Th1 and Th2 responses."
+  },
+  {
+    "adjuvant": "CpG oligonucleotides",
+    "immune_response_mechanism": "Activates Toll-like receptor 9 (TLR9) and promotes Th1 responses."
+  }
+]
+```
+
+Note that some of these adjuvants are not explicitly described as vaccine adjuvants in the text, but they are mentioned as being used in vaccine formulations or as adjuvants in the context of immunotherapy.
+
+=== PMC9810991 ===
+Here is the list of vaccine adjuvants extracted from the input text:
+
+```
+[
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  }
+]
+```
+
+Note that only one substance, MPLA, is explicitly described as an adjuvant in the input text.
+
+=== PMC9857197 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "IC31",
+    "immune_response_mechanism": "Works as a carrier to translocate ODN1a into the cell without cell membrane permeabilisation, and ODN1a acts as an agonist on the TLR9 receptor, that is normally activated by bacterial DNA."
+  },
+  {
+    "adjuvant": "CpG ODN",
+    "immune_response_mechanism": "Toll-like receptor agonist, specifically recognized by Toll-like receptors 9"
+  },
+  {
+    "adjuvant": "Starch",
+    "immune_response_mechanism": "Recognised by C-type lectin DC specific ICAM-3-grabbing nonintegrin, specific for α-glucan and can elicit specific immune response"
+  }
+]
+```
+
+=== PMC9863224 ===
+Here is the list of vaccine adjuvants mentioned in the input text in JSON format:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  }
+]
+```
+
+Only one substance, "Alum", is explicitly described as an adjuvant in the input text.
+
+=== PMC9892189 ===
+Here is the list of vaccine adjuvants mentioned in the text, along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "Alhydroxiquim-II",
+    "immune_response_mechanism": "TLR7/8 agonist, targets draining lymph node."
+  },
+  {
+    "adjuvant": "Advax/CpG55.28",
+    "immune_response_mechanism": "TLR9 agonist, synergistic with carbohydrate Advax7, dose sparing of TLR9 agonist."
+  },
+  {
+    "adjuvant": "Microcrystalline Tyrosine (MCT)",
+    "immune_response_mechanism": "Formulated with MPL, alternative to AS04 adjuvant."
+  },
+  {
+    "adjuvant": "Matrix M",
+    "immune_response_mechanism": Not specified in the text.
+  },
+  {
+    "adjuvant": "Alum-CpG 1018",
+    "immune_response_mechanism": Not specified in the text.
+  }
+]
+```
+
+Note that some of these adjuvants have not been explicitly described in the text as having a specific immune response mechanism, so I have left that field blank.
+
+=== PMC9927404 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Induces endogenous DAMPs, including DNA-based TNAs, that activate nucleic acid sensing pathways."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Not mentioned in the text."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Not mentioned in the text."
+  },
+  {
+    "adjuvant": "AS15",
+    "immune_response_mechanism": "Induces both humoral and cellular immune responses, and agonist of TLR3 and MDA5."
+  },
+  {
+    "adjuvant": "K3 CpG + cGAMP",
+    "immune_response_mechanism": "Induces both humoral and cellular immune responses, and agonist of TLR3 and MDA5."
+  },
+  {
+    "adjuvant": "Poly-IC",
+    "immune_response_mechanism": "Activates TLR3 and MDA5, and stimulates immune response."
+  },
+  {
+    "adjuvant": "Poly-ICLC (Hiltonol)",
+    "immune_response_mechanism": "Activates TLR3 and MDA5, and stimulates immune response."
+  },
+  {
+    "adjuvant": "Poly-IC12U (Ampligen)",
+    "immune_response_mechanism": "Activates TLR3 and MDA5, and stimulates immune response."
+  },
+  {
+    "adjuvant": "3M-052",
+    "immune_response_mechanism": "Formulated in a lipid-based nanoparticle (3M-052-AF), is being evaluated as an adjuvant for a preventive HIV vaccine."
+  }
+]
+```
+
+=== PMC9935699 ===
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Promotes Th2-type immunity and B cell differentiation, leading to tremendous antibody production"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses"
+  },
+  {
+    "adjuvant": "QS-21",
+    "immune_response_mechanism": "Facilitates cytosolic or vacuole pathways of cross-presentation"
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": "Facilitates cytosolic or vacuole pathways of cross-presentation"
+  },
+  {
+    "adjuvant": "AS04",
+    "immune_response_mechanism": "Upregulates potent humoral (Th2) and cellular (Th1) immune responses"
+  },
+  {
+    "adjuvant": "CBP-12",
+    "immune_response_mechanism": "Elicits both strong cytotoxic CD8+ T cell and antibody responses"
+  }
+]
+```
+
+=== PMC9962240 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "Aluminum hydroxide",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "Glucopyranosyl lipid A",
+    "immune_response_mechanism": ""
+  },
+  {
+    "adjuvant": "TLR-4 agonist",
+    "immune_response_mechanism": ""
+  }
+]
+```
+
+Note that Aluminum hydroxide and Glucopyranosyl lipid A are mentioned as adjuvants, but their mechanisms of action are not explicitly described in the text. TLR-4 agonist is also mentioned as an adjuvant, but its mechanism of action is not described.
+
+=== PMC9964829 ===
+Here is the list of vaccine adjuvants mentioned in the text along with their immune response mechanisms:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses."
+  },
+  {
+    "adjuvant": "α-GalCer",
+    "immune_response_mechanism": "Strongly enhances antigen-specific antibody responses following oral coadministration with Dukoral® in a mice model."
+  }
+]
+```
+
+Note: α-GalCer is mentioned in the context of being an effective inducer of natural killer T cells (NKT) and an adjuvant to elicit T-cell immune response to viruses, but its exact immune response mechanism is not explicitly described in the text.
+
+=== PMC9979891 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Toll-like receptor agonist complexed with aluminum"
+  },
+  {
+    "adjuvant": "AS03",
+    "immune_response_mechanism": "α-tocopherol, squalene and polysorbate 80 in an oil-in-water emulsion"
+  },
+  {
+    "adjuvant": "CpG",
+    "immune_response_mechanism": "Toll-like receptor agonist complexed with aluminum"
+  }
+]
+```
+
+Note: CpG and AS03 are adjuvants, but Alum is mentioned as a complexed form with CpG, and AS03 is mentioned as a formulation containing α-tocopherol, squalene, and polysorbate 80. However, for the purpose of this task, they are all considered adjuvants.
+
+=== PMC9998285 ===
+Here is the list of vaccine adjuvants mentioned in the text:
+
+```
+[
+  {
+    "adjuvant": "AS03",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "CpG 1018",
+    "immune_response_mechanism": "Engages TLR4 pathway to promote Th1 responses"
+  },
+  {
+    "adjuvant": "MPLA",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "Aluminum phosphate",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "Alum",
+    "immune_response_mechanism": "Activates NLRP3 inflammasome and forms a depot for slow antigen release."
+  },
+  {
+    "adjuvant": "MF59",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "Alhydrogel",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "Adju-Phos",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "SAS",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "Poly-IC, squalene emulsion",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "Aluminum hydroxide",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "CpG-1826",
+    "immune_response_mechanism": "Not explicitly described"
+  },
+  {
+    "adjuvant": "Sigma Adjuvant System",
+    "immune_response_mechanism": "Not explicitly described"
+  }
+]
+```
+
+Note that some of the adjuvants have mechanisms of action described in the text, but this information is not explicitly stated for all of them.
+

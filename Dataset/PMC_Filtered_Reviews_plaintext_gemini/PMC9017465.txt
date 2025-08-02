@@ -1,0 +1,163 @@
+Title: New Generation Vaccines for COVID-19 Based on Peptide, Viral Vector, Artificial Antigen Presenting Cell, DNA or mRNA
+
+SARS-CoV-2, as the third zoonotic coronavirus after SARS-CoV and MERS-CoV causes an acute respiratory disease 1,2. Because of similar structure and gene homology (75–80% to SARS-Cov, 50% to MERSCov) this new emergent virus was named SARS CoV-23. In addition, the receptor of SARS-CoV-2 spike protein to bind to a host cell is the same as the SARS-CoV spike one and is known as the Angiotensin-Converting Enzyme 2 (ACE2) 4. Virus attachment to the host cell, subsequent infection, antigen presenting and prevention of infection of the SARS CoV-2 is described in a simple schematic figure (Figure 1).
+
+Schematic illustration of viral vector vaccines against SARS CoV-2 and prevention of infection. Intramuscular (IM), Electroporation (EP).
+
+Since the SARS-Cov-2 emerged and caused a novel disease in 2019, scientists from all over the world have been on the research to overcome this pandemic. Many efforts in regard to COVID-19 vaccines started with the development of vaccines from various platforms against SARSCoV-2 infection. Different categories of the developing vaccine candidates are shown in figure 2. Most of them are based on the protein subunit specially the S-protein of SARSCoV-2 5.
+
+Different categories of SARS-CoV-2 Vaccines. Source: ClinicalTrials.gov website; WHO.
+
+These current vaccine candidates developed based on various platforms, including Inactivated Viral vaccines (IV), Live Attenuated Viral vaccines (LAV), peptide or subunit based vaccines, Virus-Like Particles (VLP), replicating viral vector vaccines, on-replicating viral vector vaccines, and DNA or mRNA-based vaccines. Two classical vaccines such as LAV and IV vaccines have high potential to elicit a protective immune response, while some limitations are associated with an infection and LAV vaccines can revert to wild type 6.
+
+The aim of this study was to focus on the new platforms of the current vaccine candidates. New vaccine strategies based on recombinant DNA and peptide technology would have more safety and stability than the current vaccine strategies and would promise the manufacture and development of new generation of vaccines in a more predictable approach 6,7. Some of these new generation platforms of vaccines are introduced in this study and include peptide based, nucleic acid based (DNA or RNA), viral vector and artificial Antigen Presenting Cells (aAPC) based vaccines 6.
+
+Peptide vaccines are designed based on a single or highly immunogenic small epitopes. Most of COVID-19 candidate vaccines were designed based on protein subunit specially using the SARS-CoV-2 spike protein (S protein) or part of it as the immunogenic antigen. The glycoprotein S consists of S1 and S2 subunits. The Receptor Binding Domain (RBD) of the S protein potentially attaches to the receptor (ACE2) of the host cell 8.
+
+The following vaccines based on peptide subunit are conducted in clinical phase III for the prevention of COVID-19 (the registration numbers are included in table 1):
+Table 1.Protein subunit vaccines, curent clinical phasesVaccines typesStrategy of designClinical phaseSARS-CoV-2 rS/Matrix M1-Adjuvant(Full length recombinant SARS CoV-2 glycoprotein nanoparticle vaccine adjuvant with Matrix M)Phase 2 and 3Recombinant SARS-CoV-2 vaccine(CHO Cell)Phase 2 and 3SCB-2019 + AS03 or CpG 1018 adjuvant(Native like Trimeric subunit Spike Protein vaccine) plus Alum adjuvantphase 3COVAX-19®Recombinant spike protein + adjuvantPhase 1/2MF59Adjuvanted SARS-CoV-2 Sclamp vaccinePhase 2MVC-COV1901(Spike-2P protein + adjuvant CpG 1018)Phase 1/2 and Phase 2FINLAY-FR1 anti-SARS-CoV-2 Vaccine(RBD + adjuvant)Phase 1/2 and Phase 2FINLAY-FR-2 anti-SARS-CoV-2 Vaccine(RBD chemically conjugated to tetanus toxoid plus adjuvant)Phase 2 and 3EpiVacCorona(EpiVacCorona vaccine based on peptide antigens for the prevention of COVID-19)Phase 2 and 3Recombinant SARS-CoV-2 vaccine (Sf9 Cell)RBD (baculovirus production expressed in Sf9 cells) Recombinant SARS-CoV-2 vaccine (Sf9 Cell)Phase 2IMP CoVac-1(SARS-CoV-2 HLA-DR peptides)Phase 1UB-612(Multitope peptide based S1-RBD-protein based vaccine)Phase 2 and 2/3AdimrSC-2f(Recombinant RBD +/− Aluminium)Phase 1CIGB-669(RBD+AgnHB)Phase 1/2CIGB-66(RBD+aluminium hydroxide)Phase 1/2 and phase 3Recombinant Sars-CoV-2 vaccineSpike protein, Aluminum adjuvantPhase 1/2Recombinant protein vaccine S-268019(Using Baculovirus expression vector system)Phase 1/2SARS-CoV-2-RBD-Fc fusion proteinPhase 1/2COVAC-1 and COVAC-2 sub-unit vaccine(Spike protein) + SWE adjuvantPhase 1/2GBP510A recombinant surface protein vaccine with adjuvant AS03 (Aluminium hydroxide)Phase 1/2Razi Cov ParsRecombinant spike proteinPhase 1MF59Adjuvanted SARS-CoV-2 Sclamp vaccinePhase 1SpFN (spike ferritin nanoparticle)Uses spike proteins with a liposomal formulation QS21 (ALFQ) adjuvantPhase 1EuCorVac-19A spike protein using the recombinant protein technology and with an adjuvantPhase 1/2ReCOVRecombinant two-component spike and RBD protein COVID-19 vaccine (CHO cell)Phase 1Recombinant SARS-CoV-2 Fusion Protein Vaccine (V-01)Fusion Protein VaccinePhase 2
+Source: ClinicalTrials.gov website; WHO.
+- The Full length recombinant SARS CoV-2 glycoprotein S vaccine adjuvanted with Matrix M- The Recombinant SARS-CoV-2 vaccine (CHO Cell) in which the RBD chemically conjugates to tetanus toxoid plus adjuvant)- The CIGB-66 vaccine based on RBD plus aluminium hydroxide adjuvant- EpiVacCorona vaccine in which short fragments of a viral spike protein are conjugated to a large carrier protein (has just been approved and no published article could be found).
+
+Table 1.: Protein subunit vaccines, curent clinical phases
+Vaccines types | Strategy of design | Clinical phase
+--------------------------------------------------
+SARS-CoV-2 rS/Matrix M1-Adjuvant | (Full length recombinant SARS CoV-2 glycoprotein nanoparticle vaccine adjuvant with Matrix M) | Phase 2 and 3
+Recombinant SARS-CoV-2 vaccine | (CHO Cell) | Phase 2 and 3
+SCB-2019 + AS03 or CpG 1018 adjuvant | (Native like Trimeric subunit Spike Protein vaccine) plus Alum adjuvant | phase 3
+COVAX-19® | Recombinant spike protein + adjuvant | Phase 1/2
+MF59 | Adjuvanted SARS-CoV-2 Sclamp vaccine | Phase 2
+MVC-COV1901 | (Spike-2P protein + adjuvant CpG 1018) | Phase 1/2 and Phase 2
+FINLAY-FR1 anti-SARS-CoV-2 Vaccine | (RBD + adjuvant) | Phase 1/2 and Phase 2
+FINLAY-FR-2 anti-SARS-CoV-2 Vaccine | (RBD chemically conjugated to tetanus toxoid plus adjuvant) | Phase 2 and 3
+EpiVacCorona | (EpiVacCorona vaccine based on peptide antigens for the prevention of COVID-19) | Phase 2 and 3
+Recombinant SARS-CoV-2 vaccine (Sf9 Cell) | RBD (baculovirus production expressed in Sf9 cells) Recombinant SARS-CoV-2 vaccine (Sf9 Cell) | Phase 2
+IMP CoVac-1 | (SARS-CoV-2 HLA-DR peptides) | Phase 1
+UB-612 | (Multitope peptide based S1-RBD-protein based vaccine) | Phase 2 and 2/3
+AdimrSC-2f | (Recombinant RBD +/− Aluminium) | Phase 1
+CIGB-669 | (RBD+AgnHB) | Phase 1/2
+CIGB-66 | (RBD+aluminium hydroxide) | Phase 1/2 and phase 3
+Recombinant Sars-CoV-2 vaccine | Spike protein, Aluminum adjuvant | Phase 1/2
+Recombinant protein vaccine S-268019 | (Using Baculovirus expression vector system) | Phase 1/2
+SARS-CoV-2-RBD-Fc fusion protein |  | Phase 1/2
+COVAC-1 and COVAC-2 sub-unit vaccine | (Spike protein) + SWE adjuvant | Phase 1/2
+GBP510 | A recombinant surface protein vaccine with adjuvant AS03 (Aluminium hydroxide) | Phase 1/2
+Razi Cov Pars | Recombinant spike protein | Phase 1
+MF59 | Adjuvanted SARS-CoV-2 Sclamp vaccine | Phase 1
+SpFN (spike ferritin nanoparticle) | Uses spike proteins with a liposomal formulation QS21 (ALFQ) adjuvant | Phase 1
+EuCorVac-19 | A spike protein using the recombinant protein technology and with an adjuvant | Phase 1/2
+ReCOV | Recombinant two-component spike and RBD protein COVID-19 vaccine (CHO cell) | Phase 1
+Recombinant SARS-CoV-2 Fusion Protein Vaccine (V-01) | Fusion Protein Vaccine | Phase 2
+
+Protein subunit vaccines, curent clinical phases
+
+Source: ClinicalTrials.gov website; WHO.
+
+- The Full length recombinant SARS CoV-2 glycoprotein S vaccine adjuvanted with Matrix M
+
+- The Recombinant SARS-CoV-2 vaccine (CHO Cell) in which the RBD chemically conjugates to tetanus toxoid plus adjuvant)
+
+- The CIGB-66 vaccine based on RBD plus aluminium hydroxide adjuvant
+
+- EpiVacCorona vaccine in which short fragments of a viral spike protein are conjugated to a large carrier protein (has just been approved and no published article could be found).
+
+Thus, they might be advantageous due to targeting immunodominant epitopes which induce more immune responses based on neutralizing antibodies instead of larger proteins or whole inactivated virus 9; safety during production, and safely administered to immuno-suppressed people 10. In addition, these vaccine candidates are not potentially infectious compared to the whole virus 8. Nonetheless, the T cell mediated immune response elicited by peptide based vaccine might be weaker in comparison to inactivated or live attenuated virus 11. Actually, adjuvants are required to enhance antigen presenting to the host immune cells and improve the vaccine efficacy especially long term protection. Other disadvantages of the peptide based vaccines include: diminished uptake by Antigen Presenting Cells (APC) because of the small size of antigens, requiring more booster doses and adjuvants causing low immunogenicity, non-eliciting cellular responses, requiring confirmation of antigen integrity and restricting production due to low scalability 10.
+
+Several viral vector based vaccines are available and divided as replicating and non-replicating viral vectors including adenoviruses and poxviruses. In the non-replicating type of viral vector based vaccines, a safe virus with an attenuated state can deliver the desired antigen and trigger a protective immune response (both cell- and antibody-mediated) without any replication in host cell 12.
+
+Furthermore, viral vectored vaccines present the desired antigens and mimic a natural infection. The current COVID-19 vaccine based on the non-replicating and replicating viral vectors are shown in tables 2 and 3, respectively. Thus, these types of vaccines can provide a potent immune response due to inducing cytokines and co-stimulatory molecules. Finally, viral vectored vaccines provide long lasting expression of target genes in vivo compared to DNA vaccines 12.
+
+Table 2.: Viral vector (non-replicating) vaccines, clinical trials. Source: ClinicalTrials.gov website; WHO
+Vaccines types | Strategy of Design | Clinical Phase
+--------------------------------------------------
+ChAdOx1-S - (AZD1222) (Covishield) | Non-replicating ChAdOx1 Vector Vaccine make Spike glycoprotein (S) | Phase 2/3, 3
+Recombinant novel coronavirus vaccine | Adenovirus type 5 vector | Phase 2, 3
+Gam-COVID-Vac | Adeno-based (rAd26-S+rAd5-S) | Phase 2/3, 3
+GRAd-COV2 | Replication defective Simian Adenovirus (GRAd) encoding S | Phase 2/3
+VXA-CoV2-1 | Ad5 adjuvanted Oral Vaccine platform | Phase 1
+Human Adenovirus Type 5 | hAd5 S+N vaccine (S-Fusion + N-ETSD). E2b- Deleted Adeno | Phase 1, 1/2
+COH04S1 (MVA-SARS-2-S) | Modified vaccinia ankara (sMVA) platform + synthetic SARS-CoV-2 | Phase 1
+Chimpanzee Adenovirus serotype 68 (ChAd) | Self-amplifying mRNA (SAM) vectors expressing spike alone, or spike plus additional SARS-CoV-2 T cell epitopes | Phase 1
+COVIVAC | Newcastle Disease Virus (NDV) expressing membrane-anchored pre-fusion-stabilized trimeric SARS-CoV-2 S protein +/− adjuvant CpG 1018 | Phase 1/2
+SC-Ad6-1 | Adneviral vector vaccine | Phase 1
+
+Viral vector (non-replicating) vaccines, clinical trials. Source: ClinicalTrials.gov website; WHO
+
+Table 3.: Viral vector (replicating) vaccines, clinical trial
+Vaccines types | Strategy of Design | Clinical Phase
+--------------------------------------------------
+DelNS1-2019-nCoV-RBD-OPT1 | Intranasal flu-based-RBD | Phase 1 and 2
+Covid-19/aAPC vaccine | The Covid-19/aAPC vaccine is prepared by applying lentivirus modification with immune modulatory genes and the viral minigenes to the artificial antigen presenting cells (aAPCs) | Phase 1
+Dendritic cell vaccine AV-COVID-19 | A vaccine consisting of autologous dendritic cells loaded with antigens from SARS-CoV-2, with or without GM-CSF | Phase 1, 1/2
+AdCLD-CoV19 | Adenovirus vector | Phase 1/2
+BBV154 | Adenoviral vector COVID-19 vaccine | Phase 1
+NDV-HXP-S | Newcastle disease virus (NDV) vector expressing the spike protein of SARS-CoV-2, with or without the adjuvant CpG 1018 | Phase 1/2
+
+Viral vector (replicating) vaccines, clinical trial
+
+Source: ClinicalTrials.gov website; WHO.
+
+Adenoviruses as a non-replicating viral vectors are simple to produce (in 2 weeks it could be enough to treat a thousand mice and dozens of monkeys with a novel adenoviruses vaccine), easy to purify to high titer, genetically stable, easily stockpiled, relatively inexpensive, and can be delivered via aerosol, oral, intra dermal, and intramuscular routes. The aerosol route is considerably applicable when targeting a respiratory virus due to eliciting protective immune responses. It is also worth noting that viral vector vaccines tend to induce a robust response in both B cells and T cells 13 with a single dose and a good safety profile 10.
+
+Common to some vaccines, adverse effects of viral vector vaccines include fever, pneumonia, diarrhea, transient neutropenia and lymphopenia, fatigue, labored breathing, headaches, liver damage, and fasting hyperglycemia. It should be noted that rare but grave adverse side effects include Bell’s palsy, Guillain-Barre syndrome, gait disturbance, transverse myelitis, and an inflammatory condition in the spinal cord 13.
+
+The most successful type of COVID-19 vaccine based on non-replicating viral vector is ChAdOx1-S-(AZD1222) under the brand names Covishield as mentioned in table 2 with high efficacy (76.0% following the first dose and 81.3% at the second dose) 14.
+
+The Dendritic Cells (DCs) are the most professional and specialized APCs that can be very efficient in activating T cells 15. In situ delivery of cargo to DCs could be beneficial owing to a new standardized generation of vaccines with efficient scalability, stability, and more ability to induce humoral immune response vs. cell mediated immunity and high safety with low risk of adverse reactions through reducing the administered dose 16. However, usage of the aAPC based vaccines have been limited because the process of isolation of specific DCs in this approach is labor-intensive and expensive 17. In addition, the widespread use of aAPCs could be restricted by the fact that for definition and selection of MHC/peptide complexes identification of immunogenic antigens is required 18,19.
+
+LV-SMENP-DC vaccine is in phase 1/2 clinical trials with registration ID NCT04276896 as clinical trials.gov reported (Table 2). Lent viral synthetic mini-gene vaccine is based on the selected, conserved and critical antigenic protein domain of SARS-CoV-2. In this approach, the DC is modified with LVs expressing SARS-CoV-2 minigene SMENP. Finally, the antigen specific CTLs will be stimulated by LV-DC expressing the desired antigens.
+
+Nucleic acid-based vaccines can be classified as DNA or mRNA based vaccines that are capable to induce both humoral and cellular immune responses, but several doses are required 6. Nucleic acid-based vaccines are likely to be the first priority of COVID-19 vaccines for entering clinical trials owing to their rapid adaptation to new emergence of virus 6. The list of current vaccines based on the nucleic acid is shown in table 4.
+
+Table 4.: DNA or RNA based vaccines, clinical trial
+Vaccines types | Strategy of Design | Clinical Phase
+--------------------------------------------------
+mRNA-1273 | A lipid nanoparticle–encapsulated, nucleoside-modified messenger RNA that encodes the spike glycoprotein | Phases1/2, 2, 2/3 and 4
+BNT162b2 | Nucleoside-modified RNA, contained within a lipid nanoparticle, which encodes the full-length spike | Phases1/2, 2, 2/3 and 4
+CVnCoV Vaccine | An optimized, non-chemically modified mRNA, encoding the prefusion stabilized full-length spike protein, formulated within Lipid Nano-particles (LNPs) | Phases 2, 2/3, 3
+ARCT-021 | self-transcribing and replicating mRNA (STARR™) with LUNAR® lipid-mediated delivery technology | Phases1/2, 2
+LNP-nCoVsaRNA | A purified, synthetic mRNA vaccine candidate encoding the S glycoprotein | Phase 1
+SARS-CoV-2 mRNA vaccine (ARCoV) | A nucleoside-modified mRNA vaccine in lipid-encapsulated form that encoded the SARS-CoV-2 RBD (mRNA-RBD) | Phases 1, 2, 3
+ChulaCov19 mRNA vaccine | SARS-Cov2 Wild-type S-spike mRNA/lipid nanoparticle (LNP) vaccine | Phase 1
+CoV2 SAM (LNP) vaccine. | A self-amplifying mRNA (SAM) lipid nanoparticle (LNP) platform + Spike antigen | Phase 1
+mRNA-1273.351. | A lipid nanoparticle (LNP)-encapsulated mRNA-based vaccine that encodes for a full-length, prefusion stabilized S protein of the SARS-CoV-2 B.1.351 variant | Phase 1, 2, 4
+MRT5500, | An mRNA vaccine candidate | Phase 1/2
+HDT-301 | Self-replicating mRNA vaccine formulated as a lipid nanoparticle | Phase 1
+Covigenix VAX-001 | DNA vaccines + proteo-lipid vehicle (PLV) formulation | Phase 1
+CORVax | Spike (S) Protein Plasmid DNA Vaccine | Phase 1
+bacTRL | Spike oral DNA vaccine | Phase 1
+COVID-eVax | A candidate plasmid DNA vaccine of the Spike protein | Phase 1/2
+
+DNA or RNA based vaccines, clinical trial
+
+Source: ClinicalTrials.gov website; Covid19.trackvaccines.org, WHO.
+
+DNA vaccines contain a DNA construct that codes for specific antigenic protein from a pathogen. The genetically engineered plasmid containing the DNA sequence is injected into the body and taken up by cells. Then, the antigenic protein is synthesized from the DNA construct based on the genetic code.
+
+Like live or attenuated viruses, DNA vaccines effectively elicit both MHC-I and MHC-II pathways allowing the stimulation of the CD8+ and CD4+ T cells 20 and inducing both humoral and cell-mediated immune responses 21. Some advantages of the DNA based vaccines are efficient scalability, fast design and development, and being extremely safe 10. Additional advantages of the DNA based vaccines are introduction of a vector encoding different antigens in a single vaccine; low-cost production, and high storage stability 22,23. In addition, no infectious agent handling is required and it can also induce humoral and cellular responses 10.
+
+In comparison to protein vaccines, DNA vaccines are considered to be low-cost vaccines. DNA vaccines can enhance stability for transportation and can be administered to immunocompromised patients 24. DNA based vaccine is known as a new successful approach, but the widespread use of DNA vaccination is limited due to its poor efficacy 25,26, and low immunogenicity and may require multiple booster doses 24. Currently, there is no nucleic acid vaccine approved. DNA vaccines require a special delivery platform 10. Despite the fact that clinical trials using DNA vaccines in humans elicit both cellular and humoral responses, these responses are often not sufficient to prompt significant clinical benefits. Consequently, DNA vaccines have only been licensed for use in veterinary medicine21,23,27.
+
+Nevertheless, it would be important to focus on DNA vaccine optimization and delivery, including promoter design, codon optimization, adjuvants for use in humans, use of electroporation, and prime/boost immunization for refined vaccine design 28. Regarding DNA vaccine administration, studies have shown that in vivo immune responses can be improved due to increased antigen delivery by electroporation (up to 1000-fold greater than delivery of naked DNA alone) 29. New advances have been reported in the immunization routes 30, for example the intradermal electroporation DNA delivery showed well tolerated, dose sparing and improving humoral immune responses in comparison to conventional intramuscular electroporation 31,32.
+
+nCov vaccine as DNA based vaccine against COVID-19 is in phase 3 of clinical trials with registration ID nCov vaccine CTRI/2020/07/026352 (Table 4) and two others (CTRI/2020/07/026352; CTRI/2021/03/032051) are in phase 1/2 (Table 4).
+
+mRNA-based vaccines are similar to DNA vaccines, except that the transcriptional stage is eliminated 6. mRNA based vaccines are beneficial in comparison with conventional vaccines (e.g. subunit, killed and live attenuated virus, as well as DNA-based vaccines) because of its high potential for low cost production with high yields of in vitro transcription, fast development and safe and repeated administration. Easy and uncomplicated formulation of mRNA into carrier molecules such as lipid nanoparticles, causes fast uptake and expression and finally enables entry of the mRNA into cells 33.
+
+mRNA-based vaccines represent naturally immunostimulatory activity which is recognized by all cell surfaces, endosomal and cytosolic immune receptors. It also could provide adjuvant activity and thus elicit strong T and B cell immune responses 34. mRNA vaccines can be considered as highly safe vaccines because there is extremely low risk of infection or muta-genesis. mRNA based vaccines could be restricted due to difficult condition of storage and transporting and may need extremely low temperatures. mRNA vaccines exhibit instability and require storage at <−20° C34.
+
+High efficacy of mRNA based vaccines would be achieved owing to more stability of mRNA and high translatability through various modifications in mRNA structure. Additionally, degradation of mRNA has been normally done by cellular processes, and in vivo half-life of mRNA can be increased through these modifications 35.
+
+It is crucial to consider that unmodified mRNA itself is considerably sensitive, rapidly degradable, and highly immunogenic with high probability of activating a variety of pathogen-associated molecular pattern sensors 34. Researchers showed that some modifications to nucleosides in mRNA molecules could improve the translatability and safety of mRNA vaccines as well as half-life 36. They reported that the incorporation of N1-methyl-pseudouridine (m1Ψ) in place of uridine increased the translatability (10-fold) over unmodified mRNA. This m1Ψ mRNA modification was included in the vaccine designing of two recently licensed mRNA vaccines mRNA-1273 and BNT162b2 37–39.
+
+As shown in figure 3, new research by Lombardi et al showed that the BNT162b2 (Pfizer) and mRNA-1273 (MODERNA/NIH) vaccines displayed an excellent efficacy (94%) 40. Safety data of mRNA BNT-162b2 and mRNA-1273 vaccines indicated that these vaccines are safe without any adverse reactions or health complications 38,39. Self-replicating RNA vaccines have high potency to express more antigens per cell and stimulate protective immune response with lower dose in comparison with classic RNA vaccines 41.
+
+Sinovac efficacy trials have announced efficacies (for the same product) of 50%, 65%, 78% and 91% 12,26.
+
+Appearance of various subtypes of SARS-COV-2 virus due to different mutations, antigenic shift and antigenic drift may allow the virus to deceive the immune system even after the administration of the vaccine and offer insights into virus evolution. Dorp et al detected 198 mutations of SARS-COV-2 from the 7500 positive samples which caused the emergence of this novel virus with genomic diversity. Therefore, it can be concluded that these 198 mutations, which originated separately may indicate the evolution of the virus within the human host 42.
+
+Another point to consider is that, the benefits of an effective vaccine must outweigh the attributed known risks before its administration. Moreover, both safety and efficacy of the vaccine can be considered at least one year after administration. It is impossible to predict which types of candidate vaccines will be successful without running large-scale clinical trials.
+
+In addition, the effectiveness of every vaccine, regardless of its targeting abilities, is also characterized by the dose, size, surface charge, cargo, using adjuvants, route of administration, and the species to which it is delivered.
+
+Future directions of the COVID-19 vaccine must consider the optimizations of the COVID-19 vaccine which are known as the durability, dose, schedule and boosters; the effectiveness of the vaccine (Real word evidence or Herd immunity); safety (long term) and also the surveillance of the new subtypes (mutants) of virus.

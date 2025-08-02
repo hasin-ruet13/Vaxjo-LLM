@@ -1,0 +1,2359 @@
+Title: Synthetic Glycans to Improve Current Glycoconjugate
+Vaccines and Fight Antimicrobial Resistance
+
+Vaccination is one of the most impactful medical strategies protecting
+human health, and it has been shown to be the most effective intervention
+to control infectious diseases.1 Carbohydrates,
+surrounding the surface of bacteria and fungi, play important roles
+in the establishment of infection, acting as virulence factors but
+also hiding the microorganisms from the immune system of the host
+and activating inflammatory responses. For these reasons, cell surface
+polysaccharides have been targeted for the development of bacterial
+vaccines. A first generation of polysaccharide-based vaccines against meningococcus, pneumococcus, and Haemophilus influenzae type b (Hib) was licensed between
+the ’70s and the early ’80s and demonstrated to be efficacious
+in adults. However, these vaccines failed to provide adequate protection
+in infants and children under two years of age, which are the populations
+at higher risk of infections.2,3 The introduction of
+glycoconjugate vaccines, composed of a carbohydrate covalently linked
+to a carrier protein, has overcome this limitation, by raising a carbohydrate
+directed T-cell-dependent immune response,4 ensuring efficaciousness in children and the elderly. Today commercial
+glycoconjugate vaccines are available to prevent bacteremia, pneumonia,
+and meningitidis caused by Streptococcus pneumoniae, Haemophilus influenzae type b, and Neisseria
+meningitidis in infants. Recently, the FDA approved the PCV15
+and PCV20 pneumococcal vaccines from Merck and Pfizer,5,6 containing 15 or 20 different serotypes, that have shown an impact
+in reducing noninvasive illnesses such as acute otitis media, nonbacteremic
+pneumonia, and sinusitis.7 A conjugate
+vaccine against typhoid fever caused by Salmonella Typhi,8 showing high protectivity and
+a sustained immune response in children as young as six months of
+age, has also been licensed. The glycoconjugate vaccines licensed
+to date by the Food and Drug Administration (FDA) and European Medicines
+Agency (EMA) are shown in Table 1. All marketed vaccines are based on the chemical conjugation
+of capsular polysaccharides, and because of their capacity to control
+a variety of bacterial infections, more vaccines targeting unmet medical
+needs are either under development at a preclinical level or in clinical
+trials (Table 2).8 Over the last two years the world has seen the
+SARS-Cov2 pandemic become a major scourge, and the preparedness for
+future pandemics has become a priority for governments. The emergence
+of antimicrobial resistance (AMR) can be considered a silent pandemic
+that could lead to consequences far more deadly than COVID-19.9 The threat of AMR undermines progress in health
+care, food production, and life expectancy and can have a major impact
+on society. Reports from the Center for Disease Control (CDC)10 and the European Antimicrobial Resistance Surveillance
+Network (EARS-Net)11 have identified different
+microorganisms, including the bacteria Acinetobacter baumannii,
+Clostridioides difficile, Escherichia coli, Enterococcus faecium, Klebsiella pneumoniae, Neisseria gonorrhoeae, Pseudomonas aeruginosa, non-typhoidal Salmonella, and Staphylococcus
+aureus and the fungus Candida auris, as
+serious AMR threats.12 Others, such as
+group A and B Streptococci, are classified as concerning
+threats. As the diseases associated with these pathogens are currently
+not prevented by vaccination, the identification of novel candidates
+is becoming an urgent need.13 Vaccination
+appears to be less vulnerable to genetic evolution and, consequently,
+to resistance, as compared to antibiotic treatment, and it can also
+provide protection for individuals who are not vaccinated through
+herd immunity.14,15 Different from the currently
+commercialized glycoconjugate vaccines, which are generally administered
+to healthy individuals to prevent the disease, vaccines against AMR
+pathogens should provide a fast and robust immune response also in
+a nosocomial setting or in subjects with underlying conditions, for
+example to combat the carbapenem-resistant K. pneumoniae, that often occurs in hospitalized older adult patients.16
+
+Table 1: Glycoconjugate Vaccines
+Licensed by
+the FDA, EMA, and WHO
+Pathogen | Commercial trade name/manufacturer | Carrier protein | Saccharide
+chain length | Conjugation chemistry | Approved by
+--------------------------------------------------
+Haemophilus influenzae type B | ActHIB/Sanofi Pasteur (monovalent) | TT | Native polysaccharide | Information not available | FDA/EMA
+Hexyon/Sanofi Pasteur* (Hib-TT ads, DT, TT, aP, hepatitis B rDNA and inactivated poliomyelitis at 6 months)
+Hexaxim/Sanofi Pasteur* (Hexavalent composition of Hib-TT ads, DT, TT, aP, HBsAg and inactivated poliovirus indicated as boost)
+Hiberix/GSK | TT | Native polysaccharide | Reductive amination | FDA/EMA
+Quinvaxem/Berna* (Pentavalent fully liquid formulation containing DT, TT, PT, HBsAg and Hib conjugate ads)* | CRM197 | Oligosaccharide | Active ester chemistry | FDA
+PedvaxHIB/Merck | OMPC | Native polysaccharide | Information not available | FDA
+Vaxelis/Sanofi Pasteur & Merck* (Hexavalent fully liquid composition of DT, TT, Bordetella pertussis antigens: PT, filamentous haemagglutinin, pertactin, fimbriae Types 2 and 3; HBsAg; poliovirus (inactivated): Hib-OMPC conjugate | OMPC | Native polysaccharide | Information not available | FDA/EMA
+Infanrix/GSK* (Hexavalent composition of Pediarix-DPT, TT, acellular pertussis, rDNA HBV, inactivated IPV- and Hib-TT on AlOH) | TT | Native polysaccharide | Reductive amination | EMA
+QuimiHib/CIGB | TT | Synthetic oligosaccharide | Thiol-maleimide addition | WHO
+Neisseria meningitidis serogroup C | NeisVac-C/Pfizer | TT | Native polysaccharide | Reductive amination | FDA/EMA
+Meningitec/Nuron Biotech | CRM197 | Oligosaccharide | Reductive amination | FDA/EMA
+Menjugate/GSK | CRM197 | Oligosaccharide | Active ester chemistry | FDA/EMA
+Menitorix/GSK (with Hib) | TT | Native polysaccharide | Information not available | FDA/EMA
+Neisseria meningitidis serogroup CY | MenHibrix/GSK (with Hib) | TT | Native polysaccharide | Information not available | FDA/EMA
+Neisseria meningitidis serogroup ACWY | MenQuadfi/Sanofi Pasteur | TT | Replaced Menactra that was based on depolymerized polysaccharide. It could be now based on a longer PS | Information not available | FDA/EMA
+Fully liquid formulation
+Menveo/GSK | CRM197 | Oligosaccharide | Active ester chemistry | FDA/EMA
+Fully liquid under approval
+Nimenrix/Pfizer | TT | Native polysaccharide (microfluidized) | CDAP-ADH-EDAC | FDA/EMA
+Streptococcus pneumoniae PCV10, serogroup (1, 4, 5, 6B, 7F, 9 V, 14, 18C, 19F, 23F) | Synflorix/GSK | NTHi PD, DT, TT | Native polysaccharide (microfluidized) | CDAP | FDA/EMA
+Streptococcus pneumoniae serogroup 1, 3, 4, 5, 6A, 6B, 7F, 9 V, 14, 18C, 19A, 19F, 23F | Prevnar PCV13/Pfizer | CRM197 | Native polysaccharide | Reductive amination | FDA/EMA
+Streptococcus pneumoniae serogroup 1, 3, 4, 5, 6A, 6B, 7F, 8, 9 V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F, 33F | Prevnar PCV20/Pfizer | CRM197 | Native polysaccharide | Reductive amination | FDA (approved in June 21)
+Streptococcus pneumoniae serogroup 1, 3, 4, 5, 6A, 6B, 7F, 9 V, 14, 18C, 19F, 19A, 22F, 23F, 33F | Vaxneuvance PCV15/Merck | CRM197 | Native polysaccharide | Reductive amination | FDA approved in Jul 21
+
+Table 2: Glycoconjugate Vaccines Currently
+under Clinical Developmenta
+Pathogen | Commercial trade
+name/manufacturer | Carrier protein | Saccharide chain length | Conjugation chemistry | Clinical development phase
+--------------------------------------------------
+Streptococcus pneumoniae | Affinivax | Rhizavidin fused protein | Native polysaccharide | MAPS technology | Phase II
+Serogroup 1, 2, 3, 4, 5, 6A, 6B, 7F, 8, 9N, 9 V, 10A, 11A, 12F, 14, 15B, 177, 18C, 19A, 19F, 20B, 22F, 23F, 33F
+Streptococcus pneumoniae | QuimiVio/CIGB | TT | Native polysaccharide | Ugi reaction | Phase III
+Serogroup 1, 5, 6B, 14, 18C, 19F, 23F
+Extraintestinal pathogenic Escherichia Coli (ExPEC) | J&J | EPA | Oligosaccharide | Bioconjugation | Phase III
+Serogroup O25B, O16, O75, O2, O1A, O15, O18A, O6A, O4 and/or O8
+Group B Steptococcus | Pfizer | CRM197 | Native polysaccharide | Reductive amination | Phase II
+Serotype Ia, Ib, II, III, IV, V
+PNAG (Staphylococcus aureus, Klebsiella pneumoniae. Escherichia Coli, Neisseria gohorrheae, Neisseria meningitidis, Streptococcus pneumoniae) | Alopexx | TT | Synthetic oligosaccharide | Thiol-maleimide addition | Phase II
+Shigella 2a and 4 V | LMTB-GSK | EPA | Oligosaccharide | Bioconjugation | Phase I
+Shigella 2a | Pasteur Institute | TT | Synthetic oligosaccharide | Thiol-maleimide addition | Phase I
+Klebsiella 4 V | LMTB-GSK | EPA | Oligosaccharide | Bioconjugation | Phase I
+O-antigen based
+
+Abbreviations: TT, tetanus toxoid;
+CRM197, cross-reactive material 197; OMPC, outer membrane
+porin C; PD, protein D; DT, diphteria toxoid; MAPS, multiple antigen
+presentation system; EPA, Pseudomonas aeruginosa exotoxin
+A. *Glycoconjugate vaccines in multivalent combination with other
+vaccines.
+
+Historically,
+vaccines were constructed using polysaccharides isolated
+from pathogens and were developed primarily based on empirical evidence.
+Recent times have seen enormous progress in methodologies for the
+assembly of complex glycans and glycoconjugates, with developments
+in synthetic, chemoenzymatic, and glycoengineering methodologies.17 Synthetic carbohydrate chemistry offers a unique
+tool to obtain well-defined, thoroughly characterized carbohydrate
+antigens of high purity and devoid of any potential microbial contaminant.
+Fully synthetic antigens reached the clinic by the synthetic Haemophilus influenzae type b (Hib) vaccine in Cuba,18 and more recently a vaccine to fight shigellosis
+has progressed to phase II clinical trials.19,20 The use of synthetic glycans with modern structural glycobiology
+approaches, such as glycan arrays, X-ray crystallography, surface
+plasmon resonance, and saturation transfer difference NMR, can nowadays
+be used for rational rather than trial-and-error-based glycoconjugate
+vaccine design.21,22 This review aims at discussing
+the advancement of glycoconjugate vaccines based on synthetic carbohydrates
+to improve existing vaccines and identify novel candidates to combat
+AMR. Through this literature survey we intend to build structure–immunogenicity
+relationships from available data and identify gaps to be covered
+to advance synthetic carbohydrate-based vaccines to fight AMR.
+
+The bacterial cell wall is surrounded by a dense
+layer of polysaccharides and glycoproteins, named the glycocalyx,
+which allows bacteria to survive in the surrounding environment, while
+permitting the exchange of nutrients from the outside and waste products
+from the inside. Generally, the outermost surface of both Gram-positive
+and Gram-negative bacteria presents capsular polysaccharides (CPS),23,24 which can have different structures within the same bacterial species
+and can, therefore, be used for serotyping. Gram-negative bacteria
+present an outer membrane (OM) to which lipopolysaccharides (LPS),
+CPS, and proteins are attached (Figure 1). A thin layer of peptidoglycan is located between
+the OM and the inner cytoplasmic cell membrane. In contrast, Gram-positive
+bacteria lack an OM and are surrounded by a much thicker layer of
+peptidoglycans as compared to Gram-negative bacteria.8 CPS are known virulence factors and are typically made
+of highly hydrophilic, often negatively charged, long-chain polysaccharides,
+anchored to the cell membrane, to the peptidoglycans, or to membrane
+components.25 Their hydrophilic character
+protects microorganisms from desiccation during transmission from
+host to host. CPS may also mediate adhesion to abiotic surfaces and
+to each other, promoting the formation of biofilms, conferring protection
+against specific and nonspecific host immunity. They display a vast
+structural diversity, that is brought by numerous different composing
+monosaccharides, varying types of glycosidic linkages, and different
+substituents such as acetyl groups, phosphates, and pyruvate ketals.
+Examples of the enormous structural diversity of CPS include the 80
+different capsular serotypes of E. coli, the more
+than 90 serotypes of S. pneumoniae, and the 70 capsular
+serotypes reported for K. pneumoniae.26
+
+Surface glycans commonly found on Gram-positive and Gram-negative
+bacteria. Gram-positives lack an outer membrane and present a thick
+peptidoglycan (PG) layer, to which lipoteichoic (LTA) and wall teichoic
+acids (WTA) are connected. The Gram-negative bacterial cell wall features
+two membranes and a thin PG layer. Both can be surrounded by capsular
+polysaccharide (CPS). The Gram-negative outer membrane is decorated
+with lipopolysaccharide (LPS) or a truncated form lacking of the O-antigen,
+termed lipooligosaccharide (LOS).
+
+The OM of Gram-negative bacteria is an asymmetrical lipid bilayer,
+which has phospholipids on the inner side while the outside is densely
+functionalized with lipopolysaccharide (LPS),27 which is responsible for the endotoxic shock associated with septicemia.
+
+LPS consists of three parts: lipid A, the core oligosaccharide,
+and the O-specific side chains known as O-antigens (OAg) or O-polysaccharides.
+Lipid A is the most conserved part, shares structural similarity between
+most LPS, and consists of a glucosamine disaccharide substituted with
+fatty acids, whose acyl chains enable tight packing of the OM, contributing
+to its barrier function. Lipid A carries the endotoxic properties
+of the LPS. The core oligosaccharide is divided into two regions:
+the inner core, consisting of 2-keto-3-deoxy-octulosonic acid (Kdo)
+and l-glycero-d-mannoheptose residues, that is highly
+conserved, and the outer core, which displays some structural diversity
+and which consists mainly of hexose sugars. The OAg domain is made
+up of repeating units of one or more sugar residues and exhibits remarkable
+structural diversity. Variations in its composition are often the
+basis for serotype classification. The OAg is an important virulence
+factor and helps the bacterium to escape the complement system and
+to resist environmental stresses.28 Some
+bacterial species, such as Neisseria spp., are unable
+to synthesize OAg but produce a form of LPS which is referred to as
+lipooligosaccharide (LOS), that contains an inner core from which
+one or more oligosaccharide branches extend.29
+
+Differently from Gram-negative bacteria, Gram-positive bacteria
+lack the OM but are surrounded by a thick layer of peptidoglycan (PG).
+PG has numerous important functions, the most important being stabilization
+of the cell wall, enabling it to withstand high internal osmotic pressure.
+PG is made up of repeating units of the disaccharide N-acetylglucosamine-N-acetylmuramic acid, which are
+cross-linked by pentapeptide side chains.30 Gram-positive bacteria expose teichoic acids (TAs), zwitterionic
+glycopolymers containing phosphodiester-linked polyol repeating units.31 TAs play a crucial role in cell shape determination,
+regulation of cell division, and other aspects of Gram-positive bacterial
+physiology. They can be divided in two major classes: lipoteichoic
+acids (LTAs), anchored in the bacterial membrane via a glycolipid,
+and wall teichoic acids (WTAs), covalently attached to PG. WTAs consist
+of two parts: a disaccharide unit highly conserved across bacterial
+species, which is connected at the reducing end to the PG via a phosphodiester
+linkage, and a main chain polymer composed of phosphodiester-linked
+polyol repeating units, most commonly 1,5-d-ribitol phosphate
+(RibP) or (1–3)-sn-1-glycerol-phosphate (GroP).32 The structural diversity of WTA can derive from
+the presence or absence of substituents attached to the backbone,
+including cationic d-alanine esters and a variety of mono-
+or oligosaccharides, most commonly glucose (Glc) or N-acetyl glucosamine (GlcNAc).33 LTAs typically
+consist of a poly-sn-3-glycerolphosphate chain that
+can be decorated with d-alanine residues as well as different
+carbohydrates.34
+
+Numerous pathogenic
+bacteria also synthesize and secrete exopolysaccharides
+as part of the biofilm matrix, a slime composed of extracellular material
+embedding the bacterial cells. Biofilms protect the microbial community
+from environmental stresses, allowing resistance to bacteriophages,
+amoebae, host immune responses, and antibiotics.35
+
+Many extracellular polysaccharides are polyanionic,
+such as alginate,
+xanthan, and colanic acid. Polycationic exopolysaccharides also exist,
+such as PNAG, a polymer of β-(1–6)-N-acetylglucosamine secreted by many pathogens including Staphylococcus
+aureus and Staphylococcus epidermidis.36Pseudomonas aeruginosa is one
+of the most studied biofilm forming pathogens, and it produces at
+least three distinct exopolysaccharides which are involved in biofilm
+formation: alginate, Pel, and Psl. Alginate is high molecular weight,
+unbranched heteropolymer consisting of (1–4)-linked β-d-mannuronates and α-l-guluronates, and it is
+involved in the establishment of microcolonies at the beginning of
+biofilm formation. Pel is a cationic galactosamine-rich polysaccharide,
+essential for biofilm formation, while Psl consists of a repeating
+pentasaccharide containing d-mannose, d-glucose,
+and l-rhamnose and has been shown to be involved in the adherence
+to biotic and abiotic surfaces.37 Carbohydrates
+are also abundant on the surface of fungi. Similar to bacteria, fungal
+cell walls are composed of chemically different carbohydrate polymers
+forming a robust scaffold that incorporates a variety of proteins
+and other surface components, conferring flexibility. The majority
+of fungal cell walls is constituted by a conserved inner layer and
+a more heterogeneous outer layer. The inner layer is a core of chitin
+and β-(1–3) glucan polymers with β-(1–6)
+branches (about 60%) forming intrachain hydrogen bonds.38 The outer layer of the fungal cell wall comprises
+proteins and/or other polysaccharides whose composition may vary with
+the fungal species. For example, the outermost glycan layer of Candida albicans is composed of mannans.39
+
+Glycoconjugate vaccines are most commonly prepared
+using polysaccharides, which are extracted from bacteria, purified,
+and coupled to a carrier protein through random linkages along the
+saccharide chain (Figure 2A). This results in the formation of high molecular weight,
+cross-linked, heterogeneous, and rather undefined structures.4,40,41 Carriers currently used in licensed
+vaccines include tetanus toxoid (TT), diphtheria toxoid (DT), CRM197, the outer membrane protein complex of meningococcus B
+(OMPC), Protein D from H. influenzae, and the recombinant
+exotoxin A of P. aeruginosa.42−45 One of the most commonly used
+chemistries for conjugation involves NaIO4 oxidation of
+the polysaccharides, generating aldehydes from cis-diols, that can be used for reductive amination with amine groups
+of the protein.46−48 Also 1-cyano-4-dimethylaminopyridinium tetrafluoroborate
+(CDAP) chemistry is often exploited to randomly activate hydroxyl
+groups of polysaccharides for subsequent direct condensation with
+amines of the protein or the incorporation of linker moieties, such
+as dihydrazine adipate, for further reaction with carboxylic acid
+residues of the protein.49
+
+Approaches for manufacturing
+of glycans for vaccine development
+based on (A) bacterial fermentation, including classic polysaccharide
+extraction from pathogens and Protein Glycan Coupling Technology (PGCT)
+and (B) total synthesis of oligosaccharides via solution phase chemical/chemoenzymatic
+approaches or solid phase automated synthesis.
+
+Better defined glycoconjugate vaccines can be generated by using
+shorter oligosaccharides, obtained by chemical (using acidic or oxidative
+conditions) or mechanical polysaccharide fragmentation, followed by
+size fractionation. These fragments can be linked directly to the
+protein either through the end-reducing sugar or via a spacer (Figure 2A).50−52 Classic and emerging methods for conjugation of poly- or oligosaccharides
+to protein carriers have been recently thoroughly reviewed.53
+
+Other approaches to obtain glycoconjugate
+vaccines include the
+so-called “protein glycan coupling technology” (PGCT)
+or “bioconjugation”,54 which
+is based on the genetic engineering of the E. coli Wxx-Wzy biosynthetic pathway to express a glycoprotein containing
+a heterologous polysaccharide. This is achieved by incorporating the
+genome clusters of choice in E. coli, along with
+the oligosaccharyl transferase PglB from Campylobacter jejuni and a plasmid or gene encoding for the carrier protein carrying
+the N-glycosylation consensus sequence D/E-N-X-S/T, where X can be
+any amino acid except proline.55−57
+
+This methodology has been
+successfully applied to advance vaccines
+against Shigella spp. (Limmatech Biologics)58 and extra intestinal pathogenic E. coli (Janssen/J&J).59 The translational
+machinery of E. coli has also been engineered to
+express proteins with unnatural (i.e. not naturally found or encoded)
+amino acids (uAAs) to provide specific groups for conjugation.60 The inverse demand Diels–Alder reaction
+between tetrazine functionalized glycans and genetically encoded trans-cyclooctene
+or bicyclononyne-modified uAAs has been used for conjugation, either
+in cellular media or in lysates.61 Based
+on the “XtractCF” system, which enables the production
+of proteins displaying uAAs for subsequent click chemistry with carbohydrates,
+Vaxcyte (former Sutrovax) is currently developing a pneumococcal 24-valent
+conjugate vaccine.62
+
+Another emerging
+approach is based on the protein capsular matrix
+vaccine (PCMV; Matrivax) technology to connect the glycan and protein
+components in a nonconventional manner. In this approach a biotinylated
+polysaccharide and the carrier protein fused with a streptavidin domain
+are crosslinked in a matrix.63 This technology
+has been used by Affinivax for a prototype 24-valent pneumococcal
+vaccine, which was demonstrated to provide protection against invasive
+disease and carriage in mice64 and has
+been advanced to phase II clinical trials, where it was shown to be
+well tolerated and immunogenic in an adult population (Table 1).65
+
+Regardless of the approach used, the immunological activity
+of
+the glycoconjugates is influenced by a variety of factors, including
+the nature and length of the carbohydrate, the substitution pattern,
+and the number of glycans attached to the protein (i.e. the saccharide/protein
+ratio).4
+
+This review will focus on
+glycoconjugates obtained from synthetic
+glycans (Figure 2B).
+Because of their well-defined length and composition, synthetic glycans
+offer clear advantages in the elucidation of the parameters impacting
+the immunogenicity of glycoconjugate vaccines.66 In addition, synthetic glycans are typically assembled
+with a linker preinstalled at the downstream end of the oligosaccharides,
+allowing conjugation to the protein with preservation of the integrity
+of all sugar moieties. Numerous methodologies for fast assembly of
+oligosaccharides, including one-pot protocols67 in solution phase, enzymatic approaches,68 and solid phase automated synthesis,69−71 have now become available.
+Site-selective conjugation methods have also been developed to direct
+this step to preselected sites on carrier proteins, which enables
+investigations into the impact of the position of the glycan on the
+protein carrier on the activity of the glycoconjugates.72,73 We will first provide examples how synthetic chemistry can be used
+to improve existing vaccines and then continue to outline the progress
+that has been made to generate vaccines to combat AMR.
+
+H. influenzae is a Gram-negative coccobacillus
+part of the nasopharynx microbiota in healthy adults, children, and
+infants.74 Serotype b (Hib) causes severe
+diseases in humans such as epiglottitis, sepsis, pneumonia, and meningitis.
+The Hib CPS is made up of poly(ribosyl ribitolphosphate) (PRP) repeating
+units (RUs) and represents the most important virulence factor.75 PRP was conjugated to a diphtheria toxoid (DT)
+protein in 1983, resulting in the first glycoconjugate vaccine ever
+developed.76,77 Currently, different Hib glycoconjugate
+vaccines with different carrier proteins are available on the EU and
+US market, either in single form or in combination with other vaccines
+(Table 1).78,79 Quimi-Hib (1, Figure 3) is based on a synthetic PRP and has been licensed
+in Cuba in 2004. It is composed of a synthetic antigen with an average
+of seven RP repeating units conjugated to a thiolated TT carrier protein
+through a 3-(maleimido)-propylamide linker.18 This vaccine represents the first licensed glycoconjugate vaccine
+based on a synthetic carbohydrate antigen. The large scale production
+of the PRP fragments was achieved through a one-step polycondensation
+reaction using H-phosphonate chemistry, where the spacer containing
+end residue (2) and H-phosphonate derivative (3) were oligomerized in a pivaloyl chloride mediated polycondensation.
+
+Synthetic
+polyribosyl-ribitol-phosphate (PRP) antigen of Quimi-Hib,
+the first synthetic glycan-based vaccine for prevention of Haemophilus influenzae type b, is produced by a controlled
+polycondensation of a H-phosphonate building block.
+
+Over the years, different methods have been developed to
+obtain
+Hib oligosaccharides by depolymerization of natural polysaccharide48,77,80,81 and by chemical synthesis.82−84
+
+Recently, Baek et al. synthesized
+oligomers ranging in length from
+a tetramer up to a decamer, using a [2+2] elongation strategy in an
+iterative approach involving a ribosyl-ribitol acceptor, with the
+ribitol C5-OH acting as the nucleophile, and a ribosyl-ribitol C-3′-H-phosphonate
+aminopentyl donor, in line with the approach taken to construct the
+Quimi-Hib vaccine antigen.85 The CRM197 conjugates of the obtained oligosaccharides were used to
+immunize Zika-rabbits, and the sera were analyzed using a glycan array.
+
+The tetramer and octamer revealed the highest immunogenicity although
+no linear or marked length-dependent trend could be shown. This study
+suggests that four repeating units would fully cover the Hib polysaccharide
+epitope and represent an optimal length for vaccine design.
+
+Similarly to other phosphodiester bridged polymers, Hib polysaccharide
+suffers from intrinsic lability, especially in the presence of metal
+cations. The hydrolysis of the phosphodiester linkages has been explained
+with a mechanism involving the 2-OH of the ribose moiety;86 therefore, analogues with different functional
+groups (e.g. -OCH3 and -F) to replace
+the 2-OH have been developed, resulting in higher stability.87 In the post-Hib vaccine era, other serotypes
+and nontypeable strains (NTHi) are emerging as a significant cause
+of invasive infections and meningitis.88H. influenzae serotype a (Hia) represents the second
+most virulent capsular serotype of H. influenzae,
+especially in children aged six months to two years, and it can cause
+meningitis, pneumonia, septic arthritis, and bacteremia.74 The Hia capsule is a polymer of glucose and
+ribitol connected by phosphodiester linkages. The synthesis of oligomers
+up to two repeating units was reported in 1988 and was achieved through
+condensation of an α-d-glucopyranosyl
+bromide derivative with 5-O-allyl-1,2,3-tri-O-benzyl-d-ribitol, followed by phosphorylation
+and removal of protective groups.89 Development
+of Hia vaccines should be technically feasible, but a limited market
+would likely require donor support to incentivize a manufacturer.90 An approach similar to the Hib oligomers can
+be envisaged. Considering the structural and infectious similarities
+between Hia and Hib serotypes, the success of Hib vaccination could
+suggest a rational background for the development of a Hia glycoconjugate
+vaccine protective both in adults and infants.91 Indeed, a CPS-based glycoconjugate vaccine has shown promising
+results, and it is at an early stage of development.92 In silico studies have recently shown important conformational
+differences between the serotype a and b polysaccharides, explaining
+the lack of cross-reactivity, justifying the need for a separate conjugate
+vaccine to target Hia.92
+
+Efforts in
+the generation of meningococcal vaccines have been directed
+to the pathogen-free production of structures identical to the natural
+glycans and to the design of glycomimetics with improved stability.
+The serotype A CPS is composed of (1–6)-linked N-acetyl-α-d-mannosamine-1-phosphates with acetyl esters
+at C-3 or C-4 (Figure 4).
+
+Meningococcal capsular polysaccharide structures and related synthetic
+conjugates. On the right the structure of the repeating unit of the
+natural CPS is described. Synthetic structures include copies of the
+natural polysaccharide (4–6) and
+analogues (7 and 8). In conjugate (6) the 11-mer molecule was obtained in a one-pot fashion
+using the enzymatic elongation of a synthetic acceptor.
+
+The synthesis of a nonacetylated MenA CPS up to a trimer
+has been
+achieved using a 2-azido mannosamine H-phosphonate building block
+using pivaloyl chloride mediated condensations followed by iodine
+oxidation of the intermediate phosphites.93 A 3-O-acetylated MenA tetramer was successfully
+assembled using a 3-O-acetyl-2-azido-4-O-benzyl-6-O-tert-butyldimethylsilyl-2-deoxy-α-d-mannopyranosyl H-phosphonate.94 The TT conjugate obtained incorporated an S-acetylthioglycolic
+linker for subsequent thiol-maleimide addition and inhibited the binding
+of anti-MenA PS serum to the capsular PS.
+
+Synthetic routes have
+also been exploited for other serotypes.
+The MenX CPS is composed of (1–6)-linked N-acetyl-α-d-glucosamine-1-phosphates (Figure 4), and a MenX CPS trimer was
+synthesized from a 2-azide glucose building block using H-phoshonate
+chemistry.95 Fragments ranging in length
+from a monomer to a trimer were obtained and conjugated to CRM197 using active ester chemistry. Only the trimer conjugate
+induced bactericidal anti-MenX PS antibodies in mice.96 Subsequently a tetramer fragment was generated,97 and a competitive ELISA showed that the corresponding
+TT conjugate was a much better competitor than the unconjugated form,
+indicating the need for longer length CPS fragments to sufficiently
+emulate the PS epitope. Recently, the structural epitope of the MenX
+CPS was mapped using a Fab derived from a murine bactericidal monoclonal
+antibody (mAb) obtained against the conjugated MenX PS.98 Surface Plasmon Resonance (SPR), isothermal
+titration calorimetry (ITC), and STD-NMR showed binding for a fragment
+longer than 5 RUs. In silico docking with a hexamer and the structure
+of the Fab resolved by X-ray crystallography confirmed binding through
+a network of salt bridges and hydrophobic interactions. Upon conjugation,
+5 RUs were sufficient to elicit functional antibody levels at a level
+comparable to a longer 10 RU fragment, suggesting that glycoconjugates
+with relatively short structures can be used for vaccine development.
+
+Recent progress in the construction of the challenging α-sialic
+acid linkage has enabled access to polysialic acid MenC structures.99 An N5,O4-carbonyl-protected
+α-sialyl phosphate donor was a key intermediate for the assembly
+of α-(2–9)-linked oligoasialic acids up to a dodecamer.100,101 Conjugates with KLH (Keyhole Limpet Hemocyanin) induced murine antibodies
+recognizing MenC cells in ELISA. Recently, a synthetic MenC tetramer
+and octamer were assembled and conjugated with TT, inducing in mice
+bactericidal IgGs at a level comparable to a licensed vaccine.102 A fully synthetic MenC-glycan antigen linked
+to a monophosphoryl lipid A (MPLA) carrier (4) has also
+been generated and shown to elicit good levels of bactericidal antibodies.103 The MenW CPS is composed of →6)-α-d-Gal-(1–4)-α-d-Neu5Ac-(2→ repeats,
+and the synthesis of MenW CPS fragments up to the length of a decamer
+was accomplished using a sialylated galactosyl disaccharide thiophenyl
+building block.104 Conjugated oligomers
+induced an immune response in mice against themselves, with the octamer
+providing the most bactericidal serum against a MenW135 strain. Differently
+from ACWYX capsular polysaccharides that have been successfully advanced
+as vaccine antigens, MenB CPS, composed of a →8)-α-d-Neu5Ac-(2→ repeating unit, exhibits high similarity
+with gangliosides expressed during fetal development (GD3) and involved
+in neural growth.105 Although an N-propionyl sialyl conjugate vaccine generated in a preclinical
+model106 antibodies not or minimally cross-reactive
+with purified human glycans,107 safety
+concerns have prevented the use of MenB CPS for clinical applications.
+
+As an alternative to the use of CPS, the use of a highly conserved
+LPS portion has been considered. A model vaccine, constructed by conjugation
+of a deacetylated truncated LPS form to CRM197 through
+the Kdo residue was able to elicit anti-LPS antibodies in both rabbits
+and mice.108 However, the raised sera cross
+reacted only with de-O-acylated LPS of MenB strains
+but not with the native fully acylated LPS. Recently, the core tetrasaccharide
+composed of two heptose residues and two Kdo saccharides (Hep2Kdo2),
+a common motif shared by different pathogenic strains of N.
+meningitidis but also P. aeruginosa and E. coli, has been synthesized.109 The related CRM197 conjugate raised murine antibodies,
+which recognized in vitro the inner core of the LPS. Combination of
+the antibodies with an inhibitor of capsular polysaccharide transport
+enabled bacterial killing of MenB strains. This shows that the LPS
+is effectively masked by CPS, and its use as a vaccine target remains
+challenging. Today vaccines based on the outer membrane vesicle (OMV)
+and the proteins, Bexsero and Trumemba, are available against MenB,110 as well as a bivalent MenB/MenC vaccine composed
+of MenB, OMV, and MenC CPS (VamengocBC).111
+
+Enzymes involved in the biosynthesis of natural polysaccharides
+have also been explored as powerful tools to simplify and accelerate
+manufacturing of meningococcal CPS oligomers. The biosynthesis of
+the MenA CPS consists of three steps: (i) the epimerization of UDP-GlcNAc
+to UDP-ManNAc by the epimerase CsaA; (ii) the condensation of this
+UDP donor at the C-6 of an ManNAc-1P acceptor by the polymerase CsaB;
+and (iii) the acetylation of the assembled polymer by the acetyl transferase
+CsaC. By cloning and expressing a soluble form of these three enzymes,
+the biosynthesis of the MenA CPS was replicated in vitro, providing
+structures identical to the native polysaccharide, in terms of both
+structure and immunological activity.112 A synthetic disaccharide was required for priming the polymerase
+reaction and allowing the enzymatic elongation of MenA CPS.
+
+The mechanism of O-acetylation has been further
+detailed by structural studies showing that the CsaC selectively transfers
+an acetyl ester to the O3 position; however, part of the acetyl esters
+migrates to the O4 position at neutral pH.113 This generates the typical acetylation pattern of MenA CPS that
+is important for its immunogenicity. Similarly, the production of
+MenX oligomers has been explored. The polymerase CsxA enabled elongation
+of naturally derived acceptors and generation of oligomers that upon
+conjugation to CRM197 elicited an immunogenic response
+in mice comparable to the conjugated natural PS.114,115 Subsequently, an efficient chemoenzymatic approach was developed
+by combining the chemical synthesis of a trisaccharide acceptor, equipped
+with a linker for conjugation, and the enzymatic elongation through
+a column immobi-lized truncated form of the polymerase CsxA.68
+
+By passing the growing oligosaccharide
+together with an immobilized
+truncated form of the polymerase CsxA through a column68 with GlcNAc-UDP, a structure with an average
+length of 12 RUs (6) was assembled and conjugated to
+CRM197. Vaccination of mice elicited a high level of bactericidal
+antibodies comparable to conjugates made from extracted material.
+Compared to conventional synthetic protocols, this methodology proved
+very expeditious and drastically reduced the number of purification
+steps to generate the oligomers. A chemoenzymatic method has also
+been developed for the synthesis of the MenC CPS. A spacer equipped
+with synthetic lactosides was modified with two sialic acid residues
+with a C. jejeuni transferase for further elongation
+with the MenC sialyltransferase. A TT conjugate of the obtained oligo-(2–8)-sialyl
+oligomers elicited a MenC CPS-specific immune response in mice.116
+
+Recently, studies on the MenW capsular
+polymerase (NmSiaDW) have
+identified 4-azido-4-deoxy-N-acetylmannosamine and
+6-azid-6-deoxy-N-acetylmannosamine as suitable substrates
+for the synthesis of MenW oligosaccharides containing 4,7-di-N-acetylneuraminic acid and 4,9-di-N-acetylneuraminic
+acid.117 Through these azide intermediates
+an enzymatic strategy was developed to assemble the N-Ac-oligosaccharides up to a length of a pentasaccharide (5). Overall, these studies suggest that chemoenzymatic approaches
+can be very versatile and they can likely be expanded to other sero
+groups.
+
+The MenA polysaccharide suffers from instability in
+solution because
+the anomeric phosphate is relatively easily cleaved, as the neighboring trans-oriented acetamide can participate in its displacement.
+Therefore, the development and manufacture of a MenA glycoconjugate
+vaccine in liquid formulation remains a challenge.118
+
+Typically, this issue is solved by using lyophilized
+formulations,
+which are reconstituted with saline before use or by storage at 2–8
+°C. This solution, however, implies extra costs for production
+and distribution of the vaccine, particularly in areas where maintaining
+the cold chain is not trivial, such as emerging and poor countries.
+Therefore, stabilized analogues are desirable.
+
+Analogues of
+the MenA CPS have been designed by replacing the phosphodiesters
+with a more stable C-phosphonate (Figure 4, compound (7).119,120
+
+The critical installation of the interglycosidic phosphomonoester
+linkages was accomplished using a Mitsunobu coupling of the glycosyl
+C-phosphonate building block with the 6-OH moiety of the mannosamine
+acceptor.119 C-phosphonate bridged oligomers
+up to the trimer length (7) were conjugated to human
+serum albumin (HSA), stimulating in vitro T-cell proliferation (CFSE
+method) and IL-2 release (ELISA) and inducing in vivo anti-polysaccharide-specific
+IgGs.120 In an alternative approach, so-called
+“carba-analogues”, in which the mannosamine ring oxygen
+is replaced by a methylene group, have been explored.121 These analogues are stabilized because the
+lack of the ring oxygen precludes the formation of an oxocarbenium
+ion-like species that would form upon cleavage of the anomeric C–O
+phosphate bond and appear more suitable for large scale manufacturing
+since phosphoramidite chemistry can be used for the construction of
+the phosphate linkages.122 The key step
+in the formation of the carbacycle analogue of mannosamine is the
+Claisen rearrangement of a 6-methylene glucal. Short oligomers of
+the carbaMenA analogues, containing up to three repeating units, were
+initially generated using carba H-phosphonates (Figure 4, compound (8)).122 The carbaMenA trimer induced low levels of
+antibodies, that cross-reacted with the native MenA CPS and showed
+bactericidal activity. To explain the behavior of the carba analogues,
+conformational modelling studies were undertaken. Molecular dynamics
+simulations indicated the MenA CPS conformation to be a flexible random
+coil which becomes less conformationally defined as the length increases.123 Acetylation would provide structural rigidity
+to the MenA backbone. Also, the carbaMenA was predicted to present
+a more random extended conformation as compared to the natural MenA.124 A more thorough investigation was performed
+by combining theoretical calculations and NMR spectroscopy experiments,
+using chemically synthesized 1- or 6-phophorylated monomannosamines
+and their carba analogues as chemical probes.125
+
+The data confirmed that in spite of a high conformational
+freedom
+of the key pseudoglycosidic and aglycon torsion angles in the carba
+analogues, one of the favorable geometries corresponds to that of
+the natural monomer.
+
+To improve the immunogenicity of the carbaMenA
+oligomers, more
+recently, structures up to eight repeating units in length were assembled.126 Non-O-acetylated 6- and 8-mers
+conjugated to CRM197 elicited in mice anti-MenA CPS antibodies
+but still at suboptimal levels. However, the 8-mer showed the unique
+capacity to recognize a bactericidal murine mAb that previously had
+been shown by STD NMR and X-ray crystallography to bind to an O-acetylated trisaccharide epitope.127 The introduction of O-acetyl groups in
+the carbaMenA octamer (8) through a controlled random
+acetylation reaction led to an O-acetylation degree of 75%, similar
+to the natural polysaccharide. Conjugation of this antigen led to
+a model vaccine, that induced bactericidal antibodies to a level comparable
+to the MenA vaccine benchmark.126 This
+work represents an important proof-of-principle for the use of glycomimetics
+as more stable alternatives for polysaccharide-based vaccines.
+
+Novel concepts have been tested with natural CPS, and these could
+be further exploited for the synthetic structures. Conjugation of
+oligosaccharides from two diverse sero groups, namely MenA and C,
+has been shown to induce high titers of bactericidal antibodies against
+the two different sero groups after the third administration.128
+
+The MenA CPS seems to suffer from carrier
+epitope suppression as
+a result of preexisting immunity to the protein carrier, in particular
+CRM197 and TT.45 The use of
+alternative carriers, such as the pneumococcal Spr96-2021, has been
+explored.129 Genetically detoxified outer
+membrane vesicles (GMMA) from MenB have also been introduced as a
+potent carrier for MenA and MenC polysaccharides, giving levels of
+murine bactericidal antibodies superior to CRM197 already
+at the first dose..130 Finally, MenC polysaccharide
+conjugated to full-length hepatitis B core (HBc) antigen virus-like
+particles using heterobifunctional polyethylene glycol linkers generated
+10-fold higher anti-carbohydrate IgGs than the unconjugated polysaccharide
+and increased IgG2a subclass production with a shift to a Th1 cellular
+immune type response.131
+
+Despite vaccines
+being available in developed countries, the Institute
+for Health Metrics and Evaluation (IHME) estimates that S.
+pneumoniae accounts for 1.2 million deaths and approximately
+900,000 disabled patients annually from pneumonia and meningitis.
+In addition, S. pneumoniae is responsible for an
+estimated 36% of the global burden of pneumonia and 27% of the global
+burden of otitis media. A priority for pneumococcal vaccination is
+to increase the global distribution in poor and emerging countries.
+Some years after introduction of PCV7, a clear impact of vaccination
+on community acquired pneumoniae was observed;132 however, an increase of invasive pneumoniae disease (IPD)
+of non-PCV7 serotypes was observed. Although these events were far
+below the magnitude of the reduction in IPD caused by the vaccine
+serotypes,133 this highlights the need
+for broader coverage in the countries where a vaccine is available.
+
+Additional challenges associated with pneumococcal vaccination
+have been the low immunogenicity of some glycoconjugates in the complex
+multivalent formulation (e.g. serotype (ST) 3) and
+the unexpected lack of cross protection between some structurally
+similar polysaccharides (e.g. ST19A and 19F).
+
+Synthetic chemistry has been a fundamental means to generate glycans
+for the identification of key polysaccharide epitopes and the improvement
+of pneumococcal vaccines, particularly for the most challenging serotypes.
+This topic has been recently thoroughly reviewed,134−137 so we will here only give an overview of the most relevant concepts
+developed through synthetic carbohydrate derived glycoconjugates to
+obtain vaccine candidates at the preclinical level. The seminal work
+of Vliegenthart and Kamerling was pivotal to demonstrate that the
+immunogenic character of long and complex polysaccharides can be related
+to short defined glycan epitopes. KLH conjugates of di-, tri-, and
+tetrasaccharide fragments of serotype 6A and 6B were synthesized and
+shown to elicit high levels of ST6B antibodies in rabbits, that facilitated
+type-specific phagocytosis (Figure 5).138 The rabbit antisera
+raised against the tri- and tetrasaccharide also reacted with the
+6A PS in an ELISA assay and promoted phagocytosis of 6A pneumococci.
+All rabbit antisera passively protected mice against a ST6B challenge.
+In mice, however, phagocytic and protective anti-ST6B antibodies were
+only induced by the tetrasaccharide conjugate, and these antibodies
+did not cross-react with ST6A PS in an ELISA. Overall, these studies
+have shown that the tetrasaccharide (13) was capable
+of inducing ST6B-specific, fully protective antibodies in two animal
+models. Likewise, through a library of ST14 derived structures, a
+branched tetrasaccharide repeating unit (15) was shown
+to be the functional minimal epitope in a mouse model.139,140 This small epitope, that recently has been readily assembled also
+by automated synthesis,141 has become a
+model to obtain a fully synthetic vaccine based on gold nanoparticles
+where T-cell help is provided by a synthetic peptide.142 A polysaccharide mimic composed of a sequential
+synthetic tetrasaccharide unit connected through a linker has been
+made and shown to be immunogenic in mice.143 A hexasaccharide conjugated to BSA induced apparently both innate
+(through TLR2 activation) and humoral responses in mice, with longer
+antibody persistence when aluminum hydroxide was used as adjuvant.
+However, the TLR2 expression on spleen cells from immunized mice seems
+not specific and caused by cytokine action rather than being the outcome
+of a ligand–receptor interaction.144 A synthetic ST14 tetrasaccharide was site selectively linked via
+a thiol–maleimide coupling to four different pneumococcal surface
+adhesin A (PsaA) mutants, each harboring a single cysteine mutation
+at a defined position.145 Antibody responses
+to both the carbohydrate and PsaA protein antigens were generated
+in mice. Various other pneumococcal structures have more recently
+been synthesized. Synthetically made zwitterionic polysaccharides
+from ST1 have been generated by different research groups.146−149 This serotype has attracted attention for its property to elicit
+T-cell responses without conjugation.150 An elegant strategy for insertion of a benzylthio linker in the
+trisaccharide of ST1, to release a thiol group for conjugation at
+the end of the assembly under Birch debenzylation conditions, enabled
+the chemoselective conjugation to a carrier protein as well as a glycan
+array surface, preserving potential protective epitopes.148 The CRM197 conjugate of the trisaccharide (9) induced a robust antibody response in rabbit compared
+to the PCV13 commercial vaccine, that was used as a control, and it
+reduced the blood bacterial load of mice in a passive immunization
+approach using pooled rabbit serum.148 The
+assembly of structures up to four repeating units showed that the
+longer synthetic structures adopt helical structures with approximately
+eight monosaccharides completing a full turn. It was also shown that
+the oligomers encompassing three RUs (nine monosaccharides) bound
+monoclonal antibodies, raised against the deacetylated native CPS,
+much better than shorter fragments. There, thus, seems to be a correlation
+between the secondary structure and antibody binding activity. An
+outstanding issue remains the introduction of O-acetyl
+groups, that have been shown to be an important structural feature,
+but the introduction of these groups, alongside the carboxylic acids,
+acetamides, and free amines in the structure, represents a significant
+synthetic challenge.
+
+Pneumococcal vaccine candidates based on synthetic glycans.
+Synthetic
+oligosaccharides mimicking several Streptococcus pneumoniae serotypes (ST) have been synthesized and tested at the preclinical
+level to identify key glycan epitopes.
+
+Conjugates of synthetic fragments of serotype 3 PS of different
+lengths (up to a tetramer) have been prepared and conjugated to different
+carriers, including TT, KLH, and CRM197.151−153 The CRM197 conjugates of the di-, tri-, and tetrasaccharides
+of ST3 were shown to be protective in mice against a challenge with
+ST3.151 Parameswarappa et al. showed that
+a tetrasaccharide exhibited the highest recognition of human anti
+PS serum on a glycan array, outperforming shorter fragments, and this
+structure was selected for conjugation to CRM197, to deliver
+a model vaccine (10) that induced protection against
+ST3 in a mouse model.154
+
+Oligosaccharides
+deviating from the serotypes included in the PCV13
+vaccine have been targeted, and this has aided in gaining relevant
+structural information on key epitopes of these glycans. A synthetic
+hexasaccharide repeating unit of the ST2 CPS was selected from a set
+of different structures, based on glycan microarray screening.155 Vaccination with the hexasaccharide linked
+to CRM197 (11) stimulated a T-cell-dependent
+B-cell response and induced CPS-specific opsonic antibodies in mice,
+resulting in killing of encapsulated bacteria by phagocytic activity.
+In addition, the neoglycoconjugate reduced the bacterial load in lung
+and blood of mice, transnasally challenged with the highly virulent
+ST2 strain NCTC 7466.
+
+The combination of automated glycan assembly
+(AGA) and glycan microarray-based
+monoclonal antibody (mAb) binding studies has been used to identify
+a protective glycan epitope from ST8.156 Out of four structures, a tetrasaccharide frameshift was shown to
+be preferentially recognized by a protective anti-natural PS mAb and
+this structure was conjugated to CRM197. The ST8 neoglycoconjugate (14) induced an antibacterial immune response also in coformulation
+with the commercial PCV13, demonstrating the feasibility of a vaccine
+with extended coverage based on mixed synthetic and naturally derived
+carbohydrates.
+
+A combination of ST2, 3, 5, 8, and 14 glycoconjugates
+(sPCV5),
+all obtained by chemical synthesis, has been shown to give high levels
+of specific protective antibodies against the different serotypes
+in rabbits.157 All STs in sPCV5 induced
+immune responses comparable to the licensed control vaccines, except
+ST14, which led to a lower response. Coformulation with PCV13 and
+PCV10 also led to a robust protective immune response in this animal
+model, highlighting the potential of a fully synthetic carbohydrate-based
+multivalent vaccine as well as the combination of conjugates from
+chemical synthesis and polysaccharide extraction.
+
+Stabilization
+of conjugates susceptible to degradation has been
+proposed as a way to improve vaccine performance. The ST5 repeating
+unit contains two rare sugars, the ketoamino sugar 2-acetamido-2,6-dideoxy-d-xylose-hexos-4-ulose (Sugp) and N-acetyl-l-pneumosamine (l-PneuNAc). The keto group of Sugp can cause degradation of the natural polysaccharide.158 A set of structures equipped with a linker
+was synthesized, and through a glycan array, a penta- and a tetrasaccharide
+both containing the immune dominant l-PneuNAc and a terminal l-FucNAc (thus lacking the vulnerable C-4-ketone) were selected
+for conjugation.158 Studies in rabbit showed
+that a pentasaccharide (12), presenting an additional
+β-Glc, induced a higher level of opsonic antibodies in comparison
+to the conjugated tetrasaccharide. Notably, the identified oligosaccharide
+epitope is devoid of the residues that are responsible for the product
+instability.
+
+The two structurally similar polysaccharides 19A
+and 19F have also
+attracted a lot of attention because of the unexpected lack of cross-reactivity
+observed with PCV17, containing ST19F, with ST19A PS. Along with the
+synthesis of the individual serotype fragments,159 the identification of cross-protective epitopes has been
+pursued. A chimeric oligosaccharide antigen (16) containing
+the repeating units of ST19A and ST19F has been assembled, and its
+glycoconjugate induced good levels of antibodies in rabbits that killed
+ST19A and ST19F bacteria in vitro.160 By
+testing a series of synthetic short glycans, a shared ManNAc-β-(1–4)-Glc
+epitope, carrying a phosphate at the ManNAc-C4 has been identified,161 although the immunogenicity of this epitope
+was not investigated.
+
+Gold nanoparticles have also been used
+to combine glycans from
+two different serotypes onto the same carrier. Vetro et al. described
+the functionalization of gold nanoparticles with the tetrasaccharide
+epitope of ST14, the trisaccharide repeating unit of ST19F along with
+a T-helper peptide and a d-Glc, as a hydrophilic “filler”
+molecule.162 This conjugate induced specific
+IgG antibodies in mice against the type 14 polysaccharide but not
+against the ST19F. This could either indicate that the conjugated
+ST19F fragment was suboptimal or that immune interference between
+the two glycans led to suppression of the response against this serotype.
+
+A. baumannii, a commensal Gram-negative bacterium,
+is an important source of hospital acquired infections, and extremely
+drug-resistant strains have emerged.163 Intensive care patients and patients receiving mechanical ventilation
+are at risk of developing lung infections, urinary tract infections,
+bacteremia, endocarditis, skin infections, and meningitidis.164 The high mortality and morbidity of A. baumannii infections are a strong incentive for the development
+of alternative treatments, such as active or passive vaccination strategies,
+and whole cell vaccines, outer membrane vesicles (OMVs), as well as
+protein-based vaccines are under development.165A. baumannii shows an extremely diverse
+CPS repertoire, with many different serotypes expressing unique structures.
+Passive immunization strategies using a monoclonal antibody against
+the K1 capsular polysaccharide,166 a polymer
+built up from [ →3)-β-d-QuiNAc4NR-(1–4)-α-d-GlcNAc6OAc-(1–4)-α-d-GalNAcA-(1 →]
+repeats, with the quinovose residue carrying an acetyl or 3-hydroxybutyrate
+residue at the C-4-amine, are under development.167
+
+The extraordinary biodiversity of the A.
+baumannii polysaccharides,168 of
+which more than 40 different structures have been reported, poses
+tremendous challenges to their syntheses. Although they serve as a
+source of inspiration for the development of new synthetic methodologies,
+conjugation-ready A. baumannii oligosaccharides with
+application in initial immunology studies have not been reported.
+Wu and co-workers have reported that the natural polysaccharide of
+strain 54149 (a strain that was isolated from IC patients) could be
+depolymerized by the tail spike protein of bacteriophage ΦAB6TSP
+to generate an octasaccharide, comprising two tetrasaccharide repeating
+units of the polymer. These repeating units are built up of [→3)-β-GalNAcp-(1–3)-[β-Glcp-(1–6)]-β-Galp-(1→]
+repeating units with the characteristic pseudaminic acid residues
+at the C-6 of the glucose residue.169 This
+octasaccharide (17) was conjugated to CRM197 by formation of the anomeric hemiaminal, reaction with dithiobis(sulfosuccinimidyl
+propionate) (DTSSP), dithiothreitol (DTT) mediated reduction of the
+disulfide, and addition to maleimide functionalized CRM197 (Figure 6). Immunization
+of rabbits with conjugate (18) (4 boosts in 2 weeks)
+gave serum capable of recognizing A. baumannii 54149
+CPS and (17). Cross-reactivity of this serum with other
+strains was less than the cross reactivity of sera raised using the
+native polysaccharide. The pseudaminic acid residue was shown to be
+a crucial binding motif for the antibodies in the sera, which showed
+adequate bactericidal activity.169
+
+Pseudaminic
+acid (marked in red) containing octasaccharide conjugated
+to CRM197 as vaccine candidate against A. baumannii. Raised antibodies recognized the exopolysaccharide (EPS) and induced
+bacterial killing.
+
+Clostridioides
+difficile, also known as C. difficile, is
+a Gram-positive species of spore forming
+bacteria that causes severe diarrhea and inflammation of the colon
+such as colitis.170C. difficile infection (CDI) is a global health threat with a high incidence
+in both hospitals and communities. It is estimated that C.
+difficile causes nearly half a million infections in the
+US annually with associated health care costs over $5 billion.171 CDI is associated with a high risk of recurrence
+(approximately 60% after three or more episodes of infection), even
+in the absence of additional risk factors, such as antibiotics or
+exposure to the bacterium.172
+
+The
+main risk factor for CDI is the imbalance of the microbiota, which
+leads to the disruption of its barrier effect, mainly due to systemic
+exposure to antibiotics. CDI affects elderly people with comorbidities,
+patients undergoing surgery, long-term hospitalized patients, and
+immunocompromised patients. The main virulence factors of C. difficile are two large exotoxins, toxins A and B (TcdA
+and TcdB, respectively), which are important mediators of intestinal
+damage and disease. In addition to these toxins, several surface components
+have been characterized as colonization factors, and these have been
+shown to be immunogenic.173
+
+On the
+cell surface of C. difficile, three cell-wall
+polysaccharides, PSI, PSII, and PSIII, that are essential for bacterial
+survival and virulence, were identified and structurally characterized.174,175 PSI is expressed at low levels on the cell surface, and it is unclear
+whether it is present in different C. difficile strains,
+while PSII and PSIII appear to be conserved surface polysaccharide
+antigens across the majority of C. difficile strains.176 PSI is a polymer of branched pentasaccharide
+phosphate repeats, composed of rhamnose, glucose, and phosphate. PSII
+is made up of a hexasaccharide phosphate repeat of glucose, mannose,
+and N-acetyl-galactosamine constituents. PSIII is
+a water-insoluble lipoteichoic acid-like glycan, composed of phosphate, N-acetyl-glucosamine, and glyceric acid with minor repetitions
+of glucose and glycerol portions in the reducing regions.174 In 2013 Martin et al. synthesized the pentasaccharide
+repeating unit of PSI and oligosaccharide substructures by applying
+a linear synthesis strategy from monosaccharide building blocks following
+the strategy schematically depicted in Figure 7.177 The synthetic
+PSI repeating unit conjugated to CRM197 was shown to be
+capable of inducing immunoglobulin class switching as well as affinity
+maturation in mice. A disaccharide motif was identified as the minimal
+epitope, recognizing antibodies from serum and stools from CDI patients.
+
+(A) Chemical
+structures of C. difficile PSI, PSII,
+and PSIII. (B) Synthetic routes for PSI and related fragments have
+been developed enabling identification of the disaccharide epitope
+(26).
+
+The synthesis of the
+PSI pentasaccharide repeating unit and conjugation
+to a subunit of C. difficile exotoxin B to yield
+a potential dual vaccine were reported by Monteiro’s team.178 Sera from healthy horses were shown to contain
+natural anti-PSI IgG antibodies that detected both the synthetic nonphosphorylated
+PSI repeat and the native PSI polysaccharide, with a slightly higher
+recognition of the native PSI polysaccharide. Adamo and co-workers
+synthesized the hexasaccharide repeating unit of PSII, with and without
+the phosphate group at the nonreducing end, using a convergent [4+2]
+approach.179 The synthetic hexasaccharides
+were conjugated to CRM197 carrier protein and evaluated
+in mice, showing that the hexasaccharide with the phosphate group
+was able to elicit IgG antibodies that recognized PSII on the surface
+of C. difficile cells, while the nonphosphorylated
+hexasaccharide induced neither IgG nor IgM antibodies (Figure 8).180 The synthesis of the nonphosphorylated hexasaccharide has also been
+achieved by Seeberger and co-workers, who conjugated the glycan to
+CRM197 using squaric acid chemistry. The conjugate was
+capable of inducing carbohydrate-specific antibodies in mice, which
+bound to the hexasaccharide immobilized on a glycan array.181
+
+(A) Synthetic fragments of PSII from C. difficile. (B) Recognition of PSII on ELISA by the conjugated fragments showed
+the importance of the phosphate group for cross-reactivity with the
+natural PS. (C) Recognition of PSII on the bacterial surface assessed
+by confocal microscopy with anti-PSII (left part) and anti-(27) antibodies (right part). Adapted with permission from
+ref (180). Copyright
+2012 American Chemical Society.
+
+Antibodies in stool from patients were also probed. It was observed
+that not all stool samples showed binding. This could be explained
+by varying amounts of antibodies in the stool samples, occurrence
+of CDI from a different serotype, or the need of the phosphate group
+for higher affinity binding as reported above. In 2013, Seeberger’s
+group reported the synthesis of phosphodiester bridged oligomers of
+the PSIII repeating unit. A synthetic PSIII monomer and dimer, synthesized
+using phosphoramidite chemistry, were immobilized on a glycan array
+and used to detect anti-glycan antibodies in the sera of CDI patients.182 The PSIII dimer conjugated to CRM197 proved to be immunogenic and capable of protecting mice from a challenge
+with C. difficile.183,184
+
+Later,
+the same team evaluated the protective efficacy of various
+glycoconjugates prepared by linking the various synthetic glycans
+to CRM197, demonstrating that PSI and PSIII conjugates
+can reduce colonization in a murine model more effectively than an
+antitoxin vaccine candidate.185 However,
+no binding to C. difficile cells could be demonstrated
+by flow cytometry, indicating that expression of the glycans was different
+in the used in vitro setup, that binding was too weak, as described
+above, or that cellular immune responses (as opposed to antibody mediated
+effects) were responsible for the protective effect. Furthermore,
+this study showed that the PSI, PSII, and PSIII glycoconjugates did
+not significantly affect the murine gut microbiota, indicating that
+the aroused antibodies are highly specific for C. difficile.
+
+E. coli is a Gram-negative bacterium of which most
+strains are harmless commensal species. It is the most studied prokaryote
+and the “work horse bacterium” in molecular biology,
+microbiology, and biotechnology. Pathogenic E. coli strains, however, are causative agents of diarrhea disease, urinary
+tract infections, and pyelonephritis and neonatal meningitidis,186 and pathogenic strains are emerging as the
+primary cause of bacteremia and sepsis in the US187 and are associated with increasing AMR.188E. coli strains can be serotyped using
+different antigens, including their O-antigens (based on the partial
+structure of the lipopolysaccharides, of which currently >180 have
+been established) and K-antigens (based on the structures of the capsular
+polysaccharides, of which there are currently ∼80 reported).189
+
+Particularly, E. coli O25 ST131, producing extended-spectrum beta-lactamases (ESBLs),
+has spread globally, becoming the dominant type among extraintestinal
+isolates in many parts of the world.190
+
+The development of vaccines against different strains has
+taken
+several approaches, including the use of attenuated pathogens and
+the development of protein- and peptide-based vaccines.
+
+Polysaccharides
+have been used in the development of glycoconjugate
+vaccines, that have been generated through conjugation of native polysaccharides
+to carrier proteins using classic chemical conjugation or the in vivo
+bioconjugation (PGCT) approach. A nine-valent bioconjugate vaccine
+(ExPEC 9 V) is currently approaching phase III studies, after promising
+immunogenicity data of nine out of ten conjugates tested in phase
+II (Table 2).191 The broad structural variety of the E. coli O- and K-antigens has been an inspiration for the
+development of effective syntheses to generate well-defined fragments
+of these polysaccharides. The vast majority of these synthetic efforts,
+however, generated stand-alone saccharides, not suitable for the generation
+of glycoconjugate vaccines. Li and co-workers reported on the assembly
+of a core R3 pentasaccharide that was used to generate a conjugate
+vaccine.192 The core oligosaccharides of E. coli lipopolysaccharides show limited variation—only
+five are known, termed R1, R2, R3, R4, and K12—and therefore
+represent attractive targets against which to direct the immune system. Figure 9 shows the structure
+and synthetic strategy of the conjugation-ready R3 pentasaccharide
+(32), built up from the common monosaccharides galactose,
+glucose, and glucosamine.
+
+Synthetic routes for conjugates of the E. coli O-antigen core pentasaccharide (A) and repeating
+unit of O1 (B).
+A conjugate of the core pentasaccharide was shown to induce functional
+antibodies. The conjugate of the O1 fragment was recognized by anti-O1
+chicken serum. The β-Rha-(1–3)-GlcNAc linkage was successfully
+generated by boron mediated insertion of the GlcNAc building block
+in the rhamnose-1,2-epoxide intermediate. The assembled structure
+was deprotected and conjugated to BSA (40). This conjugate
+was shown to recognize chicken anti-O1 serum, using an ELISA assay.
+
+Conjugation of this glycan, using a disuccinimidyl
+suberate linker,
+to the common carrier protein CRM197 delivered a model
+vaccine (33) carrying ±18 oligosaccharides per protein.
+Immunization of mice in a mixture with Freund’s complete adjuvant
+(FCA), led to the generation of sera with increased IgM, IgG1, IgG2a,
+IgG2b, and IgG3 levels. The sera were shown to have bactericidal activity
+against the E. coli O157:H7 strain, with 50% killing
+at 160-fold dilution.
+
+Recently, Toshima’s group reported
+on the synthesis of a
+pentasaccharide from the LPS of avian pathogenic E. coli O1, which is considered problematic because of its zoonotic potential.193 The structure (39) presents a
+β-ManNAc residue at the upstream end and a β-Rha linked
+to the downstream GlcNAc (Figure 9). The synthesis was achieved through a [2+3] strategy,
+wherein the β-ManNAc-(1–3)-Rha was built using a Glc
+donor, followed by inversion of configuration at the Glc-C2 via an
+azide displacement of a triflate intermediate.
+
+Enterococcus faecalis and faecium are Gram-positive bacteria that are
+associated with infections worldwide. Enterococci account for 11% of nosocomial bloodstream isolates,
+and an increasing trend has been recorded over the last decades.194,195 In the US about 66,000 enterococcal infections occur each year,
+of which 20,000 are due to multiple drug-resistant strains, with about
+1,300 deaths per year.196
+
+E. faecalis is particularly worrisome because of vancomycin
+resistance, which also occurs in the community, with risk factors
+including non-heme residence, chronic skin ulcers, previous invasive
+procedures, exposure to antibiotics, and the presence of indwelling
+devices.197 Four different serotypes (CPS-A
+to CPS-D) have been described for E. faecalis by
+mapping their immunoreactivities with ELISA and the opsonophagocytic
+capacity of antisera raised against the different CPS of prototype
+strains combined with analysis of their CPS locus.198 One of the capsules produced by the CPS locus is diheteroglycan
+(DHG), which is present in CPS-C and CPS-D strains. DHG masks LTA
+in the bacteria and prevents opsonization by anti-LTA antibodies.
+The structure of DHG from the E. faecalis type 2
+strain has been described by Theilacker and co-workers, where the
+polysaccharide repeating unit [→6)-β-d-Galf-(1–3)-β-d-Glcp-(1→]
+is decorated at C-5 of the Galf residue with an O-acetyl and at C-3
+with an R-lactic acid (Figure 10).198,199
+
+Enterococcus
+faecalis and faecium synthetic antigens,
+including capsular polysaccharides (DHG), as
+well as lipoteichoic acids (LTA) and wall teichoic acids (WTA). Glycoconjugates
+of synthetic DHG (45 and 46) and LTA (51) fragments elicited antibodies in rabbit, inducing bacterial
+opsonophagocytic killing (OPK) in vitro and providing protection from
+bacterial colonization in vivo.
+
+Recently, Laverde et al. described the synthesis of a library of
+DHG-oligomers up to an 8-mer in length, lacking the O-acetyl and lactic acid residues.200 The
+fragments (43 and 44) were built up using
+either Galf-Glcp or Glcp-Galf dimers to explore whether the type of frameshift
+played an important role in immunogenicity. The assembled library
+of DHG-fragments was functionalized with a biotin handle and printed
+on a streptavidin glycan array. It was revealed that the longer fragments
+were more immunoreactive with the frameshifts having the “non-self”
+galactofuranose terminus appearing as better antigens. The octasaccharides
+were selected for conjugation, and the two octamer frameshifts were
+coupled to BSA through squarate chemistry (45 and 46). Antibodies raised in mice with the two conjugates showed
+opsonophagocytic killing activities of E. faecalis type 2 strains and CPS-C and CPS-D strains expressing DHG. In a
+mouse sepsis model, it was shown that the raised sera offered protection
+in a passive immunization strategy. As the evaluated synthetic fragments
+were not decorated with acetyl or lactic acid substituents, the role
+of these functional groups remains to be established. The cell wall
+of E. faecalis A and B is not protected by a CPS,
+and the LTA of these species is thus more exposed. LTA is built up
+from a poly(1–3)-glycerol phosphate (GroP) backbone and has
+attracted attention for its potential as an universal antigen as it
+is shared with other Gram-positive pathogens such as S. aureus.201−203 Initial studies conducted with isolated
+LTA from E. faecalis showed that opsonophagocytic
+antibodies could be raised against type 1 LTA, and cross-reactivity
+was observed against E. faecalis, E. faecium, S. aureus, and S. epidermidis strains.204 Different synthetic approaches
+toward well-defined LTA fragments have been developed using both solution
+phase205 and solid phase chemistry,206,207 and these have been recently reviewed.203E. faecalis GroP LTA can be decorated with α-d-glucosyl or α-kojibiosyl residues at the C-2 of the
+GroP residues. This position can also carry labile d-alanine
+esters. Building on contemporary DNA chemistry, Hogendorf et al. assembled
+a small library of LTA fragments, out of which (50) was
+identified as a potent antigen, able to inhibit the opsonic killing
+of antibodies raised against LTA from E. faecalis 12030.208 The BSA conjugates of (50) induced specific IgG antibodies in rabbits, that were
+directed to the native LTA. These antibodies showed cross-reactivity
+against other types of Gram-positive strains and could be used in
+a passive immunization scheme to protect mice in an endocarditis (heart
+valve infection) model.
+
+To generate a broader and more diverse
+library of TA oligomers
+presenting different carbohydrate appendages at different positions
+on the TA chain, van der Es et al. developed a second generation automated
+solid phase approach using a universal linker system and fluorous-tagging
+strategy.209 These TA fragments were used
+to create a TA glycan array to characterize the binding specificity
+of sera raised against isolated LTA from E. faecalis and the well-defined TA conjugate (51). The arrays
+revealed that the serum raised against the native LTA bound various
+TA fragments and no specificity for any carbohydrate pattern became
+clear. The serum raised against conjugate (51) proved
+to be very selective in binding, showing that it is possible to selectively
+raise antibodies to recognize specific and well-defined TA epitopes,
+which is not possible for TAs isolated from bacterial sources.
+
+The effect of the α-glycosylation has been recently more
+thoroughly explored.210 Using an improved
+method for the assembly of the glycosylated GroP building block, a
+series of glucosylated GroP hexamers was assembled, varying in the
+position of the glucose residue. Besides, a series of glucosylated
+GroP of the opposite stereochemistry (sn-1-GroP) was generated as
+well. Using glycan array binding studies, it was revealed that antibodies
+raised against (52) selectively recognized the sequence
+to which they were raised with binding decreasing as the glucose moiety
+moved down the chain. The GroP hexamers of the opposite stereochemistry
+were poorly recognized. The serum raised against the native LTA bound
+the opposite stereochemistry GroP better as it better resembles how
+LTA is anchored in the bacterial cell wall. A follow-up study elucidated
+the interactions of a mAb generated against (52) and
+a library of LTA structures through a combination of glycan array,
+ELISA, SPR-analyses, and STD-NMR spectroscopy to show that the number
+of GroP residues was important for affinity of the mAb and that binding
+was indirectly effected by the presence of the glucose residue.211 This study confirmed the importance of the
+backbone chirality.
+
+Enterococci also express
+different types of WTA,
+where several type 2 WTAs have been described for E. faecalis. A WTA from E. faecium strain U0317 was found to
+consist of →6)-α-GalNAc-(1–3)-β-d-GalNAc-(1–2)-GroP-(3→ repeating units, and this complex
+WTA can shield the LTA from opsonophagocytic antibodies.198,203,212 While the biosynthesis of LTA
+includes GroP units consisting of phosphatidyl glycerol having sn-1-glycerol
+phosphate stereochemistry, the WTA is generated using cytidine sn-3-glycerol
+phosphate. The stereochemistry of the GroP moiety from the WTA was
+unambiguously established by van der Es et al.213 through the synthesis of two sets of oligomers using either
+an sn-glycerol-1-phosphate or an sn-glycerol-3-phosphate constituent.
+From comparison of the NMR spectra of the synthesized fragments and
+naturally occurring WTA, the stereochemistry of E. faecium WTA GroP was established to be sn-3-glycerol phosphate.
+
+Zhou
+et al. also reported a synthesis of the E. faecium U0317 repeating unit for investigation of a WTA-based vaccine. However,
+this report did not describe the stereochemistry of the GroP moiety.
+The target structure was synthesized using H-phosphonate chemistry
+to insert the phosphodiester bridged linker for conjugation. The trimer
+was conjugated with the carrier proteins KLH and HSA (53) using a bifunctional glutaryl ester, and the conjugates could be
+used to generate antibodies that were capable of recognizing the sequence
+to which they were raised. Binding to naturally sourced WTA or E. faecium was not reported, nor were any opsonic properties
+evaluated.214
+
+Streptococcus pyogenes, commonly known as group
+A Streptococcus (GAS), is a Gram-positive β-haemoliticum
+bacterium that can cause a variety of diseases, varying from minor
+illnesses (pharyngitis and cellulitis) to very serious (glomerulonephritis,
+necrotizing fasciitis, and rheumatic fever) and deadly diseases (sepsis).215 It, thus, represents a significant threat to
+human health.
+
+Currently GAS infections are treated with antibiotic
+therapy, but the increased emergence of antibiotic resistance renders
+new effective treatment and prevention strategies urgent.216 The GAS cell wall is decorated with a surface
+polysaccharide, classified as the Lancefield antigen,217 that consists of trisaccharide repeating units
+of [→3)-α-l-Rha-(1–2)-[β-d-GlcNAc-(1–3)]-α-l-Rha-(1→]. This
+polysaccharide is a bacterial virulence factor and has been recognized
+as a promising target to develop GAS vaccines.218 Its expression is conserved across a variety of bacterial
+strains,219 and protective properties of
+anti-GAS-PS antibodies have been demonstrated.220 Pinto and co-workers have reported several syntheses of
+GAS-PS fragments and their protein conjugates.221−226 To gain insight into the epitope of GAS-PS, oligosaccharides were
+used to study interactions with an IgG3 mAb generated against the
+natural polysaccharide. It was found that β-d-GlcNAc-(1–3)-[α-l-Rha-(1–2)]-α-l-Rha and an extended surface
+were the key components for epitope recognition.227 Homology-based molecular modeling of the Fv region of the
+mAb indicated that two pockets could accommodate two GlcNAc residues
+on adjacent trisaccharide units, which was further supported with
+data from STD-NMR studies.228
+
+Using
+naturally sourced CPS in combination with well-defined synthetic
+fragments, it was revealed that polyclonal rabbit serum and serum
+of children recovered from a GAS infection showed different binding
+specificities.229
+
+The human sera
+required a hexasaccharide binding motif with at
+least two GlcNAc residues for adequate binding, while the rabbit sera
+also bound well to shorter fragments. Likely, repeated exposure to
+the bacterium led to affinity maturation of the human antibodies and
+a much narrower binding specificity. The GAS PS adopts a helical structure
+with the backbone polyrhamnose forming a helix placing the GlcNAc
+residues on the periphery.230
+
+Based
+on these detailed structural and binding studies it was proposed
+that an effective oligosaccharide conjugate vaccine would require
+the presentation of a contiguous series of GAS-PS helical motifs and
+would likely be comprised of, at least, a doubly branched hexasaccharide.
+Indeed, when the immunogenicity of TT conjugates of a synthetic hexasaccharide,
+conjugated through squarate chemistry (55), and the native
+cell-wall polysaccharide (CWPS) were compared in mice, similar IgG
+titers were elicited (Figure 11 panel A).231 In a more recent
+work by Costantino and co-workers, a series of GAS oligosaccharides
+with different frameshifts were chemically synthesized and the immunogenicities
+of their CRM197 conjugates were tested in mice.232 All the structures induced robust production
+of functional IgGs, and the dodecasaccharide (56) with
+a terminal Rha residue induced the highest opsonophagocytic titer.
+A similar trend was observed in a GAS infection model, indicating
+the correlation of opsonic antibodies with protection. Gu and co-workers
+have tested synthetic GAS-PS with different carrier proteins, including
+BSA, CRM197, TT, and GAS C5a peptidase (ScpA, 57).233 The use of a streptococcal protein
+could increase protection and could avoid potential epitope suppression
+with CRM197,234 as this latter
+protein is used in many commercial vaccines. Mono-, di-, and trimers
+of the trisaccharide repeating unit of GAS PS were synthesized by
+a convergent and efficient strategy and conjugated to an enzymatically
+inactive ScpA mutant through a bifunctional glutaryl linker.233 The ScpA-neoglycoconjugate induced an anti-carbohydrate
+immune response in mice, that was comparable to the one elicited by
+the related CRM197 and TT conjugates. In addition, robust
+ScpA193-specific antibodies were observed, making the ScpA193–oligosaccharide
+conjugates promising bivalent anti-GAS vaccine candidates.
+
+Synthetic
+strategies for group A Streptococcus antigens and
+collected immune data. (A) Immunization with a GAS
+cell wall hexasaccharide conjugated to BSA through squarate chemistry
+induced antibodies identical to a natural CPS-TT conjugate. In silico
+conformational analysis of the immunogenic fragment suggested that
+the polyrhamnose backbone forms a helix with the GlcNAc moieties on
+the periphery. Adapted with permission from ref (230). Copyright 2004 Elsevier).
+(B) The GAS dodecasaccharide conjugated to CRM197 elicited
+a high titer of anti-GAS opsonic antibodies. (C) Chemoenzymatically
+assembled nonasaccharide conjugated to the GAS protein ScpA (GAS C5a
+peptidase) induced antibodies against both antigens. (D) Site-selective
+conjugation of natural GAS polysaccharide to the streptococcal protein
+SpyAD induced antibodies able to provide in vivo protection in mice.
+(E) GAS trisaccharide conjugated to a synthetic peptidolipid, containing
+the T-cell peptide epitope PADRE.
+
+In another study a more in-depth immunological characterization
+of the ScpA193 conjugates was conducted. Of the tri-, hexa-, and nonasaccharides,
+the latter two nonasaccharide–ScpA193 conjugates in a mouse
+model revealed that the latter conjugate could effectively protect
+structures, leading to a better in vitro recognition of GAS cells
+and opsonophagocytosis.235
+
+Evaluation
+of the hexasaccharides and the animals from GAS challenge
+and GAS-induced pulmonary damage showed significantly increased animal
+survival. Further studies suggested that the two ScpA193 conjugates
+could function through activation of CD4+ T-cells and promotion of
+T-cell help, which would trigger differentiation into antigen-specific
+Th1 and Th2 cells, which, in turn, would provoke strong B-cell activation
+and IgG production.
+
+It has been proposed that antibodies directed
+at the immunodominant
+GlcNAc residues may give rise to autoimmunity directed at GlcNAc residues
+on self-tissue. Therefore, polyrhamnose has been proposed as a possible
+alternative to GAS PS,236,237 and it has been shown
+that an immune response can be invoked against the polyrhamnose backbone,
+lacking the GlcNAc branches, and that sera raised against this backbone
+PS can promote opsonophagocytic killing of multiple GAS strains to
+offer protection against a systemic GAS challenge after passive immunization.236 Nanoparticles generated by conjugation of a
+rhamnohexaose, corresponding to three consecutive GAS PS epitopes,
+devoid of the GlcNAc moieties, to gold beads have been shown to inhibit
+binding of anti-GAS murine serum in an ELISA setup, indicating that
+this hexasaccharide may be an adequate antigen in a synthetic anti-GAS
+vaccine.238 Naturally sourced GAS-polyrhamnose
+has been conjugated to the streptococcal protein SpyAD (58) and explored as a vaccine modality.239 Conjugation was achieved in a site-selective fashion by expressing
+the protein in the so-called Xpress cell-free expression system, to
+incorporate a non-natural amino acid enabling click chemistry of the
+polysaccharides. The conjugated SpyAD-GACPR elicited antibodies that
+bound the surface of various GAS strains and promoted opsonophagocytic
+killing by human neutrophils. Active immunization of mice with a multivalent
+vaccine consisting of SpyAD-polyrhamnose, together with the candidate
+vaccine antigens streptolysin O and C5a peptidase, protected against
+a GAS challenge in a systemic infection model and localized skin infection
+model. No evidence for cross-reactivity to human heart or brain tissue
+epitopes was found, indicating this approach can circumvent potential
+safety concerns of the GlcNAc carrying GAS PS. Furthermore, the inactive
+mutant of SpyAD is suited for site-selective conjugation, thereby
+preserving critical protective immune epitopes of the carrier protein.
+
+An innovative design has been proposed by Stephenson and co-workers,
+who conjugated small GAS PS fragments to a synthetic peptidolipid,
+containing the PADRE peptide, known to trigger T-cell responses.240 By this approach a fully synthetic nanoparticle
+vaccine (59) of 300–500 nm was formulated. The
+di- and trirhamnosyl as well as the GlcNAc dirhamnosyl lipopeptides
+were able to produce statistically significant GAC-specific IgG responses
+in comparison to unconjugated structures.241 Mice were immunized with the glycopeptidolipids, and the serum raised
+against the di- and trirhamnoside constructs showed opsonic activity.
+
+Streptococcus agalactiae, also known as group B Streptococcus (GBS), is a Gram-positive pathogen that colonizes
+the recto-vaginal tract and represents a major cause of neonatal and
+maternal infections.242 There is an estimate
+of 2.6 million stillbirths each year, many of which are due to GBS
+infections, especially in low and middle income contexts.243 The bacterial capsule is surrounded by sialylated
+branched polysaccharides, which share great structural similarity
+to one another, based on which 10 serotypes are defined (Ia, Ib, II,
+III, IV, V, VI, VII, VIII, and IX).
+
+All GBS polysaccharides
+are sialylated, and most of them share the same monosaccharide residues.244,245 The GBS CPS is a fundamental virulence factor and is promising for
+the development of a vaccine for maternal immunization,242 in which the vaccine would be administered
+to pregnant women to elicit serum antibodies that are then transferred
+to the baby through the placenta. Data on the global distribution
+of GBS clinical isolates show that a hexavalent vaccine including
+serotypes Ia, Ib, II, III, IV, and V could provide a protection over
+95% for all virulent GBS strains, and multicomponent CRM197 conjugates have been tested in phase I and II clinical trials.246,247 Vaccines currently under development exploit polysaccharides extracted
+from bacteria conjugated to CRM197, which yield complex
+heterogeneous mixtures.
+
+Synthetic GBS oligosaccharides have
+been prepared and evaluated
+at a preclinical level, being mainly used to understand the chemical
+features correlating with immunogenicity. Among all GBS serotypes,
+type III has been most studied, because of its seroprevalence.243
+
+Various approaches to produce short PSIII
+fragments have been based
+on either depolymerization or approaches employing organic synthesis
+or chemoenzymatic tools.243 GBS type III
+PS has for a long time been regarded to be a length-dependent conformational
+epitope. Molecular dynamics simulations and NMR studies248,249 showed that the GBS PSIII is able to form extended helical structures
+formed of at least four repeating units (RUs), that are stabilized
+by the presence of the charged sialic acids.47
+
+This hypothesis has been based on the length-dependent recognition
+of the PS polymer with a high affinity anti-PSIII mAb. The presumed
+conformational epitope has hampered the development of anti PSIII
+vaccines based on short synthetic glycans, which have only recently
+emerged as useful tools to effectively mimic the GBS PSIII in its
+immunogenicity.
+
+Syntheses of structures related to the linear
+form of the GBSIII
+repeating unit, a glycan that has also been found as part of viral
+glycans, have been reported;99,250 however, these linear
+structures have been found to be poorly immunogenic. The synthesis
+of GBS structures poses several challenges, one of which is the α-sialylation
+of the Gal residues. Significant advances have been made to achieve
+stereoselective sialylations with the development of new building
+blocks and glycosylation methodologies, summarized in Table 3.251
+
+Table 3: Synthetic GBS Structures and Corresponding
+Synthetic Strategies
+
+An early synthesis of a
+more complex branched GBSIII oligosaccharide
+was based on a chemoenzymatic approach where a tetrasaccharide fragment252 was sialylated using a specific rat liver sialyltransferase
+to obtain the branched repeating unit (60).
+
+A completely
+chemical assembly of a PSIII heptasaccharide (61) using
+a highly convergent strategy has been described
+by Demchenko and Boons,253 who used a highly
+convergent strategy which also provided the hexasaccharide fragment
+without the sialic acid.254 Zou et al.
+used a chemoenzymatic approach to assemble the decasaccharide, representing
+two repeating units of GBSIII.255
+
+The octasaccharide precursor was enzymatically sialylated by reaction
+with an α-(2–3)-sialyltransferase and CMP-Neu5Ac as donor.
+Using the same octasaccharide, an N-propionyl substituted
+sialic acid analog of the GBSIII dimer was also prepared. A similar
+enzymatic approach has been utilized to transform oligosaccharides
+from pneumococcal ST14 to their PSIII counterparts.256 More recently, a thorough study on the immunogenicity of
+the three different repeating unit frameshifts has been conducted
+by Adamo and co-workers.257 A branched
+(66) and “Y-shaped” (67) pentasaccharide,
+along with the linear frameshift (65), bearing a linker
+for conjugation to carrier proteins were generated through a convergent
+[3+2] approach employing a sialogalactosyl imidate donor.
+
+The
+pentasaccharides were coupled to CRM197 and the
+conjugates bound to polyclonal antibodies in anti-PSIII murine serum
+in an ELISA. The branching β-(1–6) glucose, linked to
+the GlcNAc residue, proved to be an important motif for antibody recognition.
+Next, structural studies, including STD-NMR and X-ray experiments,
+indicated that a hexasaccharide fragment spanning across two repeating
+units is responsible for interactions with a protective mAb.258
+
+It was found that oligosaccharides, obtained
+from nitrosylation
+of the polymer, with a length between 2 and 6 repeating units and
+conjugated to CRM197, were able to elicit a functional
+immune response, comparable to CRM197-PSIII, when conjugated
+with high glycodensity.259 Following these
+studies, the synthetic hexasaccharide (76) corresponding
+to the identified minimal structural epitope was synthesized using
+a regioselective glycosylation approach (Figure 12), and this structure was conjugated to
+CRM197 for in vivo evaluation. The resulting neoglycoconjugate
+elicited a strong protective immune response, similar the GBSIII conjugate
+that is currently in clinical trials, confirming that the hexasaccharide
+is the minimal GBS serotype III epitope and indicating the potential
+of the synthetic carbohydrate-based vaccine targeting these complex
+polysaccharides.260
+
+(A) X-ray crystallography
+of semisynthetic GBS III-DP2 (76) complexed with an anti
+PSIII rabbit Fab. (B) Combining data from
+STD-NMR and X-ray crystallography led to the identification of GBSIII
+structural minimal epitope highlighted in blue corresponding to hexasaccharide
+(76), which was synthesized accordingly. (C) The hexasaccharide
+(76) was conjugated to CRM197 carrier protein
+through the SIDEA activation chemistry and tested in mice. (D) Hexa-CRM197 conjugate elicited functional antibodies comparable to
+the positive control PSIII-CRM197.
+
+Over the years, various syntheses of other GBS serotype glycans
+have been reported, with a focus on serotype Ia, which—after
+type III—is one of the most prevalent serotypes. The GBSIa
+hexasaccharide (68) was prepared using a chemoenzymatic
+synthesis starting from a synthetic pentasaccharide, using an enzymatic
+sialylation.261
+
+In 2015 a total chemical
+synthesis of the pentasaccharide corresponding
+to the branched repeating unit of GBSIa (69) was accomplished
+using a convergent [2+3] route using a sialogalactosyl thioglycoside
+donor and a branched trisaccharide acceptor.262 An investigation on the reactivity of the galactose acceptor in
+the glycosylation reaction showed that the presence of a sugar at
+the 4-O-position had a big impact on the reactivity of the C-3-hydroxy
+group, since it made the 3-O position inaccessible for further glycosylation.
+
+Glycosylating the 3-O-position had a smaller impact
+on the 4-O-position, and for this reason the most
+effective sequence to glycosylate the galactose C-3 and C-4 hydroxy
+groups was to glycosylate the 3-O-position before
+introduction of a glycan to the C-4-OH. This approach was extended
+to the synthesis of a GBSIa decasaccharide (70), corresponding
+to two repeating units, which was prepared using a highly convergent
+strategy. First, a key intermediate trisaccharide was constructed
+via a one-pot iterative glycosylation; then, it was elongated to provide
+the hexasaccharide intermediate to which two side chains were attached
+by dual glycosylation with a sialogalactoside donor.264
+
+Both the GBS Ia monomer and dimer were conjugated
+to CRM197, and the resulting glycoconjugates were evaluated
+in mice, showing
+that both conjugates induced robust IgM and IgG antibodies, which
+were cross-reactive with both the monomeric and dimeric haptens, offering
+the first proof of principle for the use of synthetic glycans for
+an anti GBS Ia vaccine. Another convergent synthesis of branched GBS
+Ia and Ib repeating units ((71) and (72),
+respectively) has recently been described by our group, along with
+their linear frameshifts. NMR studies of these structures in combination
+with molecular dynamic simulations on the PSIa and PSIb polysaccharides
+were used to explain the origin of the highly specific immune response
+against these structurally very similar PSs, which differ only in
+one linkage in the repeating unit.
+
+These conformational studies
+indicated that they place the disaccharide
+Neu5Ac(2–3)Gal motifs in a different spatial orientation, leading
+to the presentation of different epitopes.265 Other GBS serotypes have also been synthesized, but data on their
+immunogenicity are not yet available. Gao et al. described the first
+synthesis of a GBS type V repeating unit, consisting of a heptasaccharide
+fragment.
+
+The target structure (73) was prepared
+using a preactivation-based
+one-pot [2+1+4] glycosylation strategy, which not only resulted in
+the reduction of the number of steps to the final oligosaccharide
+but also minimized manipulations of the glycosyl donor.267 A GBS type II branched heptasaccharide (74), corresponding to a frameshift of the repeating unit,
+was prepared by a convergent [4+2+1] glycosylation strategy.266 Recently, Guo and co-workers also assembled
+a hexasaccharide repeating unit of GBS type VII and the corresponding
+dimer (75). The synthesis was achieved by means of a
+preactivation-based iterative one-pot glycosylation protocol, which
+was made possible by optimization of the challenging stereoselective
+α-glucosylation reaction.263
+
+These synthetic efforts will pave the way for the preparation of
+even more complex GBS oligosaccharides from different serotypes. These
+structurally well-defined oligosaccharides can be used to map the
+relevant epitopes expressed by the capsular polysaccharides and be
+used as potential antigens in GBS glycoconjugate vaccines.
+
+K. pneumoniae (Kp) is a commensal Gram-negative
+bacterium that can cause chronic urinary tract and soft tissue infections,
+pneumonia, and sepsis, particularly in elderly and immunocompromised
+subjects.197,268,269Klebsiella spp. are the third most frequent cause
+of healthcare-associated infections, and the occurrence of multidrug-resistant
+Kp strains is considered as an urgent threat worldwide.269 Carbapenem-resistant (CR-Kp) and extended spectrum
+β-lactamase (ESBL-Kp) Kp are major causes of concern due to
+the lack of therapeutic options; therefore, prevention of Kp infections
+by vaccination has become of paramount importance.270 Synthetic vaccines targeting the sugar armory of Kp are
+currently under preclinical development. Kp surface oligosaccharide
+molecules, the capsular polysaccharide (CPS, K-antigen), and the lipopolysaccharide
+(LPS, with the O-antigen as the main target) are major virulence factors
+and promising targets for the development of vaccines.271
+
+The CPS is mainly involved in colonization,
+adhesion, perpetuation, and proliferation in the host, while the LPS
+plays a main role in conferring resistance to the bactericidal activity
+of the complement.272
+
+Kp K-antigen
+is anchored to the outer membrane through a lipid
+A tail. The structural variability of the CPS is extremely high, with
+more than 77 serotypes identified. This heterogeneity challenges the
+development of vaccines based on the CPS, which should comprise at
+least 24 serotypes to ensure adequate coverage against the most virulent
+strains. Proof of concept of the use of the K-antigen as a vaccine
+target has been provided in late ’80s and ’90s, when
+a six-valent and a 24-valent vaccine based on different Kp CPS were
+tested in humans, showing it to be safe and to induce serospecific
+IgGs in all vaccines.273 Due to the complexity
+in manufacturing these vaccines, the development was discontinued.
+It did, however, provide the proof of principle for the use of K-antigens
+in anti-Kp vaccines. Besides the use of full-length, high molecular
+weight extracted polysaccharides, in 1985 Zigterman et al. demonstrated
+the efficacy of a vaccine based on an octasaccharide, obtained by
+depolymerization of the Kp capsular polysaccharide serotype 11.274 K1 and K2 are the most virulent Kp serotypes,
+often present in antibiotic resistance strains, and these have, therefore,
+been recently targeted for vaccine design through different technologies.
+In 2019, expression of K1 and K2 polysaccharides conjugated to EPA
+was achieved in E. coli, and the bioconjugates proved
+to be immunogenic in mice and provided protection from lethal infections
+by two hypervirulent Kp strains.275 Recently,
+the synthesis of oligosaccharides derived from K2 CPS was described
+and the obtained oligosaccharides were used as tools to elucidate
+the structure of the minimal epitope.276 The repeating unit of the K2 antigen is built up from a [→3)-β-d-Glc-(1–4)-β-d-Man-(1–4)-α-d-Glc-(1→] backbone carrying α-d-GlcpA
+branches at the O3 of the mannoses. The main challenge of the synthesis
+is presented by the two 1,2-cis linkages (Figure 13A). First, the
+tetrasaccharide repeating unit was assembled; then, it was elongated
+through [1+4], [2+4], [3+4], and [4+4] glycosylations to obtain the
+penta-, the hexa-, the hepta-, and the octasaccharides. The α-selective
+glycosylation, key for the elongation process, was achieved using
+glycosyl fluoride donors using Cp2HfCl2/AgOTf
+mediated catalysis. The synthetic hexa-, hepta-, and octasaccharides
+(81) were conjugated to DT and tested in mice. Sera against
+the heptasaccharide were able to cross-react with all synthetic glycans,
+including the longer octasaccharide (81), and antisera
+against the hepta- and the octasaccharide DT conjugates showed a high
+titer of functional antibodies in a serum bactericidal assay.
+
+Synthetic
+routes for K. pneumoniae glycans for
+immunological testing: (A) Design of conjugates from synthetic fragments
+of the K2 capsule used for immunization of rabbits. (B) Conjugates
+from Kp ST238 CPS, that have been tested in rabbits, providing antibodies
+with opsonophagocytic killing (OPK) activity in vitro. (C) Structures
+related to O1 and O2 O-antigens used in the glycan array.
+
+A synthetic approach to the repeating unit of Kp ST238 CPS,
+a carbapenem-resistant
+(CR) strain which has been responsible for several outbreaks in hospitals
+in the US,277 has been described by Seeberger’s
+team.278 The target hexasaccharide was
+synthesized using a [3+3] convergent approach based on three monosaccharide
+building blocks, of which the GalA building block was obtained by
+a de novo route (Figure 13B). The synthetic hexasaccharide (86) and shorter
+fragments were anchored to a glycan array and assayed against the
+protective mouse IgM mAb 1C9, raised against the CR-Kp CPS. The specific
+recognition of the hexasaccharide was demonstrated by inhibition of
+the binding of the mAb preincubated with Kp CPS. The hexasaccharide
+was then conjugated to the carrier protein CRM197 and tested
+in mice in two adjuvanted formulations, one with the Freund adjuvant
+(FA) and the other with Alum, which both elicited antibodies reactive
+against the hexasaccharide. However, only the conjugate formulated
+with FA induced antibodies that were cross-reactive with the Kp CPS.
+The formulation with Alum was also tested in rabbits and induced antibodies
+that were able to bind Kp cells and promoted the uptake and killing
+by phagocytic cells, indicating that the hexasaccharide-CRM197 conjugate represents a promising vaccine against hypervirulent CR-Kp.
+Two mAbs, 17H12 and 8F12, binding the synthetic glycan epitope, were
+shown to agglutinate all clade 2 strains and were also shown to promote
+inhibition of biofilm formation and extracellular killing of these
+bacteria, by complement deposition and the deployment of neutrophil
+extracellular traps.279 The mAbs also promoted
+opsonophagocytic and intracellular killing of Kp by human derived
+neutrophils and cultured murine macrophages, indicating that this
+structure can be targeted to develop therapeutics.
+
+The Kp LPS
+is composed of a conserved core oligosaccharide linked
+to the terminal lipid A portion and to the O-antigen, whose composition
+is highly variable across different strains. As opposed to the K-antigens,
+only 11 O-antigens have been identified, and these have been used
+for Kp typing; four of these O-antigens (O1, O2, O3, and O5) are found
+in clinically relevant strains, and therefore, it has been proposed
+that a vaccine comprising these four serotypes would ensure a 80%
+coverage against Kp infections.280 O1 and
+O2 consist of d-galactose and d-galactofuranose,
+while O3 (including the related serotype O3b) and O5 are composed
+of d-mannoses. The O1 polysaccharide is the most prevalent
+serotype in clinical isolates, followed by the O2 and the O3 polysaccharides;
+therefore, most preclinical development of potential vaccines focused
+on these serotypes.
+
+The O1-antigen is built of two polysaccharide
+types: Galactan (Gal)
+I, located at the inner part of the O-chain, shared also with other
+Kp serotypes (O2 and O2ac) and formed by a [→3)-Galp-β-(1–3)-Galf-α-(1→]
+repeating unit, and Galactan II, constituting the capping sequences
+and formed by a [→3)-Galp-β-(1–3)-Galp-α-(1→] repeating unit.281 Extracted O-antigens have been tested in animal models
+as stand-alone polysaccharide antigen282 or conjugated to Tetanus Toxoid283 and P. aeruginosa flagellins FlaA and FlaB.284 The syntheses of O-antigens belonging to serotypes O1 and
+O2 have been described. The first synthesis of the Galactan I disaccharide
+β-Galf-(1–3)-Galp,
+corresponding to the repeating unit of O2 LPS, was reported by Wang
+et al.427 Longer Gal I oligosaccharides
+(a tetra- and hexasaccharide), bearing a p-methoxyphenyl
+aglycone at the reducing end, were prepared by Zhu et al.285 The synthetic design was based on the preparation
+of a Galf-β-(1–3)-Galp disaccharide intermediate bearing a p-methoxyphenyl
+group at the reducing end and a levulinoyl group to mask the Galf
+3-OH. The key step in the synthesis was the α-selective galactopyranosylation
+of the 3-OH of the di- and tetrasaccharide acceptor in solvent controlled
+glycosylation reactions. Further advances in the synthesis of Gal
+I (90) and II (91) hexasaccharide fragments
+were reported by Nifantiev and co-workers (Figure 13C).286,287 A [2+2+2] synthetic
+approach was developed, and a pyranoside-into-furanoside (PIF) rearrangement
+was used to generate the galactofuranose building block. The synthesized
+di-, tetra-, and hexasaccharides of both serotypes were biotinylated
+for immobilization on a streptavidin-coated glycan array plate to
+screen sera against Kp O1 of serotypes K1, K2, and K16. All tested
+sera showed significant concentration-dependent reactivity with the
+Gal II hexasaccharide while less interaction was observed with the
+Gal II tetrasaccharide and the disaccharide was poorly recognized.
+The Gal I tetra- and hexasaccharides were specifically recognized
+by antibodies in sera against the Kp type 16, but not types 1 and
+2, showing domination of Gal II antibodies over anti Gal I antibodies.
+
+O1 and O2 oligosaccharides (and related subtypes O2afg and O2ac)
+with a length ranging from one to eight repeating units were synthesized
+recently using a highly convergent strategy based on a key di-galactose
+building block with a 3-Nap protecting group. Oligosaccharides from
+these serotypes were conjugated to CRM197 and tested in
+vivo in rabbit and mice. After immunization, functional antibodies
+against the homologous oligosaccharides used for the immunization
+and against the natural O-polysaccharides of Kp serotypes O1, O2,
+and O2ac and carbapenem-resistant ST258 were detected, indicating
+the potential of these vaccines to confer protection against Kp infections.288
+
+O3, O3b, and O5 polysaccharides represent
+other clinically relevant
+Kp O-antigen serotypes which should be included in a vaccine to ensure
+adequate coverage against circulating strains. The repeating units
+of these polysaccharides are composed of mannoses and vary in the
+length of the repeating unit and the linkages between the monosaccharides.
+Syntheses of oligosaccharides from O3 to O3b to O5 have been recently
+described both in solution phase and by automated glycan assembly
+on a polymer matrix. O3 oligosaccharides spanning from one to four
+RUs (from pentamer to 20-mer), O3b hexa- and dodecasaccharides (corresponding
+to two and four RUs), and O5 tri-, hexa-, and nonasaccharides (one,
+two, and three RUs) were assembled and equipped with a chemical handle
+suitable for conjugation. Key building blocks for the solid phase
+synthesis were the two mannoses reported in bearing temporary protections
+on 2-OH and/or 3-OH, giving access to all the target O-antigen structures.
+The O3 pentasaccharide and O5 hexasaccharide were activated as p-nitrophenyl esters and conjugated to CRM197 and BSA. The CRM197-conjugates were formulated with Alum
+for mice immunization and incomplete Freund adjuvant for rabbit immunization.
+Sera from immunized rabbits cross-reacted in ELISA with the corresponding
+O-antigens as BSA conjugates, while sera from mice were able to selectively
+recognize the homologous LPS.288
+
+N. gonorrhoeae is a Gram-negative diplococcus bacterium
+closely related to other human Neisseria spp. N. gonorrhoeae only infects humans and most commonly leads
+to urethritis in men and cervicitis in women.289 It causes the sexually transmitted genitourinary infection
+gonorrhea and other forms of gonococcal disease including disseminated
+gonococcemia, septic arthritis, and gonococcal ophthalmia neonatorum.
+Among these, the sexually transmitted infection (STI) gonorrhea remains
+a major global public health concern, causing 87 million cases globally
+and being the second most commonly reported infection in the United
+States.290 To date, there is no vaccine
+for gonorrhea in humans, and efforts to develop it are becoming increasingly
+important, given the growing threat of gonococcal antimicrobial resistance
+(AMR) and increased incidence of STI gonorrhea. Recent studies have
+shown that vaccines against a closely related pathogen, such as the N. meningitidis serogroup B vaccine Bexsero, containing
+outer membrane vesicle (OMV) components can reduce the incidence of
+gonorrhea.291 Several approaches for the
+identification of a candidate vaccine from outer membrane or pilin
+proteins are currently in preclinical development.292
+
+N. gonorrhoeae lipooligosaccharides
+(LOS) play a major role in pathogenesis by inducing host inflammatory
+responses, including resistance to complement, adhesion, and entry
+into cells, and also enabling evasion of host innate immunity through
+sialylation.293 The LOS is located in the
+outer membrane of the pathogen and constitutes about 50% of its mass.
+LOS are composed of three oligosaccharide (OS) chains, made up of
+glucose, galactose, and N-acetylglucosamine, which
+are linked to two heptose residues, which in turn are attached to
+lipid A through two molecules of 2-keto-3-deoxy-mannooctulosonic acid
+(Kdo) (Figure 14).
+
+Chemical
+structure of N. gonorroheae LOS, composed
+of three characteristic α, β and γ chains. Highlighted
+is the epitope identified through the C27 mAb.
+
+One OS chain, the α-chain, extends from the first heptose
+(Hep-I), while the second and third chains, the β- and γ-chains,
+are attached to the second heptose (Hep-II) (Figure 14). The compositions of the oligosaccharides
+are highly variable, in length, carbohydrate content, and number of
+chains. Phosphoethanolamines, acetyl esters, glycines, N-acetylneuraminic acid, and Kdo can also be present, resulting in
+heterogeneity of the LOS and different antigenic epitopes.294,295
+
+In the last decade the so-called peptide mimotope approach
+has
+been applied to resemble the carbohydrate epitope structure, recognized
+by the opsonophagocytic mAb 2C7.296 By
+screening a random peptide library, the Octa-MAP1 peptide was identified
+as an immunological surrogate of the 2C7-oligosaccharide epitope.
+The 2C7 epitope mainly includes the α-lactoside on Hep and may
+also contain a β-lactoside on Hep-I. In vivo evaluation of the
+Octa-MAP1 peptide in a mouse model demonstrated that it is capable
+of generating cross-reactive anti-LOS antibodies with complement-dependent
+bactericidal activity against gonococci.294
+
+P. aeruginosa (PA) is a ubiquitous, Gram-negative
+bacterium that can grow under both aerobic and anaerobic conditions.
+Serious infections with PA are primarily encountered in the hospital
+setting,297 such as fulminant and acute
+ventilator-associated pneumonia.298,299 PA causes
+slowly progressive deterioration of pulmonary function in cystic fibrosis
+(CF) patients297 as well as non-CF bronchiectasis
+in COPD patients.300,301 Antibiotic resistance of PA
+is a major concern, and consequently, attempts have been made to obtain
+a vaccine, amongst others targeting the OAg. There are 20 different
+OAg structures, of which about 11 are expressed in the majority of
+PA clinical isolates.
+
+The most commonly isolated serotypes in
+acute infection are O1, 6, and 11, although there are also isolates
+lacking the OAg.302 A challenge associated
+with the OAg is the structural variability of the lipid A in the transition
+from acute to chronic infections, when the LPS changes from smooth
+(with OAg) to rough (without OAg). An eight-valent vaccine consisting
+of OAgs conjugated to exotoxin A (EPA), Aerugen, was initially demonstrated
+to be safe and immunogenic in plasma donors, as well as bone marrow
+transplant and noncolonized CF patients.303−306 In a larger trial in European CF patients, however, Aerugen showed
+good safety but no significant difference in clinical outcome compared
+to the placebo control group.307 In bronchiectasis
+patients, eliciting high titers of IgG2, specific against the OAg,
+resulted in impaired serum mediated PA killing,308 which could explain the inconsistent results of LPS-based
+vaccination approaches.
+
+Synthesis of fragments lacking Lipid
+A contaminants could be a
+means to better understand the reasons behind this inconsistent data.
+PA expresses two distinct lipopolysaccharide (LPS) molecules, also
+known as the A-band and B-band.309 The
+B-band is the serospecific LPS, while the A-band is the common LPS
+antigen composed of a d-rhamnose O-polysaccharide chain.
+Ghosh’s group constructed synthetic routes toward the trisaccharide
+repeating unit [→2)-α-d-Rha-(1–3)-α-d-Rha-(1–3)-α-d-Rha-(1→] of the
+A-band polysaccharide.310 The total synthesis
+of the PA 1244 pilin trisaccharide α-5N-βOHC4-7N-FmPse-(2–4)-β-Xyl-(1–3)-FucNAc
+was achieved by Liu311 and co-workers.
+Kulkarni and co-workers have accomplished the challenging synthesis
+of the PA O11 trisaccharide β-d-Glc-(1–3)-α-l-FucNAc-(1–3)-β-d-FucNAc,312 where the highly stereoselective 1,2-cis incorporation of the l-fucosamine and d-fucosamine residues was achieved using fucosazide thioglycosyl building
+blocks.
+
+PA also expresses exopolysaccharides, such as Psl, which
+is found
+in 76% of all analyzed clinical isolates. Its expression occurs in
+the primary infecting strains but seems to play a role also in establishing
+a persistent infection.313−315 Psl is responsible for the formation
+and maintenance of biofilms, and an anti-Psl monoclonal antibody exhibited
+opsonophagocytic killing of a number of strains and conferred significant
+protection in multiple animal models.
+
+Boons and co-workers reported
+the synthesis of a Psl tetra-, penta-,
+hexa-, and decasaccharide316 (Figure 15) to map the epitope
+of three different classes of mAbs, developed as therapeutics to treat
+PA infections.317 The synthetic strategy
+enabled the efficient stereoselective installation of the challenging
+β-mannosyl linkages as well as the construction of the very
+crowded mannoside that is glycosylated at C-1, C-2, and C-3.316 The class II mAb reacted potently with each
+oligosaccharide, indicating its epitope to reside within the tetrasaccharide,
+indicating no need for a branched mannoside. The class III antibody
+well recognized the hexasaccharide and weakly interacted with the
+decasaccharide, while no binding was observed with the tetra- or pentasaccharide,
+suggesting a terminal glucoside as a requirement for mAb recognition.
+Finally, the class I mAb did not react with any of the oligosaccharides,
+suggesting that some missing structural feature is needed for binding.
+
+Synthetic
+strategy for P. aeruginosa Psl oligosaccharides
+and immune evaluation with class I, II, and II mAbs. Of these three
+mAbs, while class II and III allowed epitope mapping, class I did
+not map any epitope, suggesting that the structure is lacking motifs
+relevant for antibody recognition.
+
+Salmonella enterica is a Gram-negative bacterium
+that is most widespread in developing countries, and it is responsible
+for severe gastroenteritis and systemic illnesses.318
+
+Human infections are generally due to the ingestion
+of contaminated food or water and can generally be attributed to four
+key serovars: S. Typhi and S. Paratyphi
+(Typhoidal Salmonellae), the causative agents of typhoid and paratyphoid
+fever, and S. Typhymurium and S.
+Enteritidis (non-typhoidal Salmonellae, NTS), responsible for gastroenteritis
+and bloodstream infections.319,320 Conventionally, Salmonella infections are treated with antibiotics, but
+the rise of multidrug-resistant strains demands the development of
+effective vaccines.321
+
+The Vi capsular
+polysaccharide (Vi PS) is the most important virulence
+factor of S. Typhi, making it the principal target
+of vaccines. A Vi polysaccharide-based vaccine322 and an oral typhoid vaccine, Ty21a,323 consisting of an attenuated strain of S. Typhi, have been available for many years, but they are poorly
+immunogenic in young children, where the burden of invasive salmonella
+disease is highest.319 More recently, a
+conjugate vaccine against typhoid fever caused by S. typhi has been licensed in India.318 A variety of glycoconjugate Vi vaccines differing
+in the carrier protein (TT, DT, CRM197, and EPA) have been
+developed and have been tested at different clinical stages.324 The Vi PS is a linear homopolymer of [→4)-α-d-GalNAcA-1→], predominantly O-acetylated at C3-OH3,325 and the synthesis
+of Vi oligomers is challenging because of the presence of the 1,2-cis glycosidic linkages.326 Yang
+et al. reported an effective synthesis involving the use of a carbamate
+protecting group masking the C-2-NH2 and C-3-OH, that allows
+for stereoselective glycosylation reactions and easy removal.326 This protective group was used in syntheses
+of both acceptor (100) and donor (101) di-,
+tri-, and tetrasaccharides bearing an extra acetyl group in the C4-OH
+position of the terminal repeating unit (Figure 16A). It has been shown that short oligosaccharides
+having an acetyl group are considerably more immunogenic than the
+methylated analogs previously reported in the literature,327 suggesting that the OAc groups are an important
+antigenic determinant.328 In a subsequent
+study, the authors used the same approach to extend the oligosaccharide
+chain of the Vi antigen. Penta-, hexa-, hepta-, and octasaccharides
+were synthesized, and a competitive ELISA showed that the hexasaccharide
+could represent the minimal epitope of the Vi antigen.329 Despite numerous efforts to develop typhoid
+vaccines, there are no approved products against the other serotypes.330,331
+
+Synthetic approaches for conjugates from Salmonella oligosaccharides: (A) Fragments of S. Typhi capsular
+polysaccharide used to identify the minimal epitope length. (B) Design
+of conjugates against S. Enteritidis and Paratyphi
+and immunological evaluation in animal models.
+
+Over the years, studies have been performed to identify protective
+antigens and evaluate the best strategy to develop an efficient vaccine. S. Paratyphi, as well as S. Enteritidis
+and S. Typhimurium, does not express the Vi antigen,
+leaving the cell surface-exposed lipopolysaccharide (LPS) as a promising
+vaccine target. The OAg portion of LPS is responsible for Salmonella serovar specificity and is considered to be an
+excellent protective antigen.332 The OAg
+moiety of S. Paratyphi A that is composed of [→2)-α-d-Man-(1–4)-α-l-Rha-(1–3)-α-d-Gal-(1→] repeats with an α-d-paratose
+branch at the mannose C3 was proven to be immunogenic in mice (Figure 15B).333 Acetylation of the rhamnose C-3-OH is known
+to be an important factor for antigenicity.334 The first synthesis of a tetrasaccharide representing the S. Paratyphi A repeating unit (105) has recently
+been achieved following a stereoselective [2+2] glycosylation strategy.335 After conjugation to the bacteriophage Qβ-carrier
+(106), its immunogenicity was tested in mice and rabbits,
+highlighting the importance of the paratose residue and O-acetyl modifications on the backbone for antibody recognition. It
+was demonstrated that one repeating unit is sufficient to elicit protective
+antibodies, suggesting a promising direction for the development of
+synthetic antigen-based Salmonella vaccines.335 Vaccines are under development against other Salmonella species, and a bivalent S. Typhimurium
+and S. Enteritidis vaccine formulation based on vesicle-based
+technology that involves the use of generalized modules for membrane
+antigens (GMMA), naturally expressing the OAg, has shown promising
+results in mice.336
+
+The S. Enteritidis and S. Typhimurium
+OAg share the same trisaccharide backbone of S. Paratyphi
+but differ in the structure of the mannose C-3 side chains, in glucosylation,
+and in O-acetylation. S. Enteritidis
+presents two oligosaccharides corresponding to two representations
+of the repeating unit →3)-α-d-Galp-(1–2)-[α-d-Tyv-(1–3)]-α-d-Man-(1–4)-α-l-Rha-(1→ and α-d-Tyv-(1–3)-α-d-Man-(1–4)-α-l-Rha-(1–3)-α-d-Gal-(1→.337 Both structures
+present a rare tyvelose monosaccharide which was shown to play an
+important role in pathogenesis.338 The
+first synthesis of the α-d-Gal-(1–2)-[α-d-Tyv-(1–3)]-α-d-Man-(1–4)-α-l-Rha tetrasaccharide repeating unit was achieved by using a
+key dodecylthioglycosyl donor.339 Recently,
+Huang’s group reported the synthesis of the tetrasaccharide
+frameshift α-d-Tyv-(1–3)-α-d-Man-(1–4)-α-l-Rhap-(1–3)-α-d-Gal (107) following a [2+2] glycosylation strategy. The tetrasaccharide conjugated
+to Qβ (108) proved to be immunogenic in mice and
+rabbits, suggesting that one repeating unit is sufficient to produce
+anti-OPS antibodies.340 A synthetic approach
+was also reported for a methyl 3-O-(3,6-dideoxy-α-d-xylopyranosyl)-α-d-mannopyranoside
+disaccharide from S. Typhimurium, which upon conjugation
+was immunogenic in rabbits.341 Subsequently,
+this synthetic disaccharide and tetra-, octa-, and dodecasaccharides,
+corresponding to one, two, and three repeating units, respectively,
+generated by fragmentation of S. Typhimurium OPS,
+were conjugated to BSA to evaluate the influence of glycan size on
+antibody response in rabbits and mice.342,343 It was proposed
+that an optimal S. Typhimurium antigen should be
+composed of an octa- or dodecasaccharide and that the conjugate vaccine
+carries approximately 20 saccharide molecules per protein molecule.343
+
+S. aureus is a commensal
+Gram-positive bacterium
+and one of the most important hospital pathogens. Multidrug-resistant
+strains pose a significant health threat, and S. aureus invasion can lead to toxic shock, bacteremia, endocarditis, and
+osteomyelis. Glycopolymers are prime constituents of the S.
+aureus cell wall, as part of the biofilm, capsular polysaccharides,
+wall teichoic acids, and lipoteichoic acids and the thick peptidoglycan
+layer. All these glycopolymers have been found to be promising antigen
+candidates.
+
+To date, 13 different serotypes of capsular polysaccharides
+(CPs) have been identified from clinical isolates, with capsular polysaccharide
+type 5 (CP5) and type 8 (CP8) being the most abundant.344 These two polysaccharides have been targeted
+for vaccine development, and conjugates of the natural polymers have
+been tested in clinical trials,345−347 unfortunately without
+demonstrated efficacy. A pentavalent vaccine is currently in a Ph1
+clinical trial.348 The structures of CP5
+and CP8 are quite similar. The RU of CP5 is composed of →(4-β-d-ManNAcA-(1–4)-α-l-FucNAc(3-O-Ac)-(1–3)-β-d-FucNAc-(1→ and the RU
+of CP8 of →(3-β-d-ManNAcA(4-O-Ac)-(1–3)-α-l-FucNAc-(1–3)-β-d-FucNAc-(1→ units. The syntheses of CP5 and CP8 are
+very challenging because of the presence of the 1,2-cis glycosylic linkages and the presence of unusual amino sugars as
+well as the critical O-acetyl group. In 2012 Adamo et al.349 reported the first synthesis of a CP5 trisaccharide
+(Figure 17). The β-ManNAcA
+residue was generated using a 2-O-levulinoyl glucuronate donor (107), which was used to first create a β-glucuronic
+acid linkage, after which a C-2- azide was introduced through a substitution
+reaction at C-2. Although a spacer was introduced at the reducing
+end terminus, this linker could not be used for conjugation purposes
+as an acetamide (111) was generated during the deprotection
+steps. Competitive ELISA and dot blot studies, with murine anti-CP5
+serum, generated against the conjugated polysaccharide, showed recognition
+of the synthetic structure, representing a first proof that the trisaccharide
+contains the minimal elements for antibody binding.
+
+Assembly and immunological
+evaluation of staphylococcal surface
+carbohydrates, including capsular polysaccharides and teichoic acids.
+(A) Repeating unit structure of capsular polysaccharides CP8 and CP5.
+(B) Synthesis of CP5 trisaccharide, which was recognized by murine
+anti-CP5 serum. (C) Synthesis of the CP8 trisaccharide repeating unit,
+which, conjugated to CRM197, elicited anti-glycan antibodies
+in mice. (D) Assembly of a 10-mer glycerol phosphate (GroP) polymer
+and conjugation to TT for immunological evaluation. (E) Synthesis
+of ribitol-phosphate (RboP) oligomers. (F) Solution phase synthesis
+of 8-mer and 12-mer RboP oligomers and conjugation to BSA. (G) Example
+of WTA RboP substituted tetramer tested in mice. (H) Wall teichoic
+acid (WTA) fragments conjugated to recombinant P. aeruginosa exotoxin A (rEPA) induced murine antibodies providing in vitro opsonophagocytic
+killing (OPK).
+
+However, in comparison to the
+natural polysaccharide, significantly
+weaker interaction was observed, suggesting that longer fragments
+will be necessary to function as adequate synthetic antigens. To address
+the need for longer conjugation-ready structures, different approaches
+have been reported. Demchenko and co-workers350 developed another synthetic route, based on inversion of configuration
+of a glucose building block to obtain the ManNAc residue, while Boons,351 Codée,352 and Kulkarni312 exploited a direct β-mannosylation
+reaction. However, no further immunological evaluation has been reported.
+
+The synthesis of a CP8-fragment has been achieved by Demchenko’s
+group, who managed to synthesize both a trisaccharide and a protected
+hexasaccharide (Figure 17),353,354 equipped with capping methyl
+groups at the points of propagation of the polysaccharide sequence.
+No immunological evaluation has thus far been reported. In 2020 Hu
+et al.355 reported a synthesis of a CP8
+trisaccharide (116) and the initial immunological evaluation
+thereof. The introduction of the β-ManNAcA moiety was achieved
+by a late-stage epimerization of a glucose precursor. The carboxylic
+acid functionality was introduced at the trisaccharide level. To test
+the immunogenicity of the trisaccharide, it was conjugated to the
+carrier protein CRM197. After immunization of mice with
+the glycoconjugate, a glycan array showed the induction of anti-glycan
+IgGs. Hybridoma development and subcloning of the secreted antibodies
+was used to prepare mAbs. The purified mAbs and serum antibodies were
+analyzed for recognition of bacteria by immunofluorescence. Confocal
+laser scanning microscopy showed recognition of the bacterial surface
+of S. aureus. This data suggests that conjugates
+from the synthetic structures could be tested for functional activity
+and in infection models to assess their potential as vaccine candidates.
+Not only the CPs but also the teichoic acids (TA) of S. aureus have been considered to be promising vaccine candidates.356 TAs are anionic glycopolymers, which are either
+covalently attached to the peptidoglycan, as in WTA, or anchored in
+the lipid bilayer through hydrophobic interactions, as in LTA. S. aureus WTA is composed of 20–-40 ribitol phosphate
+(RboP) repeats, which can be substituted with either α- or β-linked
+GlcNAc residues or d-alanine esters.357,358 The most common type of LTA consists of a GroP backbone randomly
+decorated with d-alanine or α-GlcNAc moieties. Schmidt
+and co-workers have reported a significant amount of work to generate
+LTA fragments to probe their innate immune-stimulation activity,359−361 finding that the glycolipid anchor and positively charged alanine
+esters on the GroP units were required for full innate immune-stimulation
+activity. The potential effect of these fragments in an adaptive immune
+response setting has not been investigated. In 2013 Snapper and co-workers
+reported a synthesis of a GroP oligomer for potential use in a conjugate
+vaccine.362 A 10-mer (119)
+was synthesized taking a solid phase approach using a glycerol phosphoramidite
+building block (118), where a dimethoxytrityl (DMTr)
+was used to protect primary alcohols and a benzoyl (Bz) group to mask
+the secondary alcohols, even though these groups can readily migrate
+to the neighboring primary hydroxy groups under both basic and acidic
+reaction conditions. No characterization data have been provided for
+the generated structure.363 The crude product
+was conjugated to a TT carrier protein to generate a model vaccine.
+
+Administration in mice of the unconjugated and the TT-conjugated
+GroP oligomer adjuvanted with CpG-ODN, a strong TLR9 activator, showed
+that a high IgG level was only induced by the conjugate form. The
+pooled serum was able to mediate opsonic killing of both the Lowenstein
+and the USA300 strains of S. aureus.
+
+An approach
+leading to a set of glycosylated LTA fragments has
+been reported by Codée’s group as described above.210 Cross-reactivity of serum generated against
+a glucosylated GroP hexamer, designed to mimic enterococcal LTA, was
+shown.
+
+The glycosylation pattern of RboP-based WTA has been
+found to be
+critical for the fitness and virulence of bacteria. Different approaches
+toward the generation of well-defined WTA fragments have been investigated
+including solution and solid phase syntheses. In 2006 Pozsgay and
+co-workers successfully synthesized a Rbo-P-8-mer and a Rbo-P-12-mer
+using solution phase chemistry. The solid phase assembly of these
+fragments proved unsuccessful. The octamer and dodecamer were conjugated
+to a BSA carrier protein via an ethanol amine linker introducing 10
+to 18 oligomers per protein (130).364 However, the immunogenicity of the conjugates was not studied.
+Another approach for the synthesis of S. aureus WTA
+RboP was reported by Lee et al.365 Four
+building blocks were used to enable the incorporation of different
+GlcNAc and d-Ala substitution patterns. The very labile d-Ala ester linkage was replaced in these structures by a robust
+amide linkage. The syntheses were achieved using a solution phase
+strategy, because attempts to use a solid phase nucleotide synthesizer
+required prohibitively large amounts of monomers. The synthesized
+tetramers (i.e. 131) were tested in BALB/c mice, where
+increased levels of interleukin-6, as a marker of innate immunity
+activation, were measured.
+
+Recently, Codée et al. reported
+a method to synthesize well-defined
+unsubstituted RboP oligomers using both solution and automated solid
+phase synthesis approaches.366 The assembled
+library of structures consisted of oligomers with and without carbohydrate
+substituents, varying in length from hexa- to dodecamers. The phosporamidite
+building blocks (121–123) were used
+for synthesis with dimethoxytrityl (DMtr) protecting groups to mask
+the sites for elongation, in line with contemporary DNA synthesis.
+The use of mild acidic deprotection conditions enabled the solid phase
+assembly of RboP WTA fragments. For conjugation purposes a phosphoramidite
+hexanolamine spacer (125) was used.
+
+Binding studies
+with the obtained molecules were conducted by conjugating
+the hexamers through a biotin handle to streptavidin-coated magnetic
+dynabeads M280 followed by interrogation with monoclonal antibodies.
+For this purpose mAbs were generated toward the α-GlcNAc functionalized
+RboP WTAs (clones 4461 and 4624) or β-1,4-GlcNAc carrying RboP
+WTA (clones 4497 and 6292).367 The antibodies
+selectively recognized the glycosylated WTA fragments. Cross-reactivity
+of mAbs generated against β-(1–4)-GlcNAc RboP WTA against
+the corresponding β-1,3-GlcNAc RboP WTA could be demonstrated.
+The nonglycosylated WTA fragments could also be used as substrates
+for the S. aureus glycosyl transferases TarM, TarS,
+and TarP, capable of introducing α-(1–4)-GlcNAc, β-(1–4)-GlcNAc,
+or β-(1–3)-GlcNAc residues. The magnetic bead assay with
+these enzymatically glycosylated fragments was used to interrogate
+human sera to probe the presence of circulating anti-WTA antibodies.
+The β-(1–4)-GlcNAc- and β-(1–3)-GlcNAc-functionlized
+WTAs were found to be the most important targets for circulating antibodies,
+with significantly less recognition of the α-(1–4)-GlcNAc
+WTA. The nonglycosylated RboP WTA was not bound at all by the sera
+used.
+
+These findings somewhat contrasted the findings of Gerlach
+et al.,368 who reported that β-(1–3)-GlcNAc
+WTA was significantly less immunogenic than β-(1–4)-GlcNAc
+WTA in a mouse model. The enzymatically glycosylated WTA magnetic
+beads were also used to investigate Langerin binding.369 This C-type lectin receptor can be found on
+Langerhans cells, that play an important role in sensing the environment
+in the skin and kick-start an immune response against invading pathogens.
+The synthetic WTA fragments carrying β-GlcNAc substituents bound
+Langerin effectively, leading to cellular uptake in an in vitro model,
+showing that WTA may be a target for immune surveillance by Langerhans
+cells.
+
+A team from Sanofi Pasteur generated three different
+WTA fragments,
+using a highly convergent synthesis approach, having either an α-(1–4)-GlcNAc
+(133), β-(1–4)-GlcNAc (133),
+or β-(1–3)-GlcNAc (132) substituent on each
+RboP monomer.370 These fragments were conjugated
+to detoxified S. aureus α-hemolysin (HladM)
+or P. aeruginosa detoxified recombinant exotoxin
+A (rEPA) using hydrazide conjugation chemistry. Immunization using
+the AF04 adjuvant provided a strong immune response against the conjugates,
+while the use of nonconjugated WTA provided a poor response. The use
+of the adjuvant was important to raise a high level of antibodies.
+Interestingly, the sera raised against the β-(1–4)-GlcNAc-WTA
+conjugate proved to be more cross-reactive against different S. aureus strains than the α-(1–4)-GlcNAc-WTA
+and β-(1–3)-GlcNAc-WTA conjugate. The immune response
+against the latter conjugate was not cross-reactive. The exact reason
+for the different binding specificities of the raised antibodies remains
+unclear and will require detailed structural studies with well-defined
+synthetic WTA fragments.
+
+Overall, the β-(1–4)-GlcNAc-RboP
+WTA appears to be
+a promising candidate for further development. The role of the labile d-Ala residues in immunogenicity remains to be established.
+These positively charged groups may play an important role as they
+introduce zwitterionic moieties in the WTA that may render these glycopolymers’
+T-cell-independent antigens, in line with the zwitterionic polysaccharides
+described above.
+
+Cross-reactive antigens have been explored
+for their capacity to
+target multiple bacteria, thereby “killing more birds with
+one stone”. The cell wall of S. aureus as
+well as other bacterial species, fungi, and protozoal parasites produces
+the cell surface polysaccharide poly-β-(1–6)-N-acetylglucosamine (PNAG, Figure 18A), which in the past decade has been investigated
+as a potential application in vaccine development (Table 1).36 The structure of PNAG consists of β-linked N-acetylglucosamine, of which 10–20% of the amino groups are
+not N-acetylated (dPNAG).371 Animal models using native PNAG and chemically deacetylated dPNAG
+have shown that antibodies against dPNAG were more effective in mediating
+opsonophagotic killing372 and protected
+mice from staphylococcal infection.373 Chemically
+synthesized well-defined structures could be used to define the structure–immunogenicity
+relationship and, thus, find the best candidate for a vaccine. In
+2007 Nifantiev and co-workers reported a route based on building blocks
+(133–135) toward well-defined GlcNAc
+and GlcN fragments up to the undecamer level.374 These were equipped with an aminopropyl linker for functionalization.
+The synthesis relied on three building blocks, where an N-phthalimide directed the stereochemistry of the glycosylation reactions
+via neighboring group participation. For the immunogenicity studies
+the acetylated and non-acetylated pentasaccharide and nonasaccharide
+were coupled to TT (138).375 Sera from mice immunized with the conjugates of the non-acetylated
+oligomers showed higher opsonic activity than the sera obtained from
+the acetylated ones. A conjugate of the pentamer has been tested in
+a phase I clinical trial, demonstrating the scalability of this synthetic
+conjugate for vaccine development.376 Antibodies
+to dPNAG have been shown to be highly cross-reactive with numerous
+species including AMR pathogens such as A. baumannii, C. difficile, E. coli, and K. pneumoniae and, therefore, are very attractive to further
+develop as therapeutic monoclonal antibodies.377−379 The mAb F598 is currently in clinical development, and it has been
+tested in a human challenge model against N. gonorrhoeae infection. The X-ray structure of the Fab fragment of the mAb in
+complex with synthetic dPNAG oligomers has elucidated that F598 recognizes
+PNAG through a large groove-shaped binding site that traverses the
+entire light and heavy chain interface and accommodates at least five
+GlcNAc residues, defining the dPNAG structural epitope.380
+
+(A) PNAG structure and design of a universal
+PNAG-based universal
+vaccine and therapeutic mAb. (B) Synthetic route to the enterobacterial
+common antigen (ECA) conjugate used to generate specific sera and
+mAbs.
+
+E. coli shares
+with all Enterobacteriaceae a polysaccharide known
+as the enterobacterial common antigen (ECA),
+which is composed of →3)-α-d-Fuc4NAc-(1–4)-β-d-ManNAcA-(1–4)-α-d-GlcNAc-(1→
+repeating units that are substoichiometrically (∼70%) decorated
+at the GlcNAc C-6 with acetyl esters.381 ECA is important for cell envelope integrity and has been suggested
+as a virulence factor, since bacteria that cannot produce ECA exhibit
+attenuated infections in oral and intraperitoneal mouse models.382 Therefore, ECA represents an attractive target
+for the development of cross-protective vaccines or mAbs. The challenging
+synthesis involves the formation of multiple 1,2-cis- glycosyl linkages and the presence of rare monosaccharide constituents.
+Boons and co-workers achieved the synthesis of an ECA hexasaccharide
+through a [3+3] strategy, using an N-phenyltrifluoroacetimidate
+donor readily attainable from (142) (Figure 18B). The assembled oligosaccharide
+(143) was conjugated to BSA (145) and shown
+to recognize antibodies in sera of mice, exposed to different K. pneumonia strains as well as a mAb, SM250-1A5, raised
+against a mixture of six Shigella strains. These
+studies have revealed the potential of the ECA trisaccharide and hexasaccharide
+in the development of a conjugate vaccine and their potential to raise
+potentially cross-reactive mAbs. The effectivity of the ECA antigens
+remains to be assessed with respect to capsule and O-antigen expression
+of the different bacterial strains.
+
+Candida spp. are fungi
+(yeasts) that are part of the microbiome
+on human skin, mucous membranes, the female genital tract, and the
+gastrointestinal tract. Worldwide, recurrent vulvovaginal candidiasis
+affects about ∼140M women annually, with the highest prevalence
+on the 25–34 years age group and an increasing trend of incidence.383Candida spp. are also among
+the major causes of nosocomial infection, with invasive candidiasis
+gaining increasing prevalence worldwide in parallel with mortality
+rates ranging from 10 to 49%.384 The epidemiology
+of candidemia has changed due to the increased number of patients
+receiving transplants and immunosuppressive therapy, use of broad
+spectrum antimicrobials, and number of AIDS patients.385 Particularly, invasive candidiasis was mainly
+caused by Candida albicans, but in the past decade
+there has been a shift toward Candida spp. non-albicans,
+essentially due to the advent of Candida auris, identified
+in Japan in 2009 and recently recognized as an emerging multidrug-resistant
+pathogen that poses a major global health threat, including in the
+US. C. auris can cause invasive infections and outbreaks
+with high mortality rates in hospitalized patients, particularly among
+patients with multiple comorbidities and who have been admitted to
+intensive care or other special care facilities.386−388
+
+Polysaccharides on the fungal surface have been targeted for
+vaccine discovery,39 and carbohydrate synthesis
+has become a powerful tool to provide pure and well-defined glycan
+as opposite to highly variable structures from purification and aid
+elucidating protective epitopes and obtaining glycoconjugate vaccines
+with an optimized immunological response.389,390
+
+Many syntheses of mannan oligomers391−393 are reported which
+have allowed identification of the structure and dimensions of the
+protective epitope required for the development of promising vaccine
+antigens.394,395 Synthetic conjugates of trisaccharide
+β-(1–2)-mannan to TT (146) showed a robust
+secondary antibody response in rabbits but poor immunogenicity in
+mice (Figure 19).396 A conjugate with a synthetic 14-mer Fba peptide,
+derived from the C. albicans cell wall protein, elicited
+a strong antibody response and provided protection against a lethal
+challenge of C. albicans.397 A tricomponent vaccine where the β-(1–2)-mannan was
+conjugated along with the β-glucan Laminarin, as immunopotentiator,
+was also constructed and shown to favor the conjugate’s uptake
+from dendritic cells in mice, thus increasing its immunogenicity.398 Lately, a fully synthetic conjugated vaccine
+(146) (Figure 18A) was constructed from a β-(1–2)-linked mannose
+trisaccharide conjugated to a T-cell peptide and an asymmetric dendrimer
+component bearing four copies of a β-(1–3)-linked hexaglucan
+dendritic cell epitope by click chemistry, yielding a conjugate vaccine
+that induced antibodies to all three epitopes of the fully synthetic
+construct.399 Other researchers investigated
+a series of synthetic oligo α-mannosides containing branches
+or not. These synthetic structures were conjugated to BSA via squarate
+chemistry, and the immunological evaluation revealed that the linear
+oligomannoside structure could influence the quality of the antibody
+response.400 Recently, synthetic biotinylated
+α-mannooligosaccharides mimicking Candida antigenic
+factors using RAW264.7 macrophages have been used to demonstrate their
+ability to induce a release of Th1, Th2, Th17, and Treg cytokine signature
+patterns.401 It should be noted that α-mannooligosaccharides
+decorate human cells and their immunogenicity in humans could not
+be optimal. Subsequently, the mannose trisaccharide conjugated to
+β-glucan is an essential component of the Candida cell wall and has attracted attention for vaccine development because
+of its accessibility to antibodies.402 Antibodies
+directed to β-glucan have been shown to confer protection to
+mice following challenge with C. albicans,403 and the linear β-(1–3) glucan
+with sporadic β-(1–6) branches, Laminarin, which is extracted
+from the brown alga Laminaria digitata, has been proposed as an alternative
+to fungal glycans in order to avoid any possible contamination from
+the microorganism.403,404 Laminarin conjugated to CRM197 induced in mice antibodies which recognized C.
+albicans and protected it from lethal challenge with fungal
+cells.404 Synthetic oligosaccharides have
+been used to elucidate the structural features needed for optimal
+immunogenicity. By comparing a linear 15-mer with a branched 17-mer
+(147) it was observed that β-(1–6) branches
+need to be separated by at least six β-(1–3) residues
+for efficient antibody production (Figure 18B).404 Based
+on this data, a linear synthetic β-(1–3)-glucan hexamer
+(148) was synthesized and conjugated to CRM197, which was shown to elicit in mice anti β-glucan IgGs in a
+comparable manner to Lam-CRM197.405 Further investigations were carried out with the β-(1–3)
+glucan hexamer regioselectivity conjugated via tyrosine-selective
+alkynylation with a 4-phenyl-1,2,4-triazoline-3,5-dione spacer followed
+by a click chemistry mediated carbohydrate installation (149),406 which was compared to a conjugate
+obtained by controlled reaction at the four more surface exposed lysine
+residues and the random conjugate (148). In vivo studies
+showed that conjugation to four tyrosines is sufficient for a strong
+production of antibodies that inhibit the adhesion of C. albicans to human epithelial cells.407,408 More recently, synthetic
+octa-, deca-, and dodeca-β-glucans were synthesized and, after
+conjugation to KLM, shown to be more immunogenic than the hexamer
+with the octamer being the best among these lengths.409
+
+Vaccine candidates against Candida infections:
+(A) Different types of synthesized β-(1–2)-mannan conjugates
+used tested in animal models. (B) β-(1–3)-Glucan conjugates
+of different lengths enabling identification of a minimal hexamer
+epitope.
+
+C. auris shares
+a cell wall glycan composition
+with the other Candida spp. However, mannans seem
+to avoid triggering the antifungal activity of neutrophils, which
+would evoke the innate immune cells to respond to fungal infections,
+which could explain a different mechanism of immune evasion for this
+pathogen.410 In a recent study, passive
+transfer of C3.1, a mAb that targets β-(1–2)-mannotriose
+(β-Man3) in the A/J mouse model, which mimics disseminated infection
+of human candidiasis, demonstrated a significantly extended survival
+and reduced burdens from C. auris in kidney, brain,
+and heart.411 The data underpins the potential
+of glycan targeting for the design of therapeutics against multidrug-resistant C. auris.
+
+Also, unlike C. albicans, which forms a heterogeneous
+architecture of biofilms combined with blastoconidia and hyphae embedded
+within the extracellular matrix, C. auris produces
+thin biofilms composed mostly of blastoconidia and occasionally pseudohyphae
+embedded within a very limited extracellular matrix, which show less
+susceptibility to antifungals than those of C. albicans.412 Adhesion plays a key role in C. auris virulence and biofilm formation, and proteins of
+the agglutinin-like sequence (Als), in particular Als3393, are involved
+in the adhesion of C. auris.413 Recently, the efficacy of the NDV-3A vaccine,414 already tested in women for the prevention
+of recurrent vulvovaginal candidiasis, has been reported to protect
+neutropenic mice from C. auris infection, with an
+additive protective effect when combined with micafungin mice.415
+
+The ongoing SARS-Cov2 pandemic has clearly highlighted the need
+for vaccines for pandemic preparedness, capable of inducing sterilizing
+antibodies and providing herd immunity.416 Glycoconjugate vaccines represent preventive therapeutics that have
+been shown able to induce killing (opsonic or bactericidal) antibodies
+and to achieve herd immunity.417 Carbohydrate
+targeting for the design of vaccines to combat the possible next pandemic,
+AMR, therefore, appears crucial. The combination of synthesis with
+structural glycobiology is rationalizing vaccine design, enabling
+the generation of a more focused immune response against the most
+relevant polysaccharide epitopes.134,418
+
+Further
+advances in the synthesis of complex bacterial glycans
+will allow the faster generation of more and more complex glycans,
+making carbohydrate antigen production faster and more scalable.71,419 Key challenges include not only further optimization of stereoselective
+glycosylation methodology and automated synthesis techniques (a technique
+that, if sufficiently matured, will also ensure reproducibility of
+oligosaccharide synthesis) but also the incorporation of functional
+groups, including labile esters, differently functionalized amines/amides,
+pyruvate ketals, and phosphates and phosphonates, which often provide
+microheterogeneity to the bacterial polysaccharide chains.420 A clear advantage of organic synthesis is the
+improvement of specific properties of the glycans, such as stability
+(as shown above for carbaMenA,126 Hib,87 and ST5158 pneumococcal
+analogues). In some examples, chemically derived structures have the
+potential to improve the vaccine design for those polysaccharides
+that have been proven less efficacious in humans (e.g. pneumococcal
+ST3154).
+
+Due to the complexity of
+the synthetic routes for glycans antigens,
+large scale manufacturability has historically been considered a challenge
+associated with this approach. Today, the success of the Cuban Quimi-Hib
+conjugate and scalability for GMP production of Shigella and PNAG vaccines increase the confidence in chemical synthesis
+as a tool to supply carbohydrate antigens at the industrial level.18,20 Also, the need for minimal amounts per vaccine dose, as compared
+to other chemical therapeutics and the increased availability of
+commercial building blocks resulting in reduced cost of goods are
+positively contributing to the large scale manufacturability of this
+approach. Finally, various glycomimetic drugs and a synthetic heparin
+(Fondaparinux) are manufactured at the industrial level and available
+in the market.421
+
+A more effective
+synthesis methodology will enable the generation
+of larger and more complex glycans, which may adopt crucial three-dimensional
+structures presenting conformational epitopes that will further resemble
+the natural polymers. From this perspective, the use of enzymatic
+glycosylations will significantly speed up the assembly of naturally
+occurring bacterial oligosaccharides and close analogues thereof,
+as has been shown for the production of the MenX CPS.68 At present, the vast majority of the reported enzymatic
+oligosaccharide syntheses have been directed at the assembly of mammalian
+glycans, featuring the most common monosaccharide donors. Bacteria
+use a much wider monosaccharide panel for the construction of their
+polysaccharides. Expression of the relevant biosynthesis enzymes (besides
+the transferases also the enzymes that generate the nucleotide donor
+monosaccharides) and their use in the assembly of bacterial glycan
+epitopes will streamline bacterial glycan assembly.
+
+Novel nanosized
+carriers favoring multimeric and optimal spatial
+presentation of short glycans may improve the immunogenicity of glycoconjugate
+vaccines, increasing the antibody avidity or breadth of the immune
+response. Novel site-selective protein conjugation chemistries are
+emerging to achieve better control over the carbohydrate–protein
+linkages. Not only the number of glycans per carrier protein but also
+the position on the protein may impact vaccine efficacy. Improved,
+site-selective ligation chemistry will allow the generation of multivalent
+conjugate vaccines, in which several epitopes can be connected to
+a single protein carrier, which can be a pathogen derived protein,
+also playing the role of antigen.
+
+Very few adjuvants have been
+so far tested with conjugated synthetic
+carbohydrates (Freund adjuvant, Alum salts, and MF59 to mention some),
+and the effect of adjuvantation on this type of structures has not
+been thoroughly explored. The combination with well-defined molecular
+adjuvants (such as TLR, NLR, RIG, and STING ligands) and targeting
+devices is expected to further improve vaccine efficiency.422−424 In particular, there is a need for potent and effective adjuvants
+to be combined with glycoconjugate vaccines in elderly, hospitalized,
+and immunocompromised patients where the need for therapies counteracting
+AMR is higher.425 In combination with better
+defined delivery vehicles, such as polymers or supramolecular architectures,
+another level of control is introduced. The availability of well-defined
+glycans is mandatory to allow optimization of all these important
+vaccine parameters.
+
+Finally, synthetic chemistry, in combination
+with chemical biology
+techniques and advanced microscopy, will enable studies to provide
+insight into how conjugate vaccines are taken up and processed by
+the host immune system.426 This will enable
+the rational optimization of all steps required in the immunization
+process to achieve optimal delivery, uptake, processing, and presentation
+to the right partners of the immune system alongside optimal activation
+of all players involved. We believe that all these advancements will
+render carbohydrates a major player to defeat emerging AMR. While
+the RNA platform will be used more and more for the expression of
+protein antigens, progress in carbohydrate synthesis and conjugation
+will allow better exploitation of the peculiar role of carbohydrates
+as vaccine targets and create the next generation of glycovaccines.

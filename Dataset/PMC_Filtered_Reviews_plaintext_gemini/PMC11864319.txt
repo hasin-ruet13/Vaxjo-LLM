@@ -1,0 +1,788 @@
+Title: Streptococcus pneumoniae serotype distribution in low- and middle-income countries of South Asia: Do we need to revisit the pneumococcal vaccine strategy?
+
+Streptococcus pneumoniae (S. pneumoniae) is a gram-positive bacteria that colonizes the upper respiratory tract of humans.1,2 Globally, it represents an important cause of morbidity and mortality in children and adults.3 It is responsible for causing invasive pneumococcal disease (IPD), viz., meningitis, septicemia, bacteremia, and bacteremic pneumonia, as well as non-IPD, such as acute otitis media (AOM) and non-bacteremic pneumonia, in both adults and children.4,5 The disease burden (incidence and mortality rates) is highest in children <5 years and adults >65 years, as well as in individuals with compromised immune system or chronic medical conditions.5,6 The World Health Organization (WHO) estimates that S. pneumoniae is responsible for killing > 300,000 children under 5 years of age globally every year, with the majority of them occurring in developing countries.7 It is also the leading cause of bacterial pneumonia globally.7 Antibiotics have been used as front-line agents for the treatment of S. pneumoniae infections, but the emergence of antibiotic-resistant strains is a major concern for clinicians.8,9 The WHO has included S. pneumoniae as one of the 12 priority pathogens, exhibiting increased resistance to antibiotics.10,11
+S. pneumoniae produces several virulence factors, and the capsular polysaccharide is considered to be the most important one, enabling binding to the cells and evading the host immune system.5,6,12,13 More than 90 serotypes have been identified based on these capsular polysaccharides, and only a subset of them are responsible for causing pneumococcal disease.5,6,14 These serotypes also form the basis of pneumococcal conjugate vaccines (PCVs), and only a fraction of the serotypes are included in the vaccine formulation because of the complexity involved in the manufacturing of PCVs.5,15,16 Pneumococcal disease is endemic globally, but the distribution of S. pneumoniae serotypes differs with respect to their disease severity, invasiveness, antimicrobial susceptibility, geographies, immunization history of individuals, age groups, and with time.4,5,16–19
+
+Pneumococcal carriage is seen more frequently in children than adults, and thus children are considered to be the main reservoir and transmitter of this pathogen.13 In low- and middle-income countries (LMICs), S. pneumoniae has three times higher colonization as compared to those in high- income countries (HICs).20 The burden of pneumococcal diseases remains high in LMICs.21 Globally, there are over 1,400 cases of pneumonia per 100,000 children annually, with the greatest incidence occurring in South Asia (2,500 cases/100,000 children) and West and Central Africa (1,620 cases/100,000 children).22 South Asian countries have the highest mortality due to IPD.23 Population-based studies in South Asian countries have shown that S. pneumoniae was responsible for 12.8% of invasive bacterial diseases, whereas retrospective hospital-based studies showed that 28% of them were due to S. pneumoniae.23
+
+The implementation of PCVs has played a significant role in reducing the burden of pneumococcal disease globally through direct protection of vaccinated individuals and indirect protection of unvaccinated individuals by reducing the nasopharyngeal carriage and transmission of vaccine-type (VT) pneumococci.24,25 Vaccines also serve as an effective strategy to address the burgeoning issue of antimicrobial resistance (AMR) in S. pneumoniae.9 As per the VIEW-hub Report: Global Vaccine Introduction and Implementation, 159 countries have introduced PCVs into their national immunization programs (NIPs) as of August 2024.26 PCVs have also been introduced in many LMICs with the support of Gavi, the Vaccine Alliance27 Evaluating the impact of vaccines in LMICs is of paramount importance because of differences in pneumococcal epidemiology, including transmission rates.28
+
+Despite the remarkable success achieved with PCVs, the prevalence of IPD has increased by non-vaccine serotypes (NVTs), partially offsetting the total disease reduction.4,29–32 This phenomenon, referred to as serotype replacement, is due to the greater serotype diversity observed in developing countries.29 Although this phenomenon was initially considered controversial, it is now well established.33 These NVTs may replace the VTs in the upper airways, resulting in increased transmission and disease, as well as undermining the effectiveness of the currently available PCVs.19,34 They have the tendency to be highly invasive in nature as well as exhibit high levels of resistance to antibiotics.29,35 Two mechanisms for serotype replacement have been suggested, which are described in detail by Lo et al. and van Tonder et al.30,36 Hence, it becomes imperative to monitor the serotype data post-PCV introduction to identify new emerging serotypes and gain insights into the evolving epidemiology of S. pneumoniae.4,37 Also, robust vaccine strategies are warranted to address the issue of NVTs.38
+
+In this comprehensive review, we bring forth the distribution and distinctive characteristics of pneumococcal serotypes in LMICs of South Asia. It sheds light on the prevailing trend of NVTs gaining prominence globally, showcasing their distinct features across the region. An elaborate overview of the current pneumococcal vaccine landscape is provided, highlighting the merits and demerits of PCVs, along with alternative strategies (protein-based and whole-cell vaccines [WCVs]) that are being investigated to address the limitations of PCVs. Furthermore, we provide valuable recommendations for future vaccine design and development to mitigate the threat posed by these NVTs.
+
+We conducted a comprehensive literature search on PubMed to identify relevant studies that were published between 2012 and 2024 (at the time of writing the mansucript) using the keywords, viz., “pneumococcal disease,” “pneumococcal serotypes,” “pneumococcal conjugate vaccines,” “invasive pneumococcal disease,” “non-invasive pneumococcal disease,” and the respective South Asian country name (Afghanistan, Bangladesh, Sri Lanka, Nepal, Bhutan, Pakistan, India, and Maldives). Studies that were conducted between 2012 to 2024 were included in our analysis. Also, studies that commenced before 2012 but concluded in or after 2012 were also included in our analysis. Studies published in native/regional languages other than English were excluded. Table 1 highlights the S. pneumoniae serotypes reported in LMICs of South Asia from different studies conducted between 2012 and 2024 (at the time of writing this manuscript). Table 2 highlights the different characteristics of NVTs observed in this region.Table 1.Pneumococcal serotypes reported in LMICs of South Asia from different studies conducted between 2012 to 2024.Studies included1Age groups2Serotypes/Serogroupsreported3Serotypes covered underPCV134NVTsMixedSerotypesCountriesand referencesRemarksSerotype distribution and AMR patterns of pneumococcal isolates collected from individuals with IPD and non-IPD and from carriage studiesCustomized PCR for invasive pneumococcal serotype determinationComparison of S. pneumoniae serotype distribution, AMR patterns, and carriage from community children and children with clinical pneumonia; health care and non-healthcare workers; and pre- and post-Hajj pilgrimsCarriage of S. pneumoniae serotypes in vaccinated and unvaccinated populationsEvaluating the burden of bacterial meningitisDistribution and comparison of S. pneumoniae serotypes in healthy and diseased individualsComparison of S. pneumoniae serotype distribution in individuals with and without pneumoniaIdentification of risk factors associated with nasopharyngeal colonization of S. pneumoniaeObservation and/or comparison of S. pneumoniae serotype distribution, AMR patterns, and genomic changes observed before and after PCV introductionS. pneumoniae carriage, serotype distribution, and AMR patterns in other disease conditionsIdentifying pneumococcal serotypes and evaluating the prevalence and risk factors for non-IPDEffect of antibiotics on invasive and non-invasive pneumococcal isolatesMolecular characterization and serotype distribution of antibiotic-resistant IPD isolates0 to >65 years1, 2, 3, 4, 5, 6, 7, 8, 11, 13, 14, 15, 16, 17, 18, 20, 21, 24, 27, 29, 31, 33, 34, 36, 37, 38, 39, 40, 41, 42, 45, 46, 48, 10A, 10A/B, 10B, 10C, 10C/F, 10F, 10F/C, 10F/C/33, 10F/C/33C, 11A, 11A/C/D, 11A/D, 11B, 11B/F, 11C, 11D, 11F, 12A, 12B, 12F, 12F/A/44/46, 12F/A/B/44/46, 13/28, 15A, 15A/F, 15B, 15B/C, 15C, 15F, 15F/A, 16A, 16C, 16F, 17A, 17F, 18A, 18A/B, 18A/B/C,18A/B/C/F, 18A/C/B/D, 18B, 18C,18C/F, 18C/F/B, 18C/F/B/A, 18F, 19A, 19B, 19C, 19F, 19V, 21/39, 22A, 22A/F, 22F, 22F/A, 23A, 23B, 23F, 24A, 24A/B/F, 24B, 24F, 24F/A/B, 25A, 25F, 25F/38, 25F/A/38, 28A, 28F, 32A, 32F, 33A, 33A/F, 33B, 33B/C, 33B/C/D, 33C, 33D, 33F, 33F/A/37, 34/47, 35A, 35A/B/C, 35A/C/42, 35B, 35C, 35D, 35F, 35F/47F, 35F/A/37, 37F/47F, 38/25F/A, 41F, 47F, 6A, 6A/B, 6A/B/C, 6A/B/C/D, 6B, 6B/C, 6C, 6C/D, 6D, 6F, 7A, 7A/5, 7B, 7B/C/40, 7C, 7C/B, 7C/B/40, 7F, 7F/A, 7F/A/B, 9A, 9A/L, 9A/V, 9B, 9B/L, 9L, 9N, 9N/L, 9V, 9V/A1, 3, 4, 5, 14, 18C, 19A, 19F, 23F, 6A, 6B, 7F, 9V2, 6, 7, 8, 11, 13, 15, 16, 17, 18, 20, 21, 24, 27, 29, 31, 33, 34, 36, 37, 38, 39, 40, 41, 42, 45, 46, 48, 10A, 10B, 10C, 10F, 11A, 11B, 11C, 11D, 11F, 12A, 12B, 12F, 15A, 15B, 15C, 15F, 16A, 16C, 16F, 17A, 17F, 18A, 18B, 18F, 19B, 19C, 19V, 22A, 22F, 23A, 23B, 24A, 24B, 24F, 25A, 25F, 28A, 28F, 32A, 32F, 33A, 33B, 33C, 33D, 33F, 35A, 35B, 35C, 35D, 35F, 41F, 47F, 6C, 6D, 6F, 7A, 7B, 7C, 9A, 9B, 9L, 9N10A/B, 10C/F, 10F/C, 10F/C/33, 10F/C/33C, 11A/C/D, 11A/D, 11B/F, 12F/A/44/46, 12F/A/B/44/46, 13/28, 15A/F, 15B/C, 15F/A, 18A/B, 18A/B/C, 18A/B/C/F, 18A/C/B/D, 18C/F, 18C/F/B, 18C/F/B/A, 21/39, 22A/F, 22F/A, 24A/B/F, 24F/A/B, 25F/38, 25F/A/38, 33A/F, 33B/C, 33B/C/D, 33F/A/37, 34/47, 35A/B/C, 35A/C/42, 35F/47F, 35F/A/37, 37F/47F, 38/25F/A, 6A/B, 6A/B/C, 6A/B/C/D, 6B/C, 6C/D, 7A/5, 7B/C/40, 7C/B, 7C/B/40, 7F/A, 7F/A/B, 9A/L, 9A/V, 9B/L, 9N/L, 9V/AAfghanistan39 Bangladesh40–46Sri Lanka47,48 Nepal49–52Bhutan53 Pakistan54–64 India17,40,46,64–101There is no data available for Maldives.1Studies included refers to the different types of studies that were carried out in the region and included in the analysis.2Age groups refers to the combined age groups under investigation from all the studies carried out in the region.3Serotypes/Serogroups reported refers to the serotypes/serogroups reported from all the studies included in the analysis.4PCV13 refers to Pfizer’s Prevnar 13.Abbreviations: NVTs: Non-vaccine serotypes; AMR: Antimicrobial resistance; IPD: Invasive pneumococcal disease; Non-IPD: Non-invasive pneumococcal disease; PCR: Polymerase chain reaction; S. pneumoniae: Streptococcus pneumoniae; PCV: Pneumococcal conjugate vaccine.Table 2.Characteristics of NVTs observed in LMICs of South Asia from different studies conducted between 2012 and 2024.NVTsCharacteristicsReferencesIPDNon-IPDDrugresistance1NP carriageUnspecified(IPD/Non-IPD)22✓✓✓✓✓17,43–45,49,50,52,58,63,64,67,68,70,72,76,78,80,84,1006   ✓✓487✓✓   868✓✓✓✓✓41–46,49–52,57–59,62,61,63–67,69–75,77,84,88,89,92,93,99–10111* ✓  ✓39,8613✓✓✓✓✓17,43–47,50–54,56,58–63,67,69–71,73–75,77,80,83–85,89,92,94,10015✓    4916✓  ✓ 49,7117✓    59,69,7718*✓  ✓✓39,42,65,9220✓✓✓✓✓17,39,41,43–47,50–53,58,61–63,65,67,69–71,74,75,77,80,83,84,89,90,92,9421✓ ✓✓✓43,44,46,50–52,54,56,58,61–64,67,68,70–73,83,9224✓ ✓✓✓41,44,52,53,61,69,70,8427✓  ✓✓17,43,46,50,64,66,71,72,74,75,8429✓✓✓✓✓17,43,45,46,50–52,61,66,69–72,74,80,90,94,10031✓✓✓✓✓17,43,44,46,50–52,56,58,62–65,67,70–72,75,78,84–86,89,92,94,100,10133✓    49,7434✓✓✓✓✓39,41,43–47,50–54,56,58,60–65,67,70–75,80,83–85,89,93,94,100,10136✓ ✓✓✓46,50–52,64,70,72,80,84,90,94,10037✓  ✓✓46,50–52,70,71,7538✓✓✓✓✓17,43,44,46,50–52,61,64,65,69–75,80,84,89,94,10039✓✓✓✓✓44–46,50–53,61,66,67,69–71,74,80,83,89,10040✓ ✓✓✓46,50,51,69,72,77,8441✓    5242   ✓✓46,50,52,8045✓✓✓✓✓42,43,45,51,61,64,70,72,75,80,84,10046✓    6748✓  ✓✓39,46,49–52,70–72,84,90,9410A✓✓✓✓✓43–46,49–52,61,64,68–75,77,80,83,84,89,90,94,10010B✓ ✓✓✓46,50,52,61,70,71,9310C✓ ✓✓✓17,46,69,70,74,75,83,89,93,10010F*✓✓✓✓✓43–46,50–52,61,64,66,69–74,77,83,84,9211A✓✓✓✓✓17,43–46,50–52,61,66,69–75,77,78,80,83–85,89,92–94,10111B   ✓ 50,5111C✓ ✓✓ 46,7511D✓  ✓ 51,69,77,8011F✓  ✓ 43,8012A✓   ✓42,43,49,50,52,69,73,80,8312B✓  ✓ 46,70,7512F✓✓✓✓✓39,41,43,44,46,50–52,57,61,64,69,70,72,74,77,83–85,92,10115A✓✓✓✓✓43–46,49–52,61,64,68–75,77,80,83,84,89,90,94,10015B✓✓✓✓✓39,41–43,45,46,50–52,64,66,69–75,77,78,80,83,84,89,90,92,93,99,10115C*✓✓✓✓✓41,45,46,50–52,64,66,71–74,80,83,84,89,90,9415F✓  ✓✓43,46,50,52,61,64,69,70,72,77,78,80,9216A   ✓ 46,5016C   ✓ 5216F✓✓✓✓✓43–46,50–54,56,58,60–65,67,70–75,80,83,84,86,89,90,92,93,10117A✓  ✓ 46,50–52,69,73,77,90,9217F*✓✓✓✓✓17,39,42–44,46,47,50–52,54,56,58,61–67,69–75,80,84,85,89,90,92,93,99–10118A✓✓✓✓✓41–43,46,50–52,61,64,66,69,70,72,78,80,83,84,88,10018B✓✓✓✓ 45,46,50,57,64,69–72,8418F✓  ✓✓43,46,50,61,64,69,70,72,77,9319B*✓✓✓✓✓45,46,50–52,61,64,66,68,70–72,74,75,84,90,9319C✓  ✓ 49,51,7019V   ✓ 9722A✓ ✓✓✓46,50–52,61,66,70,71,74,75,80,90,10022F✓✓✓✓✓41,43,44,46,50–52,61,65,69,71–73,75,77,80,84,89,90,92,10123A*✓ ✓✓✓39,43,44,46,50–53,56,58,61–64,66,67,70–75,80,84,89,90,92,10023B✓✓✓✓✓44,46,50–54,56–63,67,69–71,75,80,83,85,89,90,9324A✓ ✓✓ 50–52,64,72,8924B✓ ✓✓✓17,49,51,52,66,69,74,75,77,80,86,89,90,9224F✓ ✓✓✓17,42,43,46,50,52,64,66,71–74,89,92–94,10025A✓  ✓✓50,64,69,72,80,8425F✓ ✓✓✓43,51,52,61,70,78,84,10028A✓✓✓✓✓43,46,50,51,61,69,70,73,84,8528F✓✓✓✓✓45,46,50–52,64,70,72,75,80,8432A   ✓✓17,5232F   ✓ 46,5133A✓  ✓✓46,51,64,72,73,80,92,9333B✓ ✓✓✓43,46,50–52,61,64,69–73,77,80,84–86,9333C*✓ ✓✓✓41,43,50–52,66,69–71,74,75,9633D✓  ✓✓41,46,50,52,8033F✓✓✓✓✓43,44,46,49–52,64–66,69–72,74,77,80,84,10035A✓ ✓✓✓42,44,46,50–52,61,64,70–72,75,80,83,84,89,93,10035B*✓✓✓✓✓17,39,41–47,50–54,56,58–65,67,69–73,75,77,80,83,84,86,89,92,93,10135C ✓ ✓✓17,46,50–52,73,80,8535D✓ ✓  8935F✓✓✓✓✓39,43,44,46,50–52,61,64,68,70,72,73,80,85,9041F✓    7247F✓    17,66,746C✓✓✓✓✓41,43–47,50–53,56–58,62,61,63,64,66,69–75,80,82,84,89,94,1006D✓✓✓✓✓41,43,45–47,50–52,17,56,58,61–63,80,846F   ✓ 467A✓  ✓ 50,69,70,74,757B✓✓✓✓✓41–43,45,46,50–52,61,70–72,84,897C*✓ ✓✓✓44,46,50–52,61,64,65,70,72,84,89,969A✓  ✓✓46,64,71–73,80,939B✓ ✓  70,759L✓✓✓✓ 45,46,50–52,61,849N✓✓✓✓✓17,50–52,61,66,69–71,74,77,80,88–90,1011Drug resistance refers to resistance to one or more classes of antibiotics.2Unspecified includes cases that have not mentioned whether the pneumococcal infection was invasive or non-invasive in nature.3Serogroups/serotypes marked with *in South Asia were responsible for causing deaths.39,68,74,964Mixed serotypes, as observed in Table 1, have not been included in the analysis because of the inconsistency in how they are named and interpreted across the referenced research articles. This inconsistency limits the ability to accurately characterize mixed serotypes within the study’s framework, thus warranting their exclusion to maintain clarity and analytical appropriateness.Abbreviations: NVTs: Non-vaccine serotypes; IPD: Invasive pneumococcal disease; Non-IPD: Non-invasive pneumococcal disease; NP: Nasopharyngeal.
+
+Table 1.: Pneumococcal serotypes reported in LMICs of South Asia from different studies conducted between 2012 to 2024.
+Studies included1 | Age groups2 | Serotypes/Serogroupsreported3 | Serotypes covered underPCV134 | NVTs | MixedSerotypes | Countriesand references | Remarks
+--------------------------------------------------
+Serotype distribution and AMR patterns of pneumococcal isolates collected from individuals with IPD and non-IPD and from carriage studiesCustomized PCR for invasive pneumococcal serotype determinationComparison of S. pneumoniae serotype distribution, AMR patterns, and carriage from community children and children with clinical pneumonia; health care and non-healthcare workers; and pre- and post-Hajj pilgrimsCarriage of S. pneumoniae serotypes in vaccinated and unvaccinated populationsEvaluating the burden of bacterial meningitisDistribution and comparison of S. pneumoniae serotypes in healthy and diseased individualsComparison of S. pneumoniae serotype distribution in individuals with and without pneumoniaIdentification of risk factors associated with nasopharyngeal colonization of S. pneumoniaeObservation and/or comparison of S. pneumoniae serotype distribution, AMR patterns, and genomic changes observed before and after PCV introductionS. pneumoniae carriage, serotype distribution, and AMR patterns in other disease conditionsIdentifying pneumococcal serotypes and evaluating the prevalence and risk factors for non-IPDEffect of antibiotics on invasive and non-invasive pneumococcal isolatesMolecular characterization and serotype distribution of antibiotic-resistant IPD isolates | 0 to >65 years | 1, 2, 3, 4, 5, 6, 7, 8, 11, 13, 14, 15, 16, 17, 18, 20, 21, 24, 27, 29, 31, 33, 34, 36, 37, 38, 39, 40, 41, 42, 45, 46, 48, 10A, 10A/B, 10B, 10C, 10C/F, 10F, 10F/C, 10F/C/33, 10F/C/33C, 11A, 11A/C/D, 11A/D, 11B, 11B/F, 11C, 11D, 11F, 12A, 12B, 12F, 12F/A/44/46, 12F/A/B/44/46, 13/28, 15A, 15A/F, 15B, 15B/C, 15C, 15F, 15F/A, 16A, 16C, 16F, 17A, 17F, 18A, 18A/B, 18A/B/C,18A/B/C/F, 18A/C/B/D, 18B, 18C,18C/F, 18C/F/B, 18C/F/B/A, 18F, 19A, 19B, 19C, 19F, 19V, 21/39, 22A, 22A/F, 22F, 22F/A, 23A, 23B, 23F, 24A, 24A/B/F, 24B, 24F, 24F/A/B, 25A, 25F, 25F/38, 25F/A/38, 28A, 28F, 32A, 32F, 33A, 33A/F, 33B, 33B/C, 33B/C/D, 33C, 33D, 33F, 33F/A/37, 34/47, 35A, 35A/B/C, 35A/C/42, 35B, 35C, 35D, 35F, 35F/47F, 35F/A/37, 37F/47F, 38/25F/A, 41F, 47F, 6A, 6A/B, 6A/B/C, 6A/B/C/D, 6B, 6B/C, 6C, 6C/D, 6D, 6F, 7A, 7A/5, 7B, 7B/C/40, 7C, 7C/B, 7C/B/40, 7F, 7F/A, 7F/A/B, 9A, 9A/L, 9A/V, 9B, 9B/L, 9L, 9N, 9N/L, 9V, 9V/A | 1, 3, 4, 5, 14, 18C, 19A, 19F, 23F, 6A, 6B, 7F, 9V | 2, 6, 7, 8, 11, 13, 15, 16, 17, 18, 20, 21, 24, 27, 29, 31, 33, 34, 36, 37, 38, 39, 40, 41, 42, 45, 46, 48, 10A, 10B, 10C, 10F, 11A, 11B, 11C, 11D, 11F, 12A, 12B, 12F, 15A, 15B, 15C, 15F, 16A, 16C, 16F, 17A, 17F, 18A, 18B, 18F, 19B, 19C, 19V, 22A, 22F, 23A, 23B, 24A, 24B, 24F, 25A, 25F, 28A, 28F, 32A, 32F, 33A, 33B, 33C, 33D, 33F, 35A, 35B, 35C, 35D, 35F, 41F, 47F, 6C, 6D, 6F, 7A, 7B, 7C, 9A, 9B, 9L, 9N | 10A/B, 10C/F, 10F/C, 10F/C/33, 10F/C/33C, 11A/C/D, 11A/D, 11B/F, 12F/A/44/46, 12F/A/B/44/46, 13/28, 15A/F, 15B/C, 15F/A, 18A/B, 18A/B/C, 18A/B/C/F, 18A/C/B/D, 18C/F, 18C/F/B, 18C/F/B/A, 21/39, 22A/F, 22F/A, 24A/B/F, 24F/A/B, 25F/38, 25F/A/38, 33A/F, 33B/C, 33B/C/D, 33F/A/37, 34/47, 35A/B/C, 35A/C/42, 35F/47F, 35F/A/37, 37F/47F, 38/25F/A, 6A/B, 6A/B/C, 6A/B/C/D, 6B/C, 6C/D, 7A/5, 7B/C/40, 7C/B, 7C/B/40, 7F/A, 7F/A/B, 9A/L, 9A/V, 9B/L, 9N/L, 9V/A | Afghanistan39 Bangladesh40–46Sri Lanka47,48 Nepal49–52Bhutan53 Pakistan54–64 India17,40,46,64–101 | There is no data available for Maldives.
+
+Pneumococcal serotypes reported in LMICs of South Asia from different studies conducted between 2012 to 2024.
+
+Serotype distribution and AMR patterns of pneumococcal isolates collected from individuals with IPD and non-IPD and from carriage studies
+
+Customized PCR for invasive pneumococcal serotype determination
+
+Comparison of S. pneumoniae serotype distribution, AMR patterns, and carriage from community children and children with clinical pneumonia; health care and non-healthcare workers; and pre- and post-Hajj pilgrims
+
+Carriage of S. pneumoniae serotypes in vaccinated and unvaccinated populations
+
+Evaluating the burden of bacterial meningitis
+
+Distribution and comparison of S. pneumoniae serotypes in healthy and diseased individuals
+
+Comparison of S. pneumoniae serotype distribution in individuals with and without pneumonia
+
+Identification of risk factors associated with nasopharyngeal colonization of S. pneumoniae
+
+Observation and/or comparison of S. pneumoniae serotype distribution, AMR patterns, and genomic changes observed before and after PCV introduction
+
+S. pneumoniae carriage, serotype distribution, and AMR patterns in other disease conditions
+
+Identifying pneumococcal serotypes and evaluating the prevalence and risk factors for non-IPD
+
+Effect of antibiotics on invasive and non-invasive pneumococcal isolates
+
+Molecular characterization and serotype distribution of antibiotic-resistant IPD isolates
+
+There is no data available for Maldives.
+
+1Studies included refers to the different types of studies that were carried out in the region and included in the analysis.
+
+2Age groups refers to the combined age groups under investigation from all the studies carried out in the region.
+
+3Serotypes/Serogroups reported refers to the serotypes/serogroups reported from all the studies included in the analysis.
+
+4PCV13 refers to Pfizer’s Prevnar 13.
+
+Abbreviations: NVTs: Non-vaccine serotypes; AMR: Antimicrobial resistance; IPD: Invasive pneumococcal disease; Non-IPD: Non-invasive pneumococcal disease; PCR: Polymerase chain reaction; S. pneumoniae: Streptococcus pneumoniae; PCV: Pneumococcal conjugate vaccine.
+
+Table 2.: Characteristics of NVTs observed in LMICs of South Asia from different studies conducted between 2012 and 2024.
+NVTs | Characteristics | References | IPD | Non-IPD | Drugresistance1 | NP carriage | Unspecified(IPD/Non-IPD)2
+--------------------------------------------------
+2 | ✓ | ✓ | ✓ | ✓ | ✓ | 17,43–45,49,50,52,58,63,64,67,68,70,72,76,78,80,84,100
+6 |  |  |  | ✓ | ✓ | 48
+7 | ✓ | ✓ |  |  |  | 86
+8 | ✓ | ✓ | ✓ | ✓ | ✓ | 41–46,49–52,57–59,62,61,63–67,69–75,77,84,88,89,92,93,99–101
+11* |  | ✓ |  |  | ✓ | 39,86
+13 | ✓ | ✓ | ✓ | ✓ | ✓ | 17,43–47,50–54,56,58–63,67,69–71,73–75,77,80,83–85,89,92,94,100
+15 | ✓ |  |  |  |  | 49
+16 | ✓ |  |  | ✓ |  | 49,71
+17 | ✓ |  |  |  |  | 59,69,77
+18* | ✓ |  |  | ✓ | ✓ | 39,42,65,92
+20 | ✓ | ✓ | ✓ | ✓ | ✓ | 17,39,41,43–47,50–53,58,61–63,65,67,69–71,74,75,77,80,83,84,89,90,92,94
+21 | ✓ |  | ✓ | ✓ | ✓ | 43,44,46,50–52,54,56,58,61–64,67,68,70–73,83,92
+24 | ✓ |  | ✓ | ✓ | ✓ | 41,44,52,53,61,69,70,84
+27 | ✓ |  |  | ✓ | ✓ | 17,43,46,50,64,66,71,72,74,75,84
+29 | ✓ | ✓ | ✓ | ✓ | ✓ | 17,43,45,46,50–52,61,66,69–72,74,80,90,94,100
+31 | ✓ | ✓ | ✓ | ✓ | ✓ | 17,43,44,46,50–52,56,58,62–65,67,70–72,75,78,84–86,89,92,94,100,101
+33 | ✓ |  |  |  |  | 49,74
+34 | ✓ | ✓ | ✓ | ✓ | ✓ | 39,41,43–47,50–54,56,58,60–65,67,70–75,80,83–85,89,93,94,100,101
+36 | ✓ |  | ✓ | ✓ | ✓ | 46,50–52,64,70,72,80,84,90,94,100
+37 | ✓ |  |  | ✓ | ✓ | 46,50–52,70,71,75
+38 | ✓ | ✓ | ✓ | ✓ | ✓ | 17,43,44,46,50–52,61,64,65,69–75,80,84,89,94,100
+39 | ✓ | ✓ | ✓ | ✓ | ✓ | 44–46,50–53,61,66,67,69–71,74,80,83,89,100
+40 | ✓ |  | ✓ | ✓ | ✓ | 46,50,51,69,72,77,84
+41 | ✓ |  |  |  |  | 52
+42 |  |  |  | ✓ | ✓ | 46,50,52,80
+45 | ✓ | ✓ | ✓ | ✓ | ✓ | 42,43,45,51,61,64,70,72,75,80,84,100
+46 | ✓ |  |  |  |  | 67
+48 | ✓ |  |  | ✓ | ✓ | 39,46,49–52,70–72,84,90,94
+10A | ✓ | ✓ | ✓ | ✓ | ✓ | 43–46,49–52,61,64,68–75,77,80,83,84,89,90,94,100
+10B | ✓ |  | ✓ | ✓ | ✓ | 46,50,52,61,70,71,93
+10C | ✓ |  | ✓ | ✓ | ✓ | 17,46,69,70,74,75,83,89,93,100
+10F* | ✓ | ✓ | ✓ | ✓ | ✓ | 43–46,50–52,61,64,66,69–74,77,83,84,92
+11A | ✓ | ✓ | ✓ | ✓ | ✓ | 17,43–46,50–52,61,66,69–75,77,78,80,83–85,89,92–94,101
+11B |  |  |  | ✓ |  | 50,51
+11C | ✓ |  | ✓ | ✓ |  | 46,75
+11D | ✓ |  |  | ✓ |  | 51,69,77,80
+11F | ✓ |  |  | ✓ |  | 43,80
+12A | ✓ |  |  |  | ✓ | 42,43,49,50,52,69,73,80,83
+12B | ✓ |  |  | ✓ |  | 46,70,75
+12F | ✓ | ✓ | ✓ | ✓ | ✓ | 39,41,43,44,46,50–52,57,61,64,69,70,72,74,77,83–85,92,101
+15A | ✓ | ✓ | ✓ | ✓ | ✓ | 43–46,49–52,61,64,68–75,77,80,83,84,89,90,94,100
+15B | ✓ | ✓ | ✓ | ✓ | ✓ | 39,41–43,45,46,50–52,64,66,69–75,77,78,80,83,84,89,90,92,93,99,101
+15C* | ✓ | ✓ | ✓ | ✓ | ✓ | 41,45,46,50–52,64,66,71–74,80,83,84,89,90,94
+15F | ✓ |  |  | ✓ | ✓ | 43,46,50,52,61,64,69,70,72,77,78,80,92
+16A |  |  |  | ✓ |  | 46,50
+16C |  |  |  | ✓ |  | 52
+16F | ✓ | ✓ | ✓ | ✓ | ✓ | 43–46,50–54,56,58,60–65,67,70–75,80,83,84,86,89,90,92,93,101
+17A | ✓ |  |  | ✓ |  | 46,50–52,69,73,77,90,92
+17F* | ✓ | ✓ | ✓ | ✓ | ✓ | 17,39,42–44,46,47,50–52,54,56,58,61–67,69–75,80,84,85,89,90,92,93,99–101
+18A | ✓ | ✓ | ✓ | ✓ | ✓ | 41–43,46,50–52,61,64,66,69,70,72,78,80,83,84,88,100
+18B | ✓ | ✓ | ✓ | ✓ |  | 45,46,50,57,64,69–72,84
+18F | ✓ |  |  | ✓ | ✓ | 43,46,50,61,64,69,70,72,77,93
+19B* | ✓ | ✓ | ✓ | ✓ | ✓ | 45,46,50–52,61,64,66,68,70–72,74,75,84,90,93
+19C | ✓ |  |  | ✓ |  | 49,51,70
+19V |  |  |  | ✓ |  | 97
+22A | ✓ |  | ✓ | ✓ | ✓ | 46,50–52,61,66,70,71,74,75,80,90,100
+22F | ✓ | ✓ | ✓ | ✓ | ✓ | 41,43,44,46,50–52,61,65,69,71–73,75,77,80,84,89,90,92,101
+23A* | ✓ |  | ✓ | ✓ | ✓ | 39,43,44,46,50–53,56,58,61–64,66,67,70–75,80,84,89,90,92,100
+23B | ✓ | ✓ | ✓ | ✓ | ✓ | 44,46,50–54,56–63,67,69–71,75,80,83,85,89,90,93
+24A | ✓ |  | ✓ | ✓ |  | 50–52,64,72,89
+24B | ✓ |  | ✓ | ✓ | ✓ | 17,49,51,52,66,69,74,75,77,80,86,89,90,92
+24F | ✓ |  | ✓ | ✓ | ✓ | 17,42,43,46,50,52,64,66,71–74,89,92–94,100
+25A | ✓ |  |  | ✓ | ✓ | 50,64,69,72,80,84
+25F | ✓ |  | ✓ | ✓ | ✓ | 43,51,52,61,70,78,84,100
+28A | ✓ | ✓ | ✓ | ✓ | ✓ | 43,46,50,51,61,69,70,73,84,85
+28F | ✓ | ✓ | ✓ | ✓ | ✓ | 45,46,50–52,64,70,72,75,80,84
+32A |  |  |  | ✓ | ✓ | 17,52
+32F |  |  |  | ✓ |  | 46,51
+33A | ✓ |  |  | ✓ | ✓ | 46,51,64,72,73,80,92,93
+33B | ✓ |  | ✓ | ✓ | ✓ | 43,46,50–52,61,64,69–73,77,80,84–86,93
+33C* | ✓ |  | ✓ | ✓ | ✓ | 41,43,50–52,66,69–71,74,75,96
+33D | ✓ |  |  | ✓ | ✓ | 41,46,50,52,80
+33F | ✓ | ✓ | ✓ | ✓ | ✓ | 43,44,46,49–52,64–66,69–72,74,77,80,84,100
+35A | ✓ |  | ✓ | ✓ | ✓ | 42,44,46,50–52,61,64,70–72,75,80,83,84,89,93,100
+35B* | ✓ | ✓ | ✓ | ✓ | ✓ | 17,39,41–47,50–54,56,58–65,67,69–73,75,77,80,83,84,86,89,92,93,101
+35C |  | ✓ |  | ✓ | ✓ | 17,46,50–52,73,80,85
+35D | ✓ |  | ✓ |  |  | 89
+35F | ✓ | ✓ | ✓ | ✓ | ✓ | 39,43,44,46,50–52,61,64,68,70,72,73,80,85,90
+41F | ✓ |  |  |  |  | 72
+47F | ✓ |  |  |  |  | 17,66,74
+6C | ✓ | ✓ | ✓ | ✓ | ✓ | 41,43–47,50–53,56–58,62,61,63,64,66,69–75,80,82,84,89,94,100
+6D | ✓ | ✓ | ✓ | ✓ | ✓ | 41,43,45–47,50–52,17,56,58,61–63,80,84
+6F |  |  |  | ✓ |  | 46
+7A | ✓ |  |  | ✓ |  | 50,69,70,74,75
+7B | ✓ | ✓ | ✓ | ✓ | ✓ | 41–43,45,46,50–52,61,70–72,84,89
+7C* | ✓ |  | ✓ | ✓ | ✓ | 44,46,50–52,61,64,65,70,72,84,89,96
+9A | ✓ |  |  | ✓ | ✓ | 46,64,71–73,80,93
+9B | ✓ |  | ✓ |  |  | 70,75
+9L | ✓ | ✓ | ✓ | ✓ |  | 45,46,50–52,61,84
+9N | ✓ | ✓ | ✓ | ✓ | ✓ | 17,50–52,61,66,69–71,74,77,80,88–90,101
+
+Characteristics of NVTs observed in LMICs of South Asia from different studies conducted between 2012 and 2024.
+
+1Drug resistance refers to resistance to one or more classes of antibiotics.
+
+2Unspecified includes cases that have not mentioned whether the pneumococcal infection was invasive or non-invasive in nature.
+
+3Serogroups/serotypes marked with *in South Asia were responsible for causing deaths.39,68,74,96
+
+4Mixed serotypes, as observed in Table 1, have not been included in the analysis because of the inconsistency in how they are named and interpreted across the referenced research articles. This inconsistency limits the ability to accurately characterize mixed serotypes within the study’s framework, thus warranting their exclusion to maintain clarity and analytical appropriateness.
+
+Abbreviations: NVTs: Non-vaccine serotypes; IPD: Invasive pneumococcal disease; Non-IPD: Non-invasive pneumococcal disease; NP: Nasopharyngeal.
+
+There are two types of pneumococcal vaccines available that are clinically available, viz., PPSVs and PCVs, targeting multiple serotypes.12,102 PPSVs stimulate the B cells by cross-linking the B-cell receptors (BCR), which leads to the production of immunoglobulins.103 This type of immune response is usually a T cell-independent response, which implies that these polysaccharides are capable of activating B cells in the absence of T helper cells.104,105 These polysaccharides cannot be processed and presented in association with major histocompatibility complex (MHC) class II molecules and cannot be recognized by T helper cells.104 Due to the lack of T cell collaboration, the antibodies are of low affinity and are composed mainly of immunoglobulin M (IgM) with limited isotype switching to immunoglobulin G (IgG) and immunoglobulin A (IgA).104 It results in a lack of production of new memory B cells along with depletion of the memory B cell pool, resulting in hyporesponsiveness to future doses of vaccine.103 PPSV23 was licensed in the United States of America (USA) in 1983.5 It included 23 serotypes, which were responsible for 85% to 90% of IPD globally.29 It is approved for use in individuals 50 years of age or older and persons aged ≥2 years who are at increased risk for pneumococcal disease.106 PPS23’s protective efficacy has been consistently demonstrated in several studies as well as meta-analysis.107–111 In immunocompetent individuals, the vaccine has an efficacy of 65% against pneumococcal infections with serotypes included in it.112 The effectiveness against IPD in immunocompetent adults ranges from 56% to 81% but is lower in individuals with compromised immune status.12 It reduces the severity of community-acquired pneumonia (CAP) but does not prevent it. It does not reduce the incidence of noninvasive pneumonia.12 Moreover, it does not generate immunological memory in children <2 years, and hence it is not effective in this population.12 Also, it does not reduce pneumococcal carriage.12,112
+
+To overcome this drawback and elicit a protective immune response in children <2 years, capsular polysaccharide vaccines conjugated to a protein carrier were developed.5,112 Conjugation of the polysaccharide to a suitable carrier protein converts it into a T cell-dependent antigen.113 This conjugation of the capsular polysaccharide directs the processing of the carrier protein by the polysaccharide-specific B cells, followed by the presentation of the peptides to carrier-peptide specific T cells in association with MHC class II molecules.103 When B cells receive help from T cells, they proliferate and differentiate into plasma cells, with class switching to IgG, and memory B cells. These memory B cells undergo rapid proliferation and differentiate into plasma cells upon subsequent encounter with the antigen, producing high antibody titers.103,113 A 7-valent PCV (Prevnar, Pfizer) conjugated to cross-reactive material 197 (CRM197) was developed and licensed in the United States (U.S.) and the European Union (EU) in 2000 and 2001, respectively.12,102 The vaccine included serotypes, which were identified as causes of IPD in the U.S.13 However, after the introduction of PCV7, a change in the epidemiology of pneumococcal diseases was observed, and NVTs (not included in PCV7) emerged as the most prevalent ones, a phenomenon known as ‘serotype replacement.5,112 For example, serotypes 1 and 5, which were not included in PCV7, were responsible for a high burden of illness and deaths in low-income settings.13 Another example was 19A, a problematic serotype, which exhibited antibiotic resistance.12,13 This serotype replacement led to the development of PCV10 (Synflorix, GlaxoSmithKline [GSK]) and PCV13 (Prevnar 13, Pfizer), which were introduced in 2009.4,12 Surveillance data from different countries implementing PCVs in their NIPs has prevented disease not only in vaccinated individuals but also in unvaccinated adults and children through herd immunity.13 Although PCVs were originally developed for pediatric use, clinical studies conducted in adults have shown their ability to prevent diseases in individuals of all ages through direct protection.13 A systematic review and meta-analysis conducted to evaluate the impact of PCV10 and PCV13 in reducing the incidence of CAP in children <5 years demonstrated that these vaccines showed a reduction of 17% and 31% in the hospitalization rates for clinically and radiologically confirmed pneumonia, respectively, in children <24 months.114 In children aged 24–59 months, these vaccines showed a reduction of 9% and 24% in the hospitalization rates for clinically and radiologically confirmed pneumonia, respectively.114 A systematic review evaluating the impact of PCV10 and PCV13 on all-cause, radiologically confirmed, and severe pneumonia hospitalization rates and pneumonia mortality in children 0–9 years old across several WHO regions demonstrated reductions ranging from 7% to 60% for all-cause pneumonia hospitalization, 8% to 90% for severe pneumonia, 12% to 79% for radiologically confirmed pneumonia, and 45% to 85% for pneumococcal confirmed pneumonia.115 Pneumonia-related mortality saw a reduction of 10% to 78% across different regions.115 A study conducted by Bennett et al. evaluated the impact of PCV10/PCV13 on IPD incidence in children <5 years and adults ≥65 years compared to the pre-PCV period.116 It evaluated 275,582 cases from 47 surveillance sites in 29 countries (primarily HICs [80%]). The study demonstrated that IPD declined by 58% to 79% in children <5 years and by 4% to 29% in adults.116 The Serum Institute of India (SII) has developed an affordable 10-valent PCV (Pneumosil), which provides protection against serotypes that are responsible for causing serious illness in developing countries.12 Walvax Biotechnology Co., Ltd. (Walvax) has developed and manufactured a 13-valent PCV (Weuphoria), which has been marketed in China, Morocco, and Thailand.117
+
+However, after the introduction of PCV10 and PCV13, the issue of serotype replacement continued, and newer vaccines were required to prevent pneumococcal diseases caused by serotypes 8, 12F, and 22F.5,118,119 A systematic review of the serotype distribution of S. pneumoniae causing IPD in children in countries that have introduced PCV13 revealed that non-PCV13 serotypes contributed to 42.2% of the childhood IPD cases in the post-PCV era.37 There were differences as per geography, viz., 57.8% in North America, 71.9% in Europe, 45.9% in the Western Pacific, 28.5% in Latin America, and 42.7% in South Africa. The predominant non-PCV13 serotypes were 22F, 12F, 33F, 24F, 15C, 15B, 23B, 10A, and 38.37
+
+In light of this grim situation, two new PCVs, viz., PCV15 (VAXNEUVANCE, Merck) and PCV20 (Prevnar 20, Pfizer), have been approved by the United States Food and Drug Administration (USFDA) in 2021.5,12,120,121 PCV15 is indicated for active immunization for the prevention of invasive disease in individuals 6 weeks of age and older.122 PCV20 is approved for the prevention of invasive diseases in individuals 6 weeks of age and older; prevention of otitis media in individuals 6 weeks through 5 years of age; and active immunization for the prevention of pneumonia in individuals 18 years of age and older.123 Prevnar 20, which was built using Prevnar 13, includes seven additional serotypes that have been associated with antibiotic resistance, heightened disease severity, invasive potential, high case fatality rates, and prevalence in pediatric pneumococcal cases.124,125 Moreover, these seven serotypes are among the most common responsible for IPD in the pediatric population in the USA.124,125 Biological E Ltd. has developed a 14-valent PCV, viz., PNEUBEVAX 14, which received approval from the Indian drug regulator, Drug Controller General of India (DCGI), in 2022 for manufacturing and commercialization in India.126 It offers protection against two new serotypes, 22F and 33F.126 A 15-valent PCV has been developed by Tergene Biotech Pvt. Ltd. and manufactured at AuroVaccines Pvt. Ltd., which is a wholly owned subsidiary of Aurobindo Pharma Ltd.127 The Indian drug regulator has granted permission to Tergene in 2022 to manufacture and market the vaccine.127 In 2024, the USFDA approved CAPVAXIVE (V116), a 21-valent PCV developed by Merck.128 The vaccine is indicated for active immunization for the prevention of invasive disease and pneumonia in individuals 18 years of age and older.128 It includes eight unique serotypes responsible for approximately 27% of IPD cases in adults 50 years of age and older and approximately 30% in adults 65 years of age and older, as per the Centre for Disease Control and Prevention (CDC) data.128
+
+Panacea Biotech has developed an 11-valent PCV, viz., NuCoVac-11, which is currently in phase 3 trial. The company has also developed a PPSV23, which is in preclinical development.129 Techinvention Lifecare Pvt. Ltd. has developed a 16-valent PCV that is currently in preclinical studies.130 GBP410 is a 21-valent PCV that is jointly developed by SK Bioscience and Sanofi. The vaccine has demonstrated immunogenicity and safety in phase II trials and is expected to enter phase 3 trials in H1 of 2024.131 AFX3772, a 24-valent PCV developed by Affinivax (acquired by GSK), is currently in phase 2 development.132 This vaccine candidate is based on the highly innovative multiple-antigen presenting system (MAPS) platform technology.132 A 30-plus-valent pneumococcal candidate vaccine is also in preclinical development.132 VAX-24, developed by Vaxcyte, is a 24-valent, broad-spectrum, carrier-sparing PCV that will be entering phase 3.133,134 VAX-31, another vaccine developed by Vaxcyte, is a 31-valent PCV, which is expected to enter phase 1/2 clinical study during the fourth quarter of 2023.135 VAX-31 and VAX-24 are designed to improve upon the standard-of-care PCVs for both children and adults by providing coverage for serotypes that are responsible for a significant portion of IPD as well as high case-fatality rates, antibiotic resistance, and meningitis.134 Preclinical immunogenicity evaluation of a 24-valent PCV developed by Merck has been conducted in adult monkeys.136 Inventprise Inc. has developed a 25-valent PCV that is currently in phase 2 trial.137
+Table 3 highlights the status of PCVs in LMICs of South Asia. Table 4 gives a list of investigational and approved PPSVs and PCVs, along with their composition as well as their clinical/commercial status.Table 3.PCV status in LMICs of South Asia.CountryIntroduced in NIPDate of introductionType of PCV formulationDosing schedule1ReferencesAfghanistanYes7th December 2013Prevnar 133+0138BangladeshYes21st March 2015Synflorix3+0Sri LankaNoNANANANepalYes19th January 2015Synflorix2+1BhutanYes1st January 2019Prevnar 132+1PakistanYes9th October 2012Prevnar 133+0IndiaYes13th May 2017Pneumosil2+113+0: Three primary doses without a booster; 2+1: Two primary doses with one booster.139Abbreviations: NIP: National immunization program; PCV: Pneumococcal conjugate vaccine.Table 4.List of investigational and approved PPSVs and PCVs.Sr. No.Vaccine/Brand nameCompanyCarrier proteinSerotype compositionClinical/Commercial statusWHO prequalificationReference1PneumovaxMerck–1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F, and 33FApproved commercially–1402PPSV23Sinovac Biotech Ltd.–1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F, and 33FApprovedcommercially–1403PPSV23WalvaxBiotechnology Co. Ltd.–1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F, and 33FApprovedcommercially–12,1414PrevnarPfizerCRM1974, 6B, 9V, 14, 18C, 19F, and 23FApprovedcommercially–12,1405SynflorixGSKProtein D for serotypes 1, 5, 6B, 7F, 9V, 14, 23F, and 4. TT for serotype 18C and DT for serotype 19.1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F, and 23FApprovedcommerciallyYes12,140,1426PneumosilSIICRM1971, 5, 6A, 6B, 7F, 9V, 14, 19A, 19F, and 23FApprovedcommerciallyYes12,140,1427Prevnar 13PfizerCRM1971, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, and 23FApproved commerciallyYes12,140,1428WeuphoriaWalvax Biotechnology Co., Ltd.TT1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, and 23FApproved commercially–12, 117, 1409PNEUBEVAX 14Biological E Ltd.CRM1971, 3, 4, 5, 6B, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F, and 33FApproved commercially–126,14310VAXNEUVANCEMerckCRM1971, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F, and 33FApproved commercially 12,14011PCV15Tergene Biotech Pvt. Ltd. and AuroVaccines Pvt. Ltd.CRM1971, 2, 3, 4, 5, 6A, 6B, 7F, 9V, 12F,14, 18C, 19A, 19F, and 23FPermission granted by Indian drug regulator to manufacture and market 127,14412Prevnar 20PfizerCRM1971, 3, 4, 5, 6A, 6B, 7F, 8, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F, and 33FApproved commercially 12,14013CAPVAXIVEMerckCRM1973, 6A, 7F, 8, 9N, 10A, 11A, 12F, 15A, 15C, 16F, 17F, 19A, 20, 22F, 23A, 23B, 24F, 31, 33F, and 35BApproved commercially 128,14514NuCoVac-11Panacea BiotecCRM1971, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, and 23FPhase 3 129,14615NuVac-23Panacea Biotec--Preclinical 12916PneumoWinTechinvention Lifecare Pvt. Ltd.rCRM1971, 3, 4, 5, 6A, 6B, 7F, 9V, 12F, 14, 15A, 18C, 19A, 19F, 22F, and 23FPreclinical 130,14717GBP410SK Bioscience and SanofiSerotypes 1, 3 and 5 conjugated to TT.Serotypes 4, 6A, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F, and 33F conjugated to CRM1971, 3, 4, 5, 6A, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F, and 33FCompleted phase 2 131,14818AFX3772GSKRhizavidin-fusedcarrier proteins1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 23F, 2, 8, 9N, 10A, 11A, 12F, 15B, 17F, 20B, 22F, and 33FCurrently in phase 2 development 132,140,14919VAX-24VaxcyteeCRM1, 2, 3, 4, 5, 6A, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20B, 22F, 23F, and 33FWill be entering phase 3 133,134,140,15020PCV24MerckCRM1971, 2, 3, 4, 5, 6A, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F, and 33FPreclinical development 13621PCV25Inventprise Inc.CRM1971, 2, 3, 4, 5, 6B, 6C, 7F, 8, 9N, 9V, 10A, 12F, 14, 15A, 15B, 16F, 18C, 19A, 19F, 22F, 23F, 24F, 33F, and 35BPhase 2 151,15222VAX-31VaxcyteeCRM1, 2, 3, 4, 5, 6A, 6B, 7C, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15A, 15B, 16F, 17F, 18C, 19A, 19F, 20B, 22F, 23A, 23B, 23F, 31, 33F, and 35BExpected to enter phase 1/2 clinical trial 135,153,1542330-plus valent PCVGSK--Preclinical development 132Abbreviations: WHO: World Health Organization; PPSV: Pneumococcal polysaccharide vaccine; CRM197: Cross-reactive material 197; GSK: GlaxoSmithKline; TT: Tetanus toxoid; DT: Diphtheria toxoid; SII: Serum Institute of India; rCRM197: Recombinant cross-reactive material 197; eCRM: Enhanced carrier protein.
+
+Table 3.: PCV status in LMICs of South Asia.
+Country | Introduced in NIP | Date of introduction | Type of PCV formulation | Dosing schedule1 | References
+--------------------------------------------------
+Afghanistan | Yes | 7th December 2013 | Prevnar 13 | 3+0 | 138
+Bangladesh | Yes | 21st March 2015 | Synflorix | 3+0
+Sri Lanka | No | NA | NA | NA
+Nepal | Yes | 19th January 2015 | Synflorix | 2+1
+Bhutan | Yes | 1st January 2019 | Prevnar 13 | 2+1
+Pakistan | Yes | 9th October 2012 | Prevnar 13 | 3+0
+India | Yes | 13th May 2017 | Pneumosil | 2+1
+
+PCV status in LMICs of South Asia.
+
+13+0: Three primary doses without a booster; 2+1: Two primary doses with one booster.139
+
+Abbreviations: NIP: National immunization program; PCV: Pneumococcal conjugate vaccine.
+
+Table 4.: List of investigational and approved PPSVs and PCVs.
+Sr. No. | Vaccine/Brand name | Company | Carrier protein | Serotype composition | Clinical/Commercial status | WHO prequalification | Reference
+--------------------------------------------------
+1 | Pneumovax | Merck | – | 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F, and 33F | Approved commercially | – | 140
+2 | PPSV23 | Sinovac Biotech Ltd. | – | 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F, and 33F | Approvedcommercially | – | 140
+3 | PPSV23 | WalvaxBiotechnology Co. Ltd. | – | 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F, and 33F | Approvedcommercially | – | 12,141
+4 | Prevnar | Pfizer | CRM197 | 4, 6B, 9V, 14, 18C, 19F, and 23F | Approvedcommercially | – | 12,140
+5 | Synflorix | GSK | Protein D for serotypes 1, 5, 6B, 7F, 9V, 14, 23F, and 4. TT for serotype 18C and DT for serotype 19. | 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F, and 23F | Approvedcommercially | Yes | 12,140,142
+6 | Pneumosil | SII | CRM197 | 1, 5, 6A, 6B, 7F, 9V, 14, 19A, 19F, and 23F | Approvedcommercially | Yes | 12,140,142
+7 | Prevnar 13 | Pfizer | CRM197 | 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, and 23F | Approved commercially | Yes | 12,140,142
+8 | Weuphoria | Walvax Biotechnology Co., Ltd. | TT | 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, and 23F | Approved commercially | – | 12, 117, 140
+9 | PNEUBEVAX 14 | Biological E Ltd. | CRM197 | 1, 3, 4, 5, 6B, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F, and 33F | Approved commercially | – | 126,143
+10 | VAXNEUVANCE | Merck | CRM197 | 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F, and 33F | Approved commercially |  | 12,140
+11 | PCV15 | Tergene Biotech Pvt. Ltd. and AuroVaccines Pvt. Ltd. | CRM197 | 1, 2, 3, 4, 5, 6A, 6B, 7F, 9V, 12F,14, 18C, 19A, 19F, and 23F | Permission granted by Indian drug regulator to manufacture and market |  | 127,144
+12 | Prevnar 20 | Pfizer | CRM197 | 1, 3, 4, 5, 6A, 6B, 7F, 8, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F, and 33F | Approved commercially |  | 12,140
+13 | CAPVAXIVE | Merck | CRM197 | 3, 6A, 7F, 8, 9N, 10A, 11A, 12F, 15A, 15C, 16F, 17F, 19A, 20, 22F, 23A, 23B, 24F, 31, 33F, and 35B | Approved commercially |  | 128,145
+14 | NuCoVac-11 | Panacea Biotec | CRM197 | 1, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, and 23F | Phase 3 |  | 129,146
+15 | NuVac-23 | Panacea Biotec | - | - | Preclinical |  | 129
+16 | PneumoWin | Techinvention Lifecare Pvt. Ltd. | rCRM197 | 1, 3, 4, 5, 6A, 6B, 7F, 9V, 12F, 14, 15A, 18C, 19A, 19F, 22F, and 23F | Preclinical |  | 130,147
+17 | GBP410 | SK Bioscience and Sanofi | Serotypes 1, 3 and 5 conjugated to TT.Serotypes 4, 6A, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F, and 33F conjugated to CRM197 | 1, 3, 4, 5, 6A, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F, and 33F | Completed phase 2 |  | 131,148
+18 | AFX3772 | GSK | Rhizavidin-fusedcarrier proteins | 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 23F, 2, 8, 9N, 10A, 11A, 12F, 15B, 17F, 20B, 22F, and 33F | Currently in phase 2 development |  | 132,140,149
+19 | VAX-24 | Vaxcyte | eCRM | 1, 2, 3, 4, 5, 6A, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20B, 22F, 23F, and 33F | Will be entering phase 3 |  | 133,134,140,150
+20 | PCV24 | Merck | CRM197 | 1, 2, 3, 4, 5, 6A, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F, and 33F | Preclinical development |  | 136
+21 | PCV25 | Inventprise Inc. | CRM197 | 1, 2, 3, 4, 5, 6B, 6C, 7F, 8, 9N, 9V, 10A, 12F, 14, 15A, 15B, 16F, 18C, 19A, 19F, 22F, 23F, 24F, 33F, and 35B | Phase 2 |  | 151,152
+22 | VAX-31 | Vaxcyte | eCRM | 1, 2, 3, 4, 5, 6A, 6B, 7C, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15A, 15B, 16F, 17F, 18C, 19A, 19F, 20B, 22F, 23A, 23B, 23F, 31, 33F, and 35B | Expected to enter phase 1/2 clinical trial |  | 135,153,154
+23 | 30-plus valent PCV | GSK | - | - | Preclinical development |  | 132
+
+List of investigational and approved PPSVs and PCVs.
+
+Abbreviations: WHO: World Health Organization; PPSV: Pneumococcal polysaccharide vaccine; CRM197: Cross-reactive material 197; GSK: GlaxoSmithKline; TT: Tetanus toxoid; DT: Diphtheria toxoid; SII: Serum Institute of India; rCRM197: Recombinant cross-reactive material 197; eCRM: Enhanced carrier protein.
+
+In light of recent findings, it has become increasingly evident that a decline in immunogenicity against shared serotypes has been noted with the adoption of higher-valency PCVs.155 This observed trend, while pointing toward a potential decrease in immune response, poses uncertainties regarding its clinical implications.155 While reduced immunogenicity has been observed among higher- vs. lower-valency PCVs, the trend is inconsistent.155 Different vaccine components, platforms, technologies, and manufacturing processes can affect serotype-specific immunogenicity.155 Consequently, further exploration through additional research is needed to fully comprehend the impact and effectiveness of these new vaccines.155
+
+Exploring various avenues to enhance immunogenicity and overall vaccine efficacy is key in this scenario.155 Innovative conjugation processes, diverse carriers, strategic use of adjuvants, and advancements in vaccine platforms represent promising approaches that could potentially offset any reduction in immunogenicity.155 Some of these strategies include choosing appropriate carrier proteins to prevent carrier-induced suppression, such as utilizing single or multiple conserved S. pneumoniae proteins or employing enhanced carrier protein (eCRM) to facilitate conjugation reactions outside the primary T cell epitope region.155 Techniques like preserving the structural integrity of capsular polysaccharides through polysaccharide activation or using specific linker moieties between polysaccharides and proteins are also being explored.155 Novel vaccine platforms, like MAPS, in vivo bioconjugation, virus-like particle (VLP) technology, and messenger ribonucleic acid (mRNA) technology are being investigated to enhance overall B cell and T cell responses while generating enhanced serotype-specific IgG levels without the need for adjuvants.155 By striving to maintain or elevate immunogenicity levels and subsequently boost vaccine effectiveness, it’s possible to extend the coverage and protection offered by PCVs, especially as their valency increases.155
+
+VAX-24 contains eCRM, a proprietary carrier protein with non-native amino acids (para-azidomethyl-L-phenylalanine) that undergo site-specific conjugation to pneumococcal polysaccharides activated with a small-molecule linker (dibenzocyclooctyne).156 Site-specific conjugation utilizing click chemistry allows consistent exposure of T cell epitopes, reduction in carrier protein to pneumococcal polysaccharide ratio, and augments manufacturing process consistency to improve PCVs by increasing the coverage of serotypes and minimizing carrier suppression.156 VAX-24 has demonstrated promising results in a phase 1/2 trial by targeting a wide array of pneumococcal serotypes without compromising the immunogenicity.157
+
+Despite the widespread use of PCVs in vaccination programs and continuous advancements in serotype coverage, the underlying reasons for decreased antibody responses, particularly in infants and the elderly, remain incompletely understood.158 Deeper insights into the molecular and cellular mechanisms governing protective antibody responses against S. pneumoniae could potentially inform the development of adjuvants that enhance these responses.158
+
+Moreover, in alignment with the guidelines set forth by the WHO, the evaluation of noninferiority between higher- and lower-valency PCVs relies on specific criteria related to IgG response rates and IgG geometric mean concentrations (GMCs).159 Each serotype is individually assessed to determine noninferiority, with the WHO underscoring that meeting the predefined criteria for either IgG response rates or GMCs should suffice for regulatory approval.159 The correlate of protection for IPD is typically measured by noting the levels of vaccine-induced, serotype-specific IgG, with a protective threshold set at 0.35 µg/ml.159 In 2008, the WHO reviewed data on PCVs, including effectiveness studies in Canada, the United Kingdom (UK), and the USA.159 The data indicated variability in IgG concentrations and thresholds, with some suggesting alternative thresholds and the correlation of opsonophagocytic activity (OPA) titers for a few serotypes for vaccine effectiveness.159
+
+Administration of additional pneumococcal vaccines may be required in adults due to waning immunity. For example, the effectiveness of PPSV23 wanes over several years, and high-risk individuals may require revaccination every 5–10 years.111 As mentioned earlier, serotype replacement has been observed with the implementation of PCVs, where niches occupied earlier by VTs have now been colonized by NVTs.29,38,160,161 Both PPSVs and PCVs are serotype-based vaccines and therefore elicit a serotype-specific immune response.162 Geographical differences with respect to serotype distribution have led to reduced vaccine effectiveness when they were implemented in geographies where the serotypes were not covered by the vaccines.29 PCVs have weak efficacy at mucosal sites, such as for pneumonia and otitis media.12,38
+S. pneumoniae undergoes phase variation, wherein the capsule shifts stochastically from high to low expression levels.12,38 This is a result of anatomical-site-specific selective pressures in the host environment.12,38 The pathogens present on mucosal surfaces are less encapsulated as compared to those present in the blood, thereby exposing surface adhesins.12,38 Therefore, the antibodies directed at the capsule are not efficient in opsonophagocytosis at the mucosal level.12,38 Serotype coverage by PCVs in developed countries is substantially higher compared to developing countries, where pneumococcal diseases are caused by a wider spectrum of serotypes.162 Vaccine failures have been reported following immunization with PCV10 and PCV13.162,163 A systematic review published by Oligbu et al. identified serotypes 19B, 6B, and 4 associated with vaccine failure in countries with established PCV programs.164 PCVs cannot offer protection against the emergence of S. pneumoniae strains, which are found among non-typeable isolates.165 Capsular switching has been observed post the introduction of PCVs.29 Although PCVs provide protection from infection, but not all serotypes are covered with equal potency.12 For some serotypes, viz., 1, 3, and 5, the levels of functional antibodies against capsular polysaccharides induced by the vaccines and detected by opsonophagocytic killing are not ideal.12 PCV manufacturing is an extremely complex and expensive process, making it unaffordable for the developing countries, which can lead to low vaccination coverage.102,162 One of the glaring examples is the sub-Saharan countries, which still have the highest mortality rates in children <5 years, even after 10 years post-PCV licensure.102 Increasing the valency of PCV also poses challenges with respect to conjugation.102 A crucial issue of PCV is the binding of the carrier protein to the capsular polysaccharide to elicit a robust immune response as compared to the capsular polysaccharide alone.102 Adding additional serotypes to the formulation results in blunting of the immune response to individual serotypes due to carrier suppression.12 An increase in valency as well as the dosage of the carrier protein in the formulation can lead to immune response interference, both in the vaccine itself and other vaccines that are administered previously, jointly, or subsequently.102,166 These interferences result in an imbalance in several arms of the immune response and hence require readjustment in each new vaccine formulation.102
+
+In light of the above-mentioned drawbacks, novel vaccines based on a non-serotype-independent approach targeting conserved antigens are warranted and have been extensively investigated.10,38,102,112,140,162,165 An ideal pneumococcal vaccine with broader coverage, the ability to induce mucosal and systemic immunity, and the ability to prevent primary intranasal colonization and invasive disease is highly desirable.12 Several protein-based vaccines and whole-cell (live-attenuated and inactivated) vaccines are being evaluated in preclinical and clinical studies.10 Protein vaccines targeting the highly conserved virulence proteins can confer broad serotype coverage.29 Different types of protein vaccines that are investigated include recombinant proteins (individual or in combination), fusion or hybrid proteins, nanoparticle-packaged fusion or hybrid proteins, recombinant protein-boosted PCVs, and capsular polysaccharide-conjugated recombinant protein carrier.162,167 Protein-based vaccines offer several advantages, such as the production of opsonophagocytic antibodies, providing respiratory tract protection, preventing invasion of the pathogen in different organs, neutralizing pneumolysin cytotoxicity, cross-protection against additional childhood pathogens, and blunting complications arising out of disseminated bacterial infections.38,162 It can also serve as a cheaper option for children in developing countries, provide coverage for a wide range of serotypes responsible for IPD, and offer an alternative option to prevent recurrent infections.140 With respect to manufacturing, there are less hindrances associated with structural differences and variations, a drawback that is commonly observed with conjugate vaccines.140 On the flip side, protein antigens have numerous limitations. They contain non-repeating conformational epitopes for antibody binding as compared to capsular polysaccharides that have repeating and conformationally less-restricted antigenic determinants.140 This poses challenges to mounting a protective antibody-mediated immune response as well as explains the difficulty in developing protein-based vaccines.140 Also, they may not be present in all clinical isolates and may be poorly conserved due to significant sequence heterogeneity.140 Another drawback of protein antigens is their accessibility to opsonic antibodies.140 WCVs present a wide range of antigens in their native form and can confer broader protection against S. pneumoniae.29,102 These vaccines can serve as an economical alternative to PCVs in developing countries because of their low manufacturing costs.29,102 WCVs can be developed from killed or live-attenuated whole-cell or by using genetically modified strains of pneumococcus for ensuring safety and retaining immunogenicity.9 Inactivated WCVs offer the advantage of carrying several types of antigens, which are common to all serotypes.10 These vaccines are relatively safe as the organism is completely inactivated.10 Live-attenuated vaccines enhance humoral and mucosal immune responses after a single-dose, as compared to inactivated ones.168 Other merits and demerits of these vaccine technologies are described in detail by Kumraj et al.169
+Table 5 highlights the properties of S. pneumoniae proteins that are investigated as vaccine candidates. Tables 6 and 7 highlight the results of protein-based vaccines and WCVs (inactivated and live-attenuated) investigated in suitable animal models, respectively. Table 8 highlights the results of protein-based vaccines and WCVs (inactivated and live-attenuated) evaluated in clinical trials.Table 5.Properties of different S. pneumoniae proteins investigated as vaccine candidates.ProteinPropertiesReferencesPlyHighly conservedImmune evasionTriggers inflammationCell death9,29,170,171CBPsPspAHighly conservedImmune evasionPneumococcal adhesionBinds lactoferrin for critical iron uptake29,165,172PspCHighly immunogenicHighly conservedImmune evasionPneumococcal adhesion9,29,173PcpAPneumococcal adhesionBiofilm formation165,174LytAImmunogenicHighly conservedFacilitates the release of cytotoxin PlyInhibits complement165,175LytBBiofilm formationAttachment to host epithelial cellsImmune evasionWell-conserved165CbpGPneumococcal adhesionSecreted form can cleave host ECM165CbpMBinds fibronectin165PsaAOxidative stress resistanceBacterial adhesionManganese and zinc acquisitionHighly conserved9,176PHTsPhtAHighly conservedImmune system evasionBacterial dissemination in the lungs177,178PhtBConserved proteinImmunogenic179PhtDHighly conservedAdherence to nasopharyngeal and epithelial cell linesInhibits complementZinc acquisition165,179–183PhtEHighly conserved proteinAdherence to nasopharyngeal and epithelial cell linesInhibits complement165,179,180PiuA and PiaAIron uptakeHighly conservedHighly immunogenic9PsrPBiofilm formationLung adhesion and infection165Ef-TuHighly conserved proteinEnhances pathogenicity through complement inhibition and degradation of ECM184Abbreviations: Ply: Pneumolysin; CBPs: Choline-binding proteins; PspA: Pneumococcal surface protein A; PspC: Pneumococcal surface protein C; PcpA: Pneumococcal choline binding protein A; LytA: N-acetylmuramoyl-L-alanine amidase; LytB: N-acetylglucosaminidase; CbpG: Choline-binding protein G; ECM: Extracellular matrix; CbpM: Choline-binding protein M; PsaA: Pneumococcal surface antigen A; PHTs: Pneumococcal histidine triad proteins; PhtA: Pneumococcal histidine triad protein A; PhtB: Pneumococcal histidine triad protein B; PhtD: Pneumococcal histidine triad protein D; PhtE: Pneumococcal histidine triad protein E; PiuA: Pneumococcal iron uptake A; PiaA: Pneumococcal iron acquisition A; PsrP: Pneumococcal serine-rich repeat protein; Ef-Tu: Elongation factor Tu.Table 6.Results of protein-based vaccines investigated in animal models.ProteinResultsReferencesPlyIntramuscular immunization with recombinant PlyD1 protected mice against lethal intranasal challenge with pneumococci and lung injury mediated through Ply challenge. Protection was associated with PlyD1-specific IgG titers and in vitro neutralization titers.185CaP-ΔA146PLY1 nanoparticles induced efficient humoral and cellular immune responses in mice that protected them from both pneumonia and sepsis.186Intramuscular immunization with dPly protected mice against lethal intranasal challenge with Ply. Also, intranasal immunization in mice inhibited nasopharyngeal colonization after intranasal challenge with homologous or heterologous pneumococcal strain.187Mice immunized subcutaneously with ΔA146Ply-SP01482 elicited high levels of anti-ΔA146Ply and anti-SP0148 IgG antibodies. Mice had a high survival rate when challenged with a lethal dose of S. pneumoniae.188Subcutaneous immunization of mice with ΔA146 Ply3 generated high titers of anti-Ply IgGs and protected them from intraperitoneal challenge with TIGR4 S. pneumoniae.189Intramuscular immunization of mice with PLY-D4 conferred significant protection post-intranasal challenge with different S. pneumoniae serotypes and strains.190Vaccination with a monovalent formulation of recombinant PlyD1 led to bacterial reductions in both infant and adult mice after a lethal-dose intranasal challenge with serotype 6A.191CBPsCbpGIntramuscular immunization of mice with recombinant CbpG provided significant protection against colonization and substantial protection against systemic infection by wild-type TIGR4 cells.192 Subcutaneous immunization with recombinant CbpG protected mice against intraperitoneal challenge with serotype 19F pneumococcal strain.193 CbpMSubcutaneous immunization with recombinant CbpM protected mice against intraperitoneal challenge with serotype 19F pneumococcal strain.193 LytAPurified recombinant LytA administered intranasally elicited IgG and IgA antibodies in mice. These mice also showed significantly higher survival rates and lower bacterial carriage in response to S. pneumoniae infection.194 LytBIntraperitoneal immunization with LytB enhanced S. pneumoniae recognition by complement components C1q and C3b, demonstrating that anti-LytB antibodies activated the classical pathway. Vaccination with LytB protected mice against pneumococcal sepsis and invasive pneumonia caused by clinical isolates of serotypes 3 or 23F.195 PspC/CbpAIntranasal immunization with PspC using cholera toxin subunit B as an adjuvant protected mice against intranasal challenge with pneumolysin mutant of D39 or serotype 6B strain BG7322.196 Intraperitoneal immunization of PspC protected mice from intraperitoneal challenge with virulent capsular type 2 pneumococcal strain D39.197 Intranasal immunization with PspC induced high levels of anti-PspC antibodies in mice. The hyperimmune sera significantly inhibited the adhesion of S. pneumoniae to A549 cells.198 Nasal immunization with L. casei expressing PspC primed the immune system of mice that prompted faster immune responses, resulting in a decrease in pneumococcal colonization.199 Subcutaneous immunization with purified PspC protected mice against sepsis. The protection was mediated by antibodies cross-reactive with PspA.200 Subcutaneous or intranasal immunization of PspC vaccines did not protect mice against an invasive intranasal challenge with pneumococcal strain ATCC 6303.201 PcpAVaccination with a monovalent formulation of recombinant PcpA led to bacterial reductions in both infant and adult mice after a lethal-dose intranasal challenge with serotype 6A.191 PspAAntibodies generated post-immunization with recombinant family 1 PspA in humans in a phase 1 trial offered passive protection in mice against a pneumococcal challenge from serotypes 3, 6A, or 6B.202  Transcutaneous immunization with PspA + cholera toxin B induced antigen-specific mucosal and systemic immune responses in mice. It significantly reduced the CFU numbers in nasal washes and passages when they were challenged with S. pneumoniae strain EF3030 via the nasal route.203  Intranasal immunization with a nanogel-based PspA nasal vaccine provided protective immunity in mice against intranasal lethal challenge with S. pneumoniae Xen10. It reduced the bacterial colonization and invasion and induced high levels of PspA-specific IgG and nasal and bronchial IgA responses.204  Mucosal immunization with various nanoparticle PspA formulations protected mice against lethal intranasal challenge S. pneumoniae strain ATCC6303.205  Intranasal immunization with PspA delivered by BLPs enhanced PspA-specific antibody responses in mice and provided significant protection against intranasal challenge with pneumococci of two different clades of both homologous and heterologous PspA families.206  Intranasal immunization with PspA-BLP vaccine5 conferred protection in mice against fatal intranasal challenge with both PspA family 1 and 2 pneumococcal strains regardless of serotype.207  Intramuscular immunization with polymer particles entrapping PspA elicited robust IgG responses both in mice and in rats. Antigen load in microparticles correlated with the antibody titers.208  Mucosal immunization with NP/NCMP PspA4Pro6 provided partial protection against intranasal lethal pneumococcal challenge with a serotype 3 strain expressing PspA from clade 5.209  Intranasal vaccination with PspA and cationic liposomes conferred protective immunity against lethal S. pneumoniae inhalation and improved the survival rate of infected mice. It also induced the production of PspA-specific IgA and IgG by both mucosal and systemic compartments as well as elicited PspA-specific Th17 responses.210  Subcutaneous immunization of mice with PspA-based polyanhydride nanovaccine had significantly higher survival rates upon intravenous challenge with S. pneumoniae strain A66.1 clad 2 of family 1.211  Nasal vaccination with PspA-nanogel7 effectively induced PspA-specific serum IgG with protective activity and mucosal SIgA antibody responses in cynomolgus macaques.212  Mice vaccinated orally with a RASV strain delivering PspA decreased pulmonary inflammation. It provided effective protection against secondary pneumococcal pneumonia that was established in mice by intratracheal challenge with influenza PR8 and S. pneumoniae WU2 strains.213  Subcutaneous immunization of mice with fusion proteins containing family 1 and family 2 PspA fragments increased complement deposition and provided protection against pneumococcal infection with strains bearing PspA fragments from both families.214  Nasal vaccination of macaques with cCHP-trivalent PspA generated PspA-specific IgGs that protected from pneumococcal intratracheal challenge through inhibition of lung inflammation and a reduction in the numbers of bacteria in the lungs.215  Subcutaneous immunization with PspA3+28 provided significant protection against intranasal challenge by five pneumococcal strains with different clades in mice.216  Nasal immunization of mice with a combination of PspA5 and wP9 or wPlow10 conferred protection against intranasal respiratory lethal challenge with S. pneumoniae ATCC6303 or A66.1 strain. Both PspA5-wP and PspA5-wPlow vaccines induced high levels of systemic and mucosal antibodies against PspA5.217PsaASubcutaneous immunization of mice with PsaA using either complete Freund’s or TiterMax adjuvants significantly protected against challenge from type 3 pneumococcal strain WU2.218 Intranasal or oral administration of full-length PsaA in mice demonstrated significant reduction in colonization of nasopharyngeal tissues after intranasal challenge with S. pneumoniae strains compared to controls.219 Intraperitoneal immunization with PsaA admixed with BlyS exhibited only modest elevations in PsaA-specific responses. Mice sera obtained post-immunization exhibited high titers of IgG1, IgG2a, IgG2b, and IgG3, but no IgA.220 Intranasal immunization with chitosan-PsaA11 generated mucosal and systemic immune responses in mice, and fewer pneumococci were recovered from the immunized mice following intranasal challenge with ATCC 6303 (serotype 3).221 Intranasal immunization with chitosan-PsaA generated mucosal and systemic immune responses in mice. Immunized mice had increased protection against AOM following middle ear challenge with pneumococcus serotype 14 and improved survival following intraperitoneal challenge with pneumococcus serotype 3 or serotype 14.222PHTsPhtASubcutaneous immunization with full-length PhtA generated antibodies that protected mice against lethal sepsis challenge with serotype 6A or 6B.Immunization with either N-terminal or C-terminal portion of PhtA also protected mice against serotype 6B challenge.N-terminal half of PhtA induced a protective response against serotype 6A challenge.178 PhtBSubcutaneous immunization with full-length PhtB generated high levels of antibody titers and protected mice against challenge with serotype 6B.178 PhtDSubcutaneous immunization with recombinant PhtD induced antibodies that protected mice against sepsis challenge with serotype 6A and 6B and highly virulent capsular type 4 strain or with the capsular type 3 strain WU2.178 Subcutaneous immunization of PhtD and its C-terminal fragment provided protection against pneumococcal sepsis in mice.223 Mice immunized intraperitoneally with PhtD and its C-terminal with OMVs and alum as adjuvants survived after intraperitoneal challenge with S. pneumoniae ATCC6303.224 Vaccination with a monovalent formulation of recombinant PhtD led to bacterial reductions in both infant and adult mice after a lethal-dose intranasal challenge with serotype 6A.191 Intranasal administration of PhtD in mice conferred protection against pneumococcal colonization through robust serum antibodies and CD4 Th1-biased immune memory.225 PhtEIntranasal administration of PhtE in mice conferred protection against pneumococcal colonization through robust serum antibodies and CD4 Th1-biased immune memory.225 Subcutaneous immunization of mice with recombinant PhtE elicits protective immunity against experimental sepsis and pneumonia.226PsrPAntibodies directed against SRR1 and BR regions of recombinant PsrP neutralized bacterial adhesion to lung cells in vitro.Passive immunization of mice with PsrP antiserum conferred protection against pneumococcal challenge.227Ef-TuSubcutaneous immunization with recombinant EF-Tu induced the production of inflammatory cytokines and IgG1 and IgG2a antibodies in mice.Significantly and non-specifically protected mice against lethal intraperitoneal challenge with S. pneumoniae serotypes 2 and 15A.184Pneumococcal proteins explored as carrier proteinsPLD12Mice immunized subcutaneously with 19F polysaccharide conjugated with PLD as a carrier protein elicited high antibody titers against the polysaccharide and the carrier protein. Immunized mice effectively cleared the bacteria and had a significantly better survival rate when they were challenged intraperitoneally with type 19F pneumococci.228PLDSubcutaneous immunization of mice with both monovalent and tetravalent conjugate formulations (serotypes 6B, 14, 19F, and 23F) conjugated to PLD as a carrier protein generated high levels of polysaccharide-specific IgGs that demonstrated opsonophagocytic activity for serotypes tested, viz., 6B, 14, 19F, and 23F.229PlyIntraperitoneal immunization of 18C polysaccharide conjugated to recombinant Ply conferred significant protection in mice challenged with type 18C pneumococci.230PsaAIntraperitoneal immunization with Hib polysaccharide vaccine conjugated with recombinant PsaA protein carrier in mice generated anti-PsaA and anti-Hib immune responses. It was able to offer effective protection against AOM caused by pneumococcus.231Proteins explored in combinationPhtD-dPlyIntranasal immunization with PhtD-dPly vaccine protected rhesus macaques from mortality induced by S. pneumoniae challenge.232PlyD613, PspA, PsaA, PiuA, RrgB, RrgA, Hsp 60, and Hsp 70Intramuscular vaccination of rabbits with a multiantigen vaccine comprising PlyD6, PspA, PsaA, PiuA, RrgB, RrgA, Hsp 60, and Hsp 70 demonstrated the killing of vaccine strain TIGR4 in an opsonophagocytic killing assay and heterologous strains 6B, 19F, and 15B.233Ply, PspC, and PspAIn the intraperitoneal infection sepsis model, mice immunized intraperitoneally or subcutaneously with H70+YLN14 provided significant protection against challenge with three different strains (serotypes 1, 2, and 6A).234PspA and PsaAIntranasal immunization with a combination of PspA and PsaA offered the best protection against nasopharyngeal carriage.235PsaA and PspASubcutaneous immunization of mice with a vaccine containing the fusion protein PsaA-PspA23 and a single protein, PspA4, significantly increased anti-PspA IgG levels. Mice challenged intranasally with S. pneumoniae from PspA clades 1 to 5 were protected as demonstrated by a decrease in the bacterial load in the lungs and blood along with an increase in survival rates.236PspA and PdTSubcutaneous immunization with rPspA-FL-PdT15 and rPspA-RL-PdT16 protected mice against intranasal challenge with S. pneumoniae strain A66.1.237CbpA and PneumolysoidPassive and active immunization with CbpA peptide–L460D fusion protein17 protected mice from pneumococcal carriage, otitis media, pneumonia, bacteremia, meningitis, and meningococcal sepsis.238PdB, PspA, and PspCIntraperitoneal immunization of mice with a combination of PdB, PspA, and PspC offered the best protection after they were challenged intraperitoneally with virulent type 2 and 6A.239PcpA, PhtD, and PlyD1Immunization with trivalent PPrV containing PcpA, PhtD, and PlyD1 conferred protection in infant mice from lethal pneumonia challenge using serotypes 6A and 3.240Intramuscular vaccination with trivalent PPrV containing PcpA, PhtD, and PlyD1 enhanced the serum and lung antibody levels to the three components, reduced S. pneumoniae lethality, enhanced the clearance of the pathogen via phagocytosis, and reduced lung inflammation and tissue damage.241Intramuscular immunization with trivalent PPrV containing PcpA, PhtD, and PlyD1 protected mice against AOM caused by S. pneumoniae. It reduced the bacterial burden and cytokine inflammatory response in middle ears during AOM induced by S. pneumoniae.242Immunization with PPrV comprising PhtD, PcpA, and PlyD1 induced anti-PhtD and anti-PcpA antibodies in mice that protected against S. pneumoniae through complement- and macrophage-dependent opsonophagocytosis.243PsaA and PspASubcutaneous immunization of mice with PsaA-PspA fusion protein reduced S. pneumoniae levels in the blood and lungs after intranasal infection. It also protected mice against a fatal challenge with pneumococcal strains expressing different PspAs irrespective of the challenge route.244PcsB, StkP, PsaA, and PspASubcutaneous immunization of mice with a quadrivalent vaccine formulation containing PcsB, StkP, PsaA, and PspA with adjuvant significantly reduced bacteremia and lung infection when challenged intranasally with S. pneumoniae serotype 1.245PiuA and PiaATwo booster vaccinations consisting of recombinant PiuA and PiaA administered intraperitoneally induced stronger antibody responses (majorly IgG1) in mice than a single or no booster vaccinations.246Intraperitoneal immunization of mice with purified recombinant PiuA and PiaA proteins elicited antibody responses. It also provided a high degree of protection against intraperitoneal challenge with S. pneumoniae.247Intranasal vaccination of mice with PiuA and PiaA generated specific antibody responses in serum and respiratory secretions and protected against intranasal challenge with S. pneumoniae.2481CaP-ΔA146PLY: Calcium phosphate binding domains fused with attenuated pneumolysin mutant, viz., ΔA146PLY.2ΔA146Ply-SP0148: Fusion protein composed of noncytotoxic mutant of Ply, viz., ΔA146Ply and conserved lipoprotein with high immunogenicity produced by S. pneumoniae, viz., SP0148.3ΔA146 Ply: Ply mutant with one single-amino acid deletion.4PLY-D: Genetic toxoid constructed with two amino acid changes to attenuate PLY toxicity.5PspA-BLP vaccine: PspA proteins from two different families, PspA2 from family 1 and PspA4 from family 2, and formulated with a BLP adjuvant also acting as a carrier.6NP/NCMP PspA4Pro: Poly(glycerol adipate-co-ω-pentadecalactone) polymeric nanoparticles adsorbed with PspA from clade 4 within L-leucine microcarriers.7PspA-nanogel: cCHP nanogel containing PspA.8PspA3+2: Recombinant PspA protein comprising PspA families 1 and 2.9wP: B. pertussis vaccine.10wPlow: Vaccine containing low levels of B. pertussis LPS.11Chitosan-PsaA: Chitosan-DNA nanoparticles expressing PsaA.12PLD: Genetic derivative of Ply.13PlyD6: Nontoxic Ply.14H70+YLN: L460D [Ply toxoid with the L460D substitution] fused with protective peptide epitopes from PspC + PspA proline-rich region and SM1 region.15rPspA-FL-PdT: Proteins joined by flexible linker.16rPspA-RL-PdT: Proteins joined by rigid helix-forming linker.17CbpA peptide–L460D fusion protein: Biologically active peptides derived from CbpA of pneumococcus genetically fused to L460D pneumolysoid.Abbreviations: Ply: Pneumolysin; PlyD1/dPly/PdT: Detoxified pneumolysin; S. pneumoniae: Streptococcus pneumoniae; IgG: Immunoglobulin G; CBPs: Choline-binding proteins; CbpG: Choline-binding protein G; CbpM: Choline-binding protein M; LytA: N-acetylmuramoyl-L-alanine amidase; LytB: N-acetylglucosaminidase; PspC/CbpA: Pneumococcal surface protein C/Choline-binding protein A; L. casei: Lactobacillus casei; PspA: Pneumococcal surface protein A; PcpA: Pneumococcal choline binding protein A; CFU: Colony-forming unit; IgA: Immunoglobulin A; BLPs: Bacterium-like particles; SIgA: Secretory immunoglobulin A; RASV: Recombinant attenuated Salmonella vaccine; cCHP: Cationic cholesteryl pullulan; B. pertussis: Bordetella pertussis; LPS: Lipopolysaccharide; PsaA: Pneumococcal surface antigen A; BlyS: B lymphocyte stimulator; IgG1: Immunoglobulin G1; IgG2a: Immunoglobulin G2a; IgG2b: Immunoglobulin G2b; IgG3: Immunoglobulin G3; AOM: Acute otitis media; PHTs: Pneumococcal histidine triad proteins; PhtA: Pneumococcal histidine triad protein A; PhtB: Pneumococcal histidine triad protein B; PhtD: Pneumococcal histidine triad protein D; OMVs: Outer membrane vesicles; PhtE: Pneumococcal histidine triad protein E; PsrP: Pneumococcal serine-rich repeat protein; SRR1: Short serine-rich repeat region; BR: Basic region; Ef-Tu: Elongation factor Tu; PLD: Pneumolysoid; HiB: Haemophilus influenzae type b; PiuA: Pneumococcal iron uptake A; Hsp 60: Heat shock protein 60; Hsp 70: Heat shock protein 70;PdB: Pneumolysin toxoid; PPrV: Pneumococcal protein vaccine; PcsB: Putative murine hydrolase; StkP: Serine/threonine kinase protein; PiaA: Pneumococcal iron acquisition A.Table 7.Results of WCVs investigated in animal models.Sr. No.Vaccine candidateResultsReferencesInactivated WCVs1.S. pneumoniae strain RX1mutated by deletingLytA and killed using ethanolIntranasal administration using cholera toxin as an adjuvant conferred protection against nasopharyngeal colonization by serotype 6B in mice as well as conferred protection against illness and death in rats with serotype 3 strains.In murine models, intranasal administration significantly decreased nasopharyngeal and middle ear colonization by serotypes 6B, 14, and 23F.2492.RM200 (Rx1E PdT ΔlytA): Constructed by replacing the entire LytA gene with a kanamycin resistance gene in strain RX1E and inactivated using beta-propiolactoneIntramuscular immunization in mice offered strong protection against nasopharyngeal colonization with serotype 6B and activated IL-17A priming.250,2513.SPY1: Developed from strain D39 and killed using ethanolIntranasal immunization with killed SPY1 using cholera toxin as an adjuvant elicited effective protection against colonization with pneumococcal strains 19F and 4 as well as lethal infection with pneumococcal serotypes 2, 3, 14, and 6B.252Live-attenuated WCVs1.S. pneumoniae D39 attenuated by removing pep27 geneIntranasal immunization in mice exhibited high levels of IgG and serotype-independent protection against lethal intranasal challenge.2532.Δpep27ΔcomD: Constructed by deleting comD geneImmunization in mice significantly increased survival time after heterologous challenge and diminished colonization levels independent of serotype.2543.TIGR4Δlgt: Constructed by removing Lgt gene in the encapsulated pneumococcal strain TIGR4Colonized mouse nasopharynx long enough to induce strong mucosal IgA and IgG2b-dominant systemic antibody responses, exhibiting cross-reactivity to heterologous pneumococcal serotypes.Intranasal immunization in mice demonstrated serotype-independent protection against pneumococcal challenge.1684.cpsE-endA double mutant strain: Constructed by knocking out cpsE and endA genes in S. pneumoniae D39Intranasal immunization in mice showed the highest survival rate and longest survival time after a lethal dose intranasal challenge with wild-type S. pneumoniae D39 infection compared to the single-gene knockout strains.2555.∆cps/piaA and ∆cps/proABC: Strains containing cps locus deletions along with S. pneumoniae virulence factors PsaA or proABCPrevious colonization with these strains in mice protected them against septicemic pneumonia but could not prevent recolonization with the wild-type strain.256Abbreviations: WCVs: Whole-cell vaccines; LytA: N-acetylmuramoyl-L-alanine amidase; IL-17A: Interleukin-17A; IgG: Immunoglobulin G; Lgt: Prolipoprotein diacylglyceryl transferase; IgA: Immunoglobulin A; IgG2b: Immunoglobulin G2b; PsaA: Pneumococcal surface antigen A.Table 8.Results of protein-based vaccines and WCVs (inactivated and live-attenuated) evaluated in clinical trials.ProteinsPhaseIdentifierStatusResultsReferencesProtein-based candidates in clinical trialsPlyD111NCT01444352CompletedVaccine was immunogenic and safe.Anti-PlyD1 antibodies produced were shown to be functional in an in vitro assay by neutralizing wild-type Ply activity.257PnuBioVax(PlyD62 + PspA + PsaA + PiuA + RrgB + RrgA + Hsp60 + Hsp70)1NCT02572635CompletedThe vaccine was safe and immunogenic.233,258dPly-PhtD ± PHiD-CV32NCT00985751CompletedThe vaccine formulations were safe and immunogenic.259PhtD1NCT01444001CompletedThe vaccine was safe and immunogenic at various doses evaluated.260PhtD, PhtD + PcpA1NCT01444339CompletedThe vaccine candidates were immunogenic and had promising safety profiles.261PcpA + PhtD + PlyD11U1111–1117–7316CompletedThe vaccine was safe and immunogenic.262PcpA + PhtD + PlyD11NCT01446926CompletedNA263PhtD1NCT01767402CompletedThe formulations had an acceptable reactogenicity profile, without safety concerns.Vaccination with PhtD elicited both CD4 T cell and memory B cell responses in adults.264dPly, PhtD-dPly ± PHiD-CV1NCT007077984CompletedVaccine formulations were well-tolerated and immunogenic when given as standalone proteins or combined with PhiD-CV conjugates.265PhtD-dPly ± PCV 81NCT00756067CompletedVaccine formulations containing free or conjugated PhtD and dPly had acceptable reactogenicity and safety profiles.266PhtD-dPly + PhiD2NACompletedThe vaccine was well-tolerated and immunogenic.267PhtD-dPly + PHiD2NCT01262872CompletedPhtD-dPly + PHiD had no impact on pneumococcal nasopharyngeal carriage.dPly and PhtD proteins did not alter the immune response to PHiD-CV antigens.PhtD-dPly + PHiD did not alter the immunogenicity of co-administered routine vaccines.268,269PhtD- dPly + PCV1352bNCT01545375CompletedThe dPly-PhtD vaccine was immunogenic and well-tolerated.270dPLY+PsaA +24CPS61NCT04525599CompletedThe vaccine had an acceptable safety and tolerability profile.Immune responses were elicited (IgG concentrations and OPA titers) against 13 common and 10 of the 11 unique S. pneumoniae serotypes.271dPLY+PsaA +24CPS1/2NCT03803202CompletedThe vaccine was immunogenic, well-tolerated, and had a safety profile comparable to PCV13.272PspA1NCT01033409CompletedNA273,274PsaA + StkP + PcsB1NCT00873431CompletedThe vaccine was safe and immunogenic.It induced protective antibodies against all three proteins.275,276SP_2108 + SP_0148 + SP_1912(GEN-004)1NCT01995617CompletedThe vaccine was safe and immunogenic.Rise in antigen- specific IgG response was observed.263,277SP_2108 + SP_0148 + SP_1912(GEN-004)2NCT02116998CompletedReduced colonization rate by 22–25%.263,277WCVs in clinical trialsInactivatedSPWCV developed from strain RM200 (RX1E PdT ΔlytA) using alum as an adjuvant1NCT01537185CompletedThe vaccine was safe, well-tolerated, and elicited a significant rise in IgG responses to PspA and Ply.An increase in T cell cytokine responses, including IL-17A, was also observed.278SPWCV developed from strain RM200 (RX1E PdT ΔlytA) using alum as an adjuvant1/2NCT02097472CompletedNA29,279,280SPWCV developed from strain RM200 (RX1E PdT ΔlytA) using alum as an adjuvant1/2NCT02543892CompletedNA2811PlyD1: Detoxified form of Ply.2PlyD6: Non-toxic Ply.3PHiD-CV: 10-valent pneumococcal non-typeable H. influenzae protein D conjugate vaccine, viz., Synflorix (GSK).4Two groups primed with a formulation containing dPly and PhtD (10 or 30 μg each) continued to the follow-up phase II study (NCT00896064), in which they received a booster dose at 5–9 months after primary vaccination. The study has been completed.2825PCV13 refers to Pfizer’s Prevnar 13.6dPLY+PsaA +24CPS refers to AFX3772.Abbreviations: Ply: Pneumolysin; PspA: Pneumococcal surface protein A; PsaA: Pneumococcal surface antigen A; PiuA: Pneumococcal iron uptake A; Hsp 60: Heat shock protein 60; Hsp 70: Heat shock protein 70; dPly: Pneumolysin toxoid; PhtD: Pneumococcal histidine triad protein D; PcpA: Pneumococcal choline binding protein A; CPS: Capsular polysaccharides; IgG: Immunoglobulin G; OPA: Opsonophagocytic activity; S. pneumoniae: Streptococcus pneumoniae; StkP: Serine/threonine kinase protein; PcsB: Putative murine hydrolase; WCVs: Whole-cell vaccines; SPWCV: S. pneumoniae whole-cell vaccine; IL-17A: Interleukin-17A; H. influenzae: Haemophilus influenzae; GSK: GlaxoSmithKline.
+
+Table 5.: Properties of different S. pneumoniae proteins investigated as vaccine candidates.
+Protein | Properties | References
+--------------------------------------------------
+Ply | Highly conservedImmune evasionTriggers inflammationCell death | 9,29,170,171
+CBPs | PspA | Highly conservedImmune evasionPneumococcal adhesionBinds lactoferrin for critical iron uptake | 29,165,172
+PspC | Highly immunogenicHighly conservedImmune evasionPneumococcal adhesion | 9,29,173
+PcpA | Pneumococcal adhesionBiofilm formation | 165,174
+LytA | ImmunogenicHighly conservedFacilitates the release of cytotoxin PlyInhibits complement | 165,175
+LytB | Biofilm formationAttachment to host epithelial cellsImmune evasionWell-conserved | 165
+CbpG | Pneumococcal adhesionSecreted form can cleave host ECM | 165
+CbpM | Binds fibronectin | 165
+PsaA | Oxidative stress resistanceBacterial adhesionManganese and zinc acquisitionHighly conserved | 9,176
+PHTs | PhtA | Highly conservedImmune system evasionBacterial dissemination in the lungs | 177,178
+PhtB | Conserved proteinImmunogenic | 179
+PhtD | Highly conservedAdherence to nasopharyngeal and epithelial cell linesInhibits complementZinc acquisition | 165,179–183
+PhtE | Highly conserved proteinAdherence to nasopharyngeal and epithelial cell linesInhibits complement | 165,179,180
+PiuA and PiaA | Iron uptakeHighly conservedHighly immunogenic | 9
+PsrP | Biofilm formationLung adhesion and infection | 165
+Ef-Tu | Highly conserved proteinEnhances pathogenicity through complement inhibition and degradation of ECM | 184
+
+Properties of different S. pneumoniae proteins investigated as vaccine candidates.
+
+Highly conserved
+
+Immune evasion
+
+Triggers inflammation
+
+Cell death
+
+Highly conserved
+
+Immune evasion
+
+Pneumococcal adhesion
+
+Binds lactoferrin for critical iron uptake
+
+Highly immunogenic
+
+Highly conserved
+
+Immune evasion
+
+Pneumococcal adhesion
+
+Pneumococcal adhesion
+
+Biofilm formation
+
+Immunogenic
+
+Highly conserved
+
+Facilitates the release of cytotoxin Ply
+
+Inhibits complement
+
+Biofilm formation
+
+Attachment to host epithelial cells
+
+Immune evasion
+
+Well-conserved
+
+Pneumococcal adhesion
+
+Secreted form can cleave host ECM
+
+Binds fibronectin
+
+Oxidative stress resistance
+
+Bacterial adhesion
+
+Manganese and zinc acquisition
+
+Highly conserved
+
+Highly conserved
+
+Immune system evasion
+
+Bacterial dissemination in the lungs
+
+Conserved protein
+
+Immunogenic
+
+Highly conserved
+
+Adherence to nasopharyngeal and epithelial cell lines
+
+Inhibits complement
+
+Zinc acquisition
+
+Highly conserved protein
+
+Adherence to nasopharyngeal and epithelial cell lines
+
+Inhibits complement
+
+Iron uptake
+
+Highly conserved
+
+Highly immunogenic
+
+Biofilm formation
+
+Lung adhesion and infection
+
+Highly conserved protein
+
+Enhances pathogenicity through complement inhibition and degradation of ECM
+
+Abbreviations: Ply: Pneumolysin; CBPs: Choline-binding proteins; PspA: Pneumococcal surface protein A; PspC: Pneumococcal surface protein C; PcpA: Pneumococcal choline binding protein A; LytA: N-acetylmuramoyl-L-alanine amidase; LytB: N-acetylglucosaminidase; CbpG: Choline-binding protein G; ECM: Extracellular matrix; CbpM: Choline-binding protein M; PsaA: Pneumococcal surface antigen A; PHTs: Pneumococcal histidine triad proteins; PhtA: Pneumococcal histidine triad protein A; PhtB: Pneumococcal histidine triad protein B; PhtD: Pneumococcal histidine triad protein D; PhtE: Pneumococcal histidine triad protein E; PiuA: Pneumococcal iron uptake A; PiaA: Pneumococcal iron acquisition A; PsrP: Pneumococcal serine-rich repeat protein; Ef-Tu: Elongation factor Tu.
+
+Table 6.: Results of protein-based vaccines investigated in animal models.
+Protein | Results | References
+--------------------------------------------------
+Ply | Intramuscular immunization with recombinant PlyD1 protected mice against lethal intranasal challenge with pneumococci and lung injury mediated through Ply challenge. Protection was associated with PlyD1-specific IgG titers and in vitro neutralization titers. | 185
+CaP-ΔA146PLY1 nanoparticles induced efficient humoral and cellular immune responses in mice that protected them from both pneumonia and sepsis. | 186
+Intramuscular immunization with dPly protected mice against lethal intranasal challenge with Ply. Also, intranasal immunization in mice inhibited nasopharyngeal colonization after intranasal challenge with homologous or heterologous pneumococcal strain. | 187
+Mice immunized subcutaneously with ΔA146Ply-SP01482 elicited high levels of anti-ΔA146Ply and anti-SP0148 IgG antibodies. Mice had a high survival rate when challenged with a lethal dose of S. pneumoniae. | 188
+Subcutaneous immunization of mice with ΔA146 Ply3 generated high titers of anti-Ply IgGs and protected them from intraperitoneal challenge with TIGR4 S. pneumoniae. | 189
+Intramuscular immunization of mice with PLY-D4 conferred significant protection post-intranasal challenge with different S. pneumoniae serotypes and strains. | 190
+Vaccination with a monovalent formulation of recombinant PlyD1 led to bacterial reductions in both infant and adult mice after a lethal-dose intranasal challenge with serotype 6A. | 191
+CBPs | CbpG | Intramuscular immunization of mice with recombinant CbpG provided significant protection against colonization and substantial protection against systemic infection by wild-type TIGR4 cells. | 192
+ | Subcutaneous immunization with recombinant CbpG protected mice against intraperitoneal challenge with serotype 19F pneumococcal strain. | 193
+ | CbpM | Subcutaneous immunization with recombinant CbpM protected mice against intraperitoneal challenge with serotype 19F pneumococcal strain. | 193
+ | LytA | Purified recombinant LytA administered intranasally elicited IgG and IgA antibodies in mice. These mice also showed significantly higher survival rates and lower bacterial carriage in response to S. pneumoniae infection. | 194
+ | LytB | Intraperitoneal immunization with LytB enhanced S. pneumoniae recognition by complement components C1q and C3b, demonstrating that anti-LytB antibodies activated the classical pathway. Vaccination with LytB protected mice against pneumococcal sepsis and invasive pneumonia caused by clinical isolates of serotypes 3 or 23F. | 195
+ | PspC/CbpA | Intranasal immunization with PspC using cholera toxin subunit B as an adjuvant protected mice against intranasal challenge with pneumolysin mutant of D39 or serotype 6B strain BG7322. | 196
+ | Intraperitoneal immunization of PspC protected mice from intraperitoneal challenge with virulent capsular type 2 pneumococcal strain D39. | 197
+ | Intranasal immunization with PspC induced high levels of anti-PspC antibodies in mice. The hyperimmune sera significantly inhibited the adhesion of S. pneumoniae to A549 cells. | 198
+ | Nasal immunization with L. casei expressing PspC primed the immune system of mice that prompted faster immune responses, resulting in a decrease in pneumococcal colonization. | 199
+ | Subcutaneous immunization with purified PspC protected mice against sepsis. The protection was mediated by antibodies cross-reactive with PspA. | 200
+ | Subcutaneous or intranasal immunization of PspC vaccines did not protect mice against an invasive intranasal challenge with pneumococcal strain ATCC 6303. | 201
+ | PcpA | Vaccination with a monovalent formulation of recombinant PcpA led to bacterial reductions in both infant and adult mice after a lethal-dose intranasal challenge with serotype 6A. | 191
+ | PspA | Antibodies generated post-immunization with recombinant family 1 PspA in humans in a phase 1 trial offered passive protection in mice against a pneumococcal challenge from serotypes 3, 6A, or 6B. | 202
+ |  | Transcutaneous immunization with PspA + cholera toxin B induced antigen-specific mucosal and systemic immune responses in mice. It significantly reduced the CFU numbers in nasal washes and passages when they were challenged with S. pneumoniae strain EF3030 via the nasal route. | 203
+ |  | Intranasal immunization with a nanogel-based PspA nasal vaccine provided protective immunity in mice against intranasal lethal challenge with S. pneumoniae Xen10. It reduced the bacterial colonization and invasion and induced high levels of PspA-specific IgG and nasal and bronchial IgA responses. | 204
+ |  | Mucosal immunization with various nanoparticle PspA formulations protected mice against lethal intranasal challenge S. pneumoniae strain ATCC6303. | 205
+ |  | Intranasal immunization with PspA delivered by BLPs enhanced PspA-specific antibody responses in mice and provided significant protection against intranasal challenge with pneumococci of two different clades of both homologous and heterologous PspA families. | 206
+ |  | Intranasal immunization with PspA-BLP vaccine5 conferred protection in mice against fatal intranasal challenge with both PspA family 1 and 2 pneumococcal strains regardless of serotype. | 207
+ |  | Intramuscular immunization with polymer particles entrapping PspA elicited robust IgG responses both in mice and in rats. Antigen load in microparticles correlated with the antibody titers. | 208
+ |  | Mucosal immunization with NP/NCMP PspA4Pro6 provided partial protection against intranasal lethal pneumococcal challenge with a serotype 3 strain expressing PspA from clade 5. | 209
+ |  | Intranasal vaccination with PspA and cationic liposomes conferred protective immunity against lethal S. pneumoniae inhalation and improved the survival rate of infected mice. It also induced the production of PspA-specific IgA and IgG by both mucosal and systemic compartments as well as elicited PspA-specific Th17 responses. | 210
+ |  | Subcutaneous immunization of mice with PspA-based polyanhydride nanovaccine had significantly higher survival rates upon intravenous challenge with S. pneumoniae strain A66.1 clad 2 of family 1. | 211
+ |  | Nasal vaccination with PspA-nanogel7 effectively induced PspA-specific serum IgG with protective activity and mucosal SIgA antibody responses in cynomolgus macaques. | 212
+ |  | Mice vaccinated orally with a RASV strain delivering PspA decreased pulmonary inflammation. It provided effective protection against secondary pneumococcal pneumonia that was established in mice by intratracheal challenge with influenza PR8 and S. pneumoniae WU2 strains. | 213
+ |  | Subcutaneous immunization of mice with fusion proteins containing family 1 and family 2 PspA fragments increased complement deposition and provided protection against pneumococcal infection with strains bearing PspA fragments from both families. | 214
+ |  | Nasal vaccination of macaques with cCHP-trivalent PspA generated PspA-specific IgGs that protected from pneumococcal intratracheal challenge through inhibition of lung inflammation and a reduction in the numbers of bacteria in the lungs. | 215
+ |  | Subcutaneous immunization with PspA3+28 provided significant protection against intranasal challenge by five pneumococcal strains with different clades in mice. | 216
+ |  | Nasal immunization of mice with a combination of PspA5 and wP9 or wPlow10 conferred protection against intranasal respiratory lethal challenge with S. pneumoniae ATCC6303 or A66.1 strain. Both PspA5-wP and PspA5-wPlow vaccines induced high levels of systemic and mucosal antibodies against PspA5. | 217
+PsaA | Subcutaneous immunization of mice with PsaA using either complete Freund’s or TiterMax adjuvants significantly protected against challenge from type 3 pneumococcal strain WU2. | 218
+ | Intranasal or oral administration of full-length PsaA in mice demonstrated significant reduction in colonization of nasopharyngeal tissues after intranasal challenge with S. pneumoniae strains compared to controls. | 219
+ | Intraperitoneal immunization with PsaA admixed with BlyS exhibited only modest elevations in PsaA-specific responses. Mice sera obtained post-immunization exhibited high titers of IgG1, IgG2a, IgG2b, and IgG3, but no IgA. | 220
+ | Intranasal immunization with chitosan-PsaA11 generated mucosal and systemic immune responses in mice, and fewer pneumococci were recovered from the immunized mice following intranasal challenge with ATCC 6303 (serotype 3). | 221
+ | Intranasal immunization with chitosan-PsaA generated mucosal and systemic immune responses in mice. Immunized mice had increased protection against AOM following middle ear challenge with pneumococcus serotype 14 and improved survival following intraperitoneal challenge with pneumococcus serotype 3 or serotype 14. | 222
+PHTs | PhtA | Subcutaneous immunization with full-length PhtA generated antibodies that protected mice against lethal sepsis challenge with serotype 6A or 6B.Immunization with either N-terminal or C-terminal portion of PhtA also protected mice against serotype 6B challenge.N-terminal half of PhtA induced a protective response against serotype 6A challenge. | 178
+ | PhtB | Subcutaneous immunization with full-length PhtB generated high levels of antibody titers and protected mice against challenge with serotype 6B. | 178
+ | PhtD | Subcutaneous immunization with recombinant PhtD induced antibodies that protected mice against sepsis challenge with serotype 6A and 6B and highly virulent capsular type 4 strain or with the capsular type 3 strain WU2. | 178
+ | Subcutaneous immunization of PhtD and its C-terminal fragment provided protection against pneumococcal sepsis in mice. | 223
+ | Mice immunized intraperitoneally with PhtD and its C-terminal with OMVs and alum as adjuvants survived after intraperitoneal challenge with S. pneumoniae ATCC6303. | 224
+ | Vaccination with a monovalent formulation of recombinant PhtD led to bacterial reductions in both infant and adult mice after a lethal-dose intranasal challenge with serotype 6A. | 191
+ | Intranasal administration of PhtD in mice conferred protection against pneumococcal colonization through robust serum antibodies and CD4 Th1-biased immune memory. | 225
+ | PhtE | Intranasal administration of PhtE in mice conferred protection against pneumococcal colonization through robust serum antibodies and CD4 Th1-biased immune memory. | 225
+ | Subcutaneous immunization of mice with recombinant PhtE elicits protective immunity against experimental sepsis and pneumonia. | 226
+PsrP | Antibodies directed against SRR1 and BR regions of recombinant PsrP neutralized bacterial adhesion to lung cells in vitro.Passive immunization of mice with PsrP antiserum conferred protection against pneumococcal challenge. | 227
+Ef-Tu | Subcutaneous immunization with recombinant EF-Tu induced the production of inflammatory cytokines and IgG1 and IgG2a antibodies in mice.Significantly and non-specifically protected mice against lethal intraperitoneal challenge with S. pneumoniae serotypes 2 and 15A. | 184
+Pneumococcal proteins explored as carrier proteins
+PLD12 | Mice immunized subcutaneously with 19F polysaccharide conjugated with PLD as a carrier protein elicited high antibody titers against the polysaccharide and the carrier protein. Immunized mice effectively cleared the bacteria and had a significantly better survival rate when they were challenged intraperitoneally with type 19F pneumococci. | 228
+PLD | Subcutaneous immunization of mice with both monovalent and tetravalent conjugate formulations (serotypes 6B, 14, 19F, and 23F) conjugated to PLD as a carrier protein generated high levels of polysaccharide-specific IgGs that demonstrated opsonophagocytic activity for serotypes tested, viz., 6B, 14, 19F, and 23F. | 229
+Ply | Intraperitoneal immunization of 18C polysaccharide conjugated to recombinant Ply conferred significant protection in mice challenged with type 18C pneumococci. | 230
+PsaA | Intraperitoneal immunization with Hib polysaccharide vaccine conjugated with recombinant PsaA protein carrier in mice generated anti-PsaA and anti-Hib immune responses. It was able to offer effective protection against AOM caused by pneumococcus. | 231
+Proteins explored in combination
+PhtD-dPly | Intranasal immunization with PhtD-dPly vaccine protected rhesus macaques from mortality induced by S. pneumoniae challenge. | 232
+PlyD613, PspA, PsaA, PiuA, RrgB, RrgA, Hsp 60, and Hsp 70 | Intramuscular vaccination of rabbits with a multiantigen vaccine comprising PlyD6, PspA, PsaA, PiuA, RrgB, RrgA, Hsp 60, and Hsp 70 demonstrated the killing of vaccine strain TIGR4 in an opsonophagocytic killing assay and heterologous strains 6B, 19F, and 15B. | 233
+Ply, PspC, and PspA | In the intraperitoneal infection sepsis model, mice immunized intraperitoneally or subcutaneously with H70+YLN14 provided significant protection against challenge with three different strains (serotypes 1, 2, and 6A). | 234
+PspA and PsaA | Intranasal immunization with a combination of PspA and PsaA offered the best protection against nasopharyngeal carriage. | 235
+PsaA and PspA | Subcutaneous immunization of mice with a vaccine containing the fusion protein PsaA-PspA23 and a single protein, PspA4, significantly increased anti-PspA IgG levels. Mice challenged intranasally with S. pneumoniae from PspA clades 1 to 5 were protected as demonstrated by a decrease in the bacterial load in the lungs and blood along with an increase in survival rates. | 236
+PspA and PdT | Subcutaneous immunization with rPspA-FL-PdT15 and rPspA-RL-PdT16 protected mice against intranasal challenge with S. pneumoniae strain A66.1. | 237
+CbpA and Pneumolysoid | Passive and active immunization with CbpA peptide–L460D fusion protein17 protected mice from pneumococcal carriage, otitis media, pneumonia, bacteremia, meningitis, and meningococcal sepsis. | 238
+PdB, PspA, and PspC | Intraperitoneal immunization of mice with a combination of PdB, PspA, and PspC offered the best protection after they were challenged intraperitoneally with virulent type 2 and 6A. | 239
+PcpA, PhtD, and PlyD1 | Immunization with trivalent PPrV containing PcpA, PhtD, and PlyD1 conferred protection in infant mice from lethal pneumonia challenge using serotypes 6A and 3. | 240
+Intramuscular vaccination with trivalent PPrV containing PcpA, PhtD, and PlyD1 enhanced the serum and lung antibody levels to the three components, reduced S. pneumoniae lethality, enhanced the clearance of the pathogen via phagocytosis, and reduced lung inflammation and tissue damage. | 241
+Intramuscular immunization with trivalent PPrV containing PcpA, PhtD, and PlyD1 protected mice against AOM caused by S. pneumoniae. It reduced the bacterial burden and cytokine inflammatory response in middle ears during AOM induced by S. pneumoniae. | 242
+Immunization with PPrV comprising PhtD, PcpA, and PlyD1 induced anti-PhtD and anti-PcpA antibodies in mice that protected against S. pneumoniae through complement- and macrophage-dependent opsonophagocytosis. | 243
+PsaA and PspA | Subcutaneous immunization of mice with PsaA-PspA fusion protein reduced S. pneumoniae levels in the blood and lungs after intranasal infection. It also protected mice against a fatal challenge with pneumococcal strains expressing different PspAs irrespective of the challenge route. | 244
+PcsB, StkP, PsaA, and PspA | Subcutaneous immunization of mice with a quadrivalent vaccine formulation containing PcsB, StkP, PsaA, and PspA with adjuvant significantly reduced bacteremia and lung infection when challenged intranasally with S. pneumoniae serotype 1. | 245
+PiuA and PiaA | Two booster vaccinations consisting of recombinant PiuA and PiaA administered intraperitoneally induced stronger antibody responses (majorly IgG1) in mice than a single or no booster vaccinations. | 246
+Intraperitoneal immunization of mice with purified recombinant PiuA and PiaA proteins elicited antibody responses. It also provided a high degree of protection against intraperitoneal challenge with S. pneumoniae. | 247
+Intranasal vaccination of mice with PiuA and PiaA generated specific antibody responses in serum and respiratory secretions and protected against intranasal challenge with S. pneumoniae. | 248
+
+Results of protein-based vaccines investigated in animal models.
+
+Intramuscular immunization with recombinant PlyD1 protected mice against lethal intranasal challenge with pneumococci and lung injury mediated through Ply challenge. Protection was associated with PlyD1-specific IgG titers and in vitro neutralization titers.
+
+CaP-ΔA146PLY1 nanoparticles induced efficient humoral and cellular immune responses in mice that protected them from both pneumonia and sepsis.
+
+Intramuscular immunization with dPly protected mice against lethal intranasal challenge with Ply. Also, intranasal immunization in mice inhibited nasopharyngeal colonization after intranasal challenge with homologous or heterologous pneumococcal strain.
+
+Mice immunized subcutaneously with ΔA146Ply-SP01482 elicited high levels of anti-ΔA146Ply and anti-SP0148 IgG antibodies. Mice had a high survival rate when challenged with a lethal dose of S. pneumoniae.
+
+Subcutaneous immunization of mice with ΔA146 Ply3 generated high titers of anti-Ply IgGs and protected them from intraperitoneal challenge with TIGR4 S. pneumoniae.
+
+Intramuscular immunization of mice with PLY-D4 conferred significant protection post-intranasal challenge with different S. pneumoniae serotypes and strains.
+
+Vaccination with a monovalent formulation of recombinant PlyD1 led to bacterial reductions in both infant and adult mice after a lethal-dose intranasal challenge with serotype 6A.
+
+Intramuscular immunization of mice with recombinant CbpG provided significant protection against colonization and substantial protection against systemic infection by wild-type TIGR4 cells.
+
+Subcutaneous immunization with recombinant CbpG protected mice against intraperitoneal challenge with serotype 19F pneumococcal strain.
+
+Subcutaneous immunization with recombinant CbpM protected mice against intraperitoneal challenge with serotype 19F pneumococcal strain.
+
+Purified recombinant LytA administered intranasally elicited IgG and IgA antibodies in mice. These mice also showed significantly higher survival rates and lower bacterial carriage in response to S. pneumoniae infection.
+
+Intraperitoneal immunization with LytB enhanced S. pneumoniae recognition by complement components C1q and C3b, demonstrating that anti-LytB antibodies activated the classical pathway. Vaccination with LytB protected mice against pneumococcal sepsis and invasive pneumonia caused by clinical isolates of serotypes 3 or 23F.
+
+Intranasal immunization with PspC using cholera toxin subunit B as an adjuvant protected mice against intranasal challenge with pneumolysin mutant of D39 or serotype 6B strain BG7322.
+
+Intraperitoneal immunization of PspC protected mice from intraperitoneal challenge with virulent capsular type 2 pneumococcal strain D39.
+
+Intranasal immunization with PspC induced high levels of anti-PspC antibodies in mice. The hyperimmune sera significantly inhibited the adhesion of S. pneumoniae to A549 cells.
+
+Nasal immunization with L. casei expressing PspC primed the immune system of mice that prompted faster immune responses, resulting in a decrease in pneumococcal colonization.
+
+Subcutaneous immunization with purified PspC protected mice against sepsis. The protection was mediated by antibodies cross-reactive with PspA.
+
+Subcutaneous or intranasal immunization of PspC vaccines did not protect mice against an invasive intranasal challenge with pneumococcal strain ATCC 6303.
+
+Vaccination with a monovalent formulation of recombinant PcpA led to bacterial reductions in both infant and adult mice after a lethal-dose intranasal challenge with serotype 6A.
+
+Antibodies generated post-immunization with recombinant family 1 PspA in humans in a phase 1 trial offered passive protection in mice against a pneumococcal challenge from serotypes 3, 6A, or 6B.
+
+Transcutaneous immunization with PspA + cholera toxin B induced antigen-specific mucosal and systemic immune responses in mice. It significantly reduced the CFU numbers in nasal washes and passages when they were challenged with S. pneumoniae strain EF3030 via the nasal route.
+
+Intranasal immunization with a nanogel-based PspA nasal vaccine provided protective immunity in mice against intranasal lethal challenge with S. pneumoniae Xen10. It reduced the bacterial colonization and invasion and induced high levels of PspA-specific IgG and nasal and bronchial IgA responses.
+
+Mucosal immunization with various nanoparticle PspA formulations protected mice against lethal intranasal challenge S. pneumoniae strain ATCC6303.
+
+Intranasal immunization with PspA delivered by BLPs enhanced PspA-specific antibody responses in mice and provided significant protection against intranasal challenge with pneumococci of two different clades of both homologous and heterologous PspA families.
+
+Intranasal immunization with PspA-BLP vaccine5 conferred protection in mice against fatal intranasal challenge with both PspA family 1 and 2 pneumococcal strains regardless of serotype.
+
+Intramuscular immunization with polymer particles entrapping PspA elicited robust IgG responses both in mice and in rats. Antigen load in microparticles correlated with the antibody titers.
+
+Mucosal immunization with NP/NCMP PspA4Pro6 provided partial protection against intranasal lethal pneumococcal challenge with a serotype 3 strain expressing PspA from clade 5.
+
+Intranasal vaccination with PspA and cationic liposomes conferred protective immunity against lethal S. pneumoniae inhalation and improved the survival rate of infected mice. It also induced the production of PspA-specific IgA and IgG by both mucosal and systemic compartments as well as elicited PspA-specific Th17 responses.
+
+Subcutaneous immunization of mice with PspA-based polyanhydride nanovaccine had significantly higher survival rates upon intravenous challenge with S. pneumoniae strain A66.1 clad 2 of family 1.
+
+Nasal vaccination with PspA-nanogel7 effectively induced PspA-specific serum IgG with protective activity and mucosal SIgA antibody responses in cynomolgus macaques.
+
+Mice vaccinated orally with a RASV strain delivering PspA decreased pulmonary inflammation. It provided effective protection against secondary pneumococcal pneumonia that was established in mice by intratracheal challenge with influenza PR8 and S. pneumoniae WU2 strains.
+
+Subcutaneous immunization of mice with fusion proteins containing family 1 and family 2 PspA fragments increased complement deposition and provided protection against pneumococcal infection with strains bearing PspA fragments from both families.
+
+Nasal vaccination of macaques with cCHP-trivalent PspA generated PspA-specific IgGs that protected from pneumococcal intratracheal challenge through inhibition of lung inflammation and a reduction in the numbers of bacteria in the lungs.
+
+Subcutaneous immunization with PspA3+28 provided significant protection against intranasal challenge by five pneumococcal strains with different clades in mice.
+
+Nasal immunization of mice with a combination of PspA5 and wP9 or wPlow10 conferred protection against intranasal respiratory lethal challenge with S. pneumoniae ATCC6303 or A66.1 strain. Both PspA5-wP and PspA5-wPlow vaccines induced high levels of systemic and mucosal antibodies against PspA5.
+
+Subcutaneous immunization of mice with PsaA using either complete Freund’s or TiterMax adjuvants significantly protected against challenge from type 3 pneumococcal strain WU2.
+
+Intranasal or oral administration of full-length PsaA in mice demonstrated significant reduction in colonization of nasopharyngeal tissues after intranasal challenge with S. pneumoniae strains compared to controls.
+
+Intraperitoneal immunization with PsaA admixed with BlyS exhibited only modest elevations in PsaA-specific responses. Mice sera obtained post-immunization exhibited high titers of IgG1, IgG2a, IgG2b, and IgG3, but no IgA.
+
+Intranasal immunization with chitosan-PsaA11 generated mucosal and systemic immune responses in mice, and fewer pneumococci were recovered from the immunized mice following intranasal challenge with ATCC 6303 (serotype 3).
+
+Intranasal immunization with chitosan-PsaA generated mucosal and systemic immune responses in mice. Immunized mice had increased protection against AOM following middle ear challenge with pneumococcus serotype 14 and improved survival following intraperitoneal challenge with pneumococcus serotype 3 or serotype 14.
+
+Subcutaneous immunization with full-length PhtA generated antibodies that protected mice against lethal sepsis challenge with serotype 6A or 6B.
+
+Immunization with either N-terminal or C-terminal portion of PhtA also protected mice against serotype 6B challenge.
+
+N-terminal half of PhtA induced a protective response against serotype 6A challenge.
+
+Subcutaneous immunization with full-length PhtB generated high levels of antibody titers and protected mice against challenge with serotype 6B.
+
+Subcutaneous immunization with recombinant PhtD induced antibodies that protected mice against sepsis challenge with serotype 6A and 6B and highly virulent capsular type 4 strain or with the capsular type 3 strain WU2.
+
+Subcutaneous immunization of PhtD and its C-terminal fragment provided protection against pneumococcal sepsis in mice.
+
+Mice immunized intraperitoneally with PhtD and its C-terminal with OMVs and alum as adjuvants survived after intraperitoneal challenge with S. pneumoniae ATCC6303.
+
+Vaccination with a monovalent formulation of recombinant PhtD led to bacterial reductions in both infant and adult mice after a lethal-dose intranasal challenge with serotype 6A.
+
+Intranasal administration of PhtD in mice conferred protection against pneumococcal colonization through robust serum antibodies and CD4 Th1-biased immune memory.
+
+Intranasal administration of PhtE in mice conferred protection against pneumococcal colonization through robust serum antibodies and CD4 Th1-biased immune memory.
+
+Subcutaneous immunization of mice with recombinant PhtE elicits protective immunity against experimental sepsis and pneumonia.
+
+Antibodies directed against SRR1 and BR regions of recombinant PsrP neutralized bacterial adhesion to lung cells in vitro.
+
+Passive immunization of mice with PsrP antiserum conferred protection against pneumococcal challenge.
+
+Subcutaneous immunization with recombinant EF-Tu induced the production of inflammatory cytokines and IgG1 and IgG2a antibodies in mice.
+
+Significantly and non-specifically protected mice against lethal intraperitoneal challenge with S. pneumoniae serotypes 2 and 15A.
+
+Mice immunized subcutaneously with 19F polysaccharide conjugated with PLD as a carrier protein elicited high antibody titers against the polysaccharide and the carrier protein. Immunized mice effectively cleared the bacteria and had a significantly better survival rate when they were challenged intraperitoneally with type 19F pneumococci.
+
+Subcutaneous immunization of mice with both monovalent and tetravalent conjugate formulations (serotypes 6B, 14, 19F, and 23F) conjugated to PLD as a carrier protein generated high levels of polysaccharide-specific IgGs that demonstrated opsonophagocytic activity for serotypes tested, viz., 6B, 14, 19F, and 23F.
+
+Intraperitoneal immunization of 18C polysaccharide conjugated to recombinant Ply conferred significant protection in mice challenged with type 18C pneumococci.
+
+Intraperitoneal immunization with Hib polysaccharide vaccine conjugated with recombinant PsaA protein carrier in mice generated anti-PsaA and anti-Hib immune responses. It was able to offer effective protection against AOM caused by pneumococcus.
+
+Intranasal immunization with PhtD-dPly vaccine protected rhesus macaques from mortality induced by S. pneumoniae challenge.
+
+Intramuscular vaccination of rabbits with a multiantigen vaccine comprising PlyD6, PspA, PsaA, PiuA, RrgB, RrgA, Hsp 60, and Hsp 70 demonstrated the killing of vaccine strain TIGR4 in an opsonophagocytic killing assay and heterologous strains 6B, 19F, and 15B.
+
+In the intraperitoneal infection sepsis model, mice immunized intraperitoneally or subcutaneously with H70+YLN14 provided significant protection against challenge with three different strains (serotypes 1, 2, and 6A).
+
+Intranasal immunization with a combination of PspA and PsaA offered the best protection against nasopharyngeal carriage.
+
+Subcutaneous immunization of mice with a vaccine containing the fusion protein PsaA-PspA23 and a single protein, PspA4, significantly increased anti-PspA IgG levels. Mice challenged intranasally with S. pneumoniae from PspA clades 1 to 5 were protected as demonstrated by a decrease in the bacterial load in the lungs and blood along with an increase in survival rates.
+
+Subcutaneous immunization with rPspA-FL-PdT15 and rPspA-RL-PdT16 protected mice against intranasal challenge with S. pneumoniae strain A66.1.
+
+Passive and active immunization with CbpA peptide–L460D fusion protein17 protected mice from pneumococcal carriage, otitis media, pneumonia, bacteremia, meningitis, and meningococcal sepsis.
+
+Intraperitoneal immunization of mice with a combination of PdB, PspA, and PspC offered the best protection after they were challenged intraperitoneally with virulent type 2 and 6A.
+
+Immunization with trivalent PPrV containing PcpA, PhtD, and PlyD1 conferred protection in infant mice from lethal pneumonia challenge using serotypes 6A and 3.
+
+Intramuscular vaccination with trivalent PPrV containing PcpA, PhtD, and PlyD1 enhanced the serum and lung antibody levels to the three components, reduced S. pneumoniae lethality, enhanced the clearance of the pathogen via phagocytosis, and reduced lung inflammation and tissue damage.
+
+Intramuscular immunization with trivalent PPrV containing PcpA, PhtD, and PlyD1 protected mice against AOM caused by S. pneumoniae. It reduced the bacterial burden and cytokine inflammatory response in middle ears during AOM induced by S. pneumoniae.
+
+Immunization with PPrV comprising PhtD, PcpA, and PlyD1 induced anti-PhtD and anti-PcpA antibodies in mice that protected against S. pneumoniae through complement- and macrophage-dependent opsonophagocytosis.
+
+Subcutaneous immunization of mice with PsaA-PspA fusion protein reduced S. pneumoniae levels in the blood and lungs after intranasal infection. It also protected mice against a fatal challenge with pneumococcal strains expressing different PspAs irrespective of the challenge route.
+
+Subcutaneous immunization of mice with a quadrivalent vaccine formulation containing PcsB, StkP, PsaA, and PspA with adjuvant significantly reduced bacteremia and lung infection when challenged intranasally with S. pneumoniae serotype 1.
+
+Two booster vaccinations consisting of recombinant PiuA and PiaA administered intraperitoneally induced stronger antibody responses (majorly IgG1) in mice than a single or no booster vaccinations.
+
+Intraperitoneal immunization of mice with purified recombinant PiuA and PiaA proteins elicited antibody responses. It also provided a high degree of protection against intraperitoneal challenge with S. pneumoniae.
+
+Intranasal vaccination of mice with PiuA and PiaA generated specific antibody responses in serum and respiratory secretions and protected against intranasal challenge with S. pneumoniae.
+
+1CaP-ΔA146PLY: Calcium phosphate binding domains fused with attenuated pneumolysin mutant, viz., ΔA146PLY.
+
+2ΔA146Ply-SP0148: Fusion protein composed of noncytotoxic mutant of Ply, viz., ΔA146Ply and conserved lipoprotein with high immunogenicity produced by S. pneumoniae, viz., SP0148.
+
+3ΔA146 Ply: Ply mutant with one single-amino acid deletion.
+
+4PLY-D: Genetic toxoid constructed with two amino acid changes to attenuate PLY toxicity.
+
+5PspA-BLP vaccine: PspA proteins from two different families, PspA2 from family 1 and PspA4 from family 2, and formulated with a BLP adjuvant also acting as a carrier.
+
+6NP/NCMP PspA4Pro: Poly(glycerol adipate-co-ω-pentadecalactone) polymeric nanoparticles adsorbed with PspA from clade 4 within L-leucine microcarriers.
+
+7PspA-nanogel: cCHP nanogel containing PspA.
+
+8PspA3+2: Recombinant PspA protein comprising PspA families 1 and 2.
+
+9wP: B. pertussis vaccine.
+
+10wPlow: Vaccine containing low levels of B. pertussis LPS.
+
+11Chitosan-PsaA: Chitosan-DNA nanoparticles expressing PsaA.
+
+12PLD: Genetic derivative of Ply.
+
+13PlyD6: Nontoxic Ply.
+
+14H70+YLN: L460D [Ply toxoid with the L460D substitution] fused with protective peptide epitopes from PspC + PspA proline-rich region and SM1 region.
+
+15rPspA-FL-PdT: Proteins joined by flexible linker.
+
+16rPspA-RL-PdT: Proteins joined by rigid helix-forming linker.
+
+17CbpA peptide–L460D fusion protein: Biologically active peptides derived from CbpA of pneumococcus genetically fused to L460D pneumolysoid.
+
+Abbreviations: Ply: Pneumolysin; PlyD1/dPly/PdT: Detoxified pneumolysin; S. pneumoniae: Streptococcus pneumoniae; IgG: Immunoglobulin G; CBPs: Choline-binding proteins; CbpG: Choline-binding protein G; CbpM: Choline-binding protein M; LytA: N-acetylmuramoyl-L-alanine amidase; LytB: N-acetylglucosaminidase; PspC/CbpA: Pneumococcal surface protein C/Choline-binding protein A; L. casei: Lactobacillus casei; PspA: Pneumococcal surface protein A; PcpA: Pneumococcal choline binding protein A; CFU: Colony-forming unit; IgA: Immunoglobulin A; BLPs: Bacterium-like particles; SIgA: Secretory immunoglobulin A; RASV: Recombinant attenuated Salmonella vaccine; cCHP: Cationic cholesteryl pullulan; B. pertussis: Bordetella pertussis; LPS: Lipopolysaccharide; PsaA: Pneumococcal surface antigen A; BlyS: B lymphocyte stimulator; IgG1: Immunoglobulin G1; IgG2a: Immunoglobulin G2a; IgG2b: Immunoglobulin G2b; IgG3: Immunoglobulin G3; AOM: Acute otitis media; PHTs: Pneumococcal histidine triad proteins; PhtA: Pneumococcal histidine triad protein A; PhtB: Pneumococcal histidine triad protein B; PhtD: Pneumococcal histidine triad protein D; OMVs: Outer membrane vesicles; PhtE: Pneumococcal histidine triad protein E; PsrP: Pneumococcal serine-rich repeat protein; SRR1: Short serine-rich repeat region; BR: Basic region; Ef-Tu: Elongation factor Tu; PLD: Pneumolysoid; HiB: Haemophilus influenzae type b; PiuA: Pneumococcal iron uptake A; Hsp 60: Heat shock protein 60; Hsp 70: Heat shock protein 70;PdB: Pneumolysin toxoid; PPrV: Pneumococcal protein vaccine; PcsB: Putative murine hydrolase; StkP: Serine/threonine kinase protein; PiaA: Pneumococcal iron acquisition A.
+
+Table 7.: Results of WCVs investigated in animal models.
+Sr. No. | Vaccine candidate | Results | References
+--------------------------------------------------
+Inactivated WCVs
+1. | S. pneumoniae strain RX1mutated by deletingLytA and killed using ethanol | Intranasal administration using cholera toxin as an adjuvant conferred protection against nasopharyngeal colonization by serotype 6B in mice as well as conferred protection against illness and death in rats with serotype 3 strains.In murine models, intranasal administration significantly decreased nasopharyngeal and middle ear colonization by serotypes 6B, 14, and 23F. | 249
+2. | RM200 (Rx1E PdT ΔlytA): Constructed by replacing the entire LytA gene with a kanamycin resistance gene in strain RX1E and inactivated using beta-propiolactone | Intramuscular immunization in mice offered strong protection against nasopharyngeal colonization with serotype 6B and activated IL-17A priming. | 250,251
+3. | SPY1: Developed from strain D39 and killed using ethanol | Intranasal immunization with killed SPY1 using cholera toxin as an adjuvant elicited effective protection against colonization with pneumococcal strains 19F and 4 as well as lethal infection with pneumococcal serotypes 2, 3, 14, and 6B. | 252
+Live-attenuated WCVs
+1. | S. pneumoniae D39 attenuated by removing pep27 gene | Intranasal immunization in mice exhibited high levels of IgG and serotype-independent protection against lethal intranasal challenge. | 253
+2. | Δpep27ΔcomD: Constructed by deleting comD gene | Immunization in mice significantly increased survival time after heterologous challenge and diminished colonization levels independent of serotype. | 254
+3. | TIGR4Δlgt: Constructed by removing Lgt gene in the encapsulated pneumococcal strain TIGR4 | Colonized mouse nasopharynx long enough to induce strong mucosal IgA and IgG2b-dominant systemic antibody responses, exhibiting cross-reactivity to heterologous pneumococcal serotypes.Intranasal immunization in mice demonstrated serotype-independent protection against pneumococcal challenge. | 168
+4. | cpsE-endA double mutant strain: Constructed by knocking out cpsE and endA genes in S. pneumoniae D39 | Intranasal immunization in mice showed the highest survival rate and longest survival time after a lethal dose intranasal challenge with wild-type S. pneumoniae D39 infection compared to the single-gene knockout strains. | 255
+5. | ∆cps/piaA and ∆cps/proABC: Strains containing cps locus deletions along with S. pneumoniae virulence factors PsaA or proABC | Previous colonization with these strains in mice protected them against septicemic pneumonia but could not prevent recolonization with the wild-type strain. | 256
+
+Results of WCVs investigated in animal models.
+
+Intranasal administration using cholera toxin as an adjuvant conferred protection against nasopharyngeal colonization by serotype 6B in mice as well as conferred protection against illness and death in rats with serotype 3 strains.
+
+In murine models, intranasal administration significantly decreased nasopharyngeal and middle ear colonization by serotypes 6B, 14, and 23F.
+
+Intramuscular immunization in mice offered strong protection against nasopharyngeal colonization with serotype 6B and activated IL-17A priming.
+
+Intranasal immunization with killed SPY1 using cholera toxin as an adjuvant elicited effective protection against colonization with pneumococcal strains 19F and 4 as well as lethal infection with pneumococcal serotypes 2, 3, 14, and 6B.
+
+Intranasal immunization in mice exhibited high levels of IgG and serotype-independent protection against lethal intranasal challenge.
+
+Immunization in mice significantly increased survival time after heterologous challenge and diminished colonization levels independent of serotype.
+
+Colonized mouse nasopharynx long enough to induce strong mucosal IgA and IgG2b-dominant systemic antibody responses, exhibiting cross-reactivity to heterologous pneumococcal serotypes.
+
+Intranasal immunization in mice demonstrated serotype-independent protection against pneumococcal challenge.
+
+Intranasal immunization in mice showed the highest survival rate and longest survival time after a lethal dose intranasal challenge with wild-type S. pneumoniae D39 infection compared to the single-gene knockout strains.
+
+Previous colonization with these strains in mice protected them against septicemic pneumonia but could not prevent recolonization with the wild-type strain.
+
+Abbreviations: WCVs: Whole-cell vaccines; LytA: N-acetylmuramoyl-L-alanine amidase; IL-17A: Interleukin-17A; IgG: Immunoglobulin G; Lgt: Prolipoprotein diacylglyceryl transferase; IgA: Immunoglobulin A; IgG2b: Immunoglobulin G2b; PsaA: Pneumococcal surface antigen A.
+
+Table 8.: Results of protein-based vaccines and WCVs (inactivated and live-attenuated) evaluated in clinical trials.
+Proteins | Phase | Identifier | Status | Results | References
+--------------------------------------------------
+Protein-based candidates in clinical trials
+PlyD11 | 1 | NCT01444352 | Completed | Vaccine was immunogenic and safe.Anti-PlyD1 antibodies produced were shown to be functional in an in vitro assay by neutralizing wild-type Ply activity. | 257
+PnuBioVax(PlyD62 + PspA + PsaA + PiuA + RrgB + RrgA + Hsp60 + Hsp70) | 1 | NCT02572635 | Completed | The vaccine was safe and immunogenic. | 233,258
+dPly-PhtD ± PHiD-CV3 | 2 | NCT00985751 | Completed | The vaccine formulations were safe and immunogenic. | 259
+PhtD | 1 | NCT01444001 | Completed | The vaccine was safe and immunogenic at various doses evaluated. | 260
+PhtD, PhtD + PcpA | 1 | NCT01444339 | Completed | The vaccine candidates were immunogenic and had promising safety profiles. | 261
+PcpA + PhtD + PlyD1 | 1 | U1111–1117–7316 | Completed | The vaccine was safe and immunogenic. | 262
+PcpA + PhtD + PlyD1 | 1 | NCT01446926 | Completed | NA | 263
+PhtD | 1 | NCT01767402 | Completed | The formulations had an acceptable reactogenicity profile, without safety concerns.Vaccination with PhtD elicited both CD4 T cell and memory B cell responses in adults. | 264
+dPly, PhtD-dPly ± PHiD-CV | 1 | NCT007077984 | Completed | Vaccine formulations were well-tolerated and immunogenic when given as standalone proteins or combined with PhiD-CV conjugates. | 265
+PhtD-dPly ± PCV 8 | 1 | NCT00756067 | Completed | Vaccine formulations containing free or conjugated PhtD and dPly had acceptable reactogenicity and safety profiles. | 266
+PhtD-dPly + PhiD | 2 | NA | Completed | The vaccine was well-tolerated and immunogenic. | 267
+PhtD-dPly + PHiD | 2 | NCT01262872 | Completed | PhtD-dPly + PHiD had no impact on pneumococcal nasopharyngeal carriage.dPly and PhtD proteins did not alter the immune response to PHiD-CV antigens.PhtD-dPly + PHiD did not alter the immunogenicity of co-administered routine vaccines. | 268,269
+PhtD- dPly + PCV135 | 2b | NCT01545375 | Completed | The dPly-PhtD vaccine was immunogenic and well-tolerated. | 270
+dPLY+PsaA +24CPS6 | 1 | NCT04525599 | Completed | The vaccine had an acceptable safety and tolerability profile.Immune responses were elicited (IgG concentrations and OPA titers) against 13 common and 10 of the 11 unique S. pneumoniae serotypes. | 271
+dPLY+PsaA +24CPS | 1/2 | NCT03803202 | Completed | The vaccine was immunogenic, well-tolerated, and had a safety profile comparable to PCV13. | 272
+PspA | 1 | NCT01033409 | Completed | NA | 273,274
+PsaA + StkP + PcsB | 1 | NCT00873431 | Completed | The vaccine was safe and immunogenic.It induced protective antibodies against all three proteins. | 275,276
+SP_2108 + SP_0148 + SP_1912(GEN-004) | 1 | NCT01995617 | Completed | The vaccine was safe and immunogenic.Rise in antigen- specific IgG response was observed. | 263,277
+SP_2108 + SP_0148 + SP_1912(GEN-004) | 2 | NCT02116998 | Completed | Reduced colonization rate by 22–25%. | 263,277
+WCVs in clinical trials
+Inactivated
+SPWCV developed from strain RM200 (RX1E PdT ΔlytA) using alum as an adjuvant | 1 | NCT01537185 | Completed | The vaccine was safe, well-tolerated, and elicited a significant rise in IgG responses to PspA and Ply.An increase in T cell cytokine responses, including IL-17A, was also observed. | 278
+SPWCV developed from strain RM200 (RX1E PdT ΔlytA) using alum as an adjuvant | 1/2 | NCT02097472 | Completed | NA | 29,279,280
+SPWCV developed from strain RM200 (RX1E PdT ΔlytA) using alum as an adjuvant | 1/2 | NCT02543892 | Completed | NA | 281
+
+Results of protein-based vaccines and WCVs (inactivated and live-attenuated) evaluated in clinical trials.
+
+Vaccine was immunogenic and safe.
+
+Anti-PlyD1 antibodies produced were shown to be functional in an in vitro assay by neutralizing wild-type Ply activity.
+
+The vaccine was safe and immunogenic.
+
+The vaccine formulations were safe and immunogenic.
+
+The vaccine was safe and immunogenic at various doses evaluated.
+
+The vaccine candidates were immunogenic and had promising safety profiles.
+
+The vaccine was safe and immunogenic.
+
+The formulations had an acceptable reactogenicity profile, without safety concerns.
+
+Vaccination with PhtD elicited both CD4 T cell and memory B cell responses in adults.
+
+Vaccine formulations were well-tolerated and immunogenic when given as standalone proteins or combined with PhiD-CV conjugates.
+
+Vaccine formulations containing free or conjugated PhtD and dPly had acceptable reactogenicity and safety profiles.
+
+The vaccine was well-tolerated and immunogenic.
+
+PhtD-dPly + PHiD had no impact on pneumococcal nasopharyngeal carriage.
+
+dPly and PhtD proteins did not alter the immune response to PHiD-CV antigens.
+
+PhtD-dPly + PHiD did not alter the immunogenicity of co-administered routine vaccines.
+
+The dPly-PhtD vaccine was immunogenic and well-tolerated.
+
+The vaccine had an acceptable safety and tolerability profile.
+
+Immune responses were elicited (IgG concentrations and OPA titers) against 13 common and 10 of the 11 unique S. pneumoniae serotypes.
+
+The vaccine was immunogenic, well-tolerated, and had a safety profile comparable to PCV13.
+
+The vaccine was safe and immunogenic.
+
+It induced protective antibodies against all three proteins.
+
+The vaccine was safe and immunogenic.
+
+Rise in antigen- specific IgG response was observed.
+
+Reduced colonization rate by 22–25%.
+
+The vaccine was safe, well-tolerated, and elicited a significant rise in IgG responses to PspA and Ply.
+
+An increase in T cell cytokine responses, including IL-17A, was also observed.
+
+1PlyD1: Detoxified form of Ply.
+
+2PlyD6: Non-toxic Ply.
+
+3PHiD-CV: 10-valent pneumococcal non-typeable H. influenzae protein D conjugate vaccine, viz., Synflorix (GSK).
+
+4Two groups primed with a formulation containing dPly and PhtD (10 or 30 μg each) continued to the follow-up phase II study (NCT00896064), in which they received a booster dose at 5–9 months after primary vaccination. The study has been completed.282
+
+5PCV13 refers to Pfizer’s Prevnar 13.
+
+6dPLY+PsaA +24CPS refers to AFX3772.
+
+Abbreviations: Ply: Pneumolysin; PspA: Pneumococcal surface protein A; PsaA: Pneumococcal surface antigen A; PiuA: Pneumococcal iron uptake A; Hsp 60: Heat shock protein 60; Hsp 70: Heat shock protein 70; dPly: Pneumolysin toxoid; PhtD: Pneumococcal histidine triad protein D; PcpA: Pneumococcal choline binding protein A; CPS: Capsular polysaccharides; IgG: Immunoglobulin G; OPA: Opsonophagocytic activity; S. pneumoniae: Streptococcus pneumoniae; StkP: Serine/threonine kinase protein; PcsB: Putative murine hydrolase; WCVs: Whole-cell vaccines; SPWCV: S. pneumoniae whole-cell vaccine; IL-17A: Interleukin-17A; H. influenzae: Haemophilus influenzae; GSK: GlaxoSmithKline.
+
+From Tables 6–8, it is evident that there are numerous S. pneumoniae proteins, such as pneumolysin (Ply), pneumococcal surface protein A (PspA), pneumococcal surface protein C (PspC), pneumococcal histidine triad protein D (PhtD), pneumococcal surface antigen A (PsaA), etc. that are investigated as vaccine candidates either alone or in combination with other proteins using suitable adjuvants and delivery systems. Some of these proteins have also been explored as carrier proteins to conjugate vaccines. Many of these candidates have shown promising results in animal studies, while some have demonstrated their safety and efficacy in clinical trials. Similarly, many WCVs (inactivated and live-attenuated) have shown promising results in animal studies and clinical trials. However, further studies are warranted to demonstrate the efficacy and safety of these protein vaccines and WCVs.
+
+Some of the vaccine technologies, such as mRNA vaccines, deoxyribonucleic acid (DNA) vaccines, non-replicating viral vaccines, etc., grabbed the limelight during the coronavirus disease 2019 (COVID-19) pandemic. There exists a possibility that the next generation of pneumococcal vaccines may be developed using such technologies.102
+
+LMICs should have a robust surveillance system to monitor the pneumococcal serotype prevalence and distribution, the emergence of NVTs, the burden of IPD, and the impact of PCVs. This will give a better and in-depth understanding of the evolving epidemiology of S. pneumoniae, aid in formulating and implementing vaccination policies, and guide the development of next-generation pneumococcal vaccines.These countries should have access to high-end and quality diagnostics to understand the AMR pattern of S. pneumoniae. Antibiotic stewardship programs and national AMR plans should be religiously implemented. Data from the AMR pattern can play a decisive role in selecting the appropriate serotypes for PCV development.Pharmaceutical/Biotech companies should customize or tailor PCVs as per the region-specific prevalence and disease-causing potential of pneumococcal serotypes based on robust surveillance data as well as taking into consideration the pros and cons of adding additional serotypes. For example, companies can develop or modify the existing PCV formulations and incorporate serotypes as shown in Table 9.Table 9.Plausible serotypes that can be incorporated in the existing PCV formulations.Region*Plausible serotypesSouth Asia2, 8, 13, 20, 29, 31, 34, 38, 39, 45, 10A, 10F, 11A, 12F, 15A, 15B, 15C, 16F, 17F, 18B, 19B, 22F, 23B, 28A, 28F, 33F, 35B, 35F, 6C, 6D, 7B, 9 L, 9N1) *These serotypes have been implicated in IPD, non-IPD, and drug resistance as shown in Table 2.Abbreviations: IPD: Invasive pneumococcal disease; Non-IPD: Non-invasive pneumococcal disease.Serotype replacement due to PCVs and regional differences in the dominant serotypes warrant the inclusion of additional serotypes in the existing vaccines. Adding a new serotype will increase the complexity and the cost. This in turn can affect affordability and accessibility in countries with high pneumococcal disease burden and lack of robust healthcare infrastructure. To mitigate this risk, a non-serotype-based approach, such as a protein-based vaccine, a live-attenuated vaccine, or an inactivated vaccine, would be an ideal one. Such vaccines target the highly conserved proteins across all S. pneumoniae serotypes and can provide broader protection as compared to the existing PCVs. However, large, robust studies in different geographies are warranted to demonstrate its efficacy and safety in clinical trials as well as the real-world effectiveness of these vaccine candidates.
+
+LMICs should have a robust surveillance system to monitor the pneumococcal serotype prevalence and distribution, the emergence of NVTs, the burden of IPD, and the impact of PCVs. This will give a better and in-depth understanding of the evolving epidemiology of S. pneumoniae, aid in formulating and implementing vaccination policies, and guide the development of next-generation pneumococcal vaccines.
+
+These countries should have access to high-end and quality diagnostics to understand the AMR pattern of S. pneumoniae. Antibiotic stewardship programs and national AMR plans should be religiously implemented. Data from the AMR pattern can play a decisive role in selecting the appropriate serotypes for PCV development.
+
+Pharmaceutical/Biotech companies should customize or tailor PCVs as per the region-specific prevalence and disease-causing potential of pneumococcal serotypes based on robust surveillance data as well as taking into consideration the pros and cons of adding additional serotypes. For example, companies can develop or modify the existing PCV formulations and incorporate serotypes as shown in Table 9.Table 9.Plausible serotypes that can be incorporated in the existing PCV formulations.Region*Plausible serotypesSouth Asia2, 8, 13, 20, 29, 31, 34, 38, 39, 45, 10A, 10F, 11A, 12F, 15A, 15B, 15C, 16F, 17F, 18B, 19B, 22F, 23B, 28A, 28F, 33F, 35B, 35F, 6C, 6D, 7B, 9 L, 9N1) *These serotypes have been implicated in IPD, non-IPD, and drug resistance as shown in Table 2.Abbreviations: IPD: Invasive pneumococcal disease; Non-IPD: Non-invasive pneumococcal disease.
+
+Table 9.: Plausible serotypes that can be incorporated in the existing PCV formulations.
+Region | *Plausible serotypes
+--------------------------------------------------
+South Asia | 2, 8, 13, 20, 29, 31, 34, 38, 39, 45, 10A, 10F, 11A, 12F, 15A, 15B, 15C, 16F, 17F, 18B, 19B, 22F, 23B, 28A, 28F, 33F, 35B, 35F, 6C, 6D, 7B, 9 L, 9N
+
+Plausible serotypes that can be incorporated in the existing PCV formulations.
+
+1) *These serotypes have been implicated in IPD, non-IPD, and drug resistance as shown in Table 2.
+
+Abbreviations: IPD: Invasive pneumococcal disease; Non-IPD: Non-invasive pneumococcal disease.
+
+Serotype replacement due to PCVs and regional differences in the dominant serotypes warrant the inclusion of additional serotypes in the existing vaccines. Adding a new serotype will increase the complexity and the cost. This in turn can affect affordability and accessibility in countries with high pneumococcal disease burden and lack of robust healthcare infrastructure. To mitigate this risk, a non-serotype-based approach, such as a protein-based vaccine, a live-attenuated vaccine, or an inactivated vaccine, would be an ideal one. Such vaccines target the highly conserved proteins across all S. pneumoniae serotypes and can provide broader protection as compared to the existing PCVs. However, large, robust studies in different geographies are warranted to demonstrate its efficacy and safety in clinical trials as well as the real-world effectiveness of these vaccine candidates.

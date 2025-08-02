@@ -1,0 +1,519 @@
+Title: Genital Herpes: Insights into Sexually Transmitted Infectious
+Disease
+
+Genital herpes is one of the most common, persistent and highly infectious sexually
+transmitted viral infections mostly caused by herpes simplex virus-2 (HSV-2) and in
+many emerging first time cases, by HSV-1 1.
+Primary and recurrent genital herpes infections most commonly result in lesions and
+inflammation around the genital area. In women, the sites of infection are mainly
+the vulva and the vagina, with some cases involving the regions of cervix and
+perianal. In heterosexual men infection is typically on the glans or the shaft of
+the penis, whereas anal infection is also reported with homosexual men. More than
+500 million people are infected worldwide and most cases reported are among the age
+groups between 16-40 years that coincides with increased sexual activity among this
+age group 2. While these numbers are an
+estimate, the actual numbers may be underestimated as many people are either
+asymptomatic or are unaware of the infection 3. This review provides an insight into the epidemiology, pathology, our
+current understanding of the molecular mechanisms of infection and the currently
+available and upcoming treatments for genital herpes.
+
+Herpesviruses are among the most ubiquitous of human infections. After infection with
+HSV, it is thought that the virus and the immune response to the virus persist
+through the life of the host. HSV infections are measured by testing various
+populations for the presence of antibodies specific to the virus. An estimated 90%
+of all people worldwide have one or both viruses 45. HSV-1 is the more prevalent
+virus with 65% of persons in the United States having antibodies to HSV-1 6, while HSV-2 infections are markedly less
+frequent, with 15%-80% of people in various populations infected 7. HSV-1 and HSV-2 infection rates widely vary
+between countries. The increase in genital HSV-1 is mainly attributed to an increase
+in oral sex among youngsters and adults which is viewed safer than intercourse 8. Due to this, in the USA, Canada, and other
+European countries, at least half of the first episodes for genital herpes have been
+caused by HSV-1 in the past decade 9101112. In a study performed by the
+CDC it is estimated that about one in six Americans aged 14 to 49 are infected with
+HSV-2 and the prevalence in women was 20.9%, twice as high as among men 13. While a surge of HSV-2 seroprevalence from
+16.4% to 21.8% was observed from 1976 to 1994 14, this trend has reversed, dropping to 17.2% in 2004 15. In Africa and other developing countries,
+there is a high burden of HSV-2 infections with >50% prevalence in the population
+16. Around 82% of women and 53% of men in
+the Sub-Saharan Africa are seropositive for HSV-2 17. HSV-2 infection rates also depend on the rates of sexual activity
+and are more prevalent in heavily exposed populations, such as commercial sex
+workers, who are nearly 100% positive, suggesting an urgent need for education and
+new measures for prevention 18.
+
+The HSV-1/HSV-2 virion recognizes and attaches to the heparan sulfate
+proteoglycan via glycoproteins on the viral envelope. By a process called
+‘surfing’, the virus particles can travel along filopodia-like membrane
+extensions to reach the surface of the cell. On the surface of the cell,
+viral capsid penetration can occur by fusion of envelop with the plasma
+membrane (I), or alternatively by endocytosis of enveloped virions with
+eventual fusion of the envelope with a vesicular membrane (II). In either
+case, gD on the virus envelope is required via its interaction with one of
+the receptors (shown in red): herpesvirus entry mediator (HVEM) or nectin-1
+and-2. In the cytoplasm, the capsid (brown) travels to the nucleus where the
+viral DNA is released. Multiple rounds of replication result in multiple
+copies of viral DNA and other components that get packaged and assembled in
+the nucleus. During egress, the newly assembled capsid gets its primary
+envelope at the peri-nuclear membrane, which is lost during egress from the
+outer nuclear membrane. Naked capsid travels through the cytoplasm where it
+receives the tegument and the viral envelope (presumably from the Golgi or
+the ER). Heparanase (denoted as pink spots) is an enzyme that was recently
+described in aiding viral egress. The enzyme cleaves of cell surface heparan
+sulfate (dotted black) which clears the path for the virus to exit the
+cell.
+
+HSV are linear, double stranded DNA viruses capable of establishing latency in
+humans. They belong to the family of Herpesviridae and more specifically to the
+sub-family of Alphaherpesvirinae. There are two sub-types: HSV-1 and HSV-2 that are
+closely related but differ slightly in tissue tropism and antigenic properties. The
+viral DNA is present in the core that is enclosed in a protein shell called the
+capsid (Fig. 1). The icosahedral shaped capsid is ~125 nm in diameter, which is
+connected to and surrounded by a glycoprotein expressing lipid bilayer membrane
+envelope via a protein coat called the tegument. The viral envelope contains at
+least 12 glycoproteins many of which play major roles in the entry and egress of the
+virus. A list of HSV glycoproteins along with their reported functions is provided
+in Table 1.
+
+Table 1: List of HSV glycoproteins and their reported functions.
+gB | Fusogenic protein: class III | 23
+gC | Attachment and C3b receptor | 2024
+gD | Virus entry and fusion | 1921
+gE | Virus spread and Fc receptor | 2225
+gH | Virus entry and fusion | 1921
+gI | Virus spread and Fc receptor | 222627
+gK | Virus spread and egress | 2829
+gL | Viral entry and fusion | 1924
+gM | Virus assembly and fusion | 303132
+
+List of HSV glycoproteins and their reported functions.
+
+The lifecycle of HSV has been mostly studied and characterized using HSV-1
+infections. However, HSV-2 infections are considered similar to HSV-1 infections.
+Different stages in the HSV lifecycle can be broadly classified into:
+
+i. Attachment: Initiation of infection begins with the attachment of
+viral glycoproteins to the cell surface. Heparan sulfate proteoglycans (HSPGs) on
+the cells serve as attachment sites for HSV 19. Glycoproteins B and C (gB and gC) on the HSV envelop bind to the
+HSPGs and are essential to initiate attachment. A study by Herold et
+al., using a gB and gC null virus showed reduction in the overall virus
+attachment to the cells as well as reduction in virus infectivity 20. Moreover, it has been shown that in the
+absence of gC gB can take over and help in attachment to cells, indicating a
+gC-independent mode of viral attachment 33.
+HSV was shown to bind to HS (heparan sulfate) on the filopodia, which are plasma
+membrane protrusions, and use filopodial interaction to migrate towards the cell
+body to initiate entry. This process was termed "viral surfing" 34. In this study, viral particles were shown
+to surf along the filopodia and the formation of filopodial structures increased
+upon HSV infection, possibly due to activation of Rho GTPase signaling during virus
+attachment to cells. Fluorescence imaging revealed that HSPG expression is higher
+along the filopodial structures. This mode of attachment has also been reported for
+vaccinia virus, human papilloma virus type 16, hepatitis C virus, and human
+immunodeficiency virus (HIV) 35.
+
+ii. Entry: After the initial attachment to the cell surface, virus entry
+is the next step in the lifecycle. Various modes of viral entry have been
+established. The virus is taken into the cells by either direct fusion with the
+plasma membrane, which is independent of pH change, or through endocytosis mediated
+by specific cellular receptors. The glycoprotein D (gD) on HSV plays an important
+role in both of the aforementioned uptake processes and glycoproteins H and L (gH
+and gL) act in concert to complete the fusion machinery. To date the following
+receptors have been identified for gD: herpes virus entry mediator (HVEM), nectin-1
+and -2 and 3-O sulfated heparan sulfate (3-OS HS) 21. HVEM was the first identified HSV receptor that belongs to the tumor
+necrosis factor (TNF) superfamily. The next set of receptors identified is
+represented by nectin-1 and -2. They belong to the immunoglobulin superfamily. The
+last receptor is a rare modification of the large sugar molecule HS mediated by the
+3-O-sulfotransferase 3 (3-OST-3). 3-OST-3 belongs to the family of 3-O
+sulfotransferases (3-OSTs) that place sulfate groups at the 3-OH position on the
+glucosamine in HS. This specific and rare modification of HS dictates the biological
+activity of HS and occurs during the last step of HS biosynthesis. As an example,
+modification of HS by 3-OST-1 serves as a binding site for antithrombin, a major
+player in anticoagulation 36. 3-OST-3
+modified HS serves as an entry receptor for HSV and addition of soluble form of 3-OS
+HS in HSV resistant cell lines showed increased viral entry 3839. Interestingly,
+3-OST-3 generated receptor fails to mediate HSV-2 entry but may probably help in the
+attachment of HSV-2 1938.
+
+Viral entry can occur in the presence of any one of the aforementioned receptors and
+absence of all three receptors abolishes viral entry. Even though gD is needed for
+receptor-mediated endocytosis and also for the direct fusion of viral envelop to the
+plasma membrane, there seems to be no clear consensus on how and which mode of entry
+the viruses use in human hosts or animal models. While entry into some cultured
+cells like CHO, HeLa and HCEs are reported to be through receptor mediated
+endocytosis, entry into Vero and neuronal cell lines are through direct fusion with
+the plasma membrane 3940. In addition to gD playing a vital role in viral entry,
+accumulating evidence also suggests the important role of gB in HSV entry as a gB
+null virus was unable to enter and cause infection in target cells 41. Paired immunoglobulin-like type 2 receptor
+α (PILRα) has been shown to associate with gB to function as a co-receptor in aiding
+HSV-1 entry. Mutations on the sites where gB attaches to PILRα not only reduced
+viral entry but also reduced viral replication and neuroinvasiveness 424344. Furthermore, another
+protein that belongs to the sialic acid-binding Ig-like lectin family which shares a
+similar homology to PILRα called the myelin-associated glycoprotein (MAG) acts as a
+co-receptor for HSV-1 entry when expressed exogenously 45. Another co-receptor called non-muscle myosin IIA (NMIIA)
+was also identified to bind gB on the cell surface and aide in the viral entry 46. As an actin binding motor protein, NM-IIA
+plays a critical role in cell adhesion and migration. The glycoproteins gH and gL
+together with gB and gD form the fusion complex 4748. gH exists as a
+hetero-oligomeric complex with gL. This complex is essential for the processing and
+cell surface expression of gH 4950 and is conserved in many of the
+herpesviruses 51. Apart from playing a role
+in the fusion machinery, the gH/gL complex plays a role in virus entry by
+interacting with various cell surface proteins 52, integrins being the most common. Interaction of gH with integrin
+αvβ3 facilitates HSV-2 viral entry and calcium signaling in human genital tract
+epithelial cells 53. Another study shows that
+αvβ6 and αvβ8 serve as interchangeable receptors for gH/gL that promote endocytosis
+and activation of membrane fusion 54. A
+recent study by the same group also found that conformational changes in the above
+mentioned integrin receptors are essential to promote the dissociation of gL from
+the gH/gL complex, a proposed new mechanism in HSV viral entry 55.
+
+Other alternative modes of viral entry have also been identified. A phagocytosis-like
+uptake of the virus particles was reported to be observed once the virus particles
+have attached to the filopodia; it is believed to exhibit mixed traits of
+endocytosis and phagocytosis 56. Cytoskeleton
+rearrangement and their associated cellular signaling pathways have also been
+implicated in facilitating HSV entry into cells 57. Rho-GTPase signaling pathway involving Rho-A and cdc42, key
+modulators in the formation of filopodia, were shown to be activated and aide in the
+phagocytic-like uptake of the virus 56.
+Another signaling pathway called phosphoinositide 3 kinase (PI3K) pathway, which is
+involved in the downstream of the filopodial formation, was also found to affect
+multiple steps in the HSV entry 58. This same
+pathway is also implicated to control the activity of cofilin, a family of
+actin-binding proteins, in facilitating entry of virus into neuronal cells 59. The activation of Akt signaling in
+triggering calcium release which aids in HSV viral entry has also been shown 60.
+
+iii. Capsid Transport and Replication: Upon successful entry into cells,
+the viral capsid and tegument proteins are released into the cytoplasm. The virion
+host shutoff protein (vhs) is a viral tegument protein that is released into the
+cytoplasm after entry and degrades host mRNAs that regulate stress response. The
+capsid then translocates to the nucleus along microtubules via the dynein and
+dynactin motor proteins and releases the viral DNA into the nucleoplasm 616263. A recent study reported the
+role of heat-shock protein 90 (Hsp90) to be involved with HSV capsid transport to
+the nucleus via interaction with acetylated α-tubulin 64. The uncoating of viral DNA occurs at the nuclear pore.
+
+iv. Replication and Assembly: Once inside the nucleus, several viral
+genes are expressed in an ordered fashion. The proteins of the α genes or
+intermediate early (IE) genes are the first to be transcribed. The products of these
+genes are termed as infected cell protein (ICP) and there are five ICPs: 0, 4, 22,
+27 and 47. The virus encodes a tegument protein: VP16 that aids in the transcription
+of the α genes. The expression of ICP4 is then thought to drive the expression of
+the β genes or the early genes. The β genes encode for various proteins that promote
+viral DNA replication, including the enzyme thymidine kinase (TK). The virus
+utilizes TK for replication leading to the expression of the γ or late genes. The
+proteins of the γ genes encode for several components of the viral structure
+including capsid and envelop proteins. Various viral components are formed which
+then assemble and the viral DNA is repackaged into a new capsid. Fully assembled
+capsid exits from the nucleus by acquiring a glycoprotein-containing envelop at the
+inner nuclear membrane and losing it at the outer membrane when the naked capsid is
+released in the cytoplasm for re-envelopment using a Golgi-derived membrane (Fig.
+1).
+
+v. Autophagy Modulation during Active Replication: The role of
+autophagy, a cellular process involved in maintaining the metabolic and homeostatic
+activity, in HSV replication has been widely studied. The ICP34.5 protein, a
+neurovirulence factor, regulates the replication of HSV by controlling the
+autophagic pathway via inhibition of either PKR/eIF2a signaling pathway 6566 or
+beclin-1, a protein involved in the formation of autophagosomes 67. A recent study showed that a basal level of
+autophagy is needed for efficient replication of virus and disrupting the basal
+level would lead to reduced viral titers 68.
+Another recent study showed the role of a host cytoplasmic protein called axin in
+controlling autophagy and HSV replication 69.
+The results from this study indicate that axin expression reduces the levels of
+cellular autophagy induced by HSV, resulting in enhanced HSV replication.
+
+vi. Latency and Reactivation: One of the key traits of this family of
+viruses is to go latent for the life of the host after primary infection. How and
+why the virus goes latent is only partially understood and is one of the hot topics
+in herpes research. After a lytic infection the virus has the ability to evade and
+mask itself from the host defense. Latency is established when the virus migrates to
+the sensory ganglia via a retrograde fashion and invades the nucleus of the neurons
+(Fig. 2). In the nucleus the HSV genome is maintained in a circular form and remains
+in a silent state. During this state, a region of the genome that encodes for the
+latency associated transcripts (LATs) remains active 70. Kramer et al. also showed the presence of HSV
+transcripts using RT-PCR analyses in latently infected mouse ganglia 7172.
+The exact role and function of the LATs also remains to be completely understood.
+However, research over the last decade has revealed the common functions of LAT:
+they help in reducing the expression of the viral genome thereby maintaining them in
+a latent state protected from the immune system 73 and they protect infected neurons from apoptosis, thus increasing the
+amount of latent transcripts that would eventually increase the viral load upon
+reactivation 7475. In addition, the host immune system has also been
+implicated to play a vital role in viral latency. Studies in the mouse models of
+latent HSV infection revealed the presence of infiltrating immune cells and
+cytokines in latently infected ganglia 767778 while some suggest that the presence of low viral transcript
+levels could lead to a local milieu of immune effectors that could repress HSV gene
+expression 7980. Some evidence also suggests the role of neuronal functio in
+maintaining latency 818283. Furthermore,
+during latent infection, the ability of some parts of the HSV genome to remain
+transcriptionally active and inactive suggested the presence of epigenetic control.
+Two studies that used computational analysis and latently infected mice revealed
+that DNA methylation, a most common epigenetic mechanism, did not regulate HSV
+latent gene expression 8485, leading to the investigation of other
+epigenetic mechanisms.
+
+Primary infection occurs when a host is exposed to the virus for the first
+time. When a person is exposed to HSV, the virus infects the epithelial
+cells. Depending on the immune system of the host, lytic infection leads to
+virus shedding that can cause symptoms such as ulcers or remain
+asymptomatic. After lytic infection, the virions reach the nerve endings and
+through a retrograde transport, reach the sacral ganglion where it
+establishes latency till the life of the host. Recurrent infections occur
+when the virus gets reactivated due to stress, environmental conditions and
+other unknown factors. Reactivation causes the virus from the sacral
+ganglion to travel to the site of primary infection or high nerve endings
+via an anterograde fashion where virus shedding can cause symptoms or remain
+asymptomatic depending on the host immune system.
+
+The role of chromatin and HSV latency has gained increasing popularity as the HSV DNA
+is devoid of histones 86 but upon infection
+gets assembled into the nucleosome 87 and
+associates with histones 88. However whether
+heterochromatin or euchromatin play a role in HSV latency was not known. Only
+recently, using various molecular techniques, the presence of heterochromatin or
+euchromatin in HSV-infected cells has been studied to provide a basis for a
+chromatin-based epigenetic mechanism of HSV gene regulation in different cell types
+89. In a study by Kubat et
+al., their findings showed that active chromatin was associated with
+LAT gene as increasing levels of acetylated H3 histone were found to be associated
+with the LAT promoter and enhancer compared with the ICP0 gene 90. In another study by Wang et al., it was
+shown that as latent infection is established the HSV lytic genes are progressively
+associated with chromatin that contains dimethylation of H3K9me2, which is an
+indicator of heterochromatin 91. Thus there
+is a general notion that during latent infection the LAT gene is associated with
+euchromatin whereas the lytic genes are associated with heterochromatin. The study
+by Amelio et al. gave insights into how and why different chromatin
+are maintained and regulated separately on the latent viral genome 92. Their study identified candidate insulator
+elements, DNA sequences that bind protein factors that maintain chromatin
+boundaries. These contain CCCTC sites that are bound by the CCCTC-binding factor
+(CTCF) upstream of the LAT promoter boundary and in the LAT intron. They proposed
+that insulators keep the LAT euchromatin activity within a boundary and
+heterochromatin outside of the same boundary.
+
+Reactivation of the latent virus occurs when an external stimuli or ‘stress’ is
+applied to the neuron. Various factors such as environmental conditions, fever,
+exposure to sunlight and other unknown conditions have been attributed to cause
+reactivation but their exact targets at the molecular level remain unknown. When the
+virus reactivates it travels from the sensory ganglia via anti-retrograde fashion to
+the primary infection site or sites of high neuron innervations where active virus
+replication and shedding occur and symptoms like pain, inflammation and lesions
+develop. In an effort to understand the exact role of LATs in the reactivation of
+HSV, LAT encoded micro RNAs (miRNA) were discovered. miRNAs are a family of
+non-coding RNA that is approximately 22 nucleotides in length. They usually function
+at a post-transcription level by inhibiting protein synthesis via mRNA degradation.
+HSV miRNAs have been shown to be expressed during productive infection, which helps
+degrade host immune responses as well as during latency, which helps in establishing
+latency or helps in reactivation 93.
+
+vii. Egress: Upon formation of capsid and packaging of the virus DNA,
+the virions eventually have to egress or leave the nucleus and the cell to get into
+the extracellular environment. While the process of HSV egress still requires some
+clarity due to varying experimental models and complexity in studying the
+virus-nuclear interactions, the following is the accepted model for viral egress.
+Budding is the initial step in the nuclear egress of HSV. In this process the capsid
+acquires the envelope from the inner nuclear membrane and two viral proteins: UL31
+and UL34 are reported to be necessary for the budding process 94. Once the virus reaches the perinuclear region, it is
+thought to lose the primary envelope or undergoes de-envelopment and evidence
+suggests that the final assembly of tegument, envelope and the glycoproteins occur
+within the cytoplasmic compartments (presumably in the Golgi or Endoplasmic
+Reticulum, ER). During productive infection either in primary infection or after
+reactivation, for efficient transmission and infection, the virus needs to spread to
+neighboring cells. The release of the virus from infected cells requires both host
+factors and viral components. Among the viral components, glycoproteins E and I (gE
+and gI) are needed for efficient spread of viruses in certain polarized and
+non-polarized epithelial cells and neuronal cells 9522. Among the host factors, a
+HS degrading enzyme: heparanase (HPSE) has been recently shown to aide in viral
+egress 96. The study shows how the levels of
+HPSE increase over time with HSV infection as active form of HPSE is translocated to
+the plasma membrane of infected cells to remove HS for smoother release of newly
+generated virions. The role of myosin motor proteins such as NMIIA and myoVa have
+also been implicated in HSV egress 9798.
+
+Genital herpes is predominantly transmitted through sexual contact. Viral
+transmission by oro-genital contact is mostly HSV-1 and therefore the number of
+genital HSV-1 cases is on the rise 99100101. Virus shedding is more predominant in sites like mouth and mucosal
+surfaces such as the vagina. Contact with any one of these increases the risk of
+being infected with HSV.
+
+An episode or outbreak is termed as the phase in which individuals experience
+symptoms and the severity of these episodes depends on previous immunity to HSV.
+Notably, almost 25% of people presenting with a first clinical episode of genital
+herpes have serological evidence of past HSV-2 infection at the time of
+presentation, suggesting initial infection was asymptomatic 102. In many other instances of primary infections where the
+patient encounters HSV for the first time the first episode may occur anywhere
+between 2 days to 2 weeks after primary infection. Primary infections are clinically
+most severe and most likely symptomatic 103.
+Symptoms like fever, itching and muscle pains usually in the lower part of the body
+are most common in primary infection; 40% of men and 70% of women also report fever,
+headache, malaise, and myalgias 104. Papule
+formulation followed by a wide distribution of blisters or lesions appear around the
+genital areas that eventually break to form ulcers (Fig. 2). Over a period of time
+the ulcers crust and heal. In women common sites for lesion are the cervix, vagina,
+labia majora and minora and perianal region through infected vaginal fluid and in
+men it is mostly on the shaft or the glans of the penis. Anal lesions are also
+reported in homosexual men. Primary infections either by HSV-1 or by HSV-2 cannot be
+differentiated just by clinical symptoms; additional laboratory testing is needed to
+differentiate between the two viruses.
+
+At the tissue and molecular level, HSV-2 infects the epithelial cells on the genital
+mucosa leading to an increase in inflammatory response and cell death at the site of
+infection. Multinucleated cells and syncytia formation are the most common
+observation in cells infected with HSV. The recruitment of macrophages, natural
+killer cells, B-cell and T-cell mediated immunity 105106 and the release of
+cytokines has been reported to play a role in innate and adaptive immunity to HSV
+infections. This contributes to a chronic inflammatory state in genital skin and
+mucosa. Histopathologic studies of foreskin in HIV-seronegative men after adult
+circumcision have shown a higher concentration of CD4+ and
+CD8+ T-cells in HSV-2-seropositive compared with HSV-2-seronegative
+men 107. During the course of primary
+infection, the virus spreads via a retrograde fashion along the microtubules lining
+the axons to the dorsal root ganglia (DRG) where the neuronal cells act as
+reservoirs for the virus to remain latent 108. Upon reactivation due to factors such as stress and other unknown
+conditions, the virus spreads from the DRG to the epithelial cells via an
+anterograde fashion where a lytic replication of the virus follows, resulting in
+virus shedding. This is the cause of recurrent infections and these infections are
+usually asymptomatic or may be associated with a classic genital ulcer. While the
+innate immune system, specifically the CD8+ T-cells and the plasmacytoid
+dendritic cells, are attributed in controlling latency and reactivation of the virus
+80109110, recent reports suggest
+otherwise. Studies have shown that CD8α dendritic cells help drive the establishment
+of HSV-1 latency 111112. At a clinical and subclinical level, the severity of
+viral reactivation varies widely from person to person and depends on cell mediated
+immunity that is considered important for control of viral replication 113114.
+
+Diagnosis of genital herpes based purely on clinical presentation is often not
+accurate and could be misleading. Symptoms occurring from other bacterial infections
+like Treponema pallidum or Haemphilus ducreyi
+could be confused with HSV resulting in wrong diagnosis 115. Genital herpes may also cause atypical symptoms that
+occur at unusual sites such as the thighs or the buttocks. HSV-2 is also found to be
+a co-factor for HIV-1, which is one of the leading causes of sexually transmitted
+infections and at times it becomes difficult to diagnose the symptoms that occur due
+to HIV-1 co-infections 116. Hence, along
+with clinical diagnosis, laboratory tests are required to accurately diagnose
+genital herpes. To determine the presence of HSV in laboratory, swabs from the
+genital lesions are taken and tested by the following common techniques:
+
+i. Viral culture of HSV has been a gold standard for laboratory
+diagnosis of HSV for the past two decades. Using the swabs from the genital lesions,
+the virus can be grown on tissue culture, usually within 5 days, that is then
+detected using immunofluorescence assays or by enzyme immunoassay. The limitation
+with this method is that it lacks sensitivity as more viruses are usually obtained
+from patients with primary infection (80%) but less from patients with recurrent
+infections (20-50%) or patients whose lesions have begun to heal 117.
+
+ii.
+Polymerase Chain Reaction (PCR): This method of nucleic acid
+amplification has emerged as the next common method to assess the presence of HSV.
+Determining HSV by PCR is faster and four times more sensitive compared to viral
+culture 118119. Based on this method, three assays have been approved by the US
+Food and Drug Association for the detection of HSV in genital lesions. These include
+IsoAmp HSV Assay, BioHelix Corporation; MultiCode-RTx Herpes Simplex Virus 1 & 2
+Kit, EraGen Biosciences, Inc. and BD ProbeTec Herpes Simplex Viruses (HSV I & 2)
+QX Amplified DNA Assays, BD Diagnostic Systems. With increasing technology and
+advances in kit developments for HSV detection and typing using PCR, this method is
+rapidly replacing the viral culture assay.
+
+iii.
+Serotyping: This method can not only be used to detect the presence of
+HSV but can also be used to differentiate between genital herpes originating from
+HSV-1 or HSV-2. Type-specific IgG against the glycoprotein G (gG) of HSV-1 and HSV-2
+are available that can be used to distinguish between the two viruses 120. Serotyping has another advantage in that
+it detects the presence of HSV to confirm if the infection is a primary or recurrent
+infection. In primary infection, type-specific HSV antibodies can take from 2 weeks
+to 3 months to develop. Therefore, an initial absence of IgG antibodies specific for
+gG and subsequent development of such antibodies after 12 weeks confirms new HSV
+infection. Clinicians also recommend this method to diagnose genital herpes when
+there are no lesions or the above mentioned detection tests do not provide
+substantial results.
+
+While this review only mentions the above common techniques to diagnose genital
+herpes in a laboratory setting, there are currently other methods and techniques
+being developed by research institutes and companies. For example, LeGoff et
+al. provide a detailed description of other available and upcoming
+diagnostic methods 121.
+
+Genital herpes conditions are primarily treated with antivirals that aim at
+controlling viral replication. Acyclovir, its analogue Valacyclovir and Famcyclovir
+(prodrug of Pencyclovir) are currently prescribed for genital herpes treatment.
+These drugs are nucleoside analogues that specifically inhibit the herpesvirus DNA
+polymerase. While cyclovir is available in oral and intravenous formulations,
+Valacyclovir and Famcyclovir are available only as oral formulations. For primary
+infections where the symptoms can be severe, antiviral therapy is usually started
+even before the symptoms are confirmed by laboratory diagnosis and the duration of
+the therapy is 7-10 days or till the lesions are healed 122. In severe cases, to relieve pain, clinicians recommend
+the use of analgesics or sitz baths where the patients’ hips and buttocks are
+immersed in lukewarm water 117.
+
+Preventive strategies to efficiently reduce the transmission of the virus also exist
+and in combination with the above mentioned treatments there could probably be a
+significant reduction of viral transmission. In the case of people that have
+symptomatic viral shedding, the most common preventive strategy is to abstain from
+sexual activity or to use condoms. A prospective study showed significantly lowered
+levels of viral acquisition among partners that used male condoms 123. Although it is thought that female
+condoms can also reduce virus transmission, this has not been clinically
+investigated. Applications of topical microbicides to prevent genital herpes
+infections are also being investigated. This strategy involves the use of natural or
+synthetic products that either increase the natural vaginal defenses or inactivate
+the HSV virions 124125. A recent study showed that vaginal application of
+tenofovir gel, an antiviral microbicide which functions as a nucleotide
+reverse-transcriptase inhibitor, reduced the levels of HSV-2 acquisition among women
+in South Africa 5.
+
+Various other therapeutic and prevention strategies that target different stages of
+virus lifecycle are currently being investigated. Peptide therapeutics is fast
+rising owing to the ease of synthesis, modifications and their high specificity
+126. They are being synthesized and used
+as inhibitors against HSV infections 127.
+The TAT (transactivator of transcription)-peptide, derived from HIV, has been shown
+to inhibit infection of HSV in the in vitro and in
+vivo models of HSV infections 128129. A study showed the
+effect of a synthetic 3-OS HS specific peptide: G2 in blocking HSV-2 infections in
+human cervical (HeLa) cell lines. This peptide significantly blocked the entry and
+thereby the spread of the virus 130 and a
+D-enantiomer of this peptide exhibits higher stability and more promise in
+inhibiting HSV infection 131. Another study
+designed synthetic peptides specific to the glycoproteins gD and gG and showed that
+these peptides can effectively recognize HSV-2 antibodies and hence may be used for
+serodiagnostic assays 132. Because HSV
+utilizes the cytoskeleton filaments and kinases during its entry, a recent study
+showed that blocking the myosin light chain kinase (MLCK) with inhibitors such as
+blebbistatin significantly reduces HSV infection 133, providing new evidence for potential targets in blocking HSV
+infections. The advent of nanoparticles in drug delivery was successful, owing to
+their ability to provide sustained or extended delivery of drugs at a local site.
+Nanoparticles or nanoparticle compositions to protect against HSV-2 infections are
+also being actively researched. Zinc Oxide (ZnO) nanoparticles exhibited significant
+antiviral activity in both the in vitro model using vaginal
+epithelial cells and the in vivo mice model of HSV-2 infections
+134. Three different modes of treatment
+were used in this study: prophylaxis, therapeutic and neutralization. In all the
+three modes of treatment, the ZnO nanoparticles showed promising results in blocking
+HSV-2 infections. Another study showed the potential antiviral use of
+mucus-penetrating nanoparticles 135. In this
+study, acyclovir monophosphate loaded mucus-penetrating nanoparticles showed an
+increase in drug retention and distribution thereby providing an effective
+protection against HSV-2 challenge.
+
+Protection against genital herpes infections can be enhanced by induction of
+protective immune responses using vaccines. Vaccines against genital herpes are
+underway and in the majority of clinical trials only prophylactic vaccines have seen
+success so far. There have been no reports of any therapeutic vaccines that show
+promise against genital herpes infections. These vaccines consist of subunits of
+glycoproteins such as gD or gB. A gD2 subunit vaccine, when administered with alum
+as adjuvant, showed around 39-46% efficacy in preventing HSV-2 infections in
+patients that were seronegative for HSV-1 and HSV-2 but did not provide protection
+to patients that were seropositive for HSV-1 136137. Other viral
+glycoproteins such as gC and gE are also being used as vaccines to study their
+effectivity in blocking genital herpes infections 138139. Peptide based vaccines
+are also being developed to incite immune responses against HSV-2 infections. A
+study developed a peptide based vaccine: HerpV, which generates CD4+ and
+CD8+ responses when subjected to HSV-2 challenge 140141.
+
+There is no doubt that our understanding of HSV-2 lifecycle and associated
+pathogenesis has improved dramatically over the last several years but challenges
+remain in many areas, especially those relating to disease management and
+prevention. The new knowledge has provided a major opportunity to develop new
+strategies for patient care by combining our understanding of viral infection
+mechanisms, host immune responses, and the viral mechanisms that subvert them. New
+anti-HSV drugs are on the horizon, many of which may target other herpesviruses as
+well. At present, the development of vaccines against HSV-2 is a highly active area
+of research and many innovative strategies are currently being tested for an
+effective vaccine generation. Future clinical trials will see many new,
+non-nucleoside anti-herpetic drug candidates as well as many newer approaches,
+including immune-based therapeutics. An area that needs extra attention is rapid
+diagnostics, especially since genital herpes can be caused by both HSV-1 and HSV-2.
+Therefore quick and easily available tests can yield much better results in reducing
+symptoms and lowering transmission rate. Any success in reducing transmission rate
+will mean a step closer to the greatest challenge for herpes virologists, which is
+complete elimination of this lifelong infection.

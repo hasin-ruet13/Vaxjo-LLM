@@ -1,0 +1,180 @@
+Title: What We Do Know and Do Not Yet Know about COVID-19 Vaccines as of the Beginning of the Year 2021
+
+As of early 2021, everything is in chaos. Coronavirus disease 2019 (COVID-19), which started at the end of 2019 and hit the whole world, including Korea, from January 2020, has not slowed down even after a year. The momentum declined temporarily in the hot summer, but as winter came, resurgence struck the world without fail, as we ominously anticipated.1
+
+As the pandemic of COVID-19 shows no signs of waning, everyone naturally and eagerly crave a game changer.
+
+What is a game changer?
+
+By definition, it refers to something that can change a situation very drastically. So, what are the conditions for becoming a game changer in a COVID-19 pandemic? Above all, it should be something that can directly act on severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In doing so, human-to-human transmission must be prevented by blocking the entry of SARS-CoV-2 to host cells or inhibiting replication so that the virus cannot survive. As a result, it has to terminate the pandemic.
+
+Based on this, I will review the measures taken so far.
+
+First of all, let's review non-pharmaceutical interventions including social distancing.
+
+Social distancing alone could not completely terminate the COVID-19 epidemic. Social distancing is a good means to slow down the rate at which the disease spreads, not a complete blockade. The definition implies the sad premise that all of us will someday get COVID-19 anyway if we do not have a specific antiviral agent or vaccine.2
+
+Next, what about antivirals or monoclonal antibodies as pharmaceutical treatment?
+
+Regrettably, antivirals highly specific to SARS-CoV-2 have not yet been released. Several repurposed drugs used in other diseases have been tried for treatment, but have not achieved any dramatic results, although remdesivir shows the modest effect in some clinical indications.345
+
+As a passive immunization, monoclonal antibodies targeting spike protein have limited indications for the treatment and still require further validation.67
+
+Therefore, these are also insufficient to become game changers. Nevertheless, SARS-CoV-2 specific antiviral must be developed someday as a game changer.
+
+For now, I expect vaccines to be the most likely game changer. History tells the reason. Various infectious diseases that have plagued mankind in the past history have eventually been ended by the herd immunity through vaccines. Vaccines have been game changers.8
+
+This is an undeniable fact.
+
+The necessary and sufficient condition for the termination of the COVID-19 pandemic is to achieve herd immunity, too. This could be obtained by vaccination rather than by natural course.
+
+Although it typically takes 5–10 years to develop a vaccine, COVID-19 vaccines have been developed at an unprecedentedly rapid speed. This was possible thanks to the announcement of the whole genome sequence of SARS-CoV-2, advanced vaccine platform technology, and strong governmental support such as “Operation Warp Speed”.9101112
+
+As a result, COVID-19 has provided an opportunity for the paradigm shift in vaccine development. The nationwide vaccination campaign has already begun in several countries. Currently, five types of COVID-19 vaccines are expected to be imported and used in Korea (Table 1). The problem is that no one knows yet how effective these new vaccines will be, or whether they will be safe or not.
+
+Table 1: Summary of coronavirus 2019 vaccines to be imported in Korea
+Platform | Brand name | Efficacy | Storage at
+--------------------------------------------------
+Adenoviral vector | AstraZeneca's AZD-1222 | 70.4% | 2°C–8°C
+Adenoviral vector | Johnson & Johnson's Ad26.COV2.S | 66% | 2°C–8°C
+mRNA | Pfizer's BNT162b2 | 95% | −70°C
+mRNA | Moderna's mRNA-1273 | 94.1% | −20°C
+Protein subunit | NovaVax's NVX-COV2373 | 89% | 2°C–8°C
+
+At this point, I will check what we do know and do not know for sure about the COVID-19 vaccine and predict the future prospects. And this review is to be more familiar to general physicians rather than to experts in infectious diseases.
+
+The main structural proteins that make up SARS-CoV-2 are the spike protein, the small envelope protein, the membrane protein, and the nucleocapsid protein.13 Among these, spike protein was determined as the most suitable target for the COVID-19 vaccine through several experiments.141516 Spike proteins play an important role in binding to the angiotensin converting enzyme 2 (ACE2) receptor when coronavirus enters host cells as the first step in invasion.1317 Therefore, neutralizing the receptor binding domain (RBD) of the spike protein will fundamentally block the pathogenesis of coronavirus. This is the strategic core of the COVID-19 vaccine.
+
+Most antibodies to SARS-CoV-2 begin to appear within 2 weeks after the onset of symptoms.18 However, based on examples of other coronaviruses, there is a concern that these antibodies could not last very long. Immunity to colds by human coronavirus is less than 6 months, and immunity to SARS or Middle East respiratory syndrome (MERS) coronavirus is about a few years.1920212223
+
+SARS-CoV-2 has a structural limitation that makes it difficult to produce neutralizing antibodies compared to other RNA viruses. Probably for that reason, the antibody formation after the natural course is not easy and seems to be short-lived.24
+
+In addition, immunity to SARS-CoV-2 is incomplete only by humoral immunity, and adequate cellular immunity also must be sufficiently induced. In particular, through priming and assistance of CD4+ T cells, sufficient antibody response and CD8+ cytotoxic T lymphocyte (CTL) activation are induced to complete proper immunity. And memory B and T cells should be created to provide long-term immunity.252627
+
+The immunity to SARS-CoV-2 is difficult to achieve completely with a natural course of immunization. Moreover, during the natural course of infection, significant exhaustion of T cells occurs, resulting in cell mediated immunity not working smoothly and sufficiently.28 Therefore, immunization by vaccination is necessary. That's what vaccines are for.
+
+The platforms for currently used COVID-19 vaccines are: nucleic acid-based vaccines, recombinant viral-vectored vaccines, protein subunit vaccines, and inactivated or killed virus vaccines. Vaccines using these platforms have less immunogenicity than live attenuated virus vaccines, so memory responses are not sufficiently exhibited to control infections in future virus challenges. Therefore, most COVID-19 vaccines require booster injection.8 As of January 2021, 68 vaccines are being tested in clinical trials, 2 have been approved, 20 are in phase 3 and 24 are in phase 2 clinical trials.29
+
+This vaccine is injected into the human body with DNA encoding the spike protein embedded in a non-replicating adenovirus. When adenovirus as a shuttle enters the host cell and reaches the nucleus, it translates spike proteins and presents them to the host immune cells to induce immunization.30
+
+There is something that many people misunderstand. The DNA encoding the spike is not inserted into the host chromosome. Therefore, an undesirable event like insertion-induced mutagenesis does never happen.31
+
+There is another problem that really worries. As everyone knows, adenovirus is one of the most common viruses that cause colds, so most people have immunity against adenovirus. Therefore, it is highly likely that the function of the adenoviral vector is significantly disrupted due to this pre-existing immunity. This raises concern especially when using a recombinant adenovirus 5 (rAd5) and rAd26, which are human adenoviruses.32 In order to overcome this problem, administering a vaccine directly to the respiratory route (e.g., intranasal spray) is being studied. This is because the respiratory mucosa is the area not influenced by pre-existing immunity.33
+
+As another method to overcome, a non-human adenovirus such as chimpanzee adenovirus (ChAdOx1) can be used as a vector to evade human's pre-existing immunity.343536 In addition, chimpanzee adenoviral vectors have stronger immunogenicity than human adenoviral vectors (ChAdOx1 > rAd5 > rAd26).37 The vaccine using the ChAdOx1 is the AstraZeneca vaccine (AZD-1222).
+
+AZD-1222 is undergoing a Phase 2/3 clinical trial after a successful animal experiment, and a controversial result was reported in interim analysis.3839 The vaccine efficacy in participants who received two standard doses (day 0 & 28) was 62.1%, whereas in the participants who first received a half-dose (due to an unintended mistake) and then received a standard dose the efficacy was 90.0%. However, based solely on these results, it cannot be concluded that half-dose is actually the most effective minimum dose. Perhaps because the number of participants was not enough, it would be more reasonable to interpret it as a statistical error. In any case, this vaccine still has a lot to be tested. Currently, an additional phase 3 clinical trial is being conducted.
+
+And another opinion was suggested that 95% efficacy can be expected if booster injection is administered 3 months after the first vaccination.40 However, this 'Winning Formula' must be further scientifically verified. AZD-1222 was first authorized in the United Kingdom (UK), although the phase 3 clinical trial has not yet finished, and nationwide vaccination began since December 2020.41
+
+AZD-1222 has advantages in terms of supply and transportation as it can be stored at 2°C–8°C for up to 6 months.
+
+It is a vaccine developed by the National Research Center for Epidemiology and Microbiology named after Honorary Academician N F Gamaleya of the Ministry of Health of the Russian Federation. This is a heterologous COVID-19 vaccine using rAd26 and rAd5 as adenoviral vectors. Currently, a non-randomized phase 1/2 study has been officially published.42
+
+This is a vaccine that uses rAd26 as an adenoviral vector. Johnson & Johnson emphasized that SARS-CoV-2 can be successfully immunized with a single standard dose.43 The interim results of the current phase 1/2 clinical trial have been published.44 As of January 29, 2021, a phase 3 clinical trial revealed that the vaccine had an average efficacy of 66% (72% in the US, 66% in Latin America, and 57% in South Africa).45
+
+It uses rAd5 as a vector and a phase I human trial has been published.46
+
+This is a replication-defective human adenovirus type 5/35 vector based vaccine currently in a phase 1/2 clinical trial in Korea (ClinicalTrials.gov Identifier: NCT04666012).
+
+The mRNA vaccine contains spike protein-encoding mRNAs in lipid nanoparticles and delivers them to host cells. Immunization is achieved by translating spike proteins in the cytoplasm of host cells and presenting them on the cell surface. The priming of CD4+ T cells by dendritic cells leads to activation of CD8+ cytotoxic lymphocytes and production of antibody from B cells.4748
+
+The bottom line is that the mRNA used in the vaccine is not a natural one. If it is a natural mRNA, it will be destroyed before it is delivered to or translated in the host. The solution to this is the use of nucleoside-modified RNA (ModRNA). Among the nucleosides in the mRNA, uridine was converted to pseudouridine and cytosine was changed to methylcytosine and put them into several spots of RNA sequence. As a result, the secondary structure of RNA changes.49 Thus, the host's ribonuclease (RNase) allows them to pass without recognizing and breaking them.5051
+
+In addition, toll-like receptors (TLR)-7 and -8, which were on sentry duty in the endosome, also allow them without recognizing.525354 ModRNA can thus safely arrive at the destination and do whatever it wants to do. Since this platform only delivers mRNA to the host cytoplasm, there seems to be no risk of infection or insertion mutagenesis, and it can activate not only CD4+ T cells but also CD8+ CTLs through cross-presentation.475556 However, it has not yet been verified in terms of long-term efficacy, and it is unknown whether respiratory mucosal delivery will be successful.475758
+
+The BNT162b2 vaccine is one of two vaccines currently approved for full use. It consists of two vaccination schedules of 21 days apart. It was 95% effective in protecting COVID-19 in a clinical trial conducted in a total 43,548 participants.59
+
+Storage should be at −70°C, and it can be refrigerated until 5 days after thawing.
+
+Moderna's mRNA-1273, along with BNT162b2, is now approved for full use. As a result of the phase 3 study conducted with a total of 30,420 volunteers, the vaccine efficacy was 94.1%.60
+
+Storage should be at −20°C, and it can be refrigerated until 30 days after thawing.
+
+This is another mRNA vaccine being developed following Moderna and Pfizer-BioNTech, and a phase 2b/3 clinical trial is currently planned. Unlike the previous two mRNA vaccines, it uses unmodifed, natural mRNA. It may be considered strange because it is a framework different from the concept of ModRNA described so far, but in fact, not modifying mRNA is not always unfavorable to induction of immunogenicity. As mRNA itself can also induce an immune response with associated toxicity, it can also induce the strong innate immunity including enhanced activity of interferon type 1.6162
+
+Anyway, I think that this different mRNA platform is worth watching about how the outcome will be.
+
+This vaccine delivers plasmids (for example, pGX9501 in case of INO-4800) equipped with a gene encoding a spike protein by intramuscular injection. At this time, in order to allow these plasmids to enter the host cell smoothly, an electrical pulse is applied to create transient pores in the cell membrane (electroporation).63 Once successfully entering the cell, the plasmids begin to multiply, translate spike proteins, and activate the host's immune system. The INO-4800 vaccine from Inovio Pharmaceuticals has reported the results of a phase 1 clinical trial and is currently in phase 2 trials. INO-4800 can be stored for more than 1 year at room temperature.64
+
+And GLS-5310 (GeneOne Life Science, ClinicalTrials.gov Identifier: NCT04673149) and GX-19N (Genexine, ClinicalTrials.gov Identifier: NCT04715997) started a phase 1 clinical trial in Korea in 2021.
+
+Inactivated vaccines are based on a conventional technology platform, and SinoVac's CoronaVac and Sinopharm's BBIBP-CorV are now available in China. SinoVac reported that there were no adverse effects in a phase 1/2 trials, and antibodies production was relatively modest.65 A phase 3 trial is conducted in Brazil, Indonesia and Turkey.
+
+Sinopharm has also completed a phase 1/2 clinical trial and is currently undergoing a phase 3 trials, approved not only in China, but also in the United Arab Emirates and Bahrain, and is in emergency use in Egypt and Jordan. However, since the efficacy of both vaccines is still uncertain, further verification is needed.6667 In addition, the disadvantage of the inactivated virus vaccine itself is that it is a poor inducer of CD8+ CTL, and because it uses alum as an adjuvant, whether or not antibodies can be effectively delivered to the respiratory mucosa is also a subject to be verified in the future.68
+
+This is a vaccine of recombinant spike proteins with nanoparticles. This leads to stronger antibody responses than adenoviral vectors or nucleic acid-based vaccines.69 However, the protein itself used in the subunit vaccine is inherently poorly immunogenic, so it needs a good adjuvant. If a conventional adjuvant such as alum is used, the cell-mediated immune response is skewed into Th2 responses. In order to solve these shortcomings, NovaVax's NVX-CoV2373 vaccine cooperated with Sanofi and GlaxoSmithKline to use AS03 and Matrix-M adjuvants to enhance immunogenicity, respectively, and skew cellular immunity to Th1 response.6870 As of January 28, 2021, a phase 3 clinical trial revealed that the vaccine had an average efficacy of 89%.71
+
+Other protein subunit vaccines are under clinical trials. SK Bioscience launched a phase 1 clinical trial (ClinicalTrials.gov Identifier: NCT02905565) for the NBP2001 vaccine, and COVAXX's multitope peptide-based UB-612 vaccine is in a phase 1 trial (ClinicalTrials.gov Identifier: NCT04545749) in Taiwan. And a phase 2/3 trial (ClinicalTrials.gov Identifier: NCT04683224) is scheduled to begin in Brazil.
+
+The COVID-19 vaccines developed to date may be our saviors, but it is true that they also cause us a lot of anxiety. This is because they have been developed at ‘warp speed’, i.e., too quickly, without enough time to verify. The first thing we feel anxious about is the fear of possible adverse events.
+
+Early adverse events are those that occur within 24–48 hours of vaccination. Pain, fever, or fatigue, etc., which can appear immediately after vaccination, can in fact occur with any other vaccine and are mostly transient.72
+
+What we should really worry about are severe adverse events.
+
+The most common early severe adverse event is allergy.73 Several episodes of severe allergy after receiving Pfizer-BioNTech or Moderna coronavirus vaccine occurred in the United States, although there have been no fatal cases.74 In order to estimate the causative agent that may induce an allergic response or anaphylaxis, it is necessary to review the ingredients of the vaccine. The ingredients of the mRNA vaccine currently used are largely composed of mRNA, lipid bubbles, and saline salt solution (Tris-buffer).757677 Excluding Tris-buffer and mRNA, the potent culprit of allergen is likely to be in the lipid bubble. In particular, polyethylene glycol (PEG) and PEG derivatives such as polysorbates are the most potent allergens.787980
+
+Therefore, people with a history of allergy to PEG are contraindicated due to a high risk of anaphylaxis after vaccination.81
+
+In the early days of the nationwide vaccination campaign, 2 cases of transverse myelitis occurred, causing a lot of concern, but it turned out to be a patient with multiple sclerosis, and the other one could not reveal a direct causal relationship with the vaccine.82 Four cases of facial palsy occurred, but no evidence was established that it was caused by the vaccine.83 Cases of inflammation of cosmetic facial fillers have also been reported, but it can also happen with other types of vaccines.84 Fainting and syncope often happen. Mostly it is due to vasovagal syncope rather than the vaccine itself.85
+
+More than anything else, it is death after vaccination that attracts attention. Of course, it is not clear whether there is a causal relationship, so the vaccine alone cannot be blamed. Still, this is an adverse event that should be investigated.86
+
+It is a paradoxical complication that may occur relatively late among adverse events after vaccination, which can cause infection when vaccination-induced antibodies encounter the next challenge of the virus.87 An example of a typical ADE can be seen in the dengue virus vaccine.88 However, the mechanism of ADE of coronavirus is different from that of dengue virus. It is more similar to the ADE mechanism of the respiratory syncytial virus (RSV) or measles vaccine than that of the Dengue virus vaccine. Dengue virus vaccine enhances Fc receptor-mediated viral entry while being monocyte/macrophage-tropic. However, measles or RSV vaccine (and probably COVID-19 vaccine, too) is non-macrophage-tropic, so viral entry via Fc receptor-mediated endocytosis does not occur, and non-neutralizing antibodies within respiratory tissues form immune complexes with viral antigens, which induces a pro-inflammatory response, activation of complement cascade, and local immune activation, resulting in severe lung injury.89 It is not known which mechanism will work in the COVID-19 vaccine, but one thing in common is that it is driven by non-neutralizing or sub-neutralizing antibodies.90 Therefore, it can be expected that the probability of occurrence of ADE will decrease in inverse relationship to the proportion of neutralizing antibody induced by the vaccine.
+
+In short, the ability to avoid ADE side effects will depend on how much the currently used COVID-19 vaccines can produce the pure neutralizing antibody.6991
+
+In this regard, I think nucleic acid-based vaccines might have an advantage over vaccines of other platforms.
+
+By the way, will ADE really happen someday? We don't know it yet. Even if ADE really does happen, no one knows yet how severe it will be or not. At least a year should pass before we will know when the re-challenge of COVID-19 begins.
+
+This concern will be a key topic that everyone is most curious about in this nationwide vaccination campaign. The primary goal to be achieved is the establishment of sufficient herd immunity. If we achieve the desired level of herd immunity as planned, we can at least end the pandemic. However, it will not completely eradicate COVID-19 from this world. To be honest, everyone is vaguely aware of this fact. Therefore, in any case, we can only discuss returning to normal life once we end this pandemic. In fact, no matter how long this pandemic takes, it will end in the long run. This is because someday herd immunity will be established, whether by vaccines or by the natural course. The bottom line is how quickly and effectively sufficient herd immunity is achieved.
+
+The variables that can determine efficient herd immunity formation are efficacy of the vaccines, longevity of the immunity (i.e., neutralization antibody and memory cells), and possible emergence of mutant variants.
+
+This is the most important, but still unknown area. If we set the basic production rate (R0) of COVID-19 at 5.7, the level of herd immunity we have to achieve should be around 80%.92
+
+The efficacy of vaccines currently approved or in phase 3 clinical trials is approximately 60%–95%.3945596071 This is quite a bit higher than expected, even considering these vaccines were developed in an unprecedented rush. It is not impossible to achieve a herd immunity of 80% if this efficacy is working properly even in actual vaccination. To this end, how well the supply is delivered and how quickly the nationwide vaccination campaign is completed will also be important. However, if the actual efficacy in the real world is lower than that in previous clinical trials, it becomes impossible to achieve the expected herd immunity. This is the scenario we are most afraid of right now.
+
+Let's talk straightforward. We cannot obtain life-long immunity to SARS-CoV-2 with the currently used vaccines because the vaccines we receive right now are not live attenuated vaccines.
+
+Therefore, we cannot hope for permanent immunity, and we have to focus on how long we can maintain acquired immunity. The problem is that no one knows how long the immunity to SARS-CoV-2 after booster injection will last.
+
+The immunity to SARS-CoV-2 does not seem to be shorter than what we were worried about. The latest hopefully optimistic reports continue to be delivered to us. Regardless of the natural course or post vaccination, the durability of the antibody and memory cells against SARS-CoV-2 is estimated to be maintained for at least 4–8 months, giving hope that it could even last longer than we worried about.93949596 The immunity to SARS-CoV-2 obtained by vaccination, although not lifelong, is likely to be up to a level capable of suppressing pandemic to some extent.
+
+Currently, variants of SARS-CoV-2 are emerging as an important key in determining whether COVID-19 vaccines can establish sufficient herd immunity. Even now, new variants continue to appear, and those that are currently drawing attention are British B.1.1.7 variant of concern 202012/01 (VOC-202012/01), B.1.351 or 501Y.V2 variant from South Africa, and Columbus Ohio variant.979899100101102
+
+Variants discovered so far have a higher rate of transmission than non-variants, but they do not have stronger virulence. Despite this, the reason these variants are a possible trouble is that they can escape neutralizing antibodies due to mutations in the spike protein, thereby impairing the effectiveness of the vaccine.103 Fortunately, these variants have not yet had a significant harm on the COVID-19 vaccine.104 In fact, the optimistic outlook that SARS-CoV-2 vaccines match all currently circulating variants prevailed.105
+
+However, the possibilities that variants may reduce the effectiveness of the vaccine are being raised steadily.106
+
+Eventually, there will be a variant that could fully resist vaccines or antibodies someday. This is also the case with the example of seasonal coronaviruses (OC43, 229E, NL63 and HKU1).107
+
+Given the periodic antigenic drift of these coronaviruses, it is not overly concerned that SARS-CoV-2 could behave the same.
+
+Moreover, South African mutants in particular reinforce such anxiety.4571108109
+
+According to a report, the Moderna vaccine was not affected by the British variant, whereas the neutralization effect was reduced against the South African variant.110
+
+Even if vaccination succeeds in terminating the pandemic effectively, there may be a paradoxical situation in which resistant variants to the vaccine are selected and survived, resulting in more predominant strains. Of course, as we currently have a platform for new technologies such as nucleic acid-based or adenoviral vector vaccines, we will be able to quickly develop more vaccines tailored to the emerging variants. But when this happens, we have to go through the current pandemic situation for a longer period of time than we desired.
+
+According to the Korean government's plan, the nationwide vaccination campaign will begin on February 2021 when this review article is published, and I am obligated to get a vaccine because I am an infectious disease expert and an elderly person. Frankly speaking, I feel a little bit uneasy.
+
+I am very anxious about the possibility of the vaccine's success and the future of the COVID-19 pandemic.
+
+Vaccines have been released too quickly that no one knows at this point whether they will work. Even so, I will receive vaccination. Although I can't say that vaccination is the best solution, it would be better to try anything than to do nothing, and based on what is known so far, I think that vaccination could contribute to some extent in alleviating the pandemic.
+
+Now our government and the media are singing a promising future for vaccination. Of course, reassuring the agitated people comes from good intentions, so there is no need to blame it, but what if we fail to achieve herd immunity? A tragic ending, is that all?
+
+Considering these bad scenarios, the game changer that can finish the pandemic is perfectly established by inventing antivirals that specifically act on SARS-CoV-2. In the search for antiviral drugs, only repurposed drugs have been verified and tried. But now is the time when SARS-CoV-2 specific antivirals are urgently needed. Currently, several potential therapeutic drugs are being investigated.111112113114115116
+
+Perhaps, in order to kill SARS-CoV-2, it should be an attachment inhibitor to host cell or a drug that can inhibit replication. I could be wrong but I dare to predict that SARS-CoV-2 specific antivirals will be specific inhibitors of RNA-dependent RNA polymerase.117118
+
+In conclusion, we will be able to end this tedious and annoying war only if we meet the final puzzle by supplementing the development of specific antivirals as well as vaccines.
+
+Eventually, we will have to live with the virus.
+
+However, even then, we will be able to recover to a level close to our pre-pandemic life.
+
+We still have to wait for the day of victory, although not a perfect triumph.

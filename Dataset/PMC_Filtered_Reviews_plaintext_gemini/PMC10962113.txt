@@ -1,0 +1,1280 @@
+Title: RETRACTED ARTICLE: Potential use of
+proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibition and prevention method
+in viral infection
+
+Lipids are a substantial and heterogeneous category of biomolecules
+crucial to the pathophysiology and physiology of cells. In general, it is believed
+that lipids serve three primary functions within a cell. To begin with, polar lipids
+constitute the matrix of membranes and enable tubulation, fusion, budding, and
+fission of cellular and organelle membranes. Furthermore, certain lipids facilitate
+the development of lipid rafts, which are exceptionally well-organized areas of the
+plasma membrane and play a crucial role in receptor signaling processes. Secondly,
+lipids have signaling functions during infection and inflammation and can function
+as first and second mediators in molecular recognition and signal transduction
+processes. Fatty acids may ultimately be encapsulated in lipid droplets (LDs), which
+serve as energy storage mediums. The principal constituents of LDs are triglycerides
+(TGs) and sterol esters (sterols esterified by a fatty acyl chain). These droplets
+function as energy stores for the host cell during periods of nutrient scarcity
+[1]. Furthermore, cholesterol is
+distributed into accessible and isolated compartments inside cell membranes.
+Variation in red blood cells (RBCs) cholesterol accessibility was not linked to the
+cholesterol levels in RBCs or plasma. Still, it was connected to the phospholipid
+makeup of RBC membranes and plasma triglyceride levels. Around half of the
+cholesterol in the bloodstream is transported in RBC membranes. Studies using
+tracers in people show that the amount of cholesterol passing through RBC is similar
+to the total release of free cholesterol from tissues [2]. Aside from lesions, cholesterol levels are crucial in several
+immune cell functions, including monocyte priming, neutrophil activation,
+hematopoietic stem cell mobilization, and increased T cell generation. Changes in
+cholesterol intracellular metabolic enzymes or transporters in immune cells might
+influence their signaling and phenotypic differentiation, thereby affecting the
+development of atherosclerosis [3].
+Platelets participate in both the initiation of the vascular inflammatory response
+during the progression of atherosclerosis and the promotion of thrombus formation
+after the rupture of the atherosclerotic plaque. Platelets that have been activated
+adhere not only to the impaired endothelium but also to that which is intact or only
+marginally affected, thereby exacerbating thrombotic and inflammatory processes.
+LDL, in turn, recruits inflammatory cells to the sub-endothelium and induces
+prothrombotic alterations on the endothelial cell surface, thereby contributing to
+the early phase of atherosclerosis. Platelets, endothelial cells, macrophages, and
+others are all implicated in the oxidized (ox)-LDL formation process. Ox-LDL is
+defined as “circulating LDL-derived particles that are accompanied by
+peroxides or byproducts of their degradation.” ox-LDL-LDL, as opposed to LDL,
+exerts direct prothrombotic effects via functional interactions with platelets,
+thereby stimulating platelet activation and promoting thrombus formation
+[4]. Hypercholesterolemia and
+cholesterol buildup in hematopoietic stem cells (HSCs) cause an increase in monocyte
+production, leading to their accumulation in atherosclerotic plaques. This is
+counteracted by high-density lipoprotein (HDL) and cholesterol removal pathways.
+Cholesterol buildup in the plasma membrane of HSCs in the bone marrow enhances the
+expression and signaling of growth factor receptors, leading to the proliferation of
+these cell types and the heightened generation of monocytes, neutrophils, and
+platelets [5]. Long recognized is the
+significance of cellular lipids in viral infection, specifically membrane fusion and
+virion envelopment during particle maturation and entry, respectively. Recently,
+researchers understanding of the functions of lipids in viral infection has
+broadened significantly. It is now understood that lipids coordinate the subcellular
+localization of critical viral life cycle events. Viruses encode proteins that
+remodel the host cell by emulating lipid signaling and synthesis machinery. In
+addition to generating lipids for envelopment, this process establishes protected
+replication sites [6]. The production of
+virions necessitates a complete reorganization of the biosynthesis apparatus, which
+typically entails significant alterations to the lipidome of the cell [7]. A lot of attention has been paid to
+cholesterol because it is an important fat in the life cycle of almost all viruses.
+These groups seem to have devised several different ways to control cholesterol
+metabolism in the direction of lipid absorption and de novo production [8]. Cholesterol is an essential component in
+maintaining lipid or membrane rafts, which are distinct structures found on the cell
+membrane. Among the many cellular processes in which cholesterol is involved is
+regulating virus entry into the host cell. It has been demonstrated that cholesterol
+is required for virus entry and/or morphogenesis by several viruses. Scholarly
+investigations suggest that alterations in the lipid metabolism of the host are
+linked to infections caused by hepatitis B virus (HBV) and hepatitis C virus (HCV)
+as chronic hepatitis-causing viruses progress to severe liver disease [9]. In addition to its demonstrated significance
+in virus emergence, cholesterol has also been implicated in virus entry. Cholesterol
+must be present in the membrane of the target endosome for the Semliki Forest virus
+to fuse. Human immunodeficiency virus (HIV)-1 and herpes simplex virus can’t
+enter cells without cholesterol. This is true for both the target membrane (plasma)
+and the source membrane (viral envelope). Other viruses, like the nonenveloped
+polyomavirus simian virus 40 (SV40), get into cells through caveolae. These viruses
+depend on the cholesterol-containing lipid microdomains of the cell to do their work
+[10]. A wide range of viruses can
+cause cholesterol anabolism, which means that affected cells go through a general
+change toward taking in cholesterol and making it from scratch. Sterol-regulatory
+element-binding proteins (SREBPs) control many important biological processes by
+controlling how they are copied. Along with sterols, these ER-resident proteins stay
+in a group with insulin-induced gene 1 (INSIG1) and SREBP cleaving-activating
+protein (SCAP). When the Golgi apparatus runs out, INSIG1 breaks apart, and the
+SREBP-SCAP complex moves to it. The transcription factor (TF) region is freed after
+breakage and can be taken into the nucleus. The activity of many genes that add to
+the buildup of cellular cholesterol is controlled by SREBPs. The low-density
+lipoprotein (LDL) receptor and 3-hydroxy-3-methyl-glutaryl-coenzyme A reductase
+(HMGCR) are two important parts. HMGCR speeds up the process of making cholesterol
+and binds to the main lipoprotein that carries cholesterol. Multiple pathogens
+target this point of control and seize it. SREBP activity is stimulated by human
+cytomegalovirus (HCMV), HBV, or HCV via the enhancement of its proteolytic cleavage
+[8, 11]. Cholesterol-modifying drugs can impede the activities of
+critical rate-limiting enzymes in the mevalonate pathway, and SREBP proteins that
+control cholesterol homeostasis in the host. This results in an impact on the entry
+of coronaviruses, fusion of membranes, and formation of pathological syncytia.
+Consequently, these drugs exhibit broad-spectrum antiviral effects. Therefore,
+cholesterol metabolism disorder is a complex issue that has both positive and
+negative consequences. While it disrupts regular cellular physiological processes,
+it can impede coronavirus replication by exploiting cholesterol dysregulation in
+localized cellular environments like lipid rafts or endosomes. Also, for the early
+stages of coronavirus infection, making medicines that change cholesterol and target
+important parts of affected cells like lipid rafts and endosomes could be a good way
+to fight the virus [7, 12].
+
+PCSK9, a circulating proprotein subtilisin kexin type 9, makes it harder
+for LDL to be cleared by breaking down the LDL receptor (LDLR). PCSK9 is a new drug
+target for treating high cholesterol, and different PCSK9 inhibitors are currently
+being tested in human studies [13]
+(Fig. 1). The cyclase-associated
+protein-1 (CAP-1) has been found to bind to PCSK9. It is thought to be necessary for
+PCSK9 to break down LDLR. The catalytic domain of PCSK9 binds to LDLR, but it looks
+like the CHRD of PCSK9 can also connect with CAP1. This makes it easier for the
+lysosomes to break down the protein complex LDLR/PCSK9/CAP1 through a
+caveolin-dependent process [14]. PCSK9
+may change plasma lipids by focusing on other LDLR family members, such as apoE
+receptor 2 (apoER2), very low-density lipoprotein (VLDL) receptor, and LDLR-related
+protein 1. It can also change the amount of LDL in the liver and the uptake of
+LDL-C. This conclusion is supported by the protein’s ability to operate via
+multiple cellular pathways. Nevertheless, it is conceivable that the degradation of
+these receptors may not occur as a result of the PCSK9 interaction, at least not
+across all tissues [15–17]. Later
+research showed that PCSK9 controls the recycling of LDLR and found that PCSK9
+loss-of-function versions are linked to a lower risk of coronary heart disease and
+low amounts of LDL cholesterol (LDL-C) in the blood. It was rapid to make monoclonal
+antibodies (mAbs) that target PCSK9 and test them in clinical studies. Plasma LDL-C
+levels were reduced by around 60% when PCSK9 inhibitors were administered,
+even to patients already receiving maximum-dose statin therapy. Three cardiovascular
+outcome trials concluded within the previous year, demonstrating that PCSK9
+inhibitors reduce the risk of severe vascular events by a substantial margin.
+Positively, this advantage does not appear to be accompanied by significant
+compensatory adverse effects, including an overabundance of myalgias, an increase in
+plasma levels of hepatic aminotransferases, incident diabetes mellitus, or
+neurocognitive adverse events. An exceptional decrease in LDL-C levels was the
+therapeutic benefit shown in studies with PCSK9 inhibitors, suggesting that more
+aggressive goals for LDL-C should be sought [18]. Studies using PCSK9 inhibitors have shown a remarkable
+therapeutic benefit—a reduction in LDL-C levels—suggesting the need
+for more stringent LDL-C targets [19]
+(Fig. 2). More and more evidence
+points to PCSK9’s role in the development of viral infections, including HCV,
+and in the regulation of the host’s immune response to bacterial infections,
+especially sepsis and septic shock. Researchers have identified PCSK9 function as a
+critical component in malaria initiation and progression. Preclinical research
+suggests that PCSK9 suppresses HCV replication, which adds to the current interest
+in treating hyperlipidemia linked with HIV and antiretroviral therapy (ART) by
+inhibiting PCSK9 in HIV-infected individuals. Furthermore, PCSK9 inhibition has been
+suggested to protect against dengue virus (DENV) potentially and severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2) viruses. Surprisingly, elevated
+levels of PCSK9 in the plasma have been reported among sepsis patients. Finally, it
+has been reported that a loss of function in the PCSK9-encoding gene may reduce
+malaria infection mortality [20]. Even
+though LDLR uptake would have spread cholesterol around the cell, de novo
+cholesterol synthesis raised endoplasmic reticulum (ER) cholesterol levels, which
+stopped the phosphorylation of tank-binding kinase (TBK) and the stimulator of the
+IFN gene (STING) when DENV was present. TBK and STING were not activated as much,
+which decreased the production of type I interferon (IFN-I) and the antiviral
+interferon-stimulated genes (ISGs) that work after IFN. In DENV patients, clinical
+data showed a direct link between higher plasma PCSK9 levels and higher viral loads
+and worsening disease, which supported the results from the lab. These results also
+show that PCSK9 is a host factor for DENV in target cells that live in low-oxygen
+conditions and that blocking PCSK9 is effective [21].
+
+Our research aimed to explore the many aspects of PCSK9 concerning lipid
+control. Lastly, we looked at how various viral infections affect PCSK9’s
+function in lipid control. So, our research suggests that PCSK9 is involved in
+developing viral infections. Vaccinations and drugs that block PCSK9 might
+effectively treat viral infections in hosts.
+
+Fig. 1There is a signal peptide (amino acids 1 to 30), a prodomain
+(amino acids 31 to 152), a catalytic domain (amino acids 153 to
+452), and a C-terminal domain (amino acids 453 to 692) that make up
+the mature form of PCSK9. The signal peptide breaks apart when it
+gets to the endoplasmic reticulum (ER), and the PCSK9 zymogen is
+automatically made between Gln152 and Ser153
+(serine-isoleucine-proline
+(SIP)/valine-phenylalanine-alanine-glutamine (VFAQ)152). Furin
+enzymes turn off the adult version of PCSK9, which is about
+60 kDa long (aa 153 to 692). This makes it shorter, to
+55 kDa. The orange boxed area shows the signal peptide (SP),
+the yellow boxed area shows the prodomain, the green boxed area
+shows the catalytic domain, and the blue boxed area shows the
+C-terminal domain [22]
+
+There is a signal peptide (amino acids 1 to 30), a prodomain
+(amino acids 31 to 152), a catalytic domain (amino acids 153 to
+452), and a C-terminal domain (amino acids 453 to 692) that make up
+the mature form of PCSK9. The signal peptide breaks apart when it
+gets to the endoplasmic reticulum (ER), and the PCSK9 zymogen is
+automatically made between Gln152 and Ser153
+(serine-isoleucine-proline
+(SIP)/valine-phenylalanine-alanine-glutamine (VFAQ)152). Furin
+enzymes turn off the adult version of PCSK9, which is about
+60 kDa long (aa 153 to 692). This makes it shorter, to
+55 kDa. The orange boxed area shows the signal peptide (SP),
+the yellow boxed area shows the prodomain, the green boxed area
+shows the catalytic domain, and the blue boxed area shows the
+C-terminal domain [22]
+
+Fig. 2How lipoproteins are broken down in reaction to treatments
+that target PCSK9. Antisense oligonucleotides (ASOs) attach to the
+PCSK9 mRNA and stop it from being made. 2. Small interfering RNAs
+(siRNAs) stop the production of PCSK9 by encouraging the breakdown
+of PCSK9 mRNA. 3. Small molecule inhibitors stop PCSK9 from
+activating and being released from the ER, which is an essential
+step in the maturation process. 4. LDLR can’t connect with
+PCSK9 because of small peptides that look like the structure of
+PCSK9’s catalytic domain, C-terminal domain, or epidermal
+growth factor precursor homology domain-A. 5. Bancovirus monoclonal
+antibodies stop PCSK9 from attaching to LDLRs. Therapies that target
+PCSK9 improve the clearance of LDL particles through receptors by
+stopping LDLRs from breaking down. This encourages LDLR to return to
+the cell surface. Proteins that are special to PCSK9 and create
+higher-than-normal amounts of LDLRs may help explain why treatment
+causes lower levels of lipoprotein(a) (Lp(a)). A recent study backs
+up this theory [23,
+24]
+
+How lipoproteins are broken down in reaction to treatments
+that target PCSK9. Antisense oligonucleotides (ASOs) attach to the
+PCSK9 mRNA and stop it from being made. 2. Small interfering RNAs
+(siRNAs) stop the production of PCSK9 by encouraging the breakdown
+of PCSK9 mRNA. 3. Small molecule inhibitors stop PCSK9 from
+activating and being released from the ER, which is an essential
+step in the maturation process. 4. LDLR can’t connect with
+PCSK9 because of small peptides that look like the structure of
+PCSK9’s catalytic domain, C-terminal domain, or epidermal
+growth factor precursor homology domain-A. 5. Bancovirus monoclonal
+antibodies stop PCSK9 from attaching to LDLRs. Therapies that target
+PCSK9 improve the clearance of LDL particles through receptors by
+stopping LDLRs from breaking down. This encourages LDLR to return to
+the cell surface. Proteins that are special to PCSK9 and create
+higher-than-normal amounts of LDLRs may help explain why treatment
+causes lower levels of lipoprotein(a) (Lp(a)). A recent study backs
+up this theory [23,
+24]
+
+Mammalian cell membranes cannot function without cholesterol, also a
+building block for essential signaling molecules [25]. In the ER, cholesterol inhibits both receptor-mediated
+absorption of LDL and cholesterol production. Cholesterol content in membranes and
+the locations of cholesterol deposition in cells are essential regulators.
+Cholesterol production mainly occurs in ER, which also contains enzymes and
+regulatory proteins such as HMG-CoA reductase, sterol regulatory element binding
+protein (SREBP) precursors, and cyl-CoA: cholesterol acyltransferase (ACAT), which
+are either activated or repressed by cholesterol. Cholesterol levels in ER are lower
+than those in the plasma membrane (PM), which comprises 60–90% of the
+cholesterol in cells [26, 27]. Two main areas have focused on the role of
+cholesterol in virus-host cell interactions: first, directly, because viruses are
+believed to preferentially partition themselves into cholesterol-rich lipid domains
+called “lipid rafts” during entry, and second, indirectly, because
+viral infection modifies cellular biosynthetic pathways [28]. A key component of viral entrance into host
+cells is the presence of lipid rafts, which are subdomains of the plasma membrane
+rich in glycosphingolipids and cholesterol. Many believe that the high cholesterol
+levels seen in lipid rafts are crucial for the viral infection process [29–31].
+Cholesterol is essential for HIV replication because the virus enters and exits
+target cells via lipid rafts, cholesterol-laden regions of the plasma membrane
+[32].
+
+Moreover, the assembly of hepatic VLDL is essential for virus
+production, and circulating virions are complexed with lipoproteins; these complexes
+are known as lipoviral particles. Multiple functional roles have been attributed to
+the formation of these complexes, as supported by evidence. These roles include
+co-opting lipoprotein receptors to facilitate attachment and entrance, concealing
+epitopes to aid immune evasion, and hijacking host factors to facilitate HCV
+maturation and secretion [33]. The
+observed anti-HCV effects of statins seem to be attributed to their ability to
+inhibit the synthesis of geranylgeranyl pyrophosphate, as opposed to their
+cholesterol-lowering properties. Additional compounds that inhibit different stages
+of cholesterol metabolic pathways have been investigated to develop novel approaches
+for eradicating this virus [34]. It has
+been documented that HCV RNA replication occurs in conjunction with
+detergent-resistant membranes, which are thought to contain an abundance of
+unesterified/free cholesterol and sphingolipids [11]. Multiple cellular receptors, including the CD81 receptor,
+the scavenger receptor class B type I receptor, and the LDLR, have been suggested to
+facilitate the entrance of HCV into cells. It has been established that the
+expression of the LDLR gene in human mononuclear cells is coordinated and
+synchronized with that of the gene in the human liver. A correlation between LDLR
+expression and HCV viral load may indicate that the LDLR is involved in the HCV
+replication cycle in human subjects [35] (Table 1).
+
+Table 1The role of LDLR in several viral infectionsViral infectionExplain LDLR functionRefHCVThe LDLR has been suggested to facilitate the
+entrance of HCV into cells. It has been established that the
+expression of the LDLR gene in human mononuclear cells is
+coordinated and synchronized with that of the gene in the
+human liver. A correlation between LDLR expression and HCV
+viral load may indicate that the LDLR is involved in the HCV
+replication cycle in human subjects. [35]HBVLDLR binds to the apoE associated with HBV and
+functions as an HBV cell attachment receptor. When
+administered during HBV infection, but not subsequently, the
+LDLR-blocking monoclonal antibody C7 suppressed HBV
+infection, indicating that its activity happened very early
+in the HBV infection process. [36]SARS-CoV-2Lentiviral pseudovirions coated with SARS-CoV-2
+spike protein can enter ARPE-19, a human retinal pigment
+epithelium cell line, in a laboratory setting. This entry
+process can be hindered by specific antibodies,
+cholesterol-depleting agents, and siRNAs targeting LDLR.
+Researchers’ hypothesis suggests that caveolae and
+LDLR receptors within caveolae play a role in the
+receptor-mediated endocytosis mechanism utilized by the
+SARS-CoV-2 virus to infect particular tissues, such as
+ocular cells. [37]HIVLDLR levels in mononuclear cells of the liver and
+blood are down-regulated in HIV-positive patients with
+lipodystrophy, independent of PI-ART, compared to
+HIV-negative controls and positive patients without
+lipodystrophy. [38,
+39]Dengue virusFor DENV to proliferate and be introduced,
+cholesterol is essential. Furthermore, it was shown that
+soon after infection, there was an increase in lipid raft
+formation and total cholesterol levels. This improvement is
+linked to decreased HMGCR phosphorylation and increased LDLR
+levels on the surface of infected Huh-7 cells. [40]Crimean-Congo hemorrhagic fever virus
+(CCHFV)The LDLR is an essential entry receptor for CCHFV
+infection. By employing biochemical, cellular, and genetic
+methodologies, we provide evidence that CCHFV Gc forms a
+direct association with LDLR, a critical factor in
+facilitating its entry into diverse cell types ranging from
+mouse to human, and ensuring successful infection and
+pathogenesis in mice. [41]Zika (ZIKV), Yellow Fever (YFV),and West Nile (WNV) virusBy manipulating host cholesterol levels during
+infection with DENV, ZIKV, YFV, and WNV, interferon type I
+response regulation, viral entry, and the assembly, egress,
+and formation of replicative complexes are all enhanced.
+Virus particles establish a connection with the cell surface
+and bind to receptors located in lipid rafts, which are
+cholesterol-rich microdomains of the plasma membrane. This
+procedure initiates endocytosis dependent on clathrin. Upon
+attachment and entry, the infected cell’s surface
+demonstrates an immediate increase in cholesterol levels,
+associated with a rise in LDLR. [42]
+
+Table 1: The role of LDLR in several viral infections
+Viral infection | Explain LDLR function | Ref
+--------------------------------------------------
+HCV | The LDLR has been suggested to facilitate the entrance of HCV into cells. It has been established that the expression of the LDLR gene in human mononuclear cells is coordinated and synchronized with that of the gene in the human liver. A correlation between LDLR expression and HCV viral load may indicate that the LDLR is involved in the HCV replication cycle in human subjects. | [35]
+HBV | LDLR binds to the apoE associated with HBV and functions as an HBV cell attachment receptor. When administered during HBV infection, but not subsequently, the LDLR-blocking monoclonal antibody C7 suppressed HBV infection, indicating that its activity happened very early in the HBV infection process. | [36]
+SARS-CoV-2 | Lentiviral pseudovirions coated with SARS-CoV-2 spike protein can enter ARPE-19, a human retinal pigment epithelium cell line, in a laboratory setting. This entry process can be hindered by specific antibodies, cholesterol-depleting agents, and siRNAs targeting LDLR. Researchers’ hypothesis suggests that caveolae and LDLR receptors within caveolae play a role in the receptor-mediated endocytosis mechanism utilized by the SARS-CoV-2 virus to infect particular tissues, such as ocular cells. | [37]
+HIV | LDLR levels in mononuclear cells of the liver and blood are down-regulated in HIV-positive patients with lipodystrophy, independent of PI-ART, compared to HIV-negative controls and positive patients without lipodystrophy. | [38, 39]
+Dengue virus | For DENV to proliferate and be introduced, cholesterol is essential. Furthermore, it was shown that soon after infection, there was an increase in lipid raft formation and total cholesterol levels. This improvement is linked to decreased HMGCR phosphorylation and increased LDLR levels on the surface of infected Huh-7 cells. | [40]
+Crimean-Congo hemorrhagic fever virus (CCHFV) | The LDLR is an essential entry receptor for CCHFV infection. By employing biochemical, cellular, and genetic methodologies, we provide evidence that CCHFV Gc forms a direct association with LDLR, a critical factor in facilitating its entry into diverse cell types ranging from mouse to human, and ensuring successful infection and pathogenesis in mice. | [41]
+Zika (ZIKV), Yellow Fever (YFV),and West Nile (WNV) virus | By manipulating host cholesterol levels during infection with DENV, ZIKV, YFV, and WNV, interferon type I response regulation, viral entry, and the assembly, egress, and formation of replicative complexes are all enhanced. Virus particles establish a connection with the cell surface and bind to receptors located in lipid rafts, which are cholesterol-rich microdomains of the plasma membrane. This procedure initiates endocytosis dependent on clathrin. Upon attachment and entry, the infected cell’s surface demonstrates an immediate increase in cholesterol levels, associated with a rise in LDLR. | [42]
+
+The role of LDLR in several viral infections
+
+Zika (ZIKV), Yellow Fever (YFV),
+
+and West Nile (WNV) virus
+
+While genetic and interventional research has shown that reducing PCSK9
+levels is associated with cardiovascular benefits, identifying processes unrelated
+to cholesterol has occurred since PCSK9’s discovery. The goal of this review
+is to give a full explanation of PCSK9’s pathophysiology and possible
+non-lipid-lowering effects that have been studied in depth (for example, the
+inflammatory burden of atherosclerosis, triglyceride-rich lipoprotein metabolism,
+and platelet activation) or are still to be understood (for example, in adipose
+tissue). Finding regulatory factors in the promoter region of human PCSK9 (like
+Carbohydrate response element binding protein (ChREBP)) sheds light on new
+processes. This means that controlling intrahepatic glucose could be a part of
+treatment methods to lower cardiovascular risk in people with type 2 diabetes.
+Finally, the fact that PCSK9 is involved in both cell growth and death suggests that
+this protein may play a part in cancer development [22].
+
+An instance of this was when PCSK9 expression was discovered to be
+upregulated in tissues of head and neck squamous cell carcinoma (HNSCC), and
+patients with HNSCC who had higher PCSK9 expression had an inferior prognosis. In a
+manner dependent on LDLR, researchers additionally discovered that pharmacological
+inhibition or siRNA downregulation of PCSK9 expression inhibited the stemness-like
+phenotype of cancer cells. Furthermore, in a mouse model bearing a 4MOSC1 syngeneic
+tumor, PCSK9 inhibition increased the infiltration of CD8 + T
+cells, decreased the number of myeloid-derived suppressor cells (MDSCs), and
+improved the antitumor efficacy of anti-PD-1 (programmed cell death-1 (PD-1)) immune
+checkpoint blockade (ICB) therapy. PCSK9, a conventional target for
+hypercholesterolemia, may serve as an innovative biomarker and therapeutic target to
+augment ICB therapy in HNSCC, according to these findings [43]. The study’s goal was to find out if
+PCSK9 levels in tumor tissue could help predict how well advanced non-small cell
+lung cancer (NSCLC) would respond to anti-PD-1 treatment and if the PCSK9 inhibitor
+and anti-CD137 agonist could work together to fight tumors. Anti-PD-1 treatment
+didn’t work as well in people with advanced NSCLC because their background
+tumor cells had higher levels of PCSK9. By mixing the anti-CD137 agonist with the
+PCSK9 inhibitor, it might be possible to get rid of Tregs and get more
+CD8 + and
+GzmB + CD8 + T cells to join the process.
+This could be a new way to treat people that will be used in future studies and
+clinical practice [44]
+(Fig. 3).
+
+Fig. 3Potential mechanisms contributing to increased cholesterol
+availability for cancer cells. PCSK9 is closely associated with the
+incidence and progression of several cancers. In several studies,
+PCSK9 siRNA was shown to effectively suppress the proliferation and
+invasion of several studied tumor cells. Cancer cell’s demand
+for cholesterol is supplied by both uptake from the blood or de novo
+synthesis. Therefore, high plasma cholesterol may provide such a
+high cancer cell requirement. On the other hand, oxidized
+cholesterol derivatives, namely oxysterols, show a significant
+apoptotic effect, thus opposing cancer cell proliferation
+[45]
+
+Potential mechanisms contributing to increased cholesterol
+availability for cancer cells. PCSK9 is closely associated with the
+incidence and progression of several cancers. In several studies,
+PCSK9 siRNA was shown to effectively suppress the proliferation and
+invasion of several studied tumor cells. Cancer cell’s demand
+for cholesterol is supplied by both uptake from the blood or de novo
+synthesis. Therefore, high plasma cholesterol may provide such a
+high cancer cell requirement. On the other hand, oxidized
+cholesterol derivatives, namely oxysterols, show a significant
+apoptotic effect, thus opposing cancer cell proliferation
+[45]
+
+Globally, injectable PCSK9 monoclonal antibody or siRNA is presently
+employed in clinics for the treatment of hypercholesterolemia; it has the potential
+to be combined with established cancer/metastasis therapies. Researchers conduct
+additional research to elucidate the functional mechanisms underpinning the
+modulation of LDL-C and to identify the novel functions that PCSK9 is developing in
+both healthy and diseased conditions [46]. Treatment with PCSK9 inhibitors has been shown to reduce
+LDL-C by inhibiting LDLR, to have an antiviral effect on HCV infection by decreasing
+the surface expression of LDLR and CD81 on hepatic cells, and to be positively
+associated with increased inflammatory responses and septic shock through the
+downregulation of hepatocyte LDLR, according to data gathered from clinical trials.
+However, therapeutic entirely humanized antibodies that inhibit PCSK9 effectively
+reduce elevated LDL-C levels [47].
+Several membrane-bound receptors, including ApoER2, the hepatocyte LDLR, and the
+very LDLR, are known to be degraded by human PCSK9. Since it is believed that the
+LDLR is involved in HCV entrance, researchers also looked at how PCSK9 may affect
+the levels of CD81, a primary HCV receptor. The expression of CD81 and LDLR was
+markedly reduced in cells that expressed stable PCSK9 or PCSK9-ACE2, an active
+version of the protein linked to the membrane. Therefore, the effectiveness of PCSK9
+as an antiviral agent was evaluated in vitro by applying it to the HCV genotype 2a
+(JFH1) virus. It was shown by the findings that cells expressing PCSK9 or
+PCSK9-ACE2, but not the control protein ACE2, were resistant to HCV infection.
+Purified soluble PCSK9 reduced HCV infection dose-dependently when added to cell
+culture supernatant. It was expected that HuH7 cells expressing PCSK9-ACE2 would be
+resistant to infection with HCV pseudoparticles. In addition, it was shown that
+PCSK9 regulates CD81 cell surface expression independently of LDLR. The livers of
+mice that were either single- or double-knockout for PCSK9 and LDLR showed
+significantly reduced amounts of both proteins, although levels of transferrin and
+scavenger receptor class B type 1 remained unchanged. Hence, they postulate that
+PCSK9 plasma levels and/or activity may regulate human HCV infectiousness
+[48] (Fig. 4).
+
+Fig. 4The PCSK9 effect on HCV. Numerous host factors, including
+heparan sulfate proteoglycans (HSPGs), low-density lipoprotein
+receptor (LDLR), tetraspanin CD81, claudin-1 (CLDN1), occludin
+(OCLN), tight junction proteins, receptor tyrosine kinases (RTKs),
+and the Niemann–Pick C1-like 1 (NPC1L1), are implicated in
+HCV entry into human hepatocytes. Activation of fatty acid and
+cholesterol synthesis throughout the HCV life cycle. Throughout its
+replicative life cycle, HCV fosters a lipid-rich environment by
+stimulating the expression of transcription factors that are
+involved in the production of cholesterol and fatty acids.
+Additionally, HCV increases LDLR expression on the surface of
+hepatocytes to facilitate entry. Microsomal triglyceride transfer
+protein (MTP) downregulation further inhibits the excretion of VLDL
+by HCV [33,
+49]
+
+The PCSK9 effect on HCV. Numerous host factors, including
+heparan sulfate proteoglycans (HSPGs), low-density lipoprotein
+receptor (LDLR), tetraspanin CD81, claudin-1 (CLDN1), occludin
+(OCLN), tight junction proteins, receptor tyrosine kinases (RTKs),
+and the Niemann–Pick C1-like 1 (NPC1L1), are implicated in
+HCV entry into human hepatocytes. Activation of fatty acid and
+cholesterol synthesis throughout the HCV life cycle. Throughout its
+replicative life cycle, HCV fosters a lipid-rich environment by
+stimulating the expression of transcription factors that are
+involved in the production of cholesterol and fatty acids.
+Additionally, HCV increases LDLR expression on the surface of
+hepatocytes to facilitate entry. Microsomal triglyceride transfer
+protein (MTP) downregulation further inhibits the excretion of VLDL
+by HCV [33,
+49]
+
+By inhibiting its principal protease, statins might exert a direct
+antiviral effect on SARS-CoV-2. Potential benefits include up-regulation of
+angiotensin-converting enzyme 2 (ACE2) induced by statins. At the same time,
+cholesterol reduction may effectively inhibit SARS-CoV-2 by impeding its replication
+or preventing its entrance into host cells via disruption of lipid rafts. Existing
+human investigations have demonstrated that PCSK9 inhibitors and statins are
+beneficial in treating sepsis and pneumonia. These medications have the potential to
+function as immunomodulators against severe complications of COVID-19, including
+cytokine release syndrome and acute respiratory distress syndrome. Generally,
+randomized clinical trials are required before statins and PCSK9 inhibitors can be
+used routinely to treat SARS-CoV-2 infection. In the interim, unless otherwise
+indicated, it is advised that lipid-lowering therapy (LLT) not be discontinued in
+COVID-19 patients [50]. In COVID-19
+instances, there is a negative correlation between the degree of inflammation and
+the prognosis. PCSK9 regulates LDLR homeostasis and may influence vascular
+inflammation and the COVID-19 inflammatory response. The main secondary result was
+the change in IL-6 levels in the blood at 7 and 30 days after the start of the
+study. Patients who were randomly assigned to receive the PCSK9 inhibitor had lower
+rates of death and needed to be tubed within 30 days compared to those who received
+the placebo. IL-6 levels in the blood dropped by 56% over time with the PCSK9
+inhibitor compared to the control (30-day drop vs. − 21%).
+Patients whose IL-6 levels were higher than the norm at the start of the study had a
+lower chance of dying when PCSK9 suppression was used instead of a dummy. In severe
+COVID-19, PCSK9 inhibition decreased IL-6 levels and was the primary endpoint of
+mortality or intubation need, compared to placebo [51]. Furin, a convertase, is required for SARS-CoV-2 to infect
+others because it needs to cut its spike protein (S) at two locations, S1/S2 and
+S2′. PCSK9 reduced cell-to-cell fusion by making it easier for ACE2 to break
+down in cells, while subtilisin-kexin isozyme 1 (SKI-1) increased cell-to-cell
+fusion by making SREBP-2 more active. The increased S2′ formation induced by
+SKI-1 activity was ascribed to heightened metalloprotease activity mediated by
+activated SREBP-2 in response to elevated cholesterol levels. Then, researchers
+provided evidence that PCSK9 facilitated the cellular degradation of ACE2, which
+consequently decreased cell-to-cell fusion. In contrast to the canonical target of
+PCSK9, the LDLR, the PCSK9-induced degradation of ACE2 does not require the
+C-terminal Cys-His-rich Domain (CHRD) domain. Modeling at the molecular level
+indicated that ACE2 binds to the Pro/Catalytic domains of mature PCSK9. Thus,
+SARS-CoV-2 entrance can be modulated by the cholesterol-regulating convertases PCSK9
+and SKI-1 via two distinct mechanisms [52]. Plasma PCSK9 levels were significantly elevated in our 156
+patients with systemic inflammatory response syndrome (SIRS) or sepsis compared to
+the 68 healthy controls, according to the last studies. Plasma PCSK9 levels did not
+exhibit a correlation with C-reactive protein, leukocyte count, or procalcitonin in
+either of the sub-cohorts. In patients with SIRS/sepsis who underwent ventilation
+and those who did not, plasma PCSK9 levels did not differ significantly between the
+two groups. In addition, there was no significant correlation between vasopressor
+therapy and changes in plasma PCSK9 levels. Patients with Gram-negative and
+Gram-positive infections in the non-COVID-19 SIRS/sepsis group exhibited comparable
+plasma PCSK9 levels to those without any discernible pathogen in their bloodstream
+[53] (Fig. 5).
+
+Fig. 5Through a mechanism that requires only the
+prodomain/catalytic subunit of mature PCSK9 to bind ACE2,
+extracellular PCSK9 promotes the degradation of ACE2. This mechanism
+likely reduces ACE2 levels on the cell surface, inhibits
+cell-to-cell fusion, and potentially mitigates SARS-CoV-2 infection.
+This figure illustrates how extracellular PCSK9, and its
+gain-of-function variant D374Y in particular, substantially enhanced
+the degradation of ACE2. Necessary for the transportation of the
+PCSK9-LDLR complex to endosomes/lysosomes for degradation is the
+CHRD domain of PCSK9, particularly its M2 module. Surprisingly, the
+catalytic and/or prodomain of PCSK9 appear to be the critical
+domains for PCSK9 activity on ACE2, not the CHRD; this distinguishes
+ACE2 as a unique and novel PCSK9 target, quite distinct from the
+LDLR and MHC-I, which may partially explain this observation
+[52]
+
+Through a mechanism that requires only the
+prodomain/catalytic subunit of mature PCSK9 to bind ACE2,
+extracellular PCSK9 promotes the degradation of ACE2. This mechanism
+likely reduces ACE2 levels on the cell surface, inhibits
+cell-to-cell fusion, and potentially mitigates SARS-CoV-2 infection.
+This figure illustrates how extracellular PCSK9, and its
+gain-of-function variant D374Y in particular, substantially enhanced
+the degradation of ACE2. Necessary for the transportation of the
+PCSK9-LDLR complex to endosomes/lysosomes for degradation is the
+CHRD domain of PCSK9, particularly its M2 module. Surprisingly, the
+catalytic and/or prodomain of PCSK9 appear to be the critical
+domains for PCSK9 activity on ACE2, not the CHRD; this distinguishes
+ACE2 as a unique and novel PCSK9 target, quite distinct from the
+LDLR and MHC-I, which may partially explain this observation
+[52]
+
+During DENV infection, ER-resident STING and type I IFN activation was
+inhibited due to cholesterol enrichment in the ER. Additional evidence corroborated
+researchers’ in vitro results by identifying heightened plasma PCSK9
+concentrations in DENV patients exhibiting severe plasma leakage and high viremia.
+Hence, their results indicate that PCSK9 may have an unidentified function in the
+pathogenesis of DENV and that inhibitors of PCSK9 may serve as an effective
+host-directed therapy for DENV patients [54]. The unforeseen significance of PCSK9 in developing DENV
+prompted researchers to examine the efficacy of alirocumab, an inhibitory PCSK9-mAb,
+in impeding PCSK9 activity. As expected, this treatment led to increased levels of
+LDLR and decreased levels of viremia. Further comprehensive clinical investigations
+are required to substantiate the potential efficacy of PCSK9 inhibition in managing
+DENV infections and to assess the treatment’s long-term antiviral impact
+[46]. In these microenvironments,
+inflammation induced by an infection, including DENV, can worsen hypoxia due to the
+further depletion of O2 levels caused by the production of ROS. The significance of
+PCSK9’s involvement in DENV infection under low-oxygen conditions may not
+have been discernible through conventional experimental studies on DENV, which
+utilize ambient O2 to incubate viruses and cells. Similarly, the function of PCSK9
+remained unknown during mouse studies. Cholesterol is transported in mouse plasma as
+HDL rather than LDL. Consequently, cholesterol uptake in rodents is not reliant on
+LDLR. Therefore, PCSK9 would not substantially influence on the pathogenesis of DENV
+in a murine model [55–58].
+
+Rift Valley fever virus (RVFV) is a potentially pandemic zoonotic
+pathogen. RVFV penetration is facilitated by the glycoprotein (Gn) of the virus.
+LDLR-related protein 1 (mouse Lrp1/human LRP1), heat shock protein (Grp94), and
+receptor-associated protein (RAP) were identified by researchers through a
+genome-wide CRISPR screen as crucial host factors for RVFV infection. RVFV Gn bonds
+specifically to Lrp1 clusters and is independent of glycosylation. Anti-Lrp1
+antibodies and murine RAP domain 3 (mRAPD3) exogenously neutralize RVFV infection in
+taxonomically diverse cell lines. Mice infected with pathogenic RVFV and treated
+with mRAPD3 are protected from mortality and disease [59]. LDLR-associated protein 1 (Lrp1), endoplasmin (Hsp90b1;
+herein Grp94), and lipoprotein receptor-associated protein 1 (Lrpap1) were
+identified as candidate pro-viral genes. PCSK9 and other known regulators of Lrp1
+expression were also determined by the researchers. It is established that an
+increase in PCSK9 expression and a decrease in Grp94 expression results in more
+rapid degradation of LDLR, including Lrp. Grp94, akin to receptor-associated protein
+(RAP), exerts an indirect influence on Lrp1 recycling and cell surface levels.
+PCSK9, which is ultimately secreted after being expressed as a pro-protease,
+contacts LRP1 to promote LRP1 endocytosis. Grp94 binds to PCSK9 in the ER, impeding
+its exit from the cell. Significantly, an inverse correlation is observed between
+the relative levels of single guide RNA (sgRNA) targeting PCSK9 and RVFV infectivity
+when compared to an untreated pooled cell population. Collectively, these
+observations offer additional substantiation that RVFV infection requires a pathway
+that regulates Lrp1 biosynthesis and surface presentation [59, 60].
+
+At a false discovery rate of 0.01, six SNPs were associated with both
+HIV viral load and CD4 T-cell levels. Presumably affecting the binding of
+hsa-miR-548t-5p and hsa-miR-4796-3p, Rs17111557 is situated in the 3’
+untranslated region of PCSK9. This binding may regulate PCSK9 expression levels. In
+an adjusted analysis, Rs17111557 was found to be correlated with LDL cholesterol
+levels in women co-infected with HIV and HCV but not in women mono-infected with
+HIV. PCSK9 polymorphism may influence the pathogenesis of HIV, especially in women
+co-infected with HIV and HCV [61].
+
+Infection with the DENV stimulated the expression of PCSK9, which
+inhibits the recycling of LDLR to facilitate the redistribution of cholesterol into
+ER-resident STING and IFN-I activation while repressing ER-resident STING.
+Inhibitors of PCSK9 substantially enhanced the secretion of IFN-I in response to
+this. Additionally, statins are repurposed for the treatment of patients who have
+contracted Ebola and influenza. In general, statins exert antiviral properties
+through the inhibition or modification of cholesterol trafficking, redistribution,
+virus attachment, virion maturation, release, and stability [62]. The Monkeypox virus (MPXV) appears poised
+to emerge as an additional global public health emergency, drawing comparisons to
+the ongoing COVID-19 pandemic and its predecessors. Repurposing medications that
+lower cholesterol levels could be an effective strategy for MPX. Nevertheless,
+knowledge regarding the function of cholesterol and its redistribution in MPX
+remains limited [63]. Although
+cholesterol reduction appears to be an effective antiviral strategy, it may also
+weaken the immune system of the host. Additionally, it is important to consider that
+since viruses depend on lipid flux, it may be more effective to use statins to
+reduce cholesterol levels required for viral maintenance instead of aiming for
+global reduction. Patients afflicted with MPX who have hypercholesterolemia should
+continue to take cholesterol-lowering medications. PCSK9 inhibitors, statins, and
+fenofibrates may be administered in addition to standard medications used to treat
+MPX as adjuvant therapy [62]
+(Table 2).
+
+Table 2Effect of PCSK9 in viral infectionViral infectionsExplain PCSK9 effectRefHCVTreatment with PCSK9 inhibitors has been shown to
+reduce LDL-C by inhibiting LDLR, to have an antiviral effect
+on HCV infection by decreasing the surface expression of
+LDLR and CD81 on hepatic cells. [47]COVID-19Existing human investigations have demonstrated that
+PCSK9 inhibitors and statins are beneficial in treating
+sepsis and pneumonia. These medications have the potential
+to function as immunomodulators against severe complications
+of COVID-19, including cytokine release syndrome and acute
+respiratory distress syndrome. [50]COVID-19Patients who were randomly assigned to receive the
+PCSK9 inhibitor had lower rates of death and needed to be
+tubed within 30 days compared to those who received the
+placebo. Patients whose IL-6 levels were higher than the
+norm at the start of the study had a lower chance of dying
+when PCSK9 suppression was used instead of a dummy. In
+severe COVID-19, PCSK9 inhibition decreased IL-6 levels and
+was the primary endpoint of mortality or intubation need, as
+compared to placebo. [51]SARS-CoV-2In contrast to the canonical target of PCSK9, the
+LDLR, the PCSK9-induced degradation of ACE2 does not require
+the C-terminal CHRD domain. Modeling at the molecular level
+indicated that ACE2 binds to the Pro/Catalytic domains of
+mature PCSK9. Thus, SARS-CoV-2 entrance can be modulated by
+the cholesterol-regulating convertases PCSK9 and SKI-1 via
+two distinct mechanisms. [52]COVID-19Patients with Gram-negative and Gram-positive
+infections in the non-COVID-19 SIRS/sepsis group exhibited
+comparable plasma PCSK9 levels to those without any
+discernible pathogen in their bloodstream. In conclusion, it
+suggested that PCSK9 may serve as a biomarker for COVID-19;
+however, larger cohorts are required to confirm
+this. [53]DENVPCSK9 is an enzyme that inhibits cholesterol uptake
+by decreasing LDLR recycling, a process induced by DENV
+infection. Hence, their results indicate that PCSK9 may have
+an unidentified function in the pathogenesis of DENV and
+that inhibitors of PCSK9 may serve as an effective
+host-directed therapy for DENV patients. [54]RVFVIt is established that an increase in PCSK9
+expression and a decrease in Grp94 expression results in
+more rapid degradation of LDLR, including Lrp.
+Significantly, an inverse correlation is observed between
+the relative levels of sgRNA targeting PCSK9 and RVFV
+infectivity compared to an untreated pooled cell population.
+This suggests that the absence of the PCSK9 gene product
+leads to increased levels of Lrp1 and, consequently, greater
+infection levels. Collectively, these observations offer
+additional substantiation that RVFV infection requires a
+pathway that regulates Lrp1 biosynthesis and surface
+presentation. [59,
+60]HIV and HCVIn an adjusted analysis, Rs17111557 was found to be
+correlated with LDL cholesterol levels in women coinfected
+with HIV and HCV but not in women mono-infected with HIV.
+PCSK9 polymorphism may influence the pathogenesis of HIV,
+especially in women co-infected with HIV and HCV. One
+plausible mechanism by which this effect is achieved is
+through the modulation of cholesterol metabolism mediated by
+PCSK9. [61]HIVCirculating PCSK9 levels are elevated in
+HIV-positive individuals and are associated with systemic
+monocyte activation markers but not coronary plaque
+parameters. Further investigations are warranted to
+ascertain the impact of PCSK9 inhibition on coronary
+atherosclerotic plaque burden and immune activation, as well
+as atherogenesis, in the context of HIV. [64]MPXPatients afflicted with MPX who have
+hypercholesterolemia should continue to take
+cholesterol-lowering medications. PCSK9 inhibitors, statins,
+and fenofibrates may be administered in addition to standard
+drugs used to treat MPX as adjuvant therapy. [62]
+
+Table 2: Effect of PCSK9 in viral infection
+Viral infections | Explain PCSK9 effect | Ref
+--------------------------------------------------
+HCV | Treatment with PCSK9 inhibitors has been shown to reduce LDL-C by inhibiting LDLR, to have an antiviral effect on HCV infection by decreasing the surface expression of LDLR and CD81 on hepatic cells. | [47]
+COVID-19 | Existing human investigations have demonstrated that PCSK9 inhibitors and statins are beneficial in treating sepsis and pneumonia. These medications have the potential to function as immunomodulators against severe complications of COVID-19, including cytokine release syndrome and acute respiratory distress syndrome. | [50]
+COVID-19 | Patients who were randomly assigned to receive the PCSK9 inhibitor had lower rates of death and needed to be tubed within 30 days compared to those who received the placebo. Patients whose IL-6 levels were higher than the norm at the start of the study had a lower chance of dying when PCSK9 suppression was used instead of a dummy. In severe COVID-19, PCSK9 inhibition decreased IL-6 levels and was the primary endpoint of mortality or intubation need, as compared to placebo. | [51]
+SARS-CoV-2 | In contrast to the canonical target of PCSK9, the LDLR, the PCSK9-induced degradation of ACE2 does not require the C-terminal CHRD domain. Modeling at the molecular level indicated that ACE2 binds to the Pro/Catalytic domains of mature PCSK9. Thus, SARS-CoV-2 entrance can be modulated by the cholesterol-regulating convertases PCSK9 and SKI-1 via two distinct mechanisms. | [52]
+COVID-19 | Patients with Gram-negative and Gram-positive infections in the non-COVID-19 SIRS/sepsis group exhibited comparable plasma PCSK9 levels to those without any discernible pathogen in their bloodstream. In conclusion, it suggested that PCSK9 may serve as a biomarker for COVID-19; however, larger cohorts are required to confirm this. | [53]
+DENV | PCSK9 is an enzyme that inhibits cholesterol uptake by decreasing LDLR recycling, a process induced by DENV infection. Hence, their results indicate that PCSK9 may have an unidentified function in the pathogenesis of DENV and that inhibitors of PCSK9 may serve as an effective host-directed therapy for DENV patients. | [54]
+RVFV | It is established that an increase in PCSK9 expression and a decrease in Grp94 expression results in more rapid degradation of LDLR, including Lrp. Significantly, an inverse correlation is observed between the relative levels of sgRNA targeting PCSK9 and RVFV infectivity compared to an untreated pooled cell population. This suggests that the absence of the PCSK9 gene product leads to increased levels of Lrp1 and, consequently, greater infection levels. Collectively, these observations offer additional substantiation that RVFV infection requires a pathway that regulates Lrp1 biosynthesis and surface presentation. | [59, 60]
+HIV and HCV | In an adjusted analysis, Rs17111557 was found to be correlated with LDL cholesterol levels in women coinfected with HIV and HCV but not in women mono-infected with HIV. PCSK9 polymorphism may influence the pathogenesis of HIV, especially in women co-infected with HIV and HCV. One plausible mechanism by which this effect is achieved is through the modulation of cholesterol metabolism mediated by PCSK9. | [61]
+HIV | Circulating PCSK9 levels are elevated in HIV-positive individuals and are associated with systemic monocyte activation markers but not coronary plaque parameters. Further investigations are warranted to ascertain the impact of PCSK9 inhibition on coronary atherosclerotic plaque burden and immune activation, as well as atherogenesis, in the context of HIV. | [64]
+MPX | Patients afflicted with MPX who have hypercholesterolemia should continue to take cholesterol-lowering medications. PCSK9 inhibitors, statins, and fenofibrates may be administered in addition to standard drugs used to treat MPX as adjuvant therapy. | [62]
+
+Effect of PCSK9 in viral infection
+
+As pre-clinical studies show that mAbs, antisense oligonucleotides, and
+short interfering RNA can lower LDL-C, blocking PCSK9 is an interesting new way to
+treat high cholesterol. It will take more clinical studies and a better
+understanding of PCSK9 genetics to determine if these new chemicals will be helpful
+in the future [65]. Alirocumab and
+evolocumab, subcutaneously injectable mAbs targeting PCSK9, were recently approved
+by the FDA and European Medicines Agency. These agents are intended for the
+treatment of hypercholesterolemia in patients who are unresponsive to statins or
+have developed an inadequate response to them. They are particularly beneficial for
+secondary prevention or in cases of familial hypercholesterolemia [66]. An alternative strategy involves the
+suppression of PCSK9 synthesis. Anti-sense is a novel small interfering RNA-based
+therapeutic agent known as inclisiran. It stops the PCSK9 gene from being expressed
+by attaching to its messenger RNA (mRNA) precursor. This leads to an increase in
+hepatocyte recycling and LDLR expression on the cell surface while LDL-c levels
+decrease. This new cholesterol-lowering drug can be added to the treatment of adults
+with atherosclerotic cardiovascular disease (CVD) or heterozygous familial
+hypercholesterolemia who have an LDL-c level below 100 mg/dL and have not
+reached their target LDL-c levels despite taking statins and ezetimibe, or without
+statins or ezetimibe if they are allergic to or can’t take one of these drugs
+[67].
+
+Progress in recombinant DNA technology has enabled the development of
+entirely human mAbs that do not provoke human antimouse antibodies. Consequently,
+these antibodies are not eliminated as quickly, leading to increased effectiveness
+and reduced occurrences of hypersensitivity reactions. So, improvements in antibody
+technology made it seem like a good idea to stop PCSK9 with mAbs that are
+100% human [68, 69]. Investigators of the production and action
+of a DNA-encoded mAb (DMAb) that targets PCSK9 (daPCSK9) were described as an option
+for protein-based drugs to lower lipids. Animals that received a single
+intramuscular injection of mouse daPCSK9 continued to express it for more than 42
+days. By day seven, this expression was linked to a significant drop of 28.6%
+in non-HDL-C and 10.3% in total cholesterol in wild-type (wt) mice. When the
+DMAb plasmid was given more than once, expression increased; on day 62, DMAb levels
+hit 7.5 µg/mL. DaPCSK9 medicines can lower LDL-C levels. They are
+possibly new, cheap, less common, and easy to use. That is, they can be used on
+their own or with other LDL-lowering medicines for a more powerful effect
+[70].
+
+The current study employed nanotechnological methodologies to create
+the initial nano-hepatic targeted anti-PCSK9 small oral molecule. By using
+high-throughput optimization techniques and conducting a series of assessments, it
+was possible to synthesize and characterize a stable water-dispersible
+nano-encapsulated drug (named P-4) conjugated with a hepatic targeting moiety (named
+P-21). P-21 presents a practicable and more efficient treatment protocol in contrast
+to the FDA-approved mAbs that target uncontrolled hypercholesterolemia to mitigate
+the risk of CVDs. The current investigation introduced a nano-targeted drug delivery
+strategy for an antagonist of PCSK9/LDLR [71]. Novel PCSK9 inhibitors have been developed via genome
+editing technology (CRISPR-Cas9), antisense oligonucleotide silencing agents
+(siRNA), vaccines, mimetic peptides, adnectins, and PCSK9 secretion inhibitors as a
+result of ongoing research. The inhibitors listed above have undergone extensive
+evaluation in animal models in vivo, in vitro, and in phase I and II clinical
+trials, where they have proven to have a significant efficacy profile. Subsequent
+investigations utilizing these agents will showcase their potential clinical utility
+and shed additional light on the diverse intracellular and extracellular targets and
+activities of PCSK9, the underlying mechanisms, and the clinical significance of
+these actions beyond mere inhibition of LDLR recycling [72]. By employing macrocyclic peptides, it is
+possible to target proteins conventionally deemed untreatable via small-molecule
+drug design. A novel approach was taken to screen for lead chemicals using mRNA
+display technology. These leads were optimized using structure-based drug design
+facilitated by novel synthetic chemistry. The result was a macrocyclic peptide
+(MK-0616) that exhibited exceptional selectivity and potency towards PCSK9. With a
+high affinity (Ki = 5 pM) for PCSK9 as observed in vitro, MK-0616
+demonstrated adequate safety and oral bioavailability in preclinical studies,
+facilitating its progression to the clinic. In Phase 1 clinical trials involving
+healthy adults, the administration of single oral doses of MK-0616 resulted in a
+reduction of free, unbound plasma PCSK9 by more than 93% geometric mean
+(95% CI: 84–103). Similarly, after 14 days of once-daily dosing of
+20 mg MK-0616, multiple oral-dose regimens offered participants on statin
+therapy the highest possible reduction of 61% geometric mean (95% CI:
+43–85) in LDL-C from baseline [73].
+
+Vaccines against lipoproteins, cholesterol itself, and molecules
+involved in cholesterol metabolism have all proved helpful in modifying the course
+of sickness in animal models of atherosclerosis. One vaccine that generates
+antibodies against cholesteryl ester transfer protein has also advanced into the
+domain of human clinical testing [74].
+PCSK9 inhibitors in particular have had a significant impact on clinical practice;
+angiopoietin-like 3 (ANGPTL3) inhibition has recently been shown. A few of the
+medications currently being used in clinic settings include lomitapide, a
+small-molecule inhibitor of microsomal triglyceride transfer protein, inclisiran, a
+small interfering RNA that inhibits PCSK9 translation, and the anti-ANGPTL3 mAbs
+alirocumab and evolocumab. There are preclinical and clinical trial phases of
+research for more medicines. These include vaccinations, gene-editing treatments,
+mimetic peptides, adnectins, small-molecule inhibitors, antisense oligonucleotides,
+and more mAbs. Particularly, gene-editing treatments and vaccines have the potential
+to to reduce PCSK9 or ANGPTL3 activity over an extended period significantly or to
+knock it down with a single treatment completely. Biologic therapies that are
+modeled after situations of monogenic hypocholesterolemia are becoming useful in
+preventing atherosclerotic CVDs [75].
+The purpose of this research is to evaluate the effectiveness of estradiol (E2)
+treatment vs. recombinant Heat Shock Protein 25 (recombinant HSP25 (rHSP25))
+immunization in preventing post-menopausal atherogenesis. Unexpectedly, E2 therapy
+reduces atherogenesis and cholesterol levels after ovariectomy (OVX) without
+influencing LDLR increasing PCSK9 expression and promoter activity. Increased PCSK9
+expression in women responding to E2 therapy has never been documented. rHSP25
+vaccination is correlated with reduced cholesterol levels and atherogenesis after
+OVX, a process accompanied by an increase in LDLR expression but not PCSK9
+expression [76].
+
+Here, researchers assessed the safety and long-term effectiveness of
+active vaccinations specific to PCSK9 in several preclinical models. Their patented
+approach was practical in selecting PCSK9 peptide-based vaccines. Highly immunogenic
+vaccine candidates were injected into wt mice, Ldlr+/− mice, and rats
+to evaluate their effectiveness. In all species, vaccination produced PCSK9-specific
+antibodies with high affinity. Anti-PCSK9 vaccines based on peptides elicit the
+production of antibodies that retain their functionality, affinity, and persistence
+for one year. As potent and risk-free instruments for long-term LDL-C management,
+they may represent a novel therapeutic strategy for the prevention and/or treatment
+of CVDs associated with LDL hypercholesterolemia in humans [77]. Researchers have created a novel antiPCSK9
+vaccine formulation called Liposomal Immunogenic Fused PCSK9-Tetanus peptide with
+Alum adjuvant (L-IFPTA) by combining the AFFITOME® method and nanoliposome
+platform technology. The L-IFPTA vaccination can suppress PCSK9-specific T-cell
+activation while stimulating a tetanus-specific T-cell response that amplifies
+PCSK9-specific B-cell activation, all without causing any safety issues. Antigen
+polyvalency is another crucial characteristic that can significantly enhance the
+immunogenicity of peptides and elicit effective antibody responses. Polyvalent
+antigens facilitate enhanced cross-linking of B-cell receptors, thereby vigorously
+stimulating B cell proliferation and potentially reversing the dormant state of
+self-reactive B cells. An increase in the expression of molecules that enable
+subsequent interactions with Th cells is observed in conjunction with robust B-cell
+activation. This leads to producing memory and plasma B cells, which can
+consistently generate high-titer antibody responses. However, clinical data about
+L-IFPTA remain insufficient until further measures are implemented [78].
+
+In the past investigation, virus-like particles (VLPs)-based vaccines
+targeting PCSK9 were developed. Vaccinated with bacteriophage VLPs containing
+PCSK9-derived peptides, mice and macaques produced IgG antibodies with a high titer
+bound to circulating PCSK9. Significant reductions in total cholesterol, free
+cholesterol, phospholipids, and TGs were observed in individuals who received
+vaccinations. Therefore, PCSK9-targeting vaccines may be a viable alternative to
+mAb-based therapies [79].
+
+The development of a trivalent vaccine candidate specifically targets
+explicitly ester transfer protein (CETP), PCSK9, and apoB. Using bacteriophage
+Qβ-based VLPs that exhibit antigens of PCKS9, ApoB, and CETP, vaccine
+candidates are generated. Vaccine candidate formulations are formulated via hot-melt
+extrusion as slow-release PLGA: VLP implants. Comparable levels of antibodies
+against the cholesterol checkpoint proteins were generated by the trivalent vaccine
+candidate administered via implant compared to a three-dose injection schedule
+utilizing soluble mixtures. A decrease in total plasma cholesterol, inhibition of
+CETP (in vitro), and a reduction in PCSK9 and apoB levels in plasma are all
+accomplished. In its entirety, a platform technology is introduced for single-dose
+multi-agent proteins [75]. In this
+study, researchers employ a flexible vaccine platform based on capsid virus-like
+particles (cVLP) to administer PCSK9-derived peptide antigens and full-length (FL)
+PCSK9. Their objective was to determine whether eliciting a more extensive
+polyclonal anti-PCSK9 antibody response would facilitate more effective clearance of
+plasma PCSK9. The results of this head-to-head immunization study demonstrate that
+the FL PCSK9 cVLP vaccine possesses a substantially enhanced ability to opsonize and
+eliminate plasma PCSK9. The implications of these findings for developing PCSK9 and
+other vaccines that are expected to facilitate opsonization and immune clearance of
+target antigens efficiently [80].
+
+Pathogenic point mutations in humans predominantly consist of
+C•G to T•A substitutions, which are amenable to direct repair via
+adenine base editors (ABEs). Researchers aimed to assess the effectiveness and
+safety of ABEs in reducing blood LDL levels in the livers of cynomolgus macaques and
+mice. The administration of mRNA containing an ABE and a single-guide RNA that
+targets PCSK9, a negative regulator of LDL, via lipid nanoparticles resulted in the
+editing of up to 67% (average: 61%) in mice and up to 34%
+(average: 26%) in macaques. Plasma concentrations of PCSK9 and LDL were
+reduced consistently in rodents by 58% and 55% and in macaques by
+32% and 14%, respectively. Rapid clearance of ABE mRNA was observed,
+and no off-target mutations were detected in the genomic DNA. Re-dosing did not
+enhance editing in macaques, possibly due to the humoral immune response to ABE seen
+upon treatment. Further research into the use of ABEs to treat patients with
+monogenic liver diseases is warranted in light of these results. It is crucial to
+thoroughly evaluate the advantages of clinically viable base editor therapies in
+light of the potential risks. Thus, these individuals are prime candidates for
+genetic liver diseases, which are presently curable solely through organ
+transplantation [81]
+(Table 3).
+
+Table 3PCSK9 vaccine and inhibitorsVaccine and inhibitorsExplainRefStatinThis way, PCSK9 polymorphisms were used as stand-ins
+for statin treatment. For each unit change in LDL-C, the
+mutations in both sites had similar effects on the risk of
+ASCVD when added together or on their own. According to the
+results of this study, blocking PCSK9 may lower the chance
+of heart disease by the same amount per change in LDL-C as
+statin treatment. The benefits may be separate or add
+up. [82]Anti-senseIt stops the PCSK9 gene from being expressed by
+attaching to its messenger RNA (mRNA) precursor. This leads
+to an increase in hepatocyte recycling and LDLR expression
+on the cell surface while LDL-c levels
+decrease. [67]mAbThe fact that mAbs can avoid the liver and
+kidneys’ metabolic processes, which lowers drug
+interactions, and that they can specifically bind to targets
+of interest through the antigen binding site, which makes
+these targets ineffective and reduces off-site effects, are
+both good things about them. So, improvements in antibody
+technology made it seem like a good idea to stop PCSK9 with
+mAbs that are 100% human. [68,
+69]P-21By employing high-throughput optimization techniques
+and conducting a series of assessments, it was possible to
+synthesize and characterize a stable water-dispersible
+nano-encapsulated drug (named P-4) conjugated with a hepatic
+targeting moiety (named P-21). P-21 presents a practicable
+and more efficient treatment protocol in contrast to the
+FDA-approved mAbs that target uncontrolled
+hypercholesterolemia to mitigate the risk of
+CVDs. [71]Alirocumab and EvolocumabCurrently the most efficacious cholesterol-lowering
+compounds on the market, these mAbs reduce the risk of
+atherosclerotic CVD and diminish LDL-C levels by up to
+73%. Novel PCSK9 inhibitors have been developed via
+genome editing technology (CRISPR-Cas9), antisense
+oligonucleotide silencing agents (siRNA), vaccines, mimetic
+peptides, adnectins, and PCSK9 secretion inhibitors as a
+result of ongoing research. [72]MK-0616The result was a macrocyclic peptide (MK-0616) that
+exhibited exceptional selectivity and potency towards PCSK9.
+With a high affinity (Ki = 5 pM) for PCSK9 as
+observed in vitro, MK-0616 demonstrated adequate safety and
+oral bioavailability in preclinical studies, facilitating
+its progression to the clinic. Similarly, after 14 days of
+once-daily dosing of 20 mg MK-0616, multiple
+oral-dose regimens offered participants on statin therapy
+the highest possible reduction of 61% geometric mean
+(95% CI: 43–85) in LDL-C from
+baseline. [73]ANGPTL3Particularly, gene-editing treatments and vaccines
+have the potential to reduce PCSK9 or ANGPTL3 activity over
+an extended period significantly or to knock it down with a
+single treatment completely. Biologic treatments that are
+modeled after situations of monogenic hypocholesterolemia
+are becoming useful in preventing atherosclerotic
+CVDs [75]rHSP25rHSP25 vaccination is correlated with reduced
+cholesterol levels and atherogenesis after OVX, a process
+accompanied by an increase in LDLR expression but not PCSK9
+expression. [76]Anti-PCSK9 vaccines based on peptidesAnti-PCSK9 vaccines based on peptides elicit the
+production of antibodies that retain their functionality,
+affinity, and persistence for one year. As potent and
+risk-free instruments for long-term LDL-C management, they
+may represent a novel therapeutic strategy for the
+prevention and/or treatment of CVDs associated with LDL
+hypercholesterolemia in humans. [77]L-IFPTA + vaccineThe L-IFPTA + vaccine induced a
+long-lasting humoral immune response against PCSK9 peptide
+in vaccinated hypercholesterolemic mice, according to
+long-term studies. This response was accompanied by a
+significant reduction in LDL-C by up to 42% over 16
+weeks after primary immunization, relative to the control
+group. Splenocytes obtained from the vaccinated group
+exhibited a more significantly proliferation of
+IL-10-producing cells and a reduction in
+IFN-γ-producing cells compared to the control and
+naive mouse groups. [83]L-IFPTAThe L-IFPTA vaccination can suppress PCSK9-specific
+T-cell activation while stimulating a tetanus-specific
+T-cell response that amplifies PCSK9-specific B-cell
+activation, all without causing any safety issues. This
+leads to producing memory and plasma B cells, which can
+consistently generate high-titer antibody responses.
+However, clinical data about L-IFPTA remain insufficient
+until further measures are implemented. [78]VLP-based vaccinesVaccinated with bacteriophage VLPs containing
+PCSK9-derived peptides, mice and macaques produced IgG
+antibodies with a high titer bound to circulating PCSK9.
+Significant reductions in total cholesterol, free
+cholesterol, phospholipids, and TGs were observed in
+individuals who received vaccinations. Therefore,
+PCSK9-targeting vaccines may be a viable alternative to
+mAb-based therapies. [79]VLP-based vaccinesA VLP vaccine that specifically targeted a PCSK9
+epitope demonstrated efficacy in reducing LDL-C levels in
+macaques only when administered in conjunction with statins.
+Conversely, immunization with the bivalent vaccine reduced
+LDL-C levels independently of the need for statin
+co-administration. The effectiveness of an alternative,
+vaccine-based strategy for reducing LDL-C is highlighted by
+these results. [84]FL PCSK9 cVLP vaccineThe results of this head-to-head immunization study
+demonstrate that the FL PCSK9 cVLP vaccine possesses a
+substantially enhanced ability to opsonize and eliminate
+plasma PCSK9. [80]ABEsResearchers aimed to assess the effectiveness and
+safety of ABEs in reducing blood LDL levels in the livers of
+cynomolgus macaques and mice. Re-dosing did not enhance
+editing in macaques, possibly due to the humoral immune
+response to ABE detected upon treatment. [81]
+
+Table 3: PCSK9 vaccine and inhibitors
+Vaccine and inhibitors | Explain | Ref
+--------------------------------------------------
+Statin | This way, PCSK9 polymorphisms were used as stand-ins for statin treatment. For each unit change in LDL-C, the mutations in both sites had similar effects on the risk of ASCVD when added together or on their own. According to the results of this study, blocking PCSK9 may lower the chance of heart disease by the same amount per change in LDL-C as statin treatment. The benefits may be separate or add up. | [82]
+Anti-sense | It stops the PCSK9 gene from being expressed by attaching to its messenger RNA (mRNA) precursor. This leads to an increase in hepatocyte recycling and LDLR expression on the cell surface while LDL-c levels decrease. | [67]
+mAb | The fact that mAbs can avoid the liver and kidneys’ metabolic processes, which lowers drug interactions, and that they can specifically bind to targets of interest through the antigen binding site, which makes these targets ineffective and reduces off-site effects, are both good things about them. So, improvements in antibody technology made it seem like a good idea to stop PCSK9 with mAbs that are 100% human. | [68, 69]
+P-21 | By employing high-throughput optimization techniques and conducting a series of assessments, it was possible to synthesize and characterize a stable water-dispersible nano-encapsulated drug (named P-4) conjugated with a hepatic targeting moiety (named P-21). P-21 presents a practicable and more efficient treatment protocol in contrast to the FDA-approved mAbs that target uncontrolled hypercholesterolemia to mitigate the risk of CVDs. | [71]
+Alirocumab and Evolocumab | Currently the most efficacious cholesterol-lowering compounds on the market, these mAbs reduce the risk of atherosclerotic CVD and diminish LDL-C levels by up to 73%. Novel PCSK9 inhibitors have been developed via genome editing technology (CRISPR-Cas9), antisense oligonucleotide silencing agents (siRNA), vaccines, mimetic peptides, adnectins, and PCSK9 secretion inhibitors as a result of ongoing research. | [72]
+MK-0616 | The result was a macrocyclic peptide (MK-0616) that exhibited exceptional selectivity and potency towards PCSK9. With a high affinity (Ki = 5 pM) for PCSK9 as observed in vitro, MK-0616 demonstrated adequate safety and oral bioavailability in preclinical studies, facilitating its progression to the clinic. Similarly, after 14 days of once-daily dosing of 20 mg MK-0616, multiple oral-dose regimens offered participants on statin therapy the highest possible reduction of 61% geometric mean (95% CI: 43–85) in LDL-C from baseline. | [73]
+ANGPTL3 | Particularly, gene-editing treatments and vaccines have the potential to reduce PCSK9 or ANGPTL3 activity over an extended period significantly or to knock it down with a single treatment completely. Biologic treatments that are modeled after situations of monogenic hypocholesterolemia are becoming useful in preventing atherosclerotic CVDs | [75]
+rHSP25 | rHSP25 vaccination is correlated with reduced cholesterol levels and atherogenesis after OVX, a process accompanied by an increase in LDLR expression but not PCSK9 expression. | [76]
+Anti-PCSK9 vaccines based on peptides | Anti-PCSK9 vaccines based on peptides elicit the production of antibodies that retain their functionality, affinity, and persistence for one year. As potent and risk-free instruments for long-term LDL-C management, they may represent a novel therapeutic strategy for the prevention and/or treatment of CVDs associated with LDL hypercholesterolemia in humans. | [77]
+L-IFPTA + vaccine | The L-IFPTA + vaccine induced a long-lasting humoral immune response against PCSK9 peptide in vaccinated hypercholesterolemic mice, according to long-term studies. This response was accompanied by a significant reduction in LDL-C by up to 42% over 16 weeks after primary immunization, relative to the control group. Splenocytes obtained from the vaccinated group exhibited a more significantly proliferation of IL-10-producing cells and a reduction in IFN-γ-producing cells compared to the control and naive mouse groups. | [83]
+L-IFPTA | The L-IFPTA vaccination can suppress PCSK9-specific T-cell activation while stimulating a tetanus-specific T-cell response that amplifies PCSK9-specific B-cell activation, all without causing any safety issues. This leads to producing memory and plasma B cells, which can consistently generate high-titer antibody responses. However, clinical data about L-IFPTA remain insufficient until further measures are implemented. | [78]
+VLP-based vaccines | Vaccinated with bacteriophage VLPs containing PCSK9-derived peptides, mice and macaques produced IgG antibodies with a high titer bound to circulating PCSK9. Significant reductions in total cholesterol, free cholesterol, phospholipids, and TGs were observed in individuals who received vaccinations. Therefore, PCSK9-targeting vaccines may be a viable alternative to mAb-based therapies. | [79]
+VLP-based vaccines | A VLP vaccine that specifically targeted a PCSK9 epitope demonstrated efficacy in reducing LDL-C levels in macaques only when administered in conjunction with statins. Conversely, immunization with the bivalent vaccine reduced LDL-C levels independently of the need for statin co-administration. The effectiveness of an alternative, vaccine-based strategy for reducing LDL-C is highlighted by these results. | [84]
+FL PCSK9 cVLP vaccine | The results of this head-to-head immunization study demonstrate that the FL PCSK9 cVLP vaccine possesses a substantially enhanced ability to opsonize and eliminate plasma PCSK9. | [80]
+ABEs | Researchers aimed to assess the effectiveness and safety of ABEs in reducing blood LDL levels in the livers of cynomolgus macaques and mice. Re-dosing did not enhance editing in macaques, possibly due to the humoral immune response to ABE detected upon treatment. | [81]
+
+PCSK9 vaccine and inhibitors
+
+Determining viral entry receptors is the principal determinant of host
+range and tissue tropism. Viruses also utilize cellular lipids and host lipid
+metabolism to facilitate reproduction and spread [85]. The host cell and the virus may both have perspectives on
+cholesterol during a viral infection. Since virus particles lack interior membrane
+structures, their ability to obtain the essential amount of sterol from the infected
+cell to sustain the integrity of a solitary macromolecular assembly—their
+envelope membrane bilayer—is sufficient. Therefore, broad-spectrum antivirals
+may expedite the management of viral infections and improve patient health outcomes.
+miRNAs, which influence post-transcriptionally regulated gene expression, have come
+to be recognized as crucial regulators of lipid homeostasis. The results of this
+study illuminate the intricate characteristics of lipid homeostasis and highlight
+the critical role that miRNAs play in controlling this procedure. As a result,
+innovative strategies for managing viral infections are suggested. Further
+investigation is warranted in future studies to delve into the importance of miRNAs
+in regulating cholesterol homeostasis, particularly in the context of cirrhosis and
+the chronic inflammation characteristic of viral hepatitis [9, 25]. This, for instance, substantiates the broad-spectrum
+antiviral activity of imipramine. Imipramine maintained its antiviral efficacy
+against additional arboviruses, such as DENV, WNV, and ZIKV, all members of the
+Flavivirus genus. It is expected that these antiviral effects will be mediated
+through the inhibition of viral fusion with cell membranes and possibly have a
+direct influence on viral replication. The structural characteristics of the viral
+fusion proteins of Flavivirus Class II and the envelope glycoprotein of Alphavirus
+E1, which aids in viral fusion, are strikingly similar. DENV and WNV are therefore
+vulnerable to class II cationic amphiphilic drugs and require cellular cholesterol
+to undergo effective fusion reactions. Notably, the requirement for cholesterol in
+the life cycle of ZIKV has not been studied. Nonetheless, the researchers’
+findings offer an initial indication of how to investigate this route further. By
+employing a stable replicon cell line and conducting time-of-addition experiments,
+it was determined that imipramine hindered the post-fusion viral RNA replication
+stages and prevented the entrance and/or fusion of retroviral pseudoparticles
+carrying the chikungunya virus envelope [85–88].
+
+PCSK9 has also been demonstrated to impede the entry and replication of
+HCV. PCSK9 had no discernible impact on the assembly or secretion of HCV or its
+translation. HCV replication in HCV genomic replicon cells was dose-dependently
+inhibited by PCSK9 overexpression, even after infection with cell culture-derived
+HCV (HCVcc). PCSK9 inhibition resulted in increased HCV replication. HCV replication
+was unaffected by gain-of-function (D3774Y) or loss-of-function (Δaa.
+31–52) PCSK9 mutants associated with LDLR degradation. This indicates that
+PCSK9’s inhibition of HCV replication was unrelated to LDLR degradation. HCV
+replication was downregulated by uncleaved ProPCSK9 but not by cleaved PCSK9; this
+suggests that HCV replication was influenced by the auto-cleavage of PCSK9.
+Additionally, investigators discovered that PCSK9 interacted with NS5A via NS5A
+amino acids 95–215. This region was crucial for HCV replication and NS5A
+dimerization, as well as NS5A-RNA binding. Moreover, PCSK9 inhibition of NS5A
+dimerization and NS5A-RNA binding occurred upon interaction. Based on these
+findings, PCSK9 appeared to impede HCV replication via its interaction with NS5A.
+This research should aid in optimizing anti-HCV therapy for patients whose lipid
+profiles are uncommon [89].
+
+This research assessed the antiviral efficacy of ezetimibe and
+atorvastatin, two cholesterol-lowering drugs, both in combination and as monotherapy
+against DENV, ZIKV, and YFV. When it came to fighting DENV 2, atorvastatin and
+ezetimibe worked in concert, but when fighting DENV 4, ZIKV, and YFV, they worked
+against each other. When atorvastatin or ezetimibe was administered as monotherapy
+to AG129 mice infected with DENV 2, their survival rate rose, and their clinical
+symptoms decreased. On the other hand, the two drugs’ combination had no
+appreciable impact on survival. This study offers important new information on the
+potential of ezetimibe and atorvastatin as antiviral medicines against flaviviruses
+and emphasizes the need for more research in this area [90]. Furthermore, results demonstrate how DENV
+infection induces modifications in the cholesterol metabolism of cells residing in
+organs with low oxygen concentrations, thereby promoting the development of the
+disease. Significantly, research indicates that using inhibitory mAbs or RNA
+interference techniques to impede PCSK9 activity may represent viable and risk-free
+therapeutic approaches for DENV patients. In addition, these results suggest that
+PCSK9 serves as a host factor for DENV in target cells residing in hypoxic
+microenvironments; therefore, targeting PCSK9 for inhibition as opposed to solely
+HMGCoA reductase may represent a viable strategy to address the therapeutic gap
+associated with DENV [58]. DENV
+infection was subsequently diminished in animal models and in vitro through statins
+to inhibit the rate-limiting HMG-CoA reductase activity and thereby reduce de novo
+cholesterol synthesis. Notwithstanding these encouraging preclinical results, a
+clinical trial involving DENV patients and the HMG-CoA reductase inhibitor
+lovastatin did not demonstrate any beneficial effects. The adverse clinical trial
+result thus calls the laboratory findings’ clinical validity into question
+[91–94]. The
+concurrent administration of PCSK9 inhibitors and statins holds promise in
+mitigating two contributing factors that heighten the likelihood of complications
+associated with COVID-19 thrombosis. Therefore, PCSK9 inhibitors may represent an
+additional viable therapeutic approach for COVID-19 [95].
+
+An anti-PCSK9 peptide vaccine induced a sustained 50% decrease
+in LDL-C levels in murine models of HeFH for one year. An alternative strategy
+employed was the administration of a VLP vaccine targeting PCSK9, which resulted in
+a reduction of LDL-C in rhesus macaques by 10–15%. VLPs possess
+self-antigens on their surface, which enable them to neutralize B-cell antibodies
+and circumvent B-cell tolerance. Significant reductions in TG, VLDL-C, HDL-C, and
+LDL-C were observed in dyslipidemic obese rodent models (ob/ob mice) and FH mouse
+models after vaccination against ANGPTL3. However, these reductions waned after 30
+weeks [96]. Inhibition with PCSK9
+antibodies (PCSK9i) lowers the risk of cardiovascular events in people with coronary
+artery disease, which is linked to high levels. PCSK9 levels are also higher in
+people living with HIV (PLWH) and people who have obesity. As a sign of healthy
+coronary arteries, high PCSK9 levels in PLWH are linked to poor endothelial
+function. To test the idea that PCSK9i can improve poor endothelial function in PLWH
+with nearly ideal/above-goal LDL-C levels and dyslipidemia but no coronary artery
+disease, researchers looked at this. After taking 480 mg of evolocumab every
+4 weeks for 6 weeks, the PLWH group’s cross-sectional area changed by
++ 5.6 ± 5.5% from rest to isometric
+handgrip exercise, and the dyslipidemia group’s changed by
++ 4.5 ± 3.1%. Both changes were P < 0.01 compared to the baseline.
+Concurrent with the increase in cross-sectional area, there was a notable
+enhancement in coronary blood flow in both cohorts. Present the initial evidence
+that inhibiting PCSK9 enhances the health of coronary arteries in PLWH and
+individuals with dyslipidemia [97]. The
+level of interest surrounding therapeutic mAbs has increased significantly annually.
+Novel approaches to inhibit PCSK9 are under clinical assessment. The most advanced
+development is the small interfering RNA inclisiran, which is currently being tested
+in a large cardiovascular outcome trial (NCT03705234). siRNA approaches –
+assuming both positive study results and an acceptable safety profile – may
+provide a valuable addition to the growing armamentarium for individualized
+treatment of dyslipidemias [68]. A new
+generation of therapeutic agents for viral infections is now possible due to the
+advent of molecular-targeting medicine, which enables the delivery of antigens in a
+particular manner, facilitating extremely effective medical treatment. PCSK9 plays a
+hitherto unknown role in the pathogenesis of viral infection, and PCSK9 inhibitors
+could be a suitable host therapy for patients with viral infection in the future.
+Specialized study in this field will help develop treatment and prevention methods
+against viral diseases.
+
+Vaccination against influenza and LLT are interventions supported by
+scientific evidence that provide significant benefits to patients diagnosed with
+atherosclerotic cardiovascular disease (ASCVD). Nevertheless, influenza vaccination
+rates and LLT utilization remain inadequate, potentially attributable to widespread
+fear-mongering of those targets vaccines and LLT in particular. The relationship
+between lack of influenza vaccination and decreased utilization of LLT remains
+unexplained. 76% of the 66,923 participants with ASCVD reported using LLT,
+and 55% reported receiving influenza vaccination within the past year. The
+absence of the influenza vaccine was associated with a decreased likelihood of using
+LLTs (OR 0.54; 95% CI 0.50, 0.58; p0.001). This association remained
+statistically significant in a multivariable regression model for demographics and
+co-morbidities (aOR 0.58, 95% CI 0.52, 0.64, p < 0.001). This association persisted even
+after controlling for health care access, preventive care engagement, and
+utilization patterns of other cardiovascular medications (aOR 0.66; 95% CI
+0.60, 0.74; p < 0.001).
+Subgroups did not differ significantly, including individuals with and without
+hyperlipidemia. Among American adults with ASCVD, unvaccinated status for influenza
+was independently associated with 34% lower odds of LLT use after controlling
+for traditional factors associated with underuse of preventive therapies. This
+discovery identifies a demographic group that possesses an elevated risk of
+preventable atrial systolic and ventricular disease (ASCVD) that is modifiable. It
+further encourages research into unconventional mechanisms contributing to the
+underutilization of preventive therapies, such as misinformation [98].
+
+Even though hepatocytes are the principal and most abundant sources of
+PCSK9, its production in endothelial cells, smooth muscle cells, and macrophages in
+particular should not be overlooked. It is important to acknowledge that the
+upregulation of PCSK9 production in these cells is predominantly observed in
+individuals with atherosclerotic alterations. Furthermore, PCSK9 itself promotes the
+activation of these cells and induces additional PCSK9 production. As a result, a
+vicious circle ensues. The quantification of PCSK9 concentration will probably
+become as intuitive shortly as it is to quantify LDL cholesterol and Lp(a).
+Additionally, it is intriguing to ascertain whether PCSK9i and inclisiran exhibit
+comparable efficacy in reducing PCSK9 levels. The potential response from the
+ORION-3 study may lie in the outcomes, wherein patients were initially administered
+either inclisiran or evolocumab. It is expected that the concentration of PCSK9 will
+also be ascertained. Thus far, the outcomes of reducing LDL cholesterol are
+exclusively available for the group that received inclisiran [99].
+
+Restricted ethyl-modified antisense oligonucleotides (ASOs) and
+N-acetylgalactosamine are novel inhibitors of PCSK9. Furthermore, American
+researchers have developed an ASO drug (AZD8233) that exhibits potential for oral
+administration as well. Research has demonstrated that PCSK9 levels can be
+substantially decreased through subcutaneous injection and oral administration. In
+contrast to subcutaneous injection, oral drugs offer patients greater convenience,
+circumvent potential risks and discomfort, and enhance patient adherence. However,
+the existing clinical data regarding this medication is inadequate, and further
+clinical studies are required to validate its subsequent efficacy and safety
+[95, 100].
+
+Numerous virus strains, including filoviruses, hepatitis virus,
+coronavirus, pseudorabies virus, HIV, influenza virus, and chikungunya virus, have
+been linked to cholesterol replication [101–107].
+The expression of LDLR was found to be substantially reduced in the context of HBV
+infection, while its upregulation facilitated HBV infection. A correlation was
+observed between LDLR expression levels and HBV cell attachment, indicating that
+LDLR functions as an attachment receptor for HBV cells. A purified LDLR inhibited
+apoE pulldown mediated by heparin, indicating that LDLR likely promotes HBV
+infection via binding to HBV-associated apoE. Further investigation is necessary to
+ascertain whether additional members of the LDLR family are involved in HBV
+infection [108]. The coat protein, a
+glycoprotein of vesicular stomatitis virus (VSV-G), enables the remarkably robust
+and pantropic infectivity of VSV. Recombinant variants of VSV and VSV-G-pseudotyped
+viral vectors are being extensively utilized for gene transduction in vivo and in
+vitro. They are being developed for gene therapy, vaccination, and viral oncolysis
+by leveraging this property. In human and mouse cells, LDLR is the primary entry
+point for VSV and VSV-G-pseudotyped lentiviral vectors; other LDLR family members
+function as alternative receptors. The extensive prevalence of LDLR family members
+explains both the pantropism exhibited by VSV and the wide-ranging utility of
+VSV-G-pseudotyped viral vectors in facilitating gene transduction [109]. The ongoing evolution of viral pathogens,
+leading to the emergence and resurgence of such pathogens, creates substantial risks
+to public health due to the emergence and development of novel phenotypic
+characteristics. These characteristics enable the pathogens to exploit changing
+environmental and host conditions, making their eradication unattainable for the
+foreseeable future. There is currently an absence of efficacious therapeutic
+interventions for individuals afflicted with any of the numerous agents comprising
+this heterogeneous assemblage of re-emerging and emergent viruses. Due to this, the
+development and validation of efficacious antivirals are urgently required. In
+consideration of these factors as mentioned above, in addition to the cost-benefit
+analysis associated with developing individualized medications for each virus and
+the challenge of identifying drug-resistant mutants, contemporary methodologies
+primarily concentrate on the advancement of broad-spectrum chemicals that
+selectively target pathways that facilitate the development of infections that are
+prevalent among different viruses. It has been shown that U18666A, a cationic
+amphiphilic compound, inhibits the cholesterol transporter NPC1, thereby preventing
+cholesterol from escaping lysosomes. U18666A is a pharmaceutical agent that inhibits
+viral infection by influencing the fusion and replication stages of the life cycles
+of diverse viruses. Collectively, the results suggest that U18666A exhibits
+potential as a therapeutic candidate in the realm of viral treatment through its
+ability to impede the progression of viral replication from early and late endosomes
+to lysosomes after endocytosis. While the aforementioned in vitro investigations
+support the notion that lipid rafts and cholesterol play a crucial role in viral
+entrance, conclusive verification in vivo is necessary. Lipid rafts’ apparent
+necessity for facilitating the cellular entry of coronaviruses may inspire the
+development of novel therapeutics for SARS-CoV-2 [31]. Patients who are undergoing cholesterol-lowering treatment
+and have a life-threatening COVID-19 infection should discontinue this treatment, at
+least until they have fully recovered from the infection, because LDL-cholesterol
+can also inactivate the virus [110].
+The administration of statins to treat Ebola and influenza has been repurposed.
+Infection with Ebola may induce the formation of fusion-inefficient Ebola virus
+particles in response to statin use. PCSK9 inhibitors have been employed in treating
+DENV infection due to their ability to augment the secretion of IFN-I. Despite the
+evident dearth of research examining the repurposing of cholesterol-lowering
+medications for the treatment of MPXV, greater emphasis must be placed on
+elucidating the mechanisms by which viral infections influence the reassignment of
+cellular cholesterol [111]. PCSK9
+plays an important role in viruses including influenza, DENV, SARS-CoV-2, HCV, HBV,
+Ebola, and MPXV. In addition, findings also indicate that PCSK9 is a host factor for
+DENV in target cells resident in hypoxic microenvironments and that inhibiting PCSK9
+rather than just HMGCoA reductase could be a useful approach to fill the therapeutic
+void for dengue treatment [54].
+Although several studies have been conducted on the role of PCSK9 in viral
+infections, there is a lack of more specialized studies. Further investigation is
+warranted to ascertain the cellular factors that influence the efficacy of PCSK9
+inhibitors in mitigating viral infection. To advance the development of novel
+therapeutic approaches and enhance our comprehension of the relationship between
+viruses and host cells, it is imperative to obtain a more precise understanding of
+how PCSK9-induced changes in intracellular cholesterol and LDLR impact viral
+infections. Importantly, our study shows that inhibition of PCSK9 activity using
+several novel methods of PCSK9 inhibition, such as mAb or siRNA techniques, could be
+safe therapeutic strategies to treat viral infection in the future.
+
+PCSK9 controls the concentration of the plasma membrane glycoprotein
+LDLR, which is responsible for removing cholesterol-rich LDL particles from the
+plasm. In clinical trials, the PCSK9 inhibitors alirocumab and evolocumab induced
+reductions in LDL-C of up to 70% in statin-treated and statin-naïve
+patients [112]. For patients diagnosed
+with clinical ASCVD, the proprotein convertase subtilisin-kexin type 9 inhibitors
+(PCSK9i) alirocumab and evolocumab were approved by the Federal Drug Administration
+in 2015 [113]. Unlike statins, which
+appear to have modest anti-clotting effects, PCSK9 inhibitors do not exhibit such
+effects. This anticoagulant effect may increase the likelihood of cerebral
+hemorrhaging. It has also been demonstrated that PCSK9 regulates numerous processes,
+including hypercholesterolemia and atherosclerosis, vascular inflammation, viral
+infections, and immune checkpoint regulation in cancer, by targeting other receptors
+for degradation. Cholesterol has been implicated in the propagation of numerous
+viral infections, including chikungunya virus, filoviruses, hepatitis virus,
+coronavirus, and pseudorabies virus, and HIV and influenza virus [31]. Inhibition of PCSK9 has been demonstrated
+to impede the progression of certain viral and pathogenic infections, including
+DENV, SARS-CoV-2, HCV, and HIV, in recent times [111, 114,
+115]. PCSK9 inhibitors, statins,
+and fenofibrate may be administered in conjunction with standard medications
+utilized in treating MPX as adjuvant therapy [62]. Hence, in light of the recently emerged viral outbreak, it
+is imperative not to overlook the potential advantageous implications of repurposing
+cholesterol-lowering medications. Furthermore, the comprehensive mapping and
+analysis of cholesterol’s varied signaling functions and bioactivities are
+essential for advancing therapeutic concepts and our comprehension of viral
+infection mechanisms in the future. Conducting further research on the impact of
+PCSK9 on cholesterol regulation and metabolism across a diverse array of viruses
+could contribute to the mitigation of its drawbacks and the enhancement of its
+efficacy.
+
+Below is the link to the electronic supplementary material.
+
+Supplementary Material 1
+
+Supplementary Material 1

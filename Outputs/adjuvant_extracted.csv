@@ -1,0 +1,562 @@
+PMC ID,adjuvant,immune_response_mechanism
+PMC10048722,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC10048722,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC10048722,Chitosan,"Induces the production of cytokines (e.g., TNF-α, IL-1β, IFN-γ, and IL-10) which become a great indicator in the initiation of humoral immunity"
+PMC10048722,Resiquimod (RC),Triggers toll-like receptor (TLR) 9 (TLR9) signaling and dendritic cells (DCs)
+PMC10048722,Alginate,Preserves antigens in an acidic environment and alters the immunostimulatory characteristics of chitosan and trimethyl chitosan NPs
+PMC10048722,β-glucan,Induces trained immunity through various recognition receptors on immune cells
+PMC10059828,Alum,Induces immune response and stimulates antibody production
+PMC10067403,Al hydroxide,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC10067403,Al hydroxyphosphate sulfate,Engages TLR4 pathway to promote Th1 responses.
+PMC10067403,MPL (3‐O‐desacyl‐4′‐monophosphoryl lipid A),Engages TLR4 pathway to promote Th1 responses.
+PMC10067403,QS‐21,Engages TLR4 pathway to promote Th1 responses.
+PMC10113164,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC10113164,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC10185832,Alum,
+PMC10185832,MPLA,
+PMC10185832,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC10228381,Alum,Not explicitly described in the text
+PMC10228381,AS01E (3-O-desacylcinomonophosphoryl lipid A),Not explicitly described in the text
+PMC10228381,AS03B (oil-in-water),Not explicitly described in the text
+PMC10228381,VAXFECTIN,Not explicitly described in the text
+PMC10228381,ISCOMATRIX,Not explicitly described in the text
+PMC10228381,PEG-lipid,Not explicitly described in the text
+PMC10295010,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC10295010,QS-21,Used as an adjuvant in the AN1792 vaccine to activate the immune system
+PMC10303573,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC10383774,Alum,
+PMC10383774,MPLA,
+PMC10383774,Montanide ISA-51,
+PMC10383774,GM-CSF,Enhances the immune response
+PMC10383774,CpG oligodeoxynucleotides,Enhances cellular immunity
+PMC10383774,mHSP110,Enhances immune response
+PMC10383774,β-defensin,Enhances immune response
+PMC10383774,ATP,Triggers immunological response
+PMC10383774,R-DOTAP,
+PMC10385070,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC10385070,MPL,Engages TLR4 pathway to promote Th1 responses.
+PMC10385070,QS-21,Triggers the inflammasome in model systems of immunogenicity
+PMC10385070,MF59,Mediates a local inflammatory response and increases the trafficking of antigens to draining lymph nodes
+PMC10385070,AS03,Mediates a local inflammatory response and increases the trafficking of antigens to draining lymph nodes
+PMC10385070,CpG 1018,Agonist of Toll-like receptors (TLRs) and helps to shape the immune response towards a Th1-type quality
+PMC10385070,Alhydroxiquim-II,Agonist of TLR7/8 and helps to shape the immune response towards a Th1-type quality
+PMC10385070,Matrix-M,"Pleiotropic modes of action, which tend to augment humoral and cellular immune responses"
+PMC10385070,Squalene,Mediates a local inflammatory response and increases the trafficking of antigens to draining lymph nodes
+PMC10385070,Trehalose dibehenate (TDB),Ligand of the C-type lectin receptor Mincle
+PMC10459455,Chitosan,Enhances antigen uptake and induces macrophages to secrete inflammatory factors regulating Th1/Th2 balance and tailoring a specific immune response
+PMC10504489,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC10745672,Alum,Not explicitly described
+PMC10745672,MPLA,Not explicitly described
+PMC10760363,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC10760363,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC10760363,ODN-IFA,Not specified
+PMC10760363,rGM-CSF,Not specified
+PMC10764465,Alum,
+PMC10764465,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC10764465,"CpG 1,018","Stimulates innate immunity through TLR9, strongly favors development of the Th1 subset of helper T cells."
+PMC10764465,"CpG 10,101",Dose-dependently increase immune marker activation while simultaneously decreasing HCV RNA levels.
+PMC10764465,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC10764465,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC10764465,"CpG 1,018",Induces seroprotective titers in all participants with HIV without prior HBV vaccination.
+PMC10764465,MPLA,Improves seroresponse.
+PMC10769466,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC10769466,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC10776678,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC10790774,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC10790774,MF59,Selectively skew antibody effector function both through selective isotype/subclass selection and altered Fc-glycosylation.
+PMC10818334,Alum,
+PMC10818334,Al(OH)3,
+PMC10818334,MF59,
+PMC10818334,CrPV,
+PMC10818334,AddaVax,
+PMC10819635,AS01E,
+PMC10819635,MF59,
+PMC10819635,Al(OH)3,
+PMC10899802,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC10899802,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC10968813,Naltrexone (NTX),"Negates the effects of exogenous opioids through competitive binding with opioid receptors; exhibits strong affinity for µ-opioid receptors in the central nervous system; high affinity, but also partial agonistic activity towards κ receptors in the brain and spinal cord; minor affinity for δ receptors in the spinal cord and peripheral nervous system."
+PMC10968813,Methylnaltrexone (MNTX),Peripheral antagonist of opioid receptors; transient blockade of opioid receptors; promotes the release of endogenous opioid peptides through compensatory up-regulation of the OGF–OGFr axis; selective inhibition of growth and proliferation of cancer cells.
+PMC10977380,Alum,IMM-AD04 alum reduces rate of cognitive decline
+PMC11125637,HSP90,"Acts as a molecular chaperone, facilitating protein folding, stabilization, and activation of a wide range of client proteins, and modulates cellular functions such as cytokine secretion, cell maturation, and antigen presentation."
+PMC11155708,Alum-CpG,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC11155708,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC11155708,Advax-CpG55.2,Stimulates TLR-9 agonist and stimulates broadly cross-neutralizing antibodies
+PMC11221474,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC11221474,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC11242184,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC11242184,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC11315725,MPL,Engages TLR4 pathway to promote Th1 responses.
+PMC11315725,QS-21,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC11315725,QS-21xyl,
+PMC11315725,QS-21api,
+PMC11315725,MPLA,
+PMC11315725,GPI-0100,
+PMC11315725,VSA-1,"Potentiates antigen-specific IgG, IgG1, and IgG2a antibody responses."
+PMC11315725,VSA-2,"Potentiates antigen-specific IgG, IgG1, and IgG2a antibody responses."
+PMC11315725,Matrix-MTM,
+PMC11315725,Alum,
+PMC11359700,Alum,Creates depots for slow antigen release.
+PMC11359700,MPLA,Activates TLR4 pathway to promote Th1 responses.
+PMC11359700,GM-CSF,"Promotes dendritic cell differentiation and maturation, improving peptide antigen presentation to T cells, and stimulating pro-inflammatory cytokine secretion."
+PMC11359700,CpG ODNs,"Activates dendritic cells and other antigen-presenting cells, leading to the upregulation of costimulatory molecules and pro-inflammatory cytokine secretion."
+PMC11359700,TLR2/6 agonists,"Efficiently taken up by CD1a(+) and CD14(+) dermal DCs, resulting in a higher induction of CD8(+) T-cell responses."
+PMC11392011,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC11430029,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC11430029,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC11437400,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC11437400,QS-21,Not specified
+PMC11437400,3-O-deacylated monophosphoryl lipid A,Not specified
+PMC11437400,Matrix M-2 (MM),Not specified
+PMC11532300,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC11598945,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC11598945,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC11615947,Aluminum hydroxide,None specified
+PMC11680411,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC11680411,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC11792077,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC11792077,Alum,Robust inducers of anti-heroin antibody titers
+PMC11861685,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC11934161,Aluminum hydroxide,Enhances the immune response
+PMC11934161,QS21,Not specified
+PMC12031513,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC12093340,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC12093340,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC12094284,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC12123219,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC12133506,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC12197412,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC12203974,Alum,None mentioned
+PMC4922024,Alum,"Forms antigen depots at the injection site, from where antigen is gradually released to allow prolonged interaction of the antigen with the immune cells and therefore causing the induction of sustained antigen-specific B- and T-cell responses."
+PMC4922024,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC4922024,QS-21,Activates NLRP3 inflammasome to induce IL-1β and IL-18 production.
+PMC4929720,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC4929720,QS21,Engages TLR4 pathway to promote Th1 responses.
+PMC4931635,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC4931635,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC4931635,3-acyl lipid A,None specified
+PMC4931635,α-Al2O3,None specified
+PMC4931635,Monophosphoryl lipid A,None specified
+PMC4931635,DOPE,Enhances efficacy of vaccine delivery by endosomal escape through membrane disruption and fusion processes
+PMC4931635,Rhodamine 123,None specified
+PMC4931635,TPP,Accesses mitochondria through a driving force caused by the Δψm gradient
+PMC5085676,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC5085676,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC5192354,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC5192354,PLGA,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC5215580,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC5215580,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC5340775,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC5340775,MPLA,Not mentioned in the text.
+PMC5340775,QS-21,Not mentioned in the text.
+PMC5340775,CpG/DNA,Not mentioned in the text.
+PMC5340775,Advax™,Not mentioned in the text.
+PMC5340775,LPS (TLR4 agonist),Not mentioned in the text.
+PMC5340775,Iron,Not mentioned in the text.
+PMC5340775,Nickel,Not mentioned in the text.
+PMC5354570,Alum,Not explicitly described
+PMC5354570,MPLA,Not explicitly described
+PMC5408242,Aluminum hydroxide,None described
+PMC5408242,Monophosphoryl lipid A,None described
+PMC5408242,TLR9,None described
+PMC5408242,Antimicrobial peptide,None described
+PMC5408242,Chitosan,"Induces immune activity via NLRP3 inflammasome and promotes IL-1β secretion, and also induces mitochondrial DNA-mediated cGAS-STING pathway activation, resulting in the secretion of IFN type I, which stimulates the maturation of dendritic cells and leads to antigen presentation, followed by a Th1 immune response."
+PMC5467010,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC5467010,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC5467010,CFA,"Not explicitly described, but mentioned as a potential adjuvant for parasite vaccines."
+PMC5467010,α-GalCer,"Stimulates iNKT cells to promote B cell hypermutation, class-switching and immunological memory."
+PMC5467010,ZPSs,"Presented on MHCII complexes, leading to T cell activation and adaptive immune responses."
+PMC5646730,Alum,The text does not explicitly describe how Alum works to stimulate or enhance the immune response.
+PMC5646730,MPLA,The text does not explicitly describe how MPLA works to stimulate or enhance the immune response.
+PMC5711983,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC5795461,Alum,
+PMC5795461,MPLA,
+PMC5806658,Alum,Not explicitly described
+PMC5806658,MPLA,Not explicitly described
+PMC5806658,BCG,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC5806658,poly-ICLC,Not explicitly described
+PMC5806658,GM-CSF,Not explicitly described
+PMC5806658,IL-12,Not explicitly described
+PMC5806658,IL-15,Not explicitly described
+PMC5806658,GM-CSF,Not explicitly described
+PMC5806658,topically-applied imiquimod,Not explicitly described
+PMC5806658,TT,Not explicitly described
+PMC5834428,Alum,None mentioned
+PMC5871672,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC5893894,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC5893894,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC5985299,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC5985299,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC6060342,dmLT,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC6060342,LT(R192G/L211A),Engages TLR4 pathway to promote Th1 responses.
+PMC6105696,Alum,"Induces IL-4-secreting Th2 cells, which can block the differentiation of pathogenic IFNγ-producing Teff."
+PMC6222055,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC6222055,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC6274812,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC6356514,Alum,"Recruits immune cells and increases antigen uptake, although it does not stimulate a CD8+ T cell response."
+PMC6357101,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC6357101,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC6436086,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC6436086,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC6466432,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC6466432,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC6476043,Alum,"Alum alone cannot induce a potent Th1 response unless combined with another adjuvant, such as glucopyranosyl lipid A (a synthetic TLR-4 agonist)."
+PMC6476043,MF59,MF59 can elicit antigen-specific antibodies and cellular-mediated responses.
+PMC6669641,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC6669641,Aluminium phosphate or Aluminium hydroxide,Not explicitly described in the text.
+PMC6678067,Alum,None mentioned
+PMC6678067,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC6678067,QS-21,None mentioned
+PMC6678067,TDB,Activates MINCLE and enhances Th1/Th17 responses.
+PMC6678067,Curdlan,Enhances Th1 responses to vaccines.
+PMC6678067,Advax,"Induces activation of CD4 + T cells and enhances antigen-specific B cell activation, BCR affinity maturation, IgG switching and production of high avidity Ab."
+PMC6685390,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC6724148,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC6724148,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC6724148,QS-21,Proposed to be via rapid interferon (IFN)-γ production by resident natural killer (NK) cells and CD8+ T cells in the draining lymph nodes promoting strong cellular Th1 responses.
+PMC6724148,DDA,"Activates the C-type lectin receptor, Mincle, inducing intracellular signaling via Syk, causing CARD9 dependent NF-κB activation and downstream proinflammatory cytokine production."
+PMC6724148,ODN1a,"Thinks to bind TLR9, thereby activating the MyD88 pathway and IL-12 production by APCs."
+PMC6789792,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC6789792,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC6789792,MF59,"Induces controlled inflammation and recruitment of antigen-presenting cells that stimulate vaccine-specific CD4+T cells, leading to the induction of specific antibodies targeting broader neutralizing epitopes."
+PMC6789792,AS03,Induces stronger transcriptional responses through the NFkB pathway leading to higher expression of immune cell-recruiting chemokines and pro-inflammatory cytokines.
+PMC6789792,AS04,Induces stronger transcriptional responses through the NFkB pathway leading to higher expression of immune cell-recruiting chemokines and pro-inflammatory cytokines.
+PMC6789792,CAF01,
+PMC6789792,IC31,
+PMC6789792,GLA-SE,
+PMC6831456,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC6831456,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC6831456,CpG ODNs,Stimulate TLR9 pathway to induce strong immune response.
+PMC6831456,LPS,Engage TLR4 pathway to stimulate innate immune response.
+PMC6831456,Poly I:C,Activate TLR3 pathway to induce strong immune response.
+PMC6831456,Layered double hydroxide (LDH),Stimulate TLR9 pathway to induce strong immune response.
+PMC6831456,Indoximod (IND),"Inhibit indoleamine 2,3-dioxygenase (IDO) pathway to enhance immune response."
+PMC6923730,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC6923730,CpG oligodeoxynucleotides,
+PMC6923730,Cholera toxin (CT),"Increases the permeability of the mucosal epithelium, enhanced antigen presentation, the consequent promotion of dendritic cell maturation, increased IgA response, and finally, the generation of complex stimulatory and inhibitory effects on T cell proliferation and cytokine production such as IL-4, IL-5, IL-6, and IL-10 that skew the response toward a Th2-type."
+PMC6923730,Heat-labile enterotoxin of E. coli (LT),"Promotes maturation of dendritic cells, antigen-specific IL-17 positive cells, and production of IL-1α, IL-1β, and IL-23 by dendritic cells."
+PMC6923730,Pertussis toxin (PTX),
+PMC6923730,Type 3 secretion system (T3SS) and type 6 secretion system (T6SS),
+PMC6923730,Lipooligosaccharide (LOS),"Induces IL-12 and 1L-1β that promote Th1 and Th17 responses, respectively."
+PMC6923730,Filamentous hemagglutinin (FHA),
+PMC6923730,Pertussis toxin (PTX)-derived oligosaccharide,
+PMC6943637,CpG DNA,Engages TLR9 pathway to promote Th1 responses.
+PMC6963306,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC6963306,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC7058986,Alum,"Induces the production of IL-1, which itself induces trained immunity"
+PMC7058986,MPLA,Not explicitly described in the text
+PMC7058986,QS-21,Not explicitly described in the text
+PMC7150928,MCT,Vaccine formulations containing VLPs increased antibody production against TRAP compared to that produced by the antigen alone.
+PMC7150928,CpG,"Vaccine adjuvanted with MCT effectively retarded the development of the tumor. The effect was comparable when CpG DNA was used as the adjuvant, whereas alum was ineffective in slowing down tumor growth."
+PMC7150928,Alum,"Vaccine adjuvanted with MCT effectively retarded the development of the tumor. The effect was comparable when CpG DNA was used as the adjuvant, whereas alum was ineffective in slowing down tumor growth."
+PMC7157724,Alum,"Activates NLRP3 inflammasomes or induces apoptosis, resulting in the release of dangerous signals, which in turn triggers immune response"
+PMC7157724,MPL,Engages TLR4 pathway to promote Th1 responses
+PMC7157724,QS-21,"QS21 stimulates caspase-1, causing the release of high-mobility group protein B1 (HMGB1), and then activates the TLR4-MyD88 pathway"
+PMC7203076,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7203076,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC7265684,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7265684,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC7349526,Alum,
+PMC7349526,MPLA,
+PMC7349526,QS-21,
+PMC7349526,Curdlan,"binds to dendritic cells through the ligand Dectin-1, leading to a nuclear factor κB-mediated TH17 immune response."
+PMC7349596,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7349596,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC7349596,QS-21,"Part of the AS01 adjuvant system, which is a liposome adjuvant containing MPL and QS-21."
+PMC7349596,MF59,"Creates a transient immune environment at the injection site, then recruits immune cells to induce antigen-specific immune responses."
+PMC7349596,AS01,"Contains 3-O-desacyl-4’-monophosphoryl lipid A (MPL) and saponin QS-21, part of the AS01 adjuvant system."
+PMC7349596,AS02,"Contains MPL and QS-21, part of the AS02 adjuvant system."
+PMC7349596,AS03,"Contains alpha-tocopherol, squalene, and Tween 80, part of the AS03 adjuvant system."
+PMC7349596,AS04,"Contains MPL, part of the AS04 adjuvant system."
+PMC7350342,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7405756,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7405756,MPL,Engages TLR4 pathway to promote Th1 responses.
+PMC7405756,QS-21,
+PMC7405756,AS03,
+PMC7405756,AS01B,
+PMC7405756,AS04,
+PMC7405756,CpG1018,
+PMC7405756,MF59,
+PMC7405756,Al(OH)3,
+PMC7409282,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7409282,Montanide ISA 51,
+PMC7409282,MF59,
+PMC7431966,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7431966,Alum,
+PMC7431966,Alum,
+PMC7466534,Matrix-M,"Potent inducer of leukocyte migration into the draining lymph nodes (LN) resulting in the increase in T-, B-, NK, and dendritic cells in draining LNs."
+PMC7511675,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7511675,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC7563765,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7563765,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC7563944,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7563944,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC7563944,Cholera toxin B,Drives a more restricted Th2 response.
+PMC7564472,QS-21,Not explicitly described in the text
+PMC7564472,MPLA,Not explicitly described in the text
+PMC7589362,Alum,Not explicitly described
+PMC7589362,MPLA,Not explicitly described
+PMC7589362,AS03,Recruits immune cells to the site of vaccination
+PMC7589362,Montanide ISA 51VG,Increases IgG titers 50-fold against the M-001 protein
+PMC7589362,Matrix-M,Not explicitly described
+PMC7589362,VAX125,"Binds and activates cellular host pathways, leading to increased immune activation"
+PMC7589362,Double-stranded RNA (dsRNA),Activates inflammatory pathways
+PMC7688745,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7688745,MPL (Monophosphoryl-lipid A),Engages TLR4 pathway to promote Th1 responses.
+PMC7688745,Microcrystalline Tyrosine (MCT),"Biodegradable, maintains depot formation for sustained immune response."
+PMC7688745,"TLR2/1 agonists (e.g., Pam3Cys, Pam3CSK4)","Downregulates Th2 responses, induces IFN-γ and IL-10 production, promotes Th1 responses."
+PMC7688745,MALP-2 (Macrophage-activating lipopeptide of 2 kDa),"Targets TLR2/6 receptor, downregulates Th2 responses, induces IFN-γ and IL-10 production."
+PMC7688745,Flagellin,"Fusion proteins with allergens can reduce Th2 responses, promote IFN-γ and IL-10 production, and induce tolerance."
+PMC7688745,CpG-ODN (Cytosine-phosphate-guanine oligodeoxynucleotides),"Induces Th1 responses, downregulates Th2 responses, promotes IFN-γ and IL-10 production, and induces tolerance."
+PMC7688745,"TLR9 agonists (e.g., CpG-ODN1826)","Induces Th1 responses, downregulates Th2 responses, promotes IFN-γ and IL-10 production, and induces tolerance."
+PMC7712070,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7712070,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC7712070,Monophosphoryl lipid A (ASO4),Not explicitly described
+PMC7712070,AS04,Not explicitly described
+PMC7712070,Dipalmitoyl-S glycerin cysteine (P2C),Not explicitly described
+PMC7712070,Toll-like receptor 2 (TLR2) ligand,Not explicitly described
+PMC7712070,Lactobacillus casei,Not explicitly described
+PMC7793902,Alum,Not explicitly described in the text.
+PMC7793902,MPLA,Not explicitly described in the text.
+PMC7793902,Aluminum hydroxide (alum),"Not explicitly described in the text, but mentioned in the context of ovalbumin model"
+PMC7831080,Alum,Primarily generates a Th2 response.
+PMC7831080,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC7837099,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7837099,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC7858666,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7858666,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC7858666,QS-21,Enhances polyfunctional T cell responses.
+PMC7858666,MPL,Enhances polyfunctional T cell responses.
+PMC7858666,3M-052/SE,Overcomes hyporesponsiveness to the pneumococcal conjugate vaccine at birth.
+PMC7858666,AS01,Enhances polyfunctional T cell responses.
+PMC7858666,CAF01,Enhances germinal center responses.
+PMC7858666,CpG-1826 and IC31,Induces TFH responses in neonatal mice.
+PMC7858666,GLA-squalene emulsion (SE),Induces TFH responses in neonatal mice.
+PMC7879001,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7879001,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC7883962,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7883962,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC7911620,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC7911620,CpG 1018,"Recruits MyD88, IL-1R associated kinase (IRAK) and TNF receptor-associated factor 6 (TRAF6) to activate several mitogen-activated kinases and transcription factors, resulting in transcription and secretion of proinflammatory chemokines and cytokines."
+PMC7911620,Poly-ICLC,"Induces TLR3 activation, leading to the induction of cytokines such as IFN-α, TNF-α and IL-12."
+PMC7911620,MGN1703,"Activates the TLR9 signalling pathway, leading to the induction of cytokines such as IFN-α, IFN-γ, TNF-α and IL-6."
+PMC7918810,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC7918810,AddaVax,MF59-like adjuvant
+PMC7930017,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7930017,Aluminum hydroxide,Elicits strong Th1 or Th17 cell-mediated responses
+PMC7930017,CpG oligodeoxynucleotides,Elicits strong immune responses
+PMC7959455,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC7959455,AlhydrogelTM,Not specified
+PMC7959455,AlhydrogelTM,Reduces antigen dose by 75% while retaining equivalent magnitudes of responses
+PMC7959455,BECC/Alhydrogel,Reduces antigen dose by 75% while retaining equivalent magnitudes of responses
+PMC7959455,Flagellin,Not specified
+PMC8001307,Alum,Primarily enhances Th2 humoral responses
+PMC8001307,AS04,Combination of alum and monophosphoryl lipid A (MPLA)
+PMC8001307,MPLA,Engages TLR4 pathway to promote Th1 responses
+PMC8001307,QS-21,"Interacts with specific molecular targets, including dendritic cells and T cells"
+PMC8001307,QS-7,Potentiates a balanced Th1/Th2 response with antigen-specific cytotoxic T lymphocyte (CTL) production
+PMC8001307,QS-17,Has adjuvant activity similar to QS-21 but lower toxicity
+PMC8001307,QS-18,More toxic than QS-21 due to extra β-d-glucopyranosyl (glc) unit connected to the α-L-rhamnopyranosyl (rha) unit at its 3-O position
+PMC8001307,QS-7/18,Have similar adjuvant activity profile but QS-17 and QS-18 are more toxic than QS-21
+PMC8001307,GPI-0100,Retains the capacity of stimulating humoral and cellular immunity
+PMC8001307,VSA-1,Similar to QS-21 in potentiating a mixed Th1/Th2 immunity and CTL production
+PMC8001307,VSA-2,Shows a consistently higher IgG2a/IgG1 ratio than QS-21 and GPI-0100
+PMC8002393,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8002393,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8007559,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8007559,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8033039,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8033039,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8033039,MPL,Engages TLR4 pathway to promote Th1 responses.
+PMC8033039,MF59,Mechanism not explicitly described.
+PMC8033039,"1,25-dihydroxyvitamin D3 (VD3)",Suppresses immune responses and promotes tolerogenic effects.
+PMC8033039,CpG,Stimulates TLR9 pathway to promote Th1 responses.
+PMC8064354,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8064354,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8127526,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8127526,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8145166,Alum,Not mentioned
+PMC8145166,MPLA,Not mentioned
+PMC8148096,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8148096,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8185206,Alum,"Contributes to an immune danger signal via the induction of phagocytic cell death, enhancing antigen uptake and presentation by professional APCs, and upregulating costimulatory surface molecules expression."
+PMC8210608,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8210608,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8210608,R848,"Agonist of TLR7/8, transforms MDSCs into APCs and polarizes TAMs from M2 to M1."
+PMC8210608,CpG,"Agonist of TLR9, induces antitumor immune responses."
+PMC8225176,Alum,"Stimulates Th2-biased responses through mechanisms including the depot effect, NLRF3 inflammation activation, stimulation and differentiation of CD4+ T cells, perturbation of dendritic cell membrane, and complement activation."
+PMC8225176,MF59,Significantly enhances antigen-specific antibody production and boosts both Th1 and Th2-biased responses.
+PMC8225176,AS03,"Induces the production of inflammatory cytokines and chemokines in injected muscles and draining lymph nodes, enhances migration of monocytes and dendritic cells into draining lymph nodes, and persists production of neutralizing antibodies and a high frequency of memory B cells."
+PMC8225681,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8225681,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8227888,Alhydrogel,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8227888,MPL,Engages TLR4 pathway to promote Th1 responses.
+PMC8228432,AS01,Activates TLR4 pathway to promote Th1 responses.
+PMC8228432,AS03,Activates TLR4 pathway to promote Th1 responses.
+PMC8228432,Alum,Forms a depot for slow antigen release and activates NLRP3 inflammasome.
+PMC8228432,GLA,Enhances granzyme B and IL-6 production in PBMCs from adults >60 years old in response to influenza antigen.
+PMC8228432,QS-21,Activates TLR4 pathway to promote Th1 responses.
+PMC8230341,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8293096,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8293096,TLR9,Acts on dendritic cells and B cells to enhance GC response
+PMC8293096,PorB,Enhances antigen deposition on FDCs
+PMC8310046,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8310046,MF59,Increases recruitment and maturation of DCs
+PMC8310376,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8310376,Aluminum hydroxide,No immune response mechanism described
+PMC8310376,MPLA,No immune response mechanism described
+PMC8364403,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8364403,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8400983,Alum,Stimulate the immune response by activating NLRP3 inflammasome and forming a depot for slow antigen release.
+PMC8400983,CAP,Stimulate the immune response by inducing effective mucosal immunity.
+PMC8400983,TiO2,Inhibit virus adsorption and entry by binding to the surface of the virus and occupying the binding site of the virus and the cell.
+PMC8402453,Alum,
+PMC8402453,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8402453,c-di-GMP,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8402453,c-di-AMP,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8402453,cGAMP,Directly binds to STING to induce the production of type I IFN and inflammatory cytokines.
+PMC8427162,AlOH,Not specified
+PMC8427162,GSK proprietary Adjuvant System,Not specified
+PMC8427162,LPS-Rhodobacter sphaeroides,Inhibits NS1-mediated cytokine release
+PMC8427162,Lipopolysaccharide (LPS),Activates TLR4 pathway to promote Th1 responses
+PMC8427162,Poly (I:C) + poly U,Activates TLR3 and TLR7 pathways
+PMC8553742,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8553742,Alum,Forms a depot for slow antigen release.
+PMC8553742,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8553742,CpG,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8553742,CpG,Forms a depot for slow antigen release.
+PMC8553742,CpG,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8553742,AS03,Promotes Th1 responses.
+PMC8553742,AS03,Engages TLR4 pathway to promote Th1 responses.
+PMC8553742,AS0378,Enhances humoral and cellular immune responses.
+PMC8553742,HBV nucleocapsid,No mechanism described.
+PMC8553742,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8589429,aluminium phosphate,None mentioned
+PMC8589429,aluminium salts (various),None mentioned
+PMC8589429,amorphous aluminium hydroxyphosphate sulfate,None mentioned
+PMC8589429,aluminium salts,None mentioned
+PMC8589429,liposome emulsions,None mentioned
+PMC8589429,inactivated bacteria,None mentioned
+PMC8589429,protein toxins,None mentioned
+PMC8589429,immune cell receptors activating ligands,None mentioned
+PMC8589429,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8664555,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8664555,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8678218,Alum,Not explicitly described
+PMC8678218,MPLA,Not explicitly described
+PMC8691362,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8691362,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8691362,AS04 (dMPL),Not mentioned in the text
+PMC8691362,Matrix M2,Not mentioned in the text
+PMC8691362,GLA (glucopyranosyl lipid A),Not mentioned in the text
+PMC8691362,QS21 (saponin),Not mentioned in the text
+PMC8695322,MF59,Used as adjuvant with HSV-2 glycoproteins B and D (gB2/gD2)
+PMC8695322,MPL,Engages TLR4 pathway to promote Th1 responses
+PMC8695322,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8712944,Alum,None mentioned
+PMC8778544,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8853290,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8974753,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC8974753,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC8974753,Cholera toxin (CT),Co-administered with food proteins through the GI tract to induce sensitization.
+PMC8974753,Staphylococcal enterotoxin B (SEB),Co-administered with food proteins through the GI tract to induce sensitization.
+PMC8974753,CpG,Induces IFN-γ responses from peanut-specific T cells and increases peanut-specific IgG2a.
+PMC8974753,LPS,Co-administered with peanut to induce allergy and is dependent on MyD88.
+PMC8974753,Flagellin,Co-administered with peanut to induce allergy.
+PMC8974753,PAM,Co-administered with peanut to induce allergy.
+PMC9017465,Matrix M,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9017465,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9017465,AS03,Engages TLR4 pathway to promote Th1 responses.
+PMC9017465,CpG 1018,Engages TLR4 pathway to promote Th1 responses.
+PMC9017465,CpG 1018,Engages TLR4 pathway to promote Th1 responses.
+PMC9017465,QS-21 (ALFQ),None specified
+PMC9124800,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9228553,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9228553,CpG,Engages TLR4 pathway to promote Th1 responses.
+PMC9271922,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC9271922,Alum,
+PMC9271922,CpG ODN,Augments CD8+ T-cell responses and induces both cellular and humoral immune responses.
+PMC9271922,Resiquimod (R848),Elicits prominent IFN-α/β and IL-6 responses and robust cytotoxic T-cell and B-cell proliferation.
+PMC9321285,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9321285,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC9325128,Alum,Not mentioned
+PMC9325128,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC9325128,Poly ICLC,"Stabilized with carboxymethylcellulose and poly-L-lysine, widely utilized as an adjuvant in therapeutic vaccines against different cancers in more than 50 clinical trials."
+PMC9325128,CpG ODN,"Recognized by TLR9, promoting antigen-specific adaptive immune responses against infectious diseases and cancer."
+PMC9325128,Riboxxim (RGIC®),"Activated murine and human DC and induces TLR3/RIG-I mediated antitumor immunity, demonstrated great potential in cancer immunotherapy."
+PMC9325128,Imidazoquinolines,"Induces the production of cytokines including interferon-α, tumor necrosis factor-α, and interleukin-1 via TLR7-MyD88-dependent pathway."
+PMC9325128,5′pppdsRNA,"Co-encapsulated with antigen peptides in lipid calcium phosphate nanoparticles, used as a nanovaccine against colorectal cancer and liver metastasis."
+PMC9325128,Dimethyloxoxanthenyl acetic acid (DMXAA),"Induces the activation of NK cells and tumor-associated macrophages, leading to necrosis in tumors."
+PMC9325128,Di-ABZI,"Elicits comparable binding affinity with human STING but higher potency in STING activation relative to cGAMP, significant and durable tumor regression in CT-26 tumor-bearing mice."
+PMC9405528,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9405528,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC9405528,R848,"TLR7/8 agonist, stimulates innate immune responses and promotes Th1 responses."
+PMC9405528,CpG,"TLR9 agonist, stimulates innate immune responses and promotes Th1 responses."
+PMC9405528,Dexmedetomidine,not mentioned in the text
+PMC9405528,STING agonist,"Activates STING signaling pathway, induces type I interferons and proinflammatory cytokines, and promotes innate immune responses."
+PMC9405528,CpG oligodeoxynucleotides,"TLR9 agonist, stimulates innate immune responses and promotes Th1 responses."
+PMC9405528,R837,not mentioned in the text
+PMC9493399,Azoximer bromide,"Activates melanoma differentiation-associated protein 5 (MDA5) gene expression via effects on toll-like receptor 4 (TLR 4) gene, and direct binding to cellular components of the blood."
+PMC9506058,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9506058,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC9506058,QS-21,
+PMC9530253,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9687436,Alum,Not explicitly mentioned
+PMC9714609,Montanide,None specified
+PMC9737588,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9737588,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC9737588,Oil in water emulsion (MF59 and AS03),"Elicit a more balanced immune response, possibly by improving antigen uptake, attracting immune cells, and promoting antigen-presenting cell migration."
+PMC9737588,Toll-like receptors (TLR4 and TLR7),"Induce the production of Interleukin-1, which can activate alveolar macrophages."
+PMC9737588,Aluminum salt,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9737588,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC9737588,Oil in water emulsion (MF59 and AS03),"Elicit a more balanced immune response, possibly by improving antigen uptake, attracting immune cells, and promoting antigen-presenting cell migration."
+PMC9737588,Toll-like receptors (TLR4 and TLR7),"Induce the production of Interleukin-1, which can activate alveolar macrophages."
+PMC9788085,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9788085,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC9788085,R848,Activates dendritic cells and promotes Th1 and Th2 responses.
+PMC9788085,"STING agonist 2, 3-cyclic-GMP-AMP (cGAMP)",Activates STING and promotes Th1 and Th2 responses.
+PMC9788085,CpG oligonucleotides,Activates Toll-like receptor 9 (TLR9) and promotes Th1 responses.
+PMC9810991,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC9857197,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9857197,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC9857197,IC31,"Works as a carrier to translocate ODN1a into the cell without cell membrane permeabilisation, and ODN1a acts as an agonist on the TLR9 receptor, that is normally activated by bacterial DNA."
+PMC9857197,CpG ODN,"Toll-like receptor agonist, specifically recognized by Toll-like receptors 9"
+PMC9857197,Starch,"Recognised by C-type lectin DC specific ICAM-3-grabbing nonintegrin, specific for α-glucan and can elicit specific immune response"
+PMC9863224,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9927404,Alum,"Induces endogenous DAMPs, including DNA-based TNAs, that activate nucleic acid sensing pathways."
+PMC9927404,MPLA,Not mentioned in the text.
+PMC9927404,MPLA,Not mentioned in the text.
+PMC9927404,AS15,"Induces both humoral and cellular immune responses, and agonist of TLR3 and MDA5."
+PMC9927404,K3 CpG + cGAMP,"Induces both humoral and cellular immune responses, and agonist of TLR3 and MDA5."
+PMC9927404,Poly-IC,"Activates TLR3 and MDA5, and stimulates immune response."
+PMC9927404,Poly-ICLC (Hiltonol),"Activates TLR3 and MDA5, and stimulates immune response."
+PMC9927404,Poly-IC12U (Ampligen),"Activates TLR3 and MDA5, and stimulates immune response."
+PMC9927404,3M-052,"Formulated in a lipid-based nanoparticle (3M-052-AF), is being evaluated as an adjuvant for a preventive HIV vaccine."
+PMC9935699,Alum,"Promotes Th2-type immunity and B cell differentiation, leading to tremendous antibody production"
+PMC9935699,MPLA,Engages TLR4 pathway to promote Th1 responses
+PMC9935699,QS-21,Facilitates cytosolic or vacuole pathways of cross-presentation
+PMC9935699,MF59,Facilitates cytosolic or vacuole pathways of cross-presentation
+PMC9935699,AS04,Upregulates potent humoral (Th2) and cellular (Th1) immune responses
+PMC9935699,CBP-12,Elicits both strong cytotoxic CD8+ T cell and antibody responses
+PMC9962240,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9962240,Aluminum hydroxide,
+PMC9962240,Glucopyranosyl lipid A,
+PMC9962240,TLR-4 agonist,
+PMC9964829,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9964829,MPLA,Engages TLR4 pathway to promote Th1 responses.
+PMC9964829,α-GalCer,Strongly enhances antigen-specific antibody responses following oral coadministration with Dukoral® in a mice model.
+PMC9979891,Alum,Toll-like receptor agonist complexed with aluminum
+PMC9979891,AS03,"α-tocopherol, squalene and polysorbate 80 in an oil-in-water emulsion"
+PMC9979891,CpG,Toll-like receptor agonist complexed with aluminum
+PMC9998285,AS03,Not explicitly described
+PMC9998285,CpG 1018,Engages TLR4 pathway to promote Th1 responses
+PMC9998285,MPLA,Not explicitly described
+PMC9998285,Aluminum phosphate,Not explicitly described
+PMC9998285,Alum,Activates NLRP3 inflammasome and forms a depot for slow antigen release.
+PMC9998285,MF59,Not explicitly described
+PMC9998285,Alhydrogel,Not explicitly described
+PMC9998285,Adju-Phos,Not explicitly described
+PMC9998285,SAS,Not explicitly described
+PMC9998285,"Poly-IC, squalene emulsion",Not explicitly described
+PMC9998285,Aluminum hydroxide,Not explicitly described
+PMC9998285,CpG-1826,Not explicitly described
+PMC9998285,Sigma Adjuvant System,Not explicitly described
