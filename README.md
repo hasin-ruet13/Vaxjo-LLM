@@ -1,4 +1,4 @@
-### *Automated Extraction and Classification of Vaccine Adjuvant Immune Mechanisms Using Large Language Models*
+# *Automated Extraction and Classification of Vaccine Adjuvant Immune Mechanisms Using Large Language Models*
 
 ---
 
