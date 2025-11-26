@@ -135,16 +135,6 @@ jupyter notebook
 
 ---
 
-## Key Findings
-
-* **TLR signaling** is the most frequent molecular pathway (~14%).
-* **Dendritic cell** and **T-cell activation** represent ~⅓ of mechanisms.
-* Several adjuvants (e.g., Alum, dmLT, Advax-CpG55.2) show **multi-pathway activity**.
-* Mechanisms like **STING**, **TRIF**, and **MyD88** appear in specific subsets.
-* The pipeline **expands the known adjuvant landscape** through automated discovery.
-
----
-
 ## Contact
 
 **Hasin Rehana**
