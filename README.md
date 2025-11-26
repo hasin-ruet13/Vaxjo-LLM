@@ -125,13 +125,13 @@ jupyter notebook
 
 ### **3. Run the notebooks in sequence:**
 
-`1. Extract PMID and download papers.ipynb`
-`2. Llama Inferencing_Vaxjo.ipynb`
-`3. Output Conversion.ipynb`
-`4. Mechanism summary and subtype.ipynb`
-`5. Regroup and plot.ipynb`
-`6. Regroup Surface and plot.ipynb`
-`7. Final Adjuvant list and novel.ipynb`
+1. Extract PMID and download papers.ipynb
+2. Llama Inferencing_Vaxjo.ipynb
+3. Output Conversion.ipynb
+4. Mechanism summary and subtype.ipynb
+5. Regroup and plot.ipynb
+6. Regroup Surface and plot.ipynb
+7. Final Adjuvant list and novel.ipynb
 
 ---
 
