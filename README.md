@@ -1,4 +1,4 @@
-The `Vaxjo-LLM-2stage-Pipeline.ipynb` notebook implements a two-stage LLM workflow:
+The `Vaxjo-LLM-2stage-End2EndPipeline.ipynb` notebook implements a two-stage LLM workflow:
 
 1. **Phase I – Adjuvant & mechanism extraction from PubMed abstracts**
    - Reads a JSON file of PubMed articles (`{PMID: {title, abstract}}`).
@@ -16,3 +16,9 @@ The `Vaxjo-LLM-2stage-Pipeline.ipynb` notebook implements a two-stage LLM workfl
      - generate a multi-sentence **mechanistic summary**.
      - extract structured **mechanism subtypes** with supporting PMIDs.
    - Writes outputs to both human-readable `.txt` and machine-friendly `.jsonl` files in `Outputs/`.
+4. **Postprocessing & analysis**
+   - Normalizes mechanism subtypes and assigns them to **standardized mechanism families**.
+   - Builds an **adjuvant × mechanism-family matrix** for downstream analysis.
+   - Computes mechanism-family frequencies and (optionally) generates visualizations such as:
+     - mechanism family **pie chart**
+     - top-20 adjuvant **mechanism heatmap**
