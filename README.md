@@ -1,4 +1,4 @@
-The `Vaxjo-LLM-2stage-End2EndPipeline.ipynb` notebook implements a two-stage LLM workflow:
+The `Vaxjo-LLM-2Phase-End2EndPipeline.ipynb` notebook implements a two-stage LLM workflow:
 
 1. **Phase I – Adjuvant & mechanism extraction from PubMed abstracts**
    - Reads a JSON file of PubMed articles (`{PMID: {title, abstract}}`).
